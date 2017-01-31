@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 1,kunukku[seal]N Seʾ-zabadi[1]PN
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 2,bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 3,Abi-haʾli[1]PN amtu[maid]N
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 4,ša[of]DET Seʾ-zabadi[1]PN
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 5,epēšu[do]V
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 6,ištu[from]PRP pānu[front]N Seʾ-zabadi[1]PN
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 7,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 8,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 9,sinništu[woman]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 10,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 11,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV u[and]CNJ matīma[ever]AV
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 12,zaqāpu[fix-upright]V
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),o 13,parāku[lie-across]V
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 1,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 2,ina[in]PRP burku[knee]N Nikkal[1]DN šakānu[put]V
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 3,sisû[horse]N peṣû[white]AJ ina[in]PRP šaplu[underside]N
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 4,Sin[1]DN āšibu[sitting]AJ Harranu[Harran]GN rakāsu[bind]V
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 5,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 6,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 7,šību[witness]N Handi[1]PN našû[bearing]N
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 8,šību[witness]N Nuranu[1]PN nāgiru[herald]N
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 9,šību[witness]N Hasusi[1]PN māru[son]N Zabdi[1]PN
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 10,šību[witness]N nāgiru[herald]N
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 11,šību[witness]N Gir-Ṣapunu[1]PN
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 12,Šabaṭu[Shebat]MN ūmu[day]N
+saao/saa06/P335162,SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),SAA 06 098. A Woman Purchases a Maid (682-XI-7) (ADD 0215),r 13,līmu[eponym-(of-year)]N Nabu-šarru-uṣur[1]PN

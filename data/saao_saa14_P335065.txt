@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),o 2,imēru[unit]N kurummatu[ration]N ina[in]PRP sūtu[unit]N
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),o 3,ša[of]DET qû[unit]N erû[copper]N
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),o 4,ša[of]DET Bel-iqiša[1]PN
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),o 5,ina[in]PRP pānu[front]N Iddin-ahhe[1]PN
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),o 6,ana[to]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),r 1',arhu[month]N ūmu[day]N
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),r 2',līmu[eponym-(of-year)]N Ṣalam-šarri-iqbi[1]PN
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),r 3',šību[witness]N Marduk-naʾdi[1]PN
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),r 4',šību[witness]N
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),r 5',šību[witness]N Issar-duri[1]PN
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),r 6',šību[witness]N
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),r.e. 7,šību[witness]N Ahu-eriba[1]PN šību[witness]N
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),r.e. 8,šību[witness]N Šarru-emuranni[1]PN
+saao/saa14/P335065,SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),SAA 14 124. Bel-iqiša Lends Silver and Barley (*630) (ADD 0114),e. 1,šību[witness]N Nabu-šadduni[1]PN

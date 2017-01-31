@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),o 2',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),o 3',mannu[who?]QP ša[that]REL urkiš[later]AV ana[to]PRP matīma[ever]AV
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),o 4',zaqāpu[fix-upright]V dīnu[legal-decision]N
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),o 5',dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),o 6',lū[may]MOD Iddati-Bel-allak[1]PN
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),o 7',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),o 8',lū[may]MOD ahu[brother]N lū[may]MOD māru[son]N ahu[brother]N
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),o 9',ša[that]REL išti[with]PRP Remanni-Adad[1]PN
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),o 10',māru[son]N māru[son]N māru[son]N dīnu[legal-decision]N
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),o 11',dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),b.e. 12',manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),b.e. 13',hurāṣu[gold]N sakru[refined]AJ ina[in]PRP burku[knee]N
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),r 1,Inurta[1]DN āšibu[sitting]AJ Kalhu[1]GN
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),r 2,šakānu[put]V kaspu[silver]N ina[in]PRP ešriātu[tenfold]AV
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),r 3,ina[in]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),r 4,ana[to]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),r 5,lā[not]MOD leqû[take]V šarru[king]N bēlu[lord]N dīnu[legal-decision]N
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),r 6,šību[witness]N Kiṣir-Aššur[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),r 7,šību[witness]N Šamaš-šarru-uṣur[1]PN mukillu[holder]N appatu[bridle]N māru[son]N šarru[king]N
+saao/saa06/P335441,SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),SAA 06 298. Partial Duplicate of the Previous Text (671) (ADD 0503),r 8,šību[witness]N Nabu-zeru-iddina[1]PN mukillu[holder]N appatu[bridle]N māru[son]N šarru[king]N

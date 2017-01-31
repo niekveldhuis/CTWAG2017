@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335081,SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),o 1,imēru[unit]N ina[in]PRP pānu[front]N Ya-isu[1]PN
+saao/saa14/P335081,SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),o 2,imēru[unit]N ina[in]PRP pānu[front]N Gabbu-ilani[1]PN
+saao/saa14/P335081,SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),o 3,gimru[totality]N imēru[unit]N kurummatu[ration]N
+saao/saa14/P335081,SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),o 4,ša[of]DET māru[son]N šarru[king]N ša[of]DET qātu[hand]N
+saao/saa14/P335081,SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),o 5,Taquni[1]PN šanû[second]NU
+saao/saa14/P335081,SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),o 6,ina[in]PRP pānu[front]N Ya-isu[1]PN
+saao/saa14/P335081,SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),o 7,ina[in]PRP pānu[front]N Gabbu-ilani[1]PN
+saao/saa14/P335081,SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),o 8,Handuataya[from-Handuate]EN
+saao/saa14/P335081,SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),o 9,kurummatu[ration]N ana[to]PRP imēru[unit]N rabû[to-be-big]V
+saao/saa14/P335081,SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),SAA 14 099. Taqunu Lends Barley Belonging to the Crown Prince (ADD 0130),o 10,ēṣidu[reaper]N

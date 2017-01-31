@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),o 2,ṣupru[nail]N Ipparšidu[1]PN
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),o 3,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),o 4,bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP mazrūtu[(area-or-state-of)-cultivation]N
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),o 5,bītu[house]N adru[threshing-floor]N mišlu[half]NU kirû[garden]N
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),o 6,ina[in]PRP Kapar-Laqepu[1]GN
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),o 7,ṭāhu[adjacent-to]PRP hūlu[way]N ša[of]DET Kapar-Rabi[1]GN
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),o 8,ṭāhu[adjacent-to]PRP hūlu[way]N ša[of]DET
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r 2',šību[witness]N Nergal-šarru-uṣur[1]PN ša-rēši[eunuch]N ša[of]DET
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r 3',šību[witness]N Haldi-naṣir[1]PN šību[witness]N Haldi-ibni[1]PN
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r 4',šību[witness]N Ke-Aya[1]PN šību[witness]N Remut-ili[1]PN
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r 5',šību[witness]N Yadaʾ-il[1]PN Ituʾaya[Ituʾean]EN
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r 6',gimru[totality]N šību[witness]N ša[of]DET Kapar-Laqepu[1]GN
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r 7',šību[witness]N Itti-Adad-ahhutu[1]PN ardu[slave]N ša[of]DET šukkallu[(a-court-official)]N
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r 8',šību[witness]N Ululayu[1]PN ardu[slave]N ša[of]DET rabû[big-one]N šāqû[butler]N
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r 9',gimru[totality]N šību[witness]N ša[of]DET Kapar-Dannaya[1]GN
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r 10',šību[witness]N Girsa[1]PN šību[witness]N Bel-taklak[1]PN
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r 11',šību[witness]N Šep-Adad[1]PN gimru[totality]N Nihut[1]GN
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r.e. 12,šību[witness]N Nabu-ahhe-šallim[1]PN ṣābitu[recipient]N ṭuppu[tablet]N
+saao/saa06/P335359,SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),SAA 06 030. Paršidu Sells an Estate (710-XII-15) (ADD 0416),r.e. 13,Addaru[Adar]MN ūmu[day]N

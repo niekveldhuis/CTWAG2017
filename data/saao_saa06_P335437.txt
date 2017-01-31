@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),o 1,kunukku[seal]N
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),o 2,bēlu[lord]N ālu[city]N Šadikanni[1]GN bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),o 3,Rama-Ya[1]PN amtu[maid]N
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),o 4,ša[of]DET
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),o 5,epēšu[do]V Adda-kabar[1]PN
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),o 6,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),o 7,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),o 8,amtu[maid]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 1',šību[witness]N Libušu[1]PN
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 2',šību[witness]N
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 3',šību[witness]N
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 4',šību[witness]N
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 5',šību[witness]N
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 6',šību[witness]N Nabu-lešir[1]PN
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 7',šību[witness]N Gimillu[1]PN
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 8',šību[witness]N Urdu-Nabu[1]PN
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 9',šību[witness]N Hanana[1]PN
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 10',šību[witness]N Nabu-šumu-iddina[1]PN māru[son]N
+saao/saa06/P335437,SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),SAA 06 286. Adad-Kapara purchases a Maid (670-I) (ADD 0499+),r 11',Nisannu[Nisan]MN līmu[eponym-(of-year)]N ša[of]DET arki[after]PRP Kanunayu[1]PN

@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335971,SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),o 1',ana[to]PRP šalāšiu[third]NU rabû[to-be-big]V
+saao/saa06/P335971,SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),o 2',Ayaru[Iyyar]MN ūmu[day]N
+saao/saa06/P335971,SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),o 3,līmu[eponym-(of-year)]N Aššur-daʾʾinanni[1]PN
+saao/saa06/P335971,SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),r 1',šību[witness]N Abu-ul-idi[1]PN
+saao/saa06/P335971,SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),r 2',šību[witness]N Dadi-bunu[1]PN
+saao/saa06/P335971,SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),r 3',šību[witness]N Sina[1]PN
+saao/saa06/P335971,SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),SAA 06 171. Envelope of the Preceding Text (685-II-16) (ADD 1191),r 4',šību[witness]N Tabalayu[1]PN

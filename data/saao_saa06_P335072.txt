@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),o 1,meʾatu[(one)-hundred]NU yābilu[ram]N
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),o 2,alpu[ox]N imēru[donkey]N
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),o 3,ša[of]DET Remanni-Adad[1]PN
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),o 4,ina[in]PRP pānu[front]N Arbailayu[1]PN šanû[second]NU
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),o 5,ina[in]PRP pānu[front]N Ubru-Nabu[1]PN
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),o 6,ina[in]PRP pānu[front]N Adad-ilaʾi[1]PN
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),b.e. 7,ina[in]PRP Nisannu[Nisan]MN tadānu[give]V
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),b.e. 8,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),r 1,yābilu[ram]N alpu[ox]N imēru[donkey]N
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),r 2,ana[to]PRP mithāru[corresponding-(to-one-another)]AJ rabû[to-be-big]V
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),r 3,Nisannu[Nisan]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),r 4,Kanunayu[1]PN sartennu[chief-judge]N
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),r 5,šību[witness]N Sasi[1]PN
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),r 6,šību[witness]N Isanayu[1]PN
+saao/saa06/P335072,SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),SAA 06 296. Note of Rams Oxen etc. owed to Remanni-Adad (671-I-1) (ADD 0121),r.e. 7,šību[witness]N Balasi[1]PN

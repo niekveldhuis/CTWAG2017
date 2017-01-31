@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),o 2,ṣupru[nail]N Ṣalam-ahhe[1]PN bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),o 3,bītu[house]N imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP saklu[simple]AJ
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),o 4,ṭāhu[adjacent-to]PRP bītu[house]N ziblu[waste-matter]N ṭāhu[adjacent-to]PRP Marduk-ereš[1]PN
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),o 5,Dadi[1]PN
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),o 6,eqlu[field]N ina[in]PRP Kuluna[1]GN
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),o 7,Kalhu[1]GN
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),r 2',šību[witness]N ša-qurbūti[close-follower]N
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),r 3',šību[witness]N ahu[brother]N
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),r 4',šību[witness]N Nabuʾa[1]PN ardu[slave]N ša[of]DET rabû[big-one]N šāqû[butler]N
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),r 5',šību[witness]N Ahu-la-amašši[1]PN ikkaru[farmer]N ēkallu[palace]N šību[witness]N Nabu-naṣir[1]PN
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),r 6',ikkaru[farmer]N ēkallu[palace]N šību[witness]N Ahu-la-amašši[1]PN
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),r 7',ikkaru[farmer]N ēkallu[palace]N ša[of]DET Mera[1]GN
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),r 8',Nisannu[Nisan]MN ūmu[day]N līmu[eponym-(of-year)]N Šamaš-belu-uṣur[1]PN
+saao/saa06/P335946,SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),SAA 06 028. Purchase of Land (710-I-28) (ADD 1164),r 9',šaknu[appointee]N mātu[land]N Arzuhina[1]GN

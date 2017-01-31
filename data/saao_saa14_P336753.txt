@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336753,SAA 14 409. (no title) (K 17799),SAA 14 409. (no title) (K 17799),o 2',šību[witness]N
+saao/saa14/P336753,SAA 14 409. (no title) (K 17799),SAA 14 409. (no title) (K 17799),o 4',māru[son]N
+saao/saa14/P336753,SAA 14 409. (no title) (K 17799),SAA 14 409. (no title) (K 17799),o 5',māru[son]N māru[son]N
+saao/saa14/P336753,SAA 14 409. (no title) (K 17799),SAA 14 409. (no title) (K 17799),r 2,ina[in]PRP pānu[front]N
+saao/saa14/P336753,SAA 14 409. (no title) (K 17799),SAA 14 409. (no title) (K 17799),r 3,ina[in]PRP pānu[front]N

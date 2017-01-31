@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P336198,SAA 06 114. Fragment of a Sales Document (702) (Iraq 32 12),SAA 06 114. Fragment of a Sales Document (702) (Iraq 32 12),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P336198,SAA 06 114. Fragment of a Sales Document (702) (Iraq 32 12),SAA 06 114. Fragment of a Sales Document (702) (Iraq 32 12),o 2,ṣupru[nail]N bēlu[lord]N tadānu[give]V
+saao/saa06/P336198,SAA 06 114. Fragment of a Sales Document (702) (Iraq 32 12),SAA 06 114. Fragment of a Sales Document (702) (Iraq 32 12),r 1',ūmu[day]N
+saao/saa06/P336198,SAA 06 114. Fragment of a Sales Document (702) (Iraq 32 12),SAA 06 114. Fragment of a Sales Document (702) (Iraq 32 12),r 2',līmu[eponym-(of-year)]N Nabu-leʾi[1]PN šaknu[appointee]N mātu[land]N Arbail[Arbela]GN

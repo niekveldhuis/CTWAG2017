@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335059,SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),o 1,biltu[load]N manû[unit]N erû[copper]N
+saao/saa06/P335059,SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),o 2,rēštu[beginning]N ša[of]DET Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa06/P335059,SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),o 3,ša[of]DET Sin-remanni[1]PN
+saao/saa06/P335059,SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),o 4,ina[in]PRP pānu[front]N
+saao/saa06/P335059,SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),o 5,šību[witness]N
+saao/saa06/P335059,SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),o 6,šību[witness]N Bani[1]PN
+saao/saa06/P335059,SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),o 7,šību[witness]N
+saao/saa06/P335059,SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),r 1,šību[witness]N
+saao/saa06/P335059,SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),r 2,šību[witness]N
+saao/saa06/P335059,SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),SAA 06 184. Note of Copper Owed to Sin-remanni (ADD 0108),r 3,arhu[month]N

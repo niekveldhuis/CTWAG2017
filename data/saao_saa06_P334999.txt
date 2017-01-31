@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334999,SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),o 1,manû[unit]N ṣarpu[silver]N
+saao/saa06/P334999,SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),o 2,ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P334999,SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),o 3,ša[of]DET Sin-remanni[1]PN
+saao/saa06/P334999,SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),o 4,ina[in]PRP pānu[front]N Mannu-ki-Issaran[1]PN
+saao/saa06/P334999,SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),o 5,rabû[big-one]N bītu[house]N ša[of]DET šukkallu[(a-court-official)]N
+saao/saa06/P334999,SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),o 6,manû[unit]N
+saao/saa06/P334999,SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),r 1',ūmu[day]N
+saao/saa06/P334999,SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),SAA 06 183. Sin-remanni Loans Two Minas of Silver (683) (ADD 0047),r 2',līmu[eponym-(of-year)]N Mannu-ki-Adad[1]PN

@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 1',Sin-alik-pani[1]PN māru[son]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 2',sinništu[woman]N mārtu[daughter]N pirsu[weaned]AJ māru[son]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 3',sinništu[woman]N mārtu[daughter]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 4',ša-kubšēšu[turban-purveyor]N sinništu[woman]N gimru[totality]N napištu[throat]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 5',epēšu[do]V Remanni-Adad[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 6',ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP ina[in]PRP libbu[interior]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 7',manû[unit]N ṣarpu[silver]N ša[of]DET Gargamis[Carchemish]GN leqû[take]V kaspu[silver]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 8',gammuru[finished]AJ tadnu[given]AJ nišu[people]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 9',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 10',ṣibtu[seizure]N bennu[epilepsy]N ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N sartu[falsehood]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 11',ana[to]PRP kalû[totality]N šattu[year]N mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 12',ina[in]PRP matīma[ever]AV parāku[lie-across]V lū[may]MOD awīlu[man]N annû[this]DP
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 13',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 14',lū[may]MOD bēlu[lord]N ilku[state-service]N dīnu[legal-decision]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 15',dabābu[speak]V išti[with]PRP Remanni-Adad[1]PN u[and]CNJ māru[son]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 16',buʾʾû[look-for]V biltu[load]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),o 17',ana[to]PRP Ištar[1]DN ša[of]DET Ninua[Nineveh]GN tadānu[give]V kaspu[silver]N ana[to]PRP
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 1,ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 2,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 3,šību[witness]N Nergal-šarru-uṣur[1]PN tašlīšu[third-man-on-chariot]N dannu[strong]AJ
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 4,šību[witness]N tašlīšu[third-man-on-chariot]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 5,šību[witness]N Uarbis[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 6,šību[witness]N Zaruti[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 7,šību[witness]N Šamaš-šarru-uṣur[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 8,šību[witness]N Nabu-šezib[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 9,šību[witness]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 10,šību[witness]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 11,šību[witness]N Bel-lamur[1]PN
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 12,šību[witness]N Šarru-kenu-uṣur[1]PN šību[witness]N Sukkaya[1]PN ardu[slave]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 13,ša[of]DET šāqû[butler]N šību[witness]N Adad-ahhe-šallim[1]PN
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 14,šību[witness]N Nabu-eriba[1]PN šanû[second]NU ša[of]DET
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 15,šību[witness]N Šamaš-šallim[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335194,SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),SAA 06 342. Remanni-Adad Buys 10 Slaves (ADD 0247),r 16,Nisannu[Nisan]MN ūmu[day]N līmu[eponym-(of-year)]N

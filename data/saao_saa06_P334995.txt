@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),o 1,manû[unit]N erû[copper]N qaqqadu[head]N
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),o 2,ša[of]DET Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),o 3,Šep-Adad[1]PN
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),o 4,ištu[from]PRP pānu[front]N Mannu-ki-Arbail[1]PN
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),o 5,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),o 6,ina[in]PRP ūmu[day]N ša[of]DET
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),b.e. 7,tadānu[give]V
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),b.e. 8,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),r 1,ana[to]PRP šalāšiu[third]NU
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),r 2,rabû[to-be-big]V
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),r 3,šību[witness]N
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),r 4,šību[witness]N Abi-larim[1]PN
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),r 5,šību[witness]N Aya-dadu[1]PN
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),r 6,šību[witness]N Balṭi-Aya[1]PN
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),r 7,šību[witness]N Quya[1]PN šību[witness]N
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),r.e. 8,šību[witness]N Nabu-ahhe-eriba[1]PN
+saao/saa06/P334995,SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),SAA 06 157. Mannu-ki-Arbail Loans Copper (687-VII-20) (ADD 0043),r.e. 9,Tašritu[Tishri]MN ūmu[day]N

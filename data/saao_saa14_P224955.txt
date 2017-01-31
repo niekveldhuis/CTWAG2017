@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),o 1,imēru[unit]N šeʾu[barley]N uṭṭatu[grain]N
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),o 2,ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),o 3,ša[of]DET Inurta-šarru-uṣur[1]PN
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),o 4,māru[son]N ēkallu[palace]N ša[of]DET ēkallu[palace]N eššu[new]AJ
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),o 5,ina[in]PRP pānu[front]N Aqru[1]PN
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),o 6,māru[son]N Aya-šarru-ibni[1]PN
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),r 1,tadānu[give]V
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),r 2,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),r 3,eṣpu[doubled]AJ tadānu[give]V
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),r 4,Addaru[Adar]MN dīru[intercalation]N ūmu[day]N
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),r 5,līmu[eponym-(of-year)]N Bel-iqbi[1]PN
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),r 6,šību[witness]N Pan-Issar-lamur[1]PN
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),r 7,šību[witness]N Naṣir-edi[1]PN
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),r 8,šību[witness]N Kabti[1]PN
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),r 9,šību[witness]N Urdu-Nabu[1]PN
+saao/saa14/P224955,SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),SAA 14 431. Nur-šarru-uṣur Lends Barley (*621-XIIa-20) (TIM 11 13),r 10,šību[witness]N Šarru-nadin-ahhe[1]PN

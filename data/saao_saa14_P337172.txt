@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),o 1,ṣarpu[silver]N
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),o 2,ša[of]DET Inurta-šarru-uṣur[1]PN
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),o 3,ina[in]PRP pānu[front]N Tariba-Issar[1]PN
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),o 4,māru[son]N Eribua[1]PN
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),o 5,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),o 6,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),b.e. 7,rabû[to-be-big]V
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),r 1,arhu[month]N ūmu[day]N
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),r 2,līmu[eponym-(of-year)]N Bel-ahu-uṣur[1]PN
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),r 3,šību[witness]N Putaya[1]PN
+saao/saa14/P337172,SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),SAA 14 433. Inurta-šarru-uṣur Lends Silver (*616) (TIM 11 04),r 4,šību[witness]N Ululayu[1]PN

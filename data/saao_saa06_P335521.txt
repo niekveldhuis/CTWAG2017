@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335521,SAA 06 249. (no title) (ADD 0602),SAA 06 249. (no title) (ADD 0602),r 1',šību[witness]N Mannu-ki-Arbail[1]PN
+saao/saa06/P335521,SAA 06 249. (no title) (ADD 0602),SAA 06 249. (no title) (ADD 0602),r 2',šību[witness]N
+saao/saa06/P335521,SAA 06 249. (no title) (ADD 0602),SAA 06 249. (no title) (ADD 0602),r 3',šību[witness]N Nuhšaya[1]PN atû[gatekeeper]N
+saao/saa06/P335521,SAA 06 249. (no title) (ADD 0602),SAA 06 249. (no title) (ADD 0602),r 4',šību[witness]N
+saao/saa06/P335521,SAA 06 249. (no title) (ADD 0602),SAA 06 249. (no title) (ADD 0602),r 5',šību[witness]N Nabuʾa[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335521,SAA 06 249. (no title) (ADD 0602),SAA 06 249. (no title) (ADD 0602),r 6',šību[witness]N Qurdi-Issar[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335521,SAA 06 249. (no title) (ADD 0602),SAA 06 249. (no title) (ADD 0602),r 7',šību[witness]N Mami[1]PN rabû[big-one]N kiṣru[knot]N

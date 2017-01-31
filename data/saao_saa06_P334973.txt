@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334973,SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P334973,SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),o 2,ša[of]DET Nabu-remanni[1]PN
+saao/saa06/P334973,SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),o 3,ina[in]PRP pānu[front]N Nadinu[1]PN
+saao/saa06/P334973,SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),o 4,ina[in]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa06/P334973,SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),o 5,ina[in]PRP Kislimu[Kislev]MN tadānu[give]V
+saao/saa06/P334973,SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),b.e. 6,Tašritu[Tishri]MN ūmu[day]N
+saao/saa06/P334973,SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),r 1,līmu[eponym-(of-year)]N Nabu-šarru-uṣur[1]PN
+saao/saa06/P334973,SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),r 2,šību[witness]N Nabu-taqqinanni[1]PN
+saao/saa06/P334973,SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),r 3,šību[witness]N Qiti-muti[1]PN
+saao/saa06/P334973,SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),SAA 06 189. Nabu-remanni Loans 5 Shekels of Silver (682-VII-5) (ADD 0021),r 4,šību[witness]N Kanunayu[1]PN

@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),1',sinništu[woman]N
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),2',nukaribbu[gardener]N
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),3',epēšu[do]V Milki-nuri[1]PN ša-rēši[eunuch]N
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),4',ša[of]DET sinništu[woman]N ēkallu[palace]N ištu[from]PRP pānu[front]N Naʾid-Aššur[1]PN
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),5',ištu[from]PRP pānu[front]N Qurdi-Issar-lamur[1]PN
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),6',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET šarru[king]N
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),7',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),r 1,eqlu[field]N nišu[people]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),r 2,leqû[taken]AJ târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),r 3,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),r 4,lū[may]MOD awīlu[man]N annû[this]DP lū[may]MOD māru[son]N
+saao/saa14/P335393,SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),SAA 14 006. Milki-nuri Buys Land and People (ADD 0452),r 5,lū[may]MOD māru[son]N māru[son]N lū[may]MOD mammanu-[whosoever]XP

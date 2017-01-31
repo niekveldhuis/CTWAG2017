@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),o 1,ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),o 2,Qurbu-abuʾa[1]PN
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),o 3,ana[to]PRP Bel-ahhe[1]PN ina[in]PRP libbu[interior]N
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),o 4,imēru[unit]N karānu[vine]N ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),o 5,ina[in]PRP Bit-Zamani[1]GN tadānu[give]V
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),o 6,šumma[if]MOD lā[not]MOD tadānu[give]V akī[as]PRP mahīru[market-price]N
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),o 7,ša[of]DET Ninua[Nineveh]GN tadānu[give]V
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),r 1,šību[witness]N Ribaya[1]PN
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),r 2,šību[witness]N Batiti[1]PN
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),r 3,šeleppāyu[(a-type-of-craftsman)]N šību[witness]N Šep-Aššur[1]PN
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),r 4,šību[witness]N Ubbuku[1]PN
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),r 5,šību[witness]N Mannu-ki-Ninua[1]PN
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),r 6,šību[witness]N Nabu-bel-ilani[1]PN
+saao/saa06/P335076,SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),SAA 06 158. A Futures Contract in Wine (687-IX-3) (ADD 0125),r 7,Kislimu[Kislev]MN ūmu[day]N

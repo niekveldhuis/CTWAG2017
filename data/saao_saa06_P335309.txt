@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),o 2,ṣupru[nail]N Batuʾa[1]PN
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),o 3,bēlu[lord]N kirû[garden]N tadānu[give]V
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),o 4,kirû[garden]N ša[of]DET arqu[green]AJ Kalgurig[1]GN
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),o 5,ša[of]DET Batuʾa[1]PN epēšu[do]V
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),o 6,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),o 7,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),r 1',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),r 2',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),r 3',šību[witness]N Šumaya[1]PN
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),r 4',šību[witness]N Kinihma[1]PN
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),r 5',šību[witness]N Hattianu[1]PN
+saao/saa06/P335309,SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),SAA 06 113. Purchase of a Vegetable Garden (702-V-25) (ADD 0365),r 6',ina[in]PRP Abu[Ab]MN ūmu[day]N

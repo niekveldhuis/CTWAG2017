@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),o 1,kunukku[seal]N Ahu-duri[1]PN
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),o 2,bēlu[lord]N eqlu[field]N bītu[house]N nišu[people]N tadānu[give]V
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),o 3,imēru[unit]N eqlu[field]N bītu[house]N adru[threshing-floor]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),o 4,bītu[house]N šīqu[irrigation]N ina[in]PRP Šibaniba[1]GN
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),o 5,Milki-suri[1]PN
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),o 6,sinništu[woman]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),o 7,Balṭi-Aya[1]PN
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),o 8,Ninuʾitu[1]PN
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),o 9,Adad-eriba[1]PN
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),o 10,sinništu[woman]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 1',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 2',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 3',parāku[lie-across]V manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 4',ana[to]PRP Ištar[1]DN āšibu[sitting]AJ Ninua[Nineveh]GN tadānu[give]V
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 5',eqlu[field]N nišu[people]N bītu[house]N aṣû[go-out]V
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 6',šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 7',šību[witness]N ṭupšarru[scribe]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 8',šību[witness]N māru[son]N Bel-isseʾa[1]PN
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 9',šību[witness]N Šulmu-beli-lašme[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 10',šību[witness]N Nabu-remanni[1]PN ṣarrāpu[goldsmith]N ša[of]DET
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 11',šību[witness]N Nabuʾa[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 12',šību[witness]N Useaʾ[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 13',šību[witness]N Nabu-eriba[1]PN ṭupšarru[scribe]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 14',šību[witness]N Arbailayu[1]PN rabû[big-one]N išparu[weaver]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 15',šību[witness]N Nabu-kaʾʾin-aplu[1]PN ṭupšarru[scribe]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 16',Ayaru[Iyyar]MN ūmu[day]N
+saao/saa06/P335394,SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),SAA 06 163. Purchase of an Estate in Šibaniba (686-II-15) (ADD 0453),r 17',līmu[eponym-(of-year)]N Bel-emuranni[1]PN

@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 1,kunukku[seal]N Nabu-šumu-lešir[1]PN
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 3,Mardi[1]PN nukaribbu[gardener]N
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 4,sinništu[woman]N mārtu[daughter]N gimru[totality]N napištu[throat]N
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 5,ardu[slave]N ša[of]DET Nabu-šumu-lešir[1]PN
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 6,epēšu[do]V Kakkullanu[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 7,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 8,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ nišu[people]N šuāti[him]IP
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 9,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 10,dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 11,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 12,lū[may]MOD Nabu-šumu-lešir[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),o 13,lū[may]MOD māru[son]N māru[son]N
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 1,dīnu[legal-decision]N dabābu[speak]V išti[with]PRP Kakkullanu[1]PN
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 2,māru[son]N māru[son]N māru[son]N buʾʾû[look-for]V
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 3,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N ina[in]PRP burku[knee]N
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 4,Ištar[1]DN āšibu[sitting]AJ Ninua[Nineveh]GN šakānu[put]V
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 5,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 6,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 7,šumma[if]MOD nišu[people]N ina[in]PRP mātu[land]N lā[not]MOD tadānu[give]V
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 8,ṣarpu[silver]N rabû[to-be-big]V Nabu-šumu-lešir[1]PN ana[to]PRP Kakkullanu[1]PN tadānu[give]V
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 9,šību[witness]N Kiṣir-Aššur[1]PN rabû[big-one]N kiṣru[knot]N ša[of]DET ša-qurbūti[close-follower]N ša[of]DET māru[son]N šarru[king]N
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 10,šību[witness]N Mardu[1]PN rabû[big-one]N kiṣru[knot]N ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 11,šību[witness]N La-qepu[1]PN
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 12,šību[witness]N Ilu-naʾdi[1]PN
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 13,šību[witness]N Mar-šarri-ilaʾi[1]PN
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 14,šību[witness]N Balasi[1]PN
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 15,šību[witness]N Hu-bašati[1]PN
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 16,šību[witness]N
+saao/saa14/P335182,SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),SAA 14 049. Kakkullanu Buys Three Slaves (ADD 0235),r 17,šību[witness]N

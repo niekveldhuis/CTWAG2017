@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 1,kunukku[seal]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 2,kunukku[seal]N tašlīšu[third-man-on-chariot]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 3,kunukku[seal]N Atta-qamuʾa[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 4,gimru[totality]N māru[son]N Bel-Harran-taklak[1]PN
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 5,awīlu[man]N bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 6,Ahu-nuri[1]PN aššatu[wife]N mārtu[daughter]N gimru[totality]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 7,Mannu-ki-Ninua[1]PN sinništu[woman]N māru[son]N gimru[totality]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 8,Nabu-eṭir[1]PN sinništu[woman]N Nabu-iddina[1]PN sinništu[woman]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 9,Nuraya[1]PN gimru[totality]N napištu[throat]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 10,epēšu[do]V Šumma-ilani[1]PN
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 11,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 12,zarāpu[purchase]V leqû[take]V nišu[people]N šuāti[him]IP
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 13,zarpu[purchased]AJ leqû[taken]AJ kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),o 14,tadānu[give]V târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 1,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 2,ina[in]PRP matīma[ever]AV lū[may]MOD Ṣil-Aššur[1]PN pīhātu[responsibility]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 3,lū[may]MOD awīlu[man]N qātu[hand]N lū[may]MOD māru[son]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 4,lū[may]MOD memēni[somebody]XP išti[with]PRP Šumma-ilani[1]PN
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 5,parāku[lie-across]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 6,ana[to]PRP bēlu[lord]N tadānu[give]V manû[unit]N hurāṣu[gold]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 7,ana[to]PRP burku[knee]N Ištar[1]DN ša[of]DET Ninua[Nineveh]GN šakānu[put]V
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 8,šību[witness]N Nabuʾa[1]PN šanû[second]NU ša[of]DET rādiu[(caravan)-guide]N kibsu[track]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 9,šību[witness]N Ila[1]PN ša-šīmi[man-bought]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 10,šību[witness]N Qa[1]PN šību[witness]N Hanṭušu[1]PN
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 11,šību[witness]N Remanni-Aššur[1]PN
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 12,šību[witness]N Nabu-šar-ahhešu[1]PN
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 13,šību[witness]N Abi-qamu[1]PN
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 14,šību[witness]N Sin-zaqip[1]PN
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 15,usandû[bird-catcher]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 16,šību[witness]N Šulmu-ahhe[1]PN ša-huṭāri[staff-bearer]N
+saao/saa06/P335193,SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),SAA 06 052. Šumma-ilani Buys 13 People (ADD 0246),r 17,šību[witness]N ardu[slave]N ša[of]DET māru[son]N šarru[king]N

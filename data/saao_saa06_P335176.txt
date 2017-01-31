@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),o 1,kunukku[seal]N Urdu-Issar[1]PN
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),o 3,Useaʾ[1]PN sinništu[woman]N
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),o 4,Meʾsa[1]PN Badia[1]PN
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),o 5,Seʾ-gaba[1]PN Bel-Harran-taklak[1]PN
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),o 6,mārtu[daughter]N pirsu[weaned]AJ
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),o 7,gimru[totality]N napištu[throat]N ardu[slave]N
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),o 8,ša[of]DET Urdu-Issar[1]PN
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),o 9,epēšu[do]V Seʾ-maʾadi[1]PN
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),b.e. 10,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),b.e. 11,leqû[take]V kaspu[silver]N
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),r 1,gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),r 2,târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),r 3,dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),r 4,šību[witness]N Bel-nuri[1]PN tamkāru[merchant]N
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),r 5,šību[witness]N Ammi-Yateʾu[1]PN
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),r 6,šību[witness]N Sangi[1]PN
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),r 7,šību[witness]N Kuisa[1]PN
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),r 8,šību[witness]N Seʾ-duri[1]PN
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),r 9,šību[witness]N
+saao/saa06/P335176,SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),SAA 06 111. Se’-madi Village Manager Buys 7 More Slaves (680-VII) (ADD 0229),r 10,Tašritu[Tishri]MN līmu[eponym-(of-year)]N Dananu[1]PN

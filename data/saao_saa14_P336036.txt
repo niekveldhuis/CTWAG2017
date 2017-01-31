@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336036,SAA 14 392. Purchase of Land (ADD 1279),SAA 14 392. Purchase of Land (ADD 1279),1',ša[of]DET
+saao/saa14/P336036,SAA 14 392. Purchase of Land (ADD 1279),SAA 14 392. Purchase of Land (ADD 1279),4',gimru[totality]N qû[unit]N
+saao/saa14/P336036,SAA 14 392. Purchase of Land (ADD 1279),SAA 14 392. Purchase of Land (ADD 1279),5',gabdi[adjoining-to]PRP

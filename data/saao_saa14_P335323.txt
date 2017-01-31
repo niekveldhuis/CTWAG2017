@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335323,SAA 14 140. Purchase of an Estate (653) (ADD 0379),SAA 14 140. Purchase of an Estate (653) (ADD 0379),o 1,kunukku[seal]N Urdu-Issar[1]PN kunukku[seal]N Amurri[1]PN
+saao/saa14/P335323,SAA 14 140. Purchase of an Estate (653) (ADD 0379),SAA 14 140. Purchase of an Estate (653) (ADD 0379),o 2,kunukku[seal]N Ululayu[1]PN sasinnu[bow-maker]N Al-radi-imari[Donkey-Driver-Town]GN
+saao/saa14/P335323,SAA 14 140. Purchase of an Estate (653) (ADD 0379),SAA 14 140. Purchase of an Estate (653) (ADD 0379),o 3,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa14/P335323,SAA 14 140. Purchase of an Estate (653) (ADD 0379),SAA 14 140. Purchase of an Estate (653) (ADD 0379),o 4,bītu[house]N imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP nahallu[stream]N
+saao/saa14/P335323,SAA 14 140. Purchase of an Estate (653) (ADD 0379),SAA 14 140. Purchase of an Estate (653) (ADD 0379),o 5,ṭāhu[adjacent-to]PRP ṭāhu[adjacent-to]PRP Issar-duri[1]PN Issar-duri[1]PN
+saao/saa14/P335323,SAA 14 140. Purchase of an Estate (653) (ADD 0379),SAA 14 140. Purchase of an Estate (653) (ADD 0379),o 6,kutallu[back]N kirû[garden]N
+saao/saa14/P335323,SAA 14 140. Purchase of an Estate (653) (ADD 0379),SAA 14 140. Purchase of an Estate (653) (ADD 0379),o 7,ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa14/P335323,SAA 14 140. Purchase of an Estate (653) (ADD 0379),SAA 14 140. Purchase of an Estate (653) (ADD 0379),r 1,ṭupšarru[scribe]N ṣābitu[recipient]N ṭuppu[tablet]N
+saao/saa14/P335323,SAA 14 140. Purchase of an Estate (653) (ADD 0379),SAA 14 140. Purchase of an Estate (653) (ADD 0379),r 2,arhu[month]N līmu[eponym-(of-year)]N Aššur-ilaʾi[1]PN

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335504,SAA 14 303. Fragment of a Conveyance Text (ADD 0580),SAA 14 303. Fragment of a Conveyance Text (ADD 0580),o 1,kunukku[seal]N
+saao/saa14/P335504,SAA 14 303. Fragment of a Conveyance Text (ADD 0580),SAA 14 303. Fragment of a Conveyance Text (ADD 0580),r 1',dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335504,SAA 14 303. Fragment of a Conveyance Text (ADD 0580),SAA 14 303. Fragment of a Conveyance Text (ADD 0580),r 2',manû[unit]N ṣarpu[silver]N
+saao/saa14/P335504,SAA 14 303. Fragment of a Conveyance Text (ADD 0580),SAA 14 303. Fragment of a Conveyance Text (ADD 0580),r 3',šību[witness]N
+saao/saa14/P335504,SAA 14 303. Fragment of a Conveyance Text (ADD 0580),SAA 14 303. Fragment of a Conveyance Text (ADD 0580),r 4',šību[witness]N
+saao/saa14/P335504,SAA 14 303. Fragment of a Conveyance Text (ADD 0580),SAA 14 303. Fragment of a Conveyance Text (ADD 0580),r.e. 5,šību[witness]N
+saao/saa14/P335504,SAA 14 303. Fragment of a Conveyance Text (ADD 0580),SAA 14 303. Fragment of a Conveyance Text (ADD 0580),r.e. 6,šību[witness]N
+saao/saa14/P335504,SAA 14 303. Fragment of a Conveyance Text (ADD 0580),SAA 14 303. Fragment of a Conveyance Text (ADD 0580),r.e. 7,šību[witness]N
+saao/saa14/P335504,SAA 14 303. Fragment of a Conveyance Text (ADD 0580),SAA 14 303. Fragment of a Conveyance Text (ADD 0580),r.e. 8,šību[witness]N

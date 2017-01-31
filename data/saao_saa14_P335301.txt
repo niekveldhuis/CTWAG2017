@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),o 1',epēšu[do]V Bardi[1]PN
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),o 2',ištu[from]PRP pānu[front]N Bel-šarru-uṣur[1]PN ina[in]PRP libbu[interior]N
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),o 3',manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET šarru[king]N
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),o 4',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),o 5',bītu[house]N qaqqaru[ground]N peṣû[white]AJ šuāti[him]IP
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),o 6',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),o 7',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),o 8',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),o 9',lū[may]MOD Bel-šarru-uṣur[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),o 10',lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),b.e. 11',lū[may]MOD māru[son]N ahu[brother]N ša[that]REL dīnu[legal-decision]N
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),b.e. 12',dabābu[speak]V išti[with]PRP Bardi[1]PN
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),b.e. 13',māru[son]N u[and]CNJ māru[son]N māru[son]N
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),b.e. 14',buʾʾû[look-for]V
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 1,manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 2,hurāṣu[gold]N sakru[refined]AJ ina[in]PRP burku[knee]N Ištar[1]DN
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 3,Ninua[Nineveh]GN šakānu[put]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 4,ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 5,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 6,lā[not]MOD leqû[take]V
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 7,šību[witness]N Šulmu-ahhe[1]PN sīrāšû[brewer]N
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 8,šību[witness]N Urdu[1]PN išparu[weaver]N
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 9,šību[witness]N Šamaš-remanni[1]PN
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 10,šību[witness]N Rammanu[1]PN tamkāru[merchant]N Kišqaya[from-Kišqa]GN
+saao/saa14/P335301,SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),SAA 14 188. Bardi Buys a House and a Vacant Lot (ADD 0357),r 11,šību[witness]N

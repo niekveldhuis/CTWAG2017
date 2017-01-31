@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335005,SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),o 1',u[and]CNJ
+saao/saa06/P335005,SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),o 2',ina[in]PRP pānu[front]N Didi[1]PN
+saao/saa06/P335005,SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),o 3',ina[in]PRP qaqqadu[head]N ilu[god]N eššu[new]AJ ša[of]DET arhu[month]N tadānu[give]V
+saao/saa06/P335005,SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),o 4',šumma[if]MOD lā[not]MOD tadānu[give]V eṣēpu[double]V
+saao/saa06/P335005,SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),o 5',dīru[intercalation]N Addaru[Adar]MN ūmu[day]N līmu[eponym-(of-year)]N Atar-ili[1]PN
+saao/saa06/P335005,SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),SAA 06 281. Fragment of a Debt-Note (673-XIIa-21) (ADD 0053),o 6',šību[witness]N Ahu-duri[1]PN šību[witness]N Nabu-šarru-uṣur[1]PN

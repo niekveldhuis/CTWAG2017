@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336764,SAA 14 420. (no title) (Sm 1010),SAA 14 420. (no title) (Sm 1010),o 2',ša[of]DET
+saao/saa14/P336764,SAA 14 420. (no title) (Sm 1010),SAA 14 420. (no title) (Sm 1010),o 3',ina[in]PRP libbu[interior]N
+saao/saa14/P336764,SAA 14 420. (no title) (Sm 1010),SAA 14 420. (no title) (Sm 1010),o 4',kaspu[silver]N gammuru[finished]AJ

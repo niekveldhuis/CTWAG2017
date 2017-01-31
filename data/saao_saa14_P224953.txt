@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),o 1,kunukku[seal]N Nabu-šallim-ahhe[1]PN
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),o 2,Nabu-šallim-ahhe[1]PN ana[to]PRP
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),o 3,Inurta-šarru-uṣur[1]PN adi[until]PRP libbu[interior]N
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),o 4,ūmu[day]N ša[of]DET Ṭebetu[Tebet]MN sartu[falsehood]N
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),o 5,pūtuhhu[responsibility]N imēru[donkey]N
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),b.e. 6,našû[lift]V šumma[if]MOD ina[in]PRP
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),b.e. 7,lū[may]MOD etēqu[proceed]V
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),r 1,pūtuhhu[responsibility]N imēru[donkey]N
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),r 2,našû[lift]V ša-erêšu[copper-peddler]N
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),r 3,arkû[rear]AJ ša[of]DET Nabu-šallim-ahhe[1]PN
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),r 4,ištu[from]PRP pānu[front]N halqu[lost]AJ ištu[from]PRP pānu[front]N memēni[somebody]XP
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),r 5,Abu[Ab]MN līmu[eponym-(of-year)]N Bel-iqbi[1]PN
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),r 6,šību[witness]N Hanni[1]PN šību[witness]N Abdaya[1]PN
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),r 7,šību[witness]N Musallamu[1]PN šību[witness]N Puṭiše[1]PN
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),r.e. 8,šību[witness]N šību[witness]N
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),r.e. 9,šību[witness]N
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),e. 1,šību[witness]N
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),e. 2,šību[witness]N
+saao/saa14/P224953,SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),SAA 14 430. Court Order on Behalf of Inurta-šarru-uṣur (*621-V) (TIM 11 11),e. 3,šību[witness]N

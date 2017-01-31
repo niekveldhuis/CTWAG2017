@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335990,SAA 14 360. (no title) (ADD 1210),SAA 14 360. (no title) (ADD 1210),o 1,šakānu[put]V
+saao/saa14/P335990,SAA 14 360. (no title) (ADD 1210),SAA 14 360. (no title) (ADD 1210),r 2,šiqlu[unit]N
+saao/saa14/P335990,SAA 14 360. (no title) (ADD 1210),SAA 14 360. (no title) (ADD 1210),r 3,šiqlu[unit]N ṣarpu[silver]N ina[in]PRP muhhu[skull]N

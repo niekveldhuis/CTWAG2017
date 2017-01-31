@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335597,SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),o 1',Arbailayu[1]PN
+saao/saa06/P335597,SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),o 2',māru[son]N
+saao/saa06/P335597,SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),o 4',gimru[totality]N napištu[throat]N ardu[slave]N ša[of]DET
+saao/saa06/P335597,SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),o 5',epēšu[do]V Šumma-ilani[1]PN
+saao/saa06/P335597,SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),o 6',mukillu[holder]N appatu[bridle]N ina[in]PRP libbu[interior]N
+saao/saa06/P335597,SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),SAA 06 054. Šumma-ilani Buys 5 Slaves (ADD 0725),o 7',manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET Gargamis[Carchemish]GN

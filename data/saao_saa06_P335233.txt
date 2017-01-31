@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),o 1',Šamaš-ayali[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),o 2',Yannuqu[1]PN māru[son]N
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),o 3',Daluwa[1]PN māru[son]N
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),o 4',Bauya[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),o 5',Dimba[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),o 6',Dadi[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),o 8',gimru[totality]N napištu[throat]N ardu[slave]N
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),o 9',ša[of]DET epēšu[do]V
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 1',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 2',ṣibtu[seizure]N bennu[epilepsy]N ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 3',sartu[falsehood]N kalû[totality]N šattu[year]N
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 4',šību[witness]N Idraya[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 5',šību[witness]N Sin-ṣala[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 6',šību[witness]N Ṭab-šar-Issar[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 7',šību[witness]N Nabu-ahu-iddina[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 8',šību[witness]N Ṭab-bet-Issar[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 9',šību[witness]N Ilu-piya-uṣur[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 10',šību[witness]N Azi-il[1]PN ṭupšarru[scribe]N
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 11',šību[witness]N Misu[1]PN ṭupšarru[scribe]N
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),r 12',šību[witness]N Halleṣu[1]PN
+saao/saa06/P335233,SAA 06 266. Purchase of Slaves (ADD 0288),SAA 06 266. Purchase of Slaves (ADD 0288),e. 1,ina[in]PRP tarṣu[extent]N Aššur-ahu-iddina[1]PN šarru[king]N mātu[land]N Aššur[1]DN šumma[if]MOD

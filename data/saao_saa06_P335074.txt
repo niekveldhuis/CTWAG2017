@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),o 1,kunukku[seal]N Partama[1]PN
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),o 2,imēru[unit]N karānu[vine]N
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),o 3,ša[of]DET Mannu-ki-Ninua[1]PN
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),o 4,ina[in]PRP pānu[front]N Partama[1]PN
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),o 5,ina[in]PRP Ayaru[Iyyar]MN karānu[vine]N ina[in]PRP Ninua[Nineveh]GN tadānu[give]V
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),o 6,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),b.e. 1,kī[like]PRP mahīru[market-price]N ša[of]DET Ninua[Nineveh]GN
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),r 1,ṣarpu[silver]N tadānu[give]V
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),r 2,Ṭebetu[Tebet]MN ūmu[day]N līmu[eponym-(of-year)]N Mannu-ki-Adad[1]PN
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),r 3,šību[witness]N Sananu[1]PN šību[witness]N Šamaš-naṣir[1]PN
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),r 4,šību[witness]N Nabu-taklak[1]PN šību[witness]N Nabu-nashir[1]PN
+saao/saa06/P335074,SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),SAA 06 181. A Wine Loan (683-X-25) (ADD 0123),r 5,šību[witness]N Edu-šallim[1]PN šību[witness]N Remut-ili[1]PN

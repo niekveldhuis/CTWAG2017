@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 1,kunukku[seal]N Qibit-Issar[1]PN
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 2,kunukku[seal]N La-teggi-Nanaya[1]PN
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 3,kunukku[seal]N Mannu-ki-Adad[1]PN
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 4,gimru[totality]N awīlu[man]N bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 5,Habil-kenu[1]PN ardu[slave]N
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 6,epēšu[do]V Ribati[1]PN
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 7,ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 8,ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 9,zarāpu[purchase]V leqû[take]V
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 10,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 11,awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 12,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 13,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV matīma[ever]AV
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 14,zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 15,lū[may]MOD awīlu[man]N annû[this]DP lū[may]MOD māru[son]N
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 16,lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),o 17,ša[that]REL išti[with]PRP Ribati[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 2,ina[in]PRP burku[knee]N
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 3,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 4,ina[in]PRP lā[not]MOD dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 5,šību[witness]N Šamaš-ilaʾi[1]PN
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 6,šību[witness]N Ṭuri[1]PN
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 7,šību[witness]N Adad-ahu-iddina[1]PN šību[witness]N Nabu-raʾim-ketti[1]PN
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 8,šību[witness]N Inurti[1]PN
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 9,šību[witness]N
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 10,šību[witness]N
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 11,šību[witness]N Nergal-ašared[1]PN ṭupšarru[scribe]N
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 12,Šabaṭu[Shebat]MN ūmu[day]N
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 13,līmu[eponym-(of-year)]N Mušallim-Aššur[1]PN
+saao/saa14/P335123,SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),SAA 14 105. Ribate Buys a Slave (*639-XI-22) (ADD 0173),r 14,šaknu[appointee]N mātu[land]N Alihu[1]GN

@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336037,SAA 14 393. (no title) (ADD 1280),SAA 14 393. (no title) (ADD 1280),1,kunukku[seal]N
+saao/saa14/P336037,SAA 14 393. (no title) (ADD 1280),SAA 14 393. (no title) (ADD 1280),r 1',šību[witness]N
+saao/saa14/P336037,SAA 14 393. (no title) (ADD 1280),SAA 14 393. (no title) (ADD 1280),r 2',šību[witness]N
+saao/saa14/P336037,SAA 14 393. (no title) (ADD 1280),SAA 14 393. (no title) (ADD 1280),e. 1,Tabni[1]PN

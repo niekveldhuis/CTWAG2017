@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 1',Issar-tariba[1]PN rādiu[(caravan)-guide]N imēru[donkey]N
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 2',ardu[slave]N ša[of]DET Bel-ibni[1]PN ša[of]DET
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 3',epēšu[do]V Šumma-ilani[1]PN ina[in]PRP libbu[interior]N
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 4',manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET šarru[king]N ina[in]PRP
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 5',ištu[from]PRP pānu[front]N Bel-ibni[1]PN ištu[from]PRP pānu[front]N
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 6',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 7',awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 8',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 9',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 10',lū[may]MOD Bel-ibni[1]PN lū[may]MOD
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),o 11',lū[may]MOD ahu[brother]N lū[may]MOD
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),r 1',šību[witness]N
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),r 2',šību[witness]N
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),r 3',ša[of]DET
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),r 4',šību[witness]N Zer-kitti-lešir[1]PN
+saao/saa06/P335143,SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),SAA 06 055. Šumma-ilani Buys a Donkey Driver (ADD 0196),r 5',šību[witness]N Nuhšaya[1]PN

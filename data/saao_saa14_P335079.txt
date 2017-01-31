@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),o 2,ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),o 3,ša[of]DET Nabu-duri[1]PN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),o 4,ina[in]PRP pānu[front]N Kanunayu[1]PN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),o 5,šušānu[horse-trainer]N māru[son]N Abu-ul-idi[1]PN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),o 6,ištu[from]PRP Maganiṣi[1]GN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),o 7,ša[of]DET qātu[hand]N Unzarhu-Issar[1]PN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),b.e. 8,rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),b.e. 9,ina[in]PRP Arahsamnu[Marchesvan]MN uṭṭatu[grain]N
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),r 1,ina[in]PRP Maganiṣi[1]GN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),r 2,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),r 3,uṭṭatu[grain]N ina[in]PRP mithāru[corresponding-(to-one-another)]AJ ina[in]PRP Ninua[Nineveh]GN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),r 4,tadānu[give]V Arahsamnu[Marchesvan]MN ūmu[day]N
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),r 5,līmu[eponym-(of-year)]N Mannu-ki-šarri[1]PN ša-rēš-šarri[royal-eunuch]N
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),r 6,šību[witness]N Balassu[1]PN rabû[big-one]N bītu[house]N
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),r 7,šību[witness]N Urdu-Mullissi[1]PN šalāšī-[three-times]AV
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),r.e. 8,šību[witness]N Nabu-nadin-ahhe[1]PN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),r.e. 9,šību[witness]N Ša-Nabu-šu[1]PN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),e. 1,šību[witness]N Nabu-ahu-iddina[1]PN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),e. 2,šību[witness]N Ahu-duri[1]PN
+saao/saa14/P335079,SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),SAA 14 072. Nabu-duri Lends 30 Homers of Barley (665-VIII-17) (ADD 0128),e. 3,šību[witness]N Akbaru[1]PN

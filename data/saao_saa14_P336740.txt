@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336740,SAA 14 130. (no title) (668-XII-10) (K 20542),SAA 14 130. (no title) (668-XII-10) (K 20542),r 1',ina[in]PRP dīnu[legal-decision]N lā[not]MOD leqû[take]V
+saao/saa14/P336740,SAA 14 130. (no title) (668-XII-10) (K 20542),SAA 14 130. (no title) (668-XII-10) (K 20542),r 2',Addaru[Adar]MN ūmu[day]N

@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),o 1',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),o 2',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),o 3',lū[may]MOD Šamaš-zeru-iqiša[1]PN lū[may]MOD
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),o 4',ša[that]REL išti[with]PRP Šamaš-zeru-iqiša[1]PN
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),o 5',māru[son]N māru[son]N māru[son]N dīnu[legal-decision]N
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),o 6',dabābu[speak]V buʾʾû[look-for]V manû[unit]N
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),o 7',akālu[eat]V ammar[as-much-as]REL agannu[bowl]N kurru[tanning-fluid]N šatû[drink]V
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),o 8',sahliu[cress]N adi[until]PRP abullu[(city)-gate]N zarû[winnow]V
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),b.e. 9',ina[in]PRP pû[mouth]N lišānu[tongue]N laqātu[gather-up]V adi[until]PRP
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),b.e. 10',sūtu[unit]N malû[be(come)-full]V
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),b.e. 11',harbakkannu[(a-kind-of-horse)]N ina[in]PRP šēpu[foot]N
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),b.e. 12',Nergal[1]DN rakāsu[bind]V
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),r 1,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),r 2,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),r 3,šību[witness]N Bel-dan[1]PN māru[son]N ēkallu[palace]N
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),r 4,ša[of]DET bītu[house]N ridûtu[appropriation]N šību[witness]N
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),r 5,āšipu[sorcerer]N ša[of]DET ina[in]PRP pānu[front]N Aššur-šumu-ibni[1]PN paqdu[entrusted]AJ
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),r 6,šību[witness]N Belu-naṣir[1]PN bārû[diviner]N ša[of]DET māru[son]N šarru[king]N
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),r 7,šību[witness]N Haṭṭušu-aldi[1]PN ša-qurbūti[close-follower]N
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),r 8,šību[witness]N Barruqu[1]PN itinnu[builder]N ša[of]DET bītu[house]N māru[son]N šarru[king]N
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),r 9,šību[witness]N Aia-šarru-ibni[1]PN šatammu[administrator]N
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),e. 1,mašennu[(an-administrator)]N
+saao/saa14/P335420,SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),SAA 14 166. Šamaš-zeru-iqiša Buys [... ] (*621?) (ADD 0481),e. 2,arhu[month]N ūmu[day]N līmu[eponym-(of-year)]N Bel-iqbi[1]PN

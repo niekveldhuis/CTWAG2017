@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),1,ana[to]PRP ūmu[day]N
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),2,ša[of]DET Ayaru[Iyyar]MN Edu-šallim[1]PN
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),3,Apladad-killanni[1]PN māru[son]N Reṣa[1]PN wabālu[bring]V
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),4,ana[to]PRP Gabbu-ina-qat-ili[1]PN
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),5,tadānu[give]V šumma[if]MOD lā[not]MOD našû[lifted]AJ lā[not]MOD tadnu[given]AJ
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),6,ardu[slave]N akī[as]PRP ardu[slave]N tadānu[give]V
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),b.e. 7,Ayaru[Iyyar]MN ūmu[day]N
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),r 1,līmu[eponym-(of-year)]N Bel-naʾdi[1]PN
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),r 2,šību[witness]N Busi-ili[1]PN
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),r 3,ša-pān-dīnāni[president-of-the-court]N
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),r 4,šību[witness]N Ubraki[1]PN
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),r 5,šību[witness]N Minu-epuš-ilu[1]PN
+saao/saa14/P335104,SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),SAA 14 074. Inner Tablet of the Preceding Text (ADD 0153),r 6,šību[witness]N Nabu-dur-beli[1]PN

@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335244,SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),o 1,kunukku[seal]N
+saao/saa06/P335244,SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),o 2,kunukku[seal]N
+saao/saa06/P335244,SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),o 3,kunukku[seal]N
+saao/saa06/P335244,SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),o 4,kunukku[seal]N
+saao/saa06/P335244,SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),o 5,awīlu[man]N bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335244,SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),r 1',šību[witness]N Sameʾ[1]PN
+saao/saa06/P335244,SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),r 2',Ayaru[Iyyar]MN līmu[eponym-(of-year)]N Dananu[1]PN
+saao/saa06/P335244,SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),SAA 06 203. Fragment of a Purchase of Slaves (680-II) (ADD 0299),r 3',tarṣu[extent]N Aššur-ahu-iddina[1]PN

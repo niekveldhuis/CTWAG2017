@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 1',ardu[slave]N Bar-ahati[1]PN
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 2',ina[in]PRP Tiʾi[1]GN
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 3',epēšu[do]V Šumma-ilani[1]PN
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 4',ištu[from]PRP pānu[front]N Bar-ahati[1]PN
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 5',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET šarru[king]N
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 6',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 7',tadnu[given]AJ eqlu[field]N bītu[house]N
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 8',nišu[people]N kirû[garden]N šuāti[him]IP
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 9',zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 10',târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),o 11',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),b.e. 12',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV parāku[lie-across]V
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),b.e. 13',lū[may]MOD Bar-ahati[1]PN
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),b.e. 14',lū[may]MOD māru[son]N
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),b.e. 15',lū[may]MOD qurbu[relative]N
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),r 1,lū[may]MOD mammanu-[whosoever]XP
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),r 2,ša[that]REL išti[with]PRP Šumma-ilani[1]PN
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),r 3,dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),r 4,buʾʾû[look-for]V
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),r 5,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),r 6,ina[in]PRP burku[knee]N āšibu[sitting]AJ
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),r 7,Ninua[Nineveh]GN šakānu[put]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335366,SAA 06 051. Duplicate of the Preceding Text (ADD 0423),SAA 06 051. Duplicate of the Preceding Text (ADD 0423),r 8,ana[to]PRP bēlu[lord]N târu[turn]V

@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335004,SAA 06 248. Fragment of a Silver Loan (ADD 0052),SAA 06 248. Fragment of a Silver Loan (ADD 0052),o 1,kiṣirtu[envelope]N manû[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa06/P335004,SAA 06 248. Fragment of a Silver Loan (ADD 0052),SAA 06 248. Fragment of a Silver Loan (ADD 0052),o 2,ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335004,SAA 06 248. Fragment of a Silver Loan (ADD 0052),SAA 06 248. Fragment of a Silver Loan (ADD 0052),o 8,šumma[if]MOD ina[in]PRP Ṭebetu[Tebet]MN lā[not]MOD tadānu[give]V
+saao/saa06/P335004,SAA 06 248. Fragment of a Silver Loan (ADD 0052),SAA 06 248. Fragment of a Silver Loan (ADD 0052),o 9,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa06/P335004,SAA 06 248. Fragment of a Silver Loan (ADD 0052),SAA 06 248. Fragment of a Silver Loan (ADD 0052),o 10,Ṭebetu[Tebet]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa06/P335004,SAA 06 248. Fragment of a Silver Loan (ADD 0052),SAA 06 248. Fragment of a Silver Loan (ADD 0052),b.e. 11,šību[witness]N Ha-bašti[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa06/P335004,SAA 06 248. Fragment of a Silver Loan (ADD 0052),SAA 06 248. Fragment of a Silver Loan (ADD 0052),r 1,šību[witness]N Šamaš-iddina[1]PN
+saao/saa06/P335004,SAA 06 248. Fragment of a Silver Loan (ADD 0052),SAA 06 248. Fragment of a Silver Loan (ADD 0052),r 2,šību[witness]N Nuhšaya[1]PN

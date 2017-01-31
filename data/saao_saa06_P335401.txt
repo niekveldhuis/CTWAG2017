@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),o 1',bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP Kannuʾ[1]GN
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),o 2',ṭāhu[adjacent-to]PRP ummu[mother]N ša[of]DET Kannuʾ[1]GN
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),o 3',ṭāhu[adjacent-to]PRP hūlu[way]N ša[that]REL ana[to]PRP Nuhub[1]GN alāku[go]V
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),o 4',kirû[garden]N ina[in]PRP libbu[interior]N
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),o 5',ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),o 6',gimru[totality]N eqlu[field]N
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),r 1',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),r 2',ina[in]PRP Ištar[1]DN āšibu[sitting]AJ Ninua[Nineveh]GN tadānu[give]V
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),r 3',kaspu[silver]N ina[in]PRP ešriātu[tenfold]AV ina[in]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),r 4',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),r 5',dīnu[legal-decision]N dayyānu[judge]N lā[not]MOD šemû[hear]V
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),r 6',šību[witness]N Arzezu[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335401,SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),SAA 06 211. Mannu-ki-Arbail Buys an Estate (676?) (ADD 0460),r 7',šību[witness]N Ha-bašti[1]PN rabû[big-one]N atû[gatekeeper]N

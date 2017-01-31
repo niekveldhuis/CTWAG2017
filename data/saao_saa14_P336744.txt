@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336744,SAA 14 400. Purchase of Slaves (K 05628),SAA 14 400. Purchase of Slaves (K 05628),1',ištu[from]PRP pānu[front]N
+saao/saa14/P336744,SAA 14 400. Purchase of Slaves (K 05628),SAA 14 400. Purchase of Slaves (K 05628),2',ina[in]PRP libbu[interior]N
+saao/saa14/P336744,SAA 14 400. Purchase of Slaves (K 05628),SAA 14 400. Purchase of Slaves (K 05628),3',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P336744,SAA 14 400. Purchase of Slaves (K 05628),SAA 14 400. Purchase of Slaves (K 05628),4',nišu[people]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa14/P336744,SAA 14 400. Purchase of Slaves (K 05628),SAA 14 400. Purchase of Slaves (K 05628),5',leqû[taken]AJ
+saao/saa14/P336744,SAA 14 400. Purchase of Slaves (K 05628),SAA 14 400. Purchase of Slaves (K 05628),r 1',šību[witness]N
+saao/saa14/P336744,SAA 14 400. Purchase of Slaves (K 05628),SAA 14 400. Purchase of Slaves (K 05628),r 2',šību[witness]N
+saao/saa14/P336744,SAA 14 400. Purchase of Slaves (K 05628),SAA 14 400. Purchase of Slaves (K 05628),r 3',šību[witness]N

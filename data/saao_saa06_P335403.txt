@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),o 1',kirû[garden]N tillatu[vine]N
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),o 5',ṭāhu[adjacent-to]PRP
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),o 6',ṭāhu[adjacent-to]PRP
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),o 7',epēšu[do]V
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),o 8',muterru[(re)turner]N ṭēmu[(fore)thought]N
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),b.e. 9',ša[of]DET Nergal-šumu-ibni[1]PN
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 1,ina[in]PRP libbu[interior]N biltu[load]N erû[copper]N
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 2,leqû[take]V imēru[unit]N karānu[vine]N
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 3,ana[to]PRP šapartu[pledge]N akālu[eat]V
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 4,mannu[who?]QP ša[that]REL ina[in]PRP arkû[rear]AJ ūmu[day]N alāku[go]V
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 5,erû[copper]N tadānu[give]V kirû[garden]N
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 6,tillatu[vine]N aṣû[go-out]V
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 7,šību[witness]N
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 8,šību[witness]N Ša-la-maše[1]PN
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 9,šību[witness]N
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 10,šību[witness]N ša[that]REL biltu[load]N
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 11,erû[copper]N tadānu[give]V
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 12,šību[witness]N Dilil-Issar[1]PN
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 13,ūmu[day]N
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),r 14,līmu[eponym-(of-year)]N Mannu-ki-Adad[1]PN
+saao/saa06/P335403,SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),SAA 06 186. An Officer of the Crown Prince Acquires a Vineyard (683) (ADD 0463),e. 1,šību[witness]N

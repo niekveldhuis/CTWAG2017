@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P337168,SAA 14 422. Fragment of a Witness List (ZA 73 03),SAA 14 422. Fragment of a Witness List (ZA 73 03),r 1,kirû[garden]N ša[of]DET
+saao/saa14/P337168,SAA 14 422. Fragment of a Witness List (ZA 73 03),SAA 14 422. Fragment of a Witness List (ZA 73 03),r 2,Gadda[1]PN rabû[big-one]N ālu[city]N ša[of]DET
+saao/saa14/P337168,SAA 14 422. Fragment of a Witness List (ZA 73 03),SAA 14 422. Fragment of a Witness List (ZA 73 03),r 3,rabû[big-one]N kallāpu[outrider]N ša[of]DET pīhātu[responsibility]N
+saao/saa14/P337168,SAA 14 422. Fragment of a Witness List (ZA 73 03),SAA 14 422. Fragment of a Witness List (ZA 73 03),r 4,nukaribbu[gardener]N ša[of]DET kirû[garden]N tillatu[vine]N
+saao/saa14/P337168,SAA 14 422. Fragment of a Witness List (ZA 73 03),SAA 14 422. Fragment of a Witness List (ZA 73 03),r 5,šību[witness]N Apladad-ilaʾi[1]PN
+saao/saa14/P337168,SAA 14 422. Fragment of a Witness List (ZA 73 03),SAA 14 422. Fragment of a Witness List (ZA 73 03),r 6,nāqidu[herdsman]N

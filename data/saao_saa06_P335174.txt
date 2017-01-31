@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 1,kunukku[seal]N Nabu-duru-kuṣur[1]PN
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 2,ša-rēši[eunuch]N bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 3,Mullissu-duru-uṣri[1]PN amtu[maid]N
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 4,ša[of]DET Nabu-duru-kuṣur[1]PN epēšu[do]V
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 5,Silim-Aššur[1]PN ištu[from]PRP pānu[front]N Nabu-duru-kuṣur[1]PN
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 6,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 7,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ sinništu[woman]N šuāti[him]IP
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 8,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 9,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 10,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 11,parāku[lie-across]V lū[may]MOD Nabu-duru-kuṣur[1]PN
+saao/saa06/P335174,SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),SAA 06 228. Silim-Aššur Buys a Maid (ADD 0227),o 12,lū[may]MOD ahu[brother]N lū[may]MOD māru[son]N ahu[brother]N

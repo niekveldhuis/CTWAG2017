@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),o 1,ṣarpu[silver]N ina[in]PRP manû[unit]N
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),o 2,pīhātu[responsibility]N
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),o 3,Il-nuri[1]PN
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),r 1,ša[of]DET Balaṭu[1]GN
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),r 2,Mudadi[1]PN šanû[second]NU
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),r 3,Nabu-ušezib[1]PN ṭupšarru[scribe]N
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),r 4,ina[in]PRP Tašritu[Tishri]MN tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),r 5,ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),r 6,šību[witness]N Nabu-ušezib[1]PN
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),r.e. 7,šību[witness]N Bel-leʾi[1]PN Mannu-ki-Ninua[1]PN
+saao/saa14/P334964,SAA 14 231. A Fragmentary Silver Loan (ADD 0012),SAA 14 231. A Fragmentary Silver Loan (ADD 0012),r.e. 8,šību[witness]N Nabu-dur-beliya[1]PN

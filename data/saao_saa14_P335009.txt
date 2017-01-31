@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),o 1,ṣarpu[silver]N
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),o 2,ša[of]DET
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),o 3,ša[of]DET Gallulu[1]PN
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),o 4,ina[in]PRP pānu[front]N Šep-Issar[1]PN malāhu[sailor]N
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),o 5,ina[in]PRP qaqqadu[head]N ilu[god]N eššu[new]AJ
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),o 6,ša[of]DET Tašritu[Tishri]MN tadānu[give]V
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),b.e. 7,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),b.e. 8,ana[to]PRP šalāšiu[third]NU rabû[to-be-big]V
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),r 1,Nisannu[Nisan]MN ūmu[day]N
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),r 2,līmu[eponym-(of-year)]N Šamaš-daʾʾinanni[1]PN
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),r 3,šību[witness]N Sun-Issar[1]PN
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),r 4,šību[witness]N Nabu-taqqinanni[1]PN
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),r 5,šību[witness]N Nabu-šumu-iddina[1]PN
+saao/saa14/P335009,SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),SAA 14 148. Gallulu Lends Silver (*645-I-1) (ADD 0057),r 6,šību[witness]N Šamaš-remanni[1]PN

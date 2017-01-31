@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 1,kunukku[seal]N Ahuʾa-eriba[1]PN ša-muhhi-bēti[overseer-of-the-household]N
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 2,ša[of]DET Barhaza[1]GN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 3,bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 4,Abi-lihiya[1]PN amtu[maid]N
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 5,ša[of]DET Ahuʾa-eriba[1]PN ša-muhhi-bēti[overseer-of-the-household]N
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 6,epēšu[do]V šakintu[(a-female-official)]N Al-Aššur[1]GN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 7,ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 8,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 9,tadnu[given]AJ sinništu[woman]N šuāti[him]IP
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 10,zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 11,târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 12,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 13,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 14,parāku[lie-across]V lū[may]MOD Ahuʾa-eriba[1]PN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 15,lū[may]MOD bēlu[lord]N ša[that]REL dīnu[legal-decision]N
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),o 16,dabābu[speak]V išti[with]PRP šakintu[(a-female-official)]N
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 1,buʾʾû[look-for]V manû[unit]N ṣarpu[silver]N
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 2,manû[unit]N hurāṣu[gold]N ina[in]PRP burku[knee]N
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 3,āšibu[sitting]AJ Al-Aššur[1]GN šakānu[put]V
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 4,kaspu[silver]N adi[until]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 5,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 6,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 7,šību[witness]N Šamaš-dala[1]PN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 8,šību[witness]N Šar-Issar[1]PN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 9,šību[witness]N Nabu-damqi-ilani[1]PN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 10,šību[witness]N Aššur-nadin-ahi[1]PN šangû[priest]N
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 11,šību[witness]N Mananu[1]PN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 12,šību[witness]N Mannu-ki-Ninua[1]PN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 13,šību[witness]N Hannusi[1]PN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 14,šību[witness]N Adda-natan[1]PN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 15,šību[witness]N Namari-Dadi[1]PN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 16,šību[witness]N Hana-Seʾ[1]PN
+saao/saa14/P335156,SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),SAA 14 014. Manageress of Assur Buys a Woman (ADD 0209),r 17,šību[witness]N Nargi[1]PN

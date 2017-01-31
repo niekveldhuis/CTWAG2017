@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),o 1,manû[unit]N ṣarpu[silver]N hubullu[debt]N
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),o 2,ša[of]DET Šamaš-ilaʾi[1]PN
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),o 3,ša[that]REL ina[in]PRP muhhu[skull]N Saʾilu[1]PN
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),o 4,Saʾilu[1]PN ana[to]PRP Šamaš-ilaʾi[1]PN
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),o 5,šalāmu[be(come)-healthy]V tadānu[give]V
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),o 6,eṭāru[to-pay]V išti[with]PRP pānu[front]N ahāmiš[one-another]PRP
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),r 1,mamman[somebody]XP išti[with]PRP mamman[somebody]XP lā[not]MOD dabābu[speak]V
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),r 2,Simanu[Sivan]MN ūmu[day]N
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),r 3,līmu[eponym-(of-year)]N Mannu-ki-Adad[1]PN
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),r 4,šību[witness]N Saʾiru[1]PN
+saao/saa06/P335106,SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),SAA 06 178. Sailu Pays Off His Debts to Šamaš-ila'i (683-III-7) (ADD 0155),r 5,šību[witness]N Dadi[1]PN

@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),o 1,manû[unit]N ṣarpu[silver]N rēštu[beginning]N
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),o 2,ša[of]DET Remut-ilani[1]PN ina[in]PRP pānu[front]N
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),o 3,ina[in]PRP pānu[front]N Šulmu-Aya[1]PN ina[in]PRP pānu[front]N
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),o 4,ina[in]PRP pānu[front]N Sin-šar-ahhešu[1]PN
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),o 5,ina[in]PRP pānu[front]N Šarru-emuranni[1]PN
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),b.e. 6,ina[in]PRP Nisannu[Nisan]MN ana[to]PRP qaqqadu[head]N
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),b.e. 7,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),r 1,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),r 2,rabû[to-be-big]V Duʾuzu[Tammuz]MN ūmu[day]N
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),r 3,līmu[eponym-(of-year)]N Adad-nadin-ahi[1]PN
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),r 4,šību[witness]N Bel-šarru-ibni[1]PN šību[witness]N
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),r 5,šību[witness]N šību[witness]N Kanunayu[1]PN
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),r 6,šību[witness]N
+saao/saa14/P334997,SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),SAA 14 092. Remut-ilani Lends One Mina of Silver (*647-IV-20) (ADD 0045),r.e. 7,šību[witness]N

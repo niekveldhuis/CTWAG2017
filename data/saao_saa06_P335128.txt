@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 1,kunukku[seal]N Hattayu[1]PN
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 2,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 3,Lu-ahhe[1]PN ardu[slave]N
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 4,epēšu[do]V Dannaya[1]PN
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 5,ištu[from]PRP pānu[front]N Hattayu[1]PN
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 6,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 7,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 8,awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 9,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 10,mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),o 11,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),r 1',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),r 2',šību[witness]N Šamaš-ilaʾi[1]PN
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),r 3',šību[witness]N Himari[1]PN
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),r 4',šību[witness]N Zabda[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),r 5',šību[witness]N Hara-Dadi[1]PN
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),r 6',šību[witness]N Mannu-ki-ahhe[1]PN
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),r 7',ša-huṭāri[staff-bearer]N
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),r 8',šību[witness]N Urda-Ninurta[1]PN nagāru[joiner]N
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),r 9',Elulu[Elul]MN ūmu[day]N
+saao/saa06/P335128,SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),SAA 06 244. Dannaya Buys a Slave (672-VI-5) (ADD 0178),r 10',līmu[eponym-(of-year)]N Nabu-belu-uṣur[1]PN

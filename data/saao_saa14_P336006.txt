@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336006,SAA 14 208. Slaves for Nabu-šumu-uṣur (ADD 1243),SAA 14 208. Slaves for Nabu-šumu-uṣur (ADD 1243),o 1',arku[long]AJ
+saao/saa14/P336006,SAA 14 208. Slaves for Nabu-šumu-uṣur (ADD 1243),SAA 14 208. Slaves for Nabu-šumu-uṣur (ADD 1243),o 2',qiāšu[give]V adi[until]PRP ūmu[day]N
+saao/saa14/P336006,SAA 14 208. Slaves for Nabu-šumu-uṣur (ADD 1243),SAA 14 208. Slaves for Nabu-šumu-uṣur (ADD 1243),b.e. 3',ša[that]REL Nabu-šumu-uṣur[1]PN
+saao/saa14/P336006,SAA 14 208. Slaves for Nabu-šumu-uṣur (ADD 1243),SAA 14 208. Slaves for Nabu-šumu-uṣur (ADD 1243),b.e. 4',balṭu[living]AJ
+saao/saa14/P336006,SAA 14 208. Slaves for Nabu-šumu-uṣur (ADD 1243),SAA 14 208. Slaves for Nabu-šumu-uṣur (ADD 1243),r 1,palāhu[fear]V

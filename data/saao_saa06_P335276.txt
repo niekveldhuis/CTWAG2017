@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),o 2,ṣupru[nail]N Šep-Issar[1]PN bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),o 3,bītu[house]N epšu[made]AJ adi[until]PRP gušūru[tree-trunk]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),o 4,adi[until]PRP daltu[door]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),o 5,kutallu[back]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),o 6,bītu[house]N mayyālu[bed]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),o 7,ṭāhu[adjacent-to]PRP
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),o 8,ṭāhu[adjacent-to]PRP
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),o 9,imēru[unit]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),o 11,ištu[from]PRP pānu[front]N Šep-Issar[1]PN
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 1',harbakkannu[(a-kind-of-horse)]N ina[in]PRP šaplu[underside]N Nergal[1]DN erēbu[enter]V
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 2',manû[unit]N ṣarpu[silver]N ana[to]PRP burku[knee]N šakānu[put]V
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 3',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 4',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 5',šību[witness]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 6',šību[witness]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 7',šību[witness]N Aššur-abu-uṣur[1]PN
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 8',šību[witness]N Ṣallam-šarri-iqbi[1]PN
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 9',šību[witness]N Ubru-Nergal[1]PN
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 10',šību[witness]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 11',šību[witness]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 12',māru[son]N Ninua[Nineveh]GN
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 13',šību[witness]N ṭupšarru[scribe]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 14',ṣābitu[recipient]N ṭuppu[tablet]N ūmu[day]N
+saao/saa06/P335276,SAA 06 302. Purchase of a House (670?) (ADD 0332),SAA 06 302. Purchase of a House (670?) (ADD 0332),r 15',līmu[eponym-(of-year)]N

@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),o 1,iṣu[tree]N Ṭebetu[Tebet]MN
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),o 2,Mušallim-ilu[1]PN šanû[second]NU ša[of]DET māru[son]N šarru[king]N
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),o 3,ūmu[day]N ša[of]DET Abu[Ab]MN iṣu[tree]N wabālu[bring]V
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),o 4,ūmu[day]N ša[of]DET Abu[Ab]MN iṣu[tree]N lā[not]MOD našû[lifted]AJ
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),o 5,Aya-ammu[1]PN mukillu[holder]N appatu[bridle]N ša[of]DET
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),o 6,tašlīšu[third-man-on-chariot]N ša[of]DET
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),r 2',šību[witness]N
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),r 3',šību[witness]N
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),r 4',šību[witness]N ša-rēš-šarri[royal-eunuch]N
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),r 5',šību[witness]N tašlīšu[third-man-on-chariot]N
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),r 6',šību[witness]N tašlīšu[third-man-on-chariot]N
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),r 7',šību[witness]N ša-qurbūti[close-follower]N
+saao/saa14/P335574,SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),SAA 14 324. Document Concerning Delivery of Wood (ADD 0694),r.e. 8,šību[witness]N šanû[second]NU

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334960,SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),o 1,kunukku[seal]N Ahunu[1]PN
+saao/saa06/P334960,SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),o 2,ša[of]DET Kar-Mullissu[1]GN šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P334960,SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),o 3,ša[of]DET Mannu-ki-Arbail[1]PN
+saao/saa06/P334960,SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),o 4,ina[in]PRP pānu[front]N Ahunu[1]PN
+saao/saa06/P334960,SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),o 5,ina[in]PRP Ayaru[Iyyar]MN ina[in]PRP libbu[interior]N Ayaru[Iyyar]MN ṣarpu[silver]N ina[in]PRP qaqqadu[head]N
+saao/saa06/P334960,SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),o 6,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V ina[in]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa06/P334960,SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),o 7,ina[in]PRP Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N Atar-ili[1]PN
+saao/saa06/P334960,SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),o 8,pīhātu[responsibility]N Lahiru[1]GN
+saao/saa06/P334960,SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),SAA 06 216. Mannu-ki-Arbail Loans Silver to Ahuni (673-II-1) (ADD 0008),o 9,šību[witness]N Malezazi[1]PN

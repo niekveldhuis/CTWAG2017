@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),o 1',ṭāhu[adjacent-to]PRP sūqāqû[street]N
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),o 2',bītu[house]N imēru[unit]N kirû[garden]N
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),o 3',epēšu[do]V
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),o 4',šakintu[(a-female-official)]N ša[of]DET qabaltu[middle]N ālu[city]N
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),o 5',ištu[from]PRP šību[witness]N
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),o 6',ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),o 7',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),o 8',bītu[house]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),r 1,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),r 2,mannu[who?]QP ša[that]REL parāku[lie-across]V lū[may]MOD
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),r 3,lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),r 4,lū[may]MOD ahu[brother]N lū[may]MOD māru[son]N ahu[brother]N
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),r 5,ša[that]REL išti[with]PRP dīnu[legal-decision]N
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),r 6,dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),r 7,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),r 8,ina[in]PRP burku[knee]N šakānu[put]V
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),e. 1,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P335283,SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),SAA 14 175. Manageress of the Central City Buys Land (ADD 0339),e. 2,šību[witness]N Arbailayu[1]PN

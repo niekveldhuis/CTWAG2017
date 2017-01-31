@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 1,kunukku[seal]N Nabu-aplu-iddina[1]PN
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 3,ardu[slave]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 4,sinništu[woman]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 5,mārtu[daughter]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 6,gimru[totality]N napištu[throat]N epēšu[do]V
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 7,Remanni-Adad[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 8,dannu[strong]AJ ša[of]DET Aššur-bani-apli[1]PN šarru[king]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 9,ištu[from]PRP pānu[front]N Nabu-aplu-iddina[1]PN
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 10,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),o 11,leqû[take]V nišu[people]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),r 1',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),r 2',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),r 3',dīnu[legal-decision]N dayyānu[judge]N lā[not]MOD šemû[hear]V
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),r 4',šību[witness]N Saʾiru[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),r 5',šību[witness]N Nabu-emuranni[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),r 6',šību[witness]N Bel-usati[1]PN hazannu[mayor]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),r 7',šību[witness]N Nergal-ilaʾi[1]PN ṭupšarru[scribe]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),r 8',šību[witness]N Hu-bašati[1]PN pallišu[(stone)-borer]N
+saao/saa06/P335267,SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),SAA 06 345. Remanni-Adad Buys Three Slaves (ADD 0322),r 9',šību[witness]N Akkullanu[1]PN

@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 2',ša[of]DET Arbail[Arbela]GN
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 3',epēšu[do]V Mušallim-Issar[1]PN rabû[big-one]N ālu[city]N
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 4',ina[in]PRP libbu[interior]N manû[unit]N erû[copper]N imēru[unit]N kurummatu[ration]N akī[as]PRP pašāru[release]V
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 5',zarāpu[purchase]V leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 6',awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ aplu[paid-off]AJ zakû[pure]AJ
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 7',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 8',mannu[who?]QP ša[that]REL ana[to]PRP urkiš[later]AV ana[to]PRP ūmu[day]N ṣiātu[distant-time]N
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 9',lū[may]MOD lū[may]MOD māru[son]N
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 10',lū[may]MOD māru[son]N māru[son]N lū[may]MOD bēlu[lord]N ilku[state-service]N
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 11',dīnu[legal-decision]N dabābu[speak]V išti[with]PRP Mušallim-Issar[1]PN
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 12',buʾʾû[look-for]V manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 13',ana[to]PRP Ištar[1]DN ša[of]DET Arbail[Arbela]GN tadānu[give]V
+saao/saa06/P335430,SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),SAA 06 003. Mušallim-Issar Buys a Slave (ADD 0492),o 14',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V

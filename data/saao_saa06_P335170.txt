@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 1',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 2',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 3',sinništu[woman]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 4',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 5',ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 6',lū[may]MOD Abi-salam[1]PN lū[may]MOD māru[son]N
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 7',lū[may]MOD ahu[brother]N lū[may]MOD māru[son]N ahu[brother]N
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 8',lū[may]MOD šaknu[appointee]N lū[may]MOD
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 9',lū[may]MOD qurbu[relative]N ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 10',išti[with]PRP Addati[1]PN
+saao/saa06/P335170,SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),SAA 06 082. Addati Governess Purchases a Woman (ADD 0223),o 11',u[and]CNJ warkītu[posterity]N

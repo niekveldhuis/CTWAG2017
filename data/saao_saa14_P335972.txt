@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),o 1,kunukku[seal]N Aššur-iddina[1]PN
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),o 2,manû[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),o 3,ša[of]DET Ṭab-šar-Aššur[1]PN
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),o 4,ina[in]PRP pānu[front]N Aššur-iddin[1]PN
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),o 5,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),o 6,rabû[to-be-big]V
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),b.e. 7,šību[witness]N Nabuʾa[1]PN
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),b.e. 8,šību[witness]N Dadi-iqbi[1]PN
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),r 1,šību[witness]N Nabu-nadin-ahhe[1]PN
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),r 2,šību[witness]N Habbur-Issar[1]PN
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),r 3,šību[witness]N Sin-naʾdi[1]PN
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),r 4,šību[witness]N Nergal-ahu-uṣur[1]PN
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),r 5,šību[witness]N
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),r 6,Tašritu[Tishri]MN ūmu[day]N
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),r 7,līmu[eponym-(of-year)]N Awianu[1]PN
+saao/saa14/P335972,SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),SAA 14 082. Ṭab-šar-Aššur Lends One Mina of Silver (655-VII-11) (ADD 1192),r.e. 8,šību[witness]N

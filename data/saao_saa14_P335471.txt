@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),o 1,kunukku[seal]N Salamu-imme[1]PN
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),o 2,bēlu[lord]N tadānu[give]V
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),r 1',šību[witness]N Dannaya[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),r 2',šību[witness]N tašlīšu[third-man-on-chariot]N
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),r 3',šību[witness]N rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),r 4',šību[witness]N Tariba-Issar[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),r 5',šību[witness]N Šulmu-mati[1]PN rabû[big-one]N zammāru[singer]N
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),r 6',šību[witness]N Nabu-balassu-iqbi[1]PN ša-husīni[husinnu-man]N
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),r 7',šību[witness]N Šamaš-ilaʾi[1]PN ša-bēti-šanie[domestic-servant]N
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),r 8',šību[witness]N Ha-bašti[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),r 9',šību[witness]N Bel-duri[1]PN šību[witness]N Šamaš-ereš[1]PN
+saao/saa14/P335471,SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),SAA 14 066. Urdu-Issar Buys [...] (ADD 0537),r 10',arhu[month]N ūmu[day]N

@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 1,kunukku[seal]N Asalluhi-remanni[1]PN
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 2,kunukku[seal]N Hidatanu[1]PN
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 3,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 8,bītu[house]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 9,ša[of]DET
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 10,gabdi[adjoining-to]PRP
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 11,epēšu[do]V Kakkullanu[1]PN
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 12,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 13,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 14,tadnu[given]AJ eqlu[field]N šuāti[him]IP
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 15,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),o 16,dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),b.e. 17,laššu[(there)-is-not]V mannu[who?]QP
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),b.e. 18,ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 1,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 2,parāku[lie-across]V lū[may]MOD awīlu[man]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 3,annû[this]DP lū[may]MOD māru[son]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 4,lū[may]MOD māru[son]N māru[son]N ša[that]REL dīnu[legal-decision]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 5,išti[with]PRP Kakkullanu[1]PN māru[son]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 6,māru[son]N māru[son]N buʾʾû[look-for]V
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 7,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 8,târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 9,lā[not]MOD leqû[take]V
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 10,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N Kanunayu[1]PN
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 11,ša[of]DET Dur-Šarruken[1]GN
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 12,šību[witness]N Nabu-tariṣ[1]PN ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 13,šību[witness]N Aššur-killanni[1]PN ša-qurbūti[close-follower]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 14,šību[witness]N Balasi[1]PN
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 15,šību[witness]N Mannu-ki-Nabu[1]PN ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 16,šību[witness]N Inurti[1]PN ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 17,šību[witness]N Arbailayu[1]PN ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 18,šību[witness]N Urdu-apli[1]PN ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335343,SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),SAA 14 043. Kakkullanu Buys Land (*624-II-15) (ADD 0400),r 19,šību[witness]N Qarha[1]PN ša-šēpi[(kingʾs)-personal-guard]N

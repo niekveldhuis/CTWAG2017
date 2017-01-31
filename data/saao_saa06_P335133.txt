@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 1,kunukku[seal]N Mukin-Aššur[1]PN
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 2,ardu[slave]N ša[of]DET ša-pān-ēkalli[palace-supervisor]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 3,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 4,Nabu-belu-uṣur[1]PN ēpû[baker]N ardu[slave]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 5,ša[of]DET Mukin-Aššur[1]PN
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 6,epēšu[do]V Remanni-Adad[1]PN
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 7,mukillu[holder]N appatu[bridle]N dannu[strong]AJ ina[in]PRP libbu[interior]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 8,manû[unit]N ṣarpu[silver]N ina[in]PRP ālu[city]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 9,zarāpu[purchase]V leqû[take]V kaspu[silver]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 10,gammuru[finished]AJ tadnu[given]AJ ardu[slave]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 11,leqû[taken]AJ târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 12,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 13,ina[in]PRP matīma[ever]AV lū[may]MOD Mukin-Aššur[1]PN
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 14,lū[may]MOD māru[son]N lū[may]MOD ahu[brother]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),o 15,ša[that]REL išti[with]PRP Remanni-Adad[1]PN
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 1,u[and]CNJ māru[son]N dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 2,buʾʾû[look-for]V manû[unit]N ṣarpu[silver]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 3,tadānu[give]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 4,lā[not]MOD leqû[take]V ṣibtu[seizure]N bennu[epilepsy]N ina[in]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 5,sartu[falsehood]N ina[in]PRP kalû[totality]N ūmu[day]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 6,šību[witness]N Nergal-šarru-uṣur[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 7,šību[witness]N Uarbisi[1]PN
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 8,šību[witness]N Šamaš-šarru-uṣur[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 9,šību[witness]N Nabu-šezib[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 10,šību[witness]N Zaruti[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 11,šību[witness]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 12,ūmu[day]N
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 13,līmu[eponym-(of-year)]N Šamaš-kašid-ayabi[1]PN
+saao/saa06/P335133,SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),SAA 06 305. Remanni-Adad Buys a Baker (669) (ADD 0183+),r 14,šību[witness]N Ahu-ṭaba[1]PN

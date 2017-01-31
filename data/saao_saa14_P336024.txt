@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336024,SAA 14 382. (no title) (ADD 1264),SAA 14 382. (no title) (ADD 1264),o 1',māru[son]N Sin-naʾdi[1]PN
+saao/saa14/P336024,SAA 14 382. (no title) (ADD 1264),SAA 14 382. (no title) (ADD 1264),o 2',māru[son]N Ṣidqi[1]PN
+saao/saa14/P336024,SAA 14 382. (no title) (ADD 1264),SAA 14 382. (no title) (ADD 1264),o 3',māru[son]N Keni[1]PN

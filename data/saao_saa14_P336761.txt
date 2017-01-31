@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336761,SAA 14 417. Fragment of a Conveyance Text (K 20558),SAA 14 417. Fragment of a Conveyance Text (K 20558),o 1,kunukku[seal]N
+saao/saa14/P336761,SAA 14 417. Fragment of a Conveyance Text (K 20558),SAA 14 417. Fragment of a Conveyance Text (K 20558),o 2,bēlu[lord]N
+saao/saa14/P336761,SAA 14 417. Fragment of a Conveyance Text (K 20558),SAA 14 417. Fragment of a Conveyance Text (K 20558),r 3',līmu[eponym-(of-year)]N

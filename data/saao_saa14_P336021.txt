@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336021,SAA 14 379. (no title) (ADD 1260),SAA 14 379. (no title) (ADD 1260),o 2',māru[son]N šarru[king]N
+saao/saa14/P336021,SAA 14 379. (no title) (ADD 1260),SAA 14 379. (no title) (ADD 1260),o 3',māru[son]N šarru[king]N
+saao/saa14/P336021,SAA 14 379. (no title) (ADD 1260),SAA 14 379. (no title) (ADD 1260),o 4',māru[son]N šarru[king]N
+saao/saa14/P336021,SAA 14 379. (no title) (ADD 1260),SAA 14 379. (no title) (ADD 1260),o 5',māru[son]N šarru[king]N

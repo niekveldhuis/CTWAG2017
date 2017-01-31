@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),o 1,manû[unit]N ṣarpu[silver]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),o 2,ša[of]DET Silim-Aššur[1]PN ina[in]PRP pānu[front]N Urdu-Issar[1]PN
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),o 3,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),o 4,imēru[unit]N mērešu[cultivated-land]N imēru[unit]N eqlu[field]N karaphu[fallow-land]N
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),o 5,gimru[totality]N imēru[unit]N eqlu[field]N zakkû[(official)-freed]N ina[in]PRP Hata[1]GN
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),o 6,ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N eqlu[field]N bītu[house]N Silim-Aššur[1]PN
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),o 7,īnu[eye]N šakānu[put]V našû[lift]V
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),b.e. 8,ana[to]PRP šattu[year]N akālu[eat]V mērešu[cultivated-land]N
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),r 1',līmu[eponym-(of-year)]N Itti-Adad-anenu[1]PN šību[witness]N Ahu-duri[1]PN
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),r 2',šību[witness]N Seʾ-nuri[1]PN šību[witness]N Šer-ilaʾi[1]PN
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),r 3',šību[witness]N Aplu-uṣur[1]PN šību[witness]N Mannu-ki-Arbail[1]PN
+saao/saa06/P335036,SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),SAA 06 224. Duplicate of the Previous Text (679) (ADD 0084),r 4',māru[son]N damqu[good]AJ šību[witness]N Gurdi[1]PN

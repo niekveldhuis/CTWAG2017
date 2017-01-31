@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),o 1,parriṣu[criminal]N ša[that]REL ina[in]PRP muhhu[skull]N bītu[house]N
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),o 2,Šumma-ilani[1]PN zaqāpu[fix-upright]V
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),o 3,manû[unit]N ṣarpu[silver]N Kidin-ili[1]PN
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),o 4,ištu[from]PRP pānu[front]N parriṣu[criminal]N našû[lift]V
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),o 5,ana[to]PRP Šumma-ilani[1]PN tadānu[give]V
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),o 6,šalmu[intact]AJ tadnu[given]AJ
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),b.e. 7,šību[witness]N Abda[1]PN
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),r 1,šību[witness]N Nabu-kašir[1]PN
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),r 2,ša-muhhi-qanāti[overseer-of-reeds]N
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),r 3,šību[witness]N Arbailayu[1]PN šanîš[otherwise]AV
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),r 4,šību[witness]N Saʾilu[1]PN
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),r 5,šību[witness]N Šamaš-raʾim-ketti[1]PN
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),r 6,šību[witness]N nuhatimmu[cook]N
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),r 7,šību[witness]N Ana-Aššur-taklak[1]PN
+saao/saa06/P335063,SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),SAA 06 035. Restitution of Damages to Šumma-ilani (700) (ADD 0112),r.e. 8,ūmu[day]N

@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),1',Asalluhi-hutni[1]PN
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),2',Addi[1]PN ahu[brother]N
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),3',gimru[totality]N napištu[throat]N ardu[slave]N
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),4',ša[of]DET Huddaya[1]PN
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),5',epēšu[do]V Ninuayu[1]PN
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),6',ša-rēši[eunuch]N ša[of]DET šarru[king]N
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),7',ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),8',ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),9',ištu[from]PRP pānu[front]N Huddaya[1]PN
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),10',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),11',awīlu[man]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),12',leqû[taken]AJ târu[turn]V
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),b.e. 13',dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),b.e. 14',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),b.e. 15',u[and]CNJ matīma[ever]AV
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 1,parāku[lie-across]V
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 2,lū[may]MOD Huddaya[1]PN
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 3,lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 4,išti[with]PRP Ninuayu[1]PN
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 5,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 6,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 7,ina[in]PRP burku[knee]N Ištar[1]DN ša[of]DET Ninua[Nineveh]GN
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 8,šakānu[put]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 9,ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP dīnu[legal-decision]N
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 10,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 11,šību[witness]N Bel-dan[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 12,šību[witness]N Addi[1]PN
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 13,šību[witness]N Nabu-naʾid[1]PN
+saao/saa14/P335196,SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),SAA 14 019. Ninuayu Buys Two Slaves (ADD 0249),r 14,šību[witness]N Adad-šezib[1]PN

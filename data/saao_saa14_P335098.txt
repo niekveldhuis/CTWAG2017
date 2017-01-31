@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),b.e. 1,kusāpu[bread]N paššuru[table]N
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),o 2,adi[until]PRP huruhuru[(a-kind-of-bread)]N
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),o 3,huruhuru[(a-kind-of-bread)]N
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),o 4,ša[of]DET qû[unit]N
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),o 5,ša[of]DET unūtu[tools]N
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),o 6,šiqlu[unit]N ṣarpu[silver]N ša[of]DET Sebetti[1]CN
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),o 7,ša[of]DET Nabu-šarru-ukin[1]PN
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),o 8,ina[in]PRP pānu[front]N Ša-la-maše[1]PN
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),o 9,ina[in]PRP pānu[front]N Giritu[1]PN
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),r 1,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),r 2,kusāpu[bread]N ūmu[day]N ša[of]DET erēšu[request]V
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),r 3,tadānu[give]V Duʾuzu[Tammuz]MN ūmu[day]N
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),r 4,līmu[eponym-(of-year)]N Bel-šadduʾa[1]PN
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),r 5,šību[witness]N Nabu-uballissu[1]PN
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),r 6,šību[witness]N Nabu-balassu-iqbi[1]PN
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),r 7,šību[witness]N Ubru-Nabu[1]PN
+saao/saa14/P335098,SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),SAA 14 089. Nabu-šarru-ka’’in Lends Offerings and Silver (650-IV) (ADD 0147),r.e. 8,šību[witness]N Nabu-ahu-iddina[1]PN

@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335552,SAA 14 221. Šarru-lu-dari Buys Land for Two Minas of Silver (ADD 0639),SAA 14 221. Šarru-lu-dari Buys Land for Two Minas of Silver (ADD 0639),r 1,epēšu[do]V Šarru-lu-dari[1]PN
+saao/saa14/P335552,SAA 14 221. Šarru-lu-dari Buys Land for Two Minas of Silver (ADD 0639),SAA 14 221. Šarru-lu-dari Buys Land for Two Minas of Silver (ADD 0639),r 2,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335552,SAA 14 221. Šarru-lu-dari Buys Land for Two Minas of Silver (ADD 0639),SAA 14 221. Šarru-lu-dari Buys Land for Two Minas of Silver (ADD 0639),r 3,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ

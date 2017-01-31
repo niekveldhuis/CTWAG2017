@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),o 1,imēru[unit]N kibtu[wheat]N
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),o 2,ina[in]PRP sūtu[unit]N ša[of]DET Yaʾudu[Judah]GN
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),o 3,ša[of]DET Aduni-ihʾa[1]PN
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),o 4,ina[in]PRP pānu[front]N Attar-suri[1]PN
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),o 5,ardu[slave]N ša[of]DET Padi[1]PN
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),b.e. 6,ina[in]PRP Elulu[Elul]MN ana[to]PRP qaqqadu[head]N
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),r 1,ina[in]PRP Ninua[Nineveh]GN tadānu[give]V
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),r 2,šumma[if]MOD lā[not]MOD tadnu[given]AJ
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),r 3,ana[to]PRP imēru[unit]N rabû[to-be-big]V
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),r 4,Ayaru[Iyyar]MN Gir-Ṣapunu[1]PN
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),r 5,šību[witness]N Abi-umme[1]PN
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),r 6,šību[witness]N Issar-tazi[1]PN
+saao/saa14/P335099,SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),SAA 14 077. Aduni-ih’a Lends Three Homers of Wheat (660-II) (ADD 0148),e. 1,šību[witness]N Bir-Šamaš[1]PN

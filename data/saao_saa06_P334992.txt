@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),o 1,biltu[load]N erû[copper]N rēštu[beginning]N
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),o 2,ša[of]DET Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),o 3,ša[of]DET Mannu-ki-Arbail[1]PN
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),o 4,ina[in]PRP pānu[front]N Šamaš-ahhe-šallim[1]PN
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),o 5,ina[in]PRP Abu[Ab]MN tadānu[give]V
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),o 6,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),b.e. 7,ana[to]PRP šalāšiu[third]NU
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),r 1,rabû[to-be-big]V
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),r 2,ina[in]PRP Simanu[Sivan]MN ūmu[day]N
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),r 3,līmu[eponym-(of-year)]N Banba[1]PN
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),r 4,šību[witness]N Kubabu-ereš[1]PN
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),r 5,šību[witness]N Quya[1]PN Šarru-iqbi[1]PN
+saao/saa06/P334992,SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),SAA 06 214. Mannu-ki-Arbail Loans Copper (676-III-11) (ADD 0040),r 6,šību[witness]N Danqa-dibbi-šarri[1]PN

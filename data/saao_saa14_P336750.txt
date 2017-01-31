@@ -1,0 +1,2 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336750,SAA 14 406. Fragment of a Conveyance Text (K 16480),SAA 14 406. Fragment of a Conveyance Text (K 16480),o 1',manû[unit]N hurāṣu[gold]N sakru[refined]AJ

@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336746,SAA 14 402. Purchase of a Slave (K 15004),SAA 14 402. Purchase of a Slave (K 15004),o 5',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ awīlu[man]N šuāti[him]IP
+saao/saa14/P336746,SAA 14 402. Purchase of a Slave (K 15004),SAA 14 402. Purchase of a Slave (K 15004),o 6',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P336746,SAA 14 402. Purchase of a Slave (K 15004),SAA 14 402. Purchase of a Slave (K 15004),o 7',dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P336746,SAA 14 402. Purchase of a Slave (K 15004),SAA 14 402. Purchase of a Slave (K 15004),o 8',ina[in]PRP matīma[ever]AV parāku[lie-across]V

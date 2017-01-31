@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),o 1,kunukku[seal]N
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),o 3,ša[of]DET
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),o 4,ina[in]PRP pānu[front]N
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),o 5,kūm[instead-of]PRP rubbû[increase]N ša[of]DET ṣarpu[silver]N
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),b.e. 6,bītu[house]N mayyālu[bed]N
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),b.e. 7,bītānu[interior]N
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),b.e. 8,ša[of]DET bītu[house]N ina[in]PRP Ninua[Nineveh]GN
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),r 1,ina[in]PRP šapartu[pledge]N šaknu[placed]AJ
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),r 2,šattu[year]N ina[in]PRP libbu[interior]N
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),r 3,ašābu[sit-(down)]V ṣarpu[silver]N tadānu[give]V
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),r 4,bītu[house]N aṣû[go-out]V Ayaru[Iyyar]MN ūmu[day]N
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),r 5,līmu[eponym-(of-year)]N Auianu[1]PN
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),r 6,šību[witness]N Qurqusia[1]PN
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),r 7,šību[witness]N Urdu-Mullissi[1]PN
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),r.e. 8,šību[witness]N Sinqi-Issar[1]PN
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),r.e. 9,šību[witness]N Bariku[1]PN
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),e. 1,šību[witness]N Nabu-eriba[1]PN
+saao/saa14/P224959,SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),SAA 14 440. Bedroom and Inner Courtyard Pledged (655-II-19) (TIM 11 17),e. 2,šību[witness]N Urdu-Nabu[1]PN

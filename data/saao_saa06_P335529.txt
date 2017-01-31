@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),o 1,kunukku[seal]N Mardu[1]PN rabû[big-one]N ālu[city]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),o 10,šuāti[him]IP zarpu[purchased]AJ apû[to-be(come)-visible]V
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),o 11,leqû[taken]AJ târu[turn]V
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),o 12,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),o 13,mannu[who?]QP ša[that]REL ina[in]PRP arkû[rear]AJ ūmu[day]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),b.e. 14,elû[go-up]V
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),b.e. 15,kaspu[silver]N mahāru[face]V
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 1,ana[to]PRP
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 2,ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 3,šību[witness]N Mannu-ki-Issar-leʾi[1]PN
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 4,rabû[big-one]N kiṣru[knot]N ša[of]DET sinništu[woman]N ēkallu[palace]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 5,šību[witness]N Banunu[1]PN rabû[big-one]N kiṣru[knot]N šanîš[otherwise]AV
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 6,šību[witness]N Ululayu[1]PN ša-qurbūti[close-follower]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 7,šību[witness]N Inurti[1]PN rabû[big-one]N dayyālu[scout]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 8,ša[of]DET Kalhu[1]GN
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 9,šību[witness]N Urdu-Issar[1]PN ṣarrāpu[goldsmith]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 10,šību[witness]N Inurta-raši[1]PN
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 11,šību[witness]N Nabu-šarru-uṣur[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 12,ša[of]DET sinništu[woman]N ēkallu[palace]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 13,šību[witness]N Nabuʾa[1]PN
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 14,šušānu[horse-trainer]N ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 15,šību[witness]N Nabuʾa[1]PN
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 16,šību[witness]N Kusisi[1]PN
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 17,līmu[eponym-(of-year)]N Bel-emuranni[1]PN tartānu[second-in-command]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r 18,Simanu[Sivan]MN ūmu[day]N
+saao/saa06/P335529,SAA 06 164. (no title) (686-III-9) (ADD 0612),SAA 06 164. (no title) (686-III-9) (ADD 0612),r.e. 19,šību[witness]N Nabu-zeru-iddina[1]PN

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335344,SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),2',ina[in]PRP libbu[interior]N manû[unit]N erû[copper]N
+saao/saa14/P335344,SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),3',epēšu[do]V ana[to]PRP Kakkullanu[1]PN
+saao/saa14/P335344,SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),4',tadānu[give]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335344,SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),5',tadnu[given]AJ eqlu[field]N zarpu[purchased]AJ
+saao/saa14/P335344,SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),6',leqû[taken]AJ târu[turn]V dabābu[speak]V
+saao/saa14/P335344,SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),7',laššu[(there)-is-not]V
+saao/saa14/P335344,SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),r 3',šību[witness]N
+saao/saa14/P335344,SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),r 4',šību[witness]N
+saao/saa14/P335344,SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),SAA 14 052. Kakkullanu Buys Land for Nine Minas of Copper (ADD 0401),r 7',Duʾuzu[Tammuz]MN ūmu[day]N

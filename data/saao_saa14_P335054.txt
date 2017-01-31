@@ -1,0 +1,23 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),o 1,kunukku[seal]N Nabu-šallim-ahhe[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),o 2,māru[son]N Pan-Nabu-ṭemi[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),o 3,Mannu-ki-mat-Aššur[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),o 4,ina[in]PRP qabaltu[middle]N Ninua[Nineveh]GN ana[to]PRP pānu[front]N Nabu-šallim-ahhe[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),o 5,pānu[front]N Nabu-balassu-iqbi[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),o 6,Kiṣir-Aššur[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),o 7,pānu[front]N Nabu-nadin-ahhe[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),o 8,ṣabātu[seize]V ina[in]PRP muhhu[skull]N arkû[rear]AJ
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),o 9,ša[of]DET amtu[maid]N ša[of]DET qabû[say]V
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),b.e. 10,mā[saying]PRP arkû[rear]AJ bašû[exist]V
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),r 1,wabālu[bring]V lā[not]MOD wabālu[bring]V
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),r 2,ūma[today]AV Mannu-ki-mat-Aššur[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),r 3,šiqlu[unit]N ṣarpu[silver]N ana[to]PRP Nabu-šallim-ahhe[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),r 4,lā[not]MOD maṭû[be(come)-little]V ramû[slacken]V
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),r 5,ana[to]PRP kīma[like]PRP eṣēdu[harvest]V
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),r 6,eṣēdu[harvest]V arkû[rear]AJ
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),r 7,buʾʾû[look-for]V wabālu[bring]V
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),r 8,Simanu[Sivan]MN ūmu[day]N
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),r 9,līmu[eponym-(of-year)]N Nabu-tapputi-alik[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),e. 1,šību[witness]N Pašanu[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),e. 2,Urdu-Issar[1]PN
+saao/saa14/P335054,SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),SAA 14 171. Mannu-ki-mat-Assur Seizes His Debtor (*613-III-1) (ADD 0102),e. 3,Quni-Huru[1]PN

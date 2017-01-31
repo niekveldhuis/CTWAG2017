@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335221,SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),o 1,kunukku[seal]N Tiri[1]PN šaknu[appointee]N
+saao/saa06/P335221,SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),o 2,Harranu[Harran]GN bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335221,SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),o 3,sinništu[woman]N
+saao/saa06/P335221,SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),o 4,gimru[totality]N napištu[throat]N
+saao/saa06/P335221,SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),r 2',šību[witness]N ṭupšarru[scribe]N
+saao/saa06/P335221,SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),r 3',Tašritu[Tishri]MN ūmu[day]N
+saao/saa06/P335221,SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),r 4',līmu[eponym-(of-year)]N Aššur-daʾʾinanni[1]PN
+saao/saa06/P335221,SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),SAA 06 172. Purchase of Slaves (685-VII-26) (ADD 0274),r 5',ša[of]DET Quwe[1]GN

@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),o 1',kunukku[seal]N māru[son]N Abayu[1]PN
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),o 2',kunukku[seal]N mārtu[daughter]N
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),o 3',gimru[totality]N awīlu[man]N ēpû[baker]N ša[of]DET mašennu[(an-administrator)]N rabû[big]AJ
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),o 4',bēlu[lord]N bītu[house]N eqlu[field]N adru[threshing-floor]N tadānu[give]V
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),r 1',šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),r 2',šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),r 3',šību[witness]N Nabu-zeru-iddina[1]PN ṭupšarru[scribe]N
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),r 4',šību[witness]N Nabu-eṭir-napšati[1]PN ṭupšarru[scribe]N
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),r 5',šību[witness]N ṭupšarru[scribe]N
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),r 6',ša[of]DET mašennu[(an-administrator)]N rabû[big]AJ
+saao/saa06/P335534,SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),SAA 06 209. Sale of a House Field and Threshing-Floor (ADD 0617),r 7',šību[witness]N hazannu[mayor]N

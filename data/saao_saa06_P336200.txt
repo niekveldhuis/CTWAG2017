@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P336200,SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),o 1,kunukku[seal]N Lidbubu-lipušu[1]PN
+saao/saa06/P336200,SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),o 2,kunukku[seal]N Ahu-nuri[1]PN
+saao/saa06/P336200,SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),o 3,gimru[totality]N awīlu[man]N bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P336200,SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),r 1',šību[witness]N Keni[1]PN
+saao/saa06/P336200,SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),r 2',šību[witness]N Sin-kašir[1]PN ṭupšarru[scribe]N
+saao/saa06/P336200,SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),r 3',Simanu[Sivan]MN ūmu[day]N
+saao/saa06/P336200,SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),SAA 06 148. Fragment of a Slave Sale (690-III-2) (Iraq 32 14),r 4',līmu[eponym-(of-year)]N Nabu-kenu-uṣur[1]PN

@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),o 1',epēšu[do]V Šari[1]PN
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),o 2',ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),o 3',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),o 4',eqlu[field]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),o 5',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),o 6',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),b.e. 7',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),b.e. 8',ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),b.e. 9',parāku[lie-across]V lū[may]MOD
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),r 1,Titi[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),r 2,lū[may]MOD māru[son]N māru[son]N ša[that]REL dīnu[legal-decision]N
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),r 3,dabābu[speak]V išti[with]PRP Šari[1]PN māru[son]N
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),r 4,māru[son]N māru[son]N buʾʾû[look-for]V
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),r 5,manû[unit]N ṣarpu[silver]N mesû[washed]AJ
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),r 6,manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),r 7,ina[in]PRP burku[knee]N Inurta[1]DN
+saao/saa14/P335530,SAA 14 219. Šari Buys a Field (ADD 0613),SAA 14 219. Šari Buys a Field (ADD 0613),r 8,šakānu[put]V kaspu[silver]N

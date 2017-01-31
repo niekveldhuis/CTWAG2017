@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),o 1,manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),o 2,ša[of]DET Aplaya[1]PN
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),o 3,ina[in]PRP pānu[front]N Sukkaya[1]PN
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),o 4,šiqlu[unit]N ša[of]DET arhu[month]N
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),o 5,rabû[to-be-big]V Abu[Ab]MN ūmu[day]N
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),b.e. 6,līmu[eponym-(of-year)]N Bel-emuranni[1]PN
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),b.e. 7,tartānu[second-in-command]N
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),r 1,šību[witness]N Nabu-šezib[1]PN
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),r 2,šību[witness]N Abdi-El[1]PN
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),r 3,šību[witness]N Issar-duri[1]PN
+saao/saa06/P334980,SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),SAA 06 107. Aplaya Loans Three Minas of Silver (686-V-2) (ADD 0028),r 4,šību[witness]N Apladad-hutni[1]PN

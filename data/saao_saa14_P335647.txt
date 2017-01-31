@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335647,SAA 14 340. Fragment of a Conveyance Text (ADD 0793),SAA 14 340. Fragment of a Conveyance Text (ADD 0793),1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N
+saao/saa14/P335647,SAA 14 340. Fragment of a Conveyance Text (ADD 0793),SAA 14 340. Fragment of a Conveyance Text (ADD 0793),2,šakānu[put]V ṣupru[nail]N
+saao/saa14/P335647,SAA 14 340. Fragment of a Conveyance Text (ADD 0793),SAA 14 340. Fragment of a Conveyance Text (ADD 0793),3,ṣupru[nail]N Gabbaru[1]PN

@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 1,kunukku[seal]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 2,kunukku[seal]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 3,māru[son]N Marduk-uballiṭ[1]PN
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 4,kunukku[seal]N Aššur-šarru-uṣur[1]PN
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 5,gimru[totality]N awīlu[man]N bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 6,bītu[house]N epšu[made]AJ adi[until]PRP gušūru[tree-trunk]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 7,adi[until]PRP daltu[door]N ina[in]PRP Ninua[Nineveh]GN
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 8,bītu[house]N akkullu[hatchet]N bītu[house]N mayyālu[bed]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 9,bītu[house]N ramāku[bathing]N bītu[house]N guršu[chapel]N bītu[house]N abūsu[storehouse]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 10,bītu[house]N elû[upper-part]N daltu[door]N ina[in]PRP libbu[interior]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 11,ṭāhu[adjacent-to]PRP bītu[house]N Apli[1]PN ṭāhu[adjacent-to]PRP Huṣurayu[1]PN
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 12,ṭāhu[adjacent-to]PRP Marduku[1]PN ṭāhu[adjacent-to]PRP Marduk-uballiṭ[1]PN
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 13,bītu[house]N gimru[totality]N ša[of]DET lā[not]MOD ilku[state-service]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 14,epēšu[do]V
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 15,ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 16,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 17,bītu[house]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 18,târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 19,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),o 20,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),r 1,parāku[lie-across]V lū[may]MOD awīlu[man]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),r 2,mammanu-[whosoever]XP
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),r 3,māru[son]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),e. 1,šību[witness]N ṭupšarru[scribe]N šību[witness]N Remut-ili[1]PN šību[witness]N
+saao/saa14/P335284,SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),SAA 14 149. Purchase of a House in Nineveh (*641-V-13) (ADD 0340),e. 2,šību[witness]N ṭupšarru[scribe]N Abu[Ab]MN ūmu[day]N līmu[eponym-(of-year)]N

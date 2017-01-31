@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335648,SAA 14 341. Debt Note (ADD 0794),SAA 14 341. Debt Note (ADD 0794),1',imēru[unit]N
+saao/saa14/P335648,SAA 14 341. Debt Note (ADD 0794),SAA 14 341. Debt Note (ADD 0794),2',ša[of]DET
+saao/saa14/P335648,SAA 14 341. Debt Note (ADD 0794),SAA 14 341. Debt Note (ADD 0794),3',ina[in]PRP pānu[front]N
+saao/saa14/P335648,SAA 14 341. Debt Note (ADD 0794),SAA 14 341. Debt Note (ADD 0794),5',ina[in]PRP pūhu[exchange]N našû[lift]V

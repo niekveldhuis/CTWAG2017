@@ -1,0 +1,23 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),o 2',ina[in]PRP libbu[interior]N sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),o 3',eqlu[field]N ana[to]PRP šupēltu[exchange]N
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),o 4',ṭāhu[adjacent-to]PRP hūlu[way]N ša[that]REL ana[to]PRP
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),o 5',alāku[go]V ṭāhu[adjacent-to]PRP hūlu[way]N šarru[king]N ša[of]DET
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),o 6',epēšu[do]V ištu[from]PRP pānu[front]N awīlu[man]N
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),o 7',šuāti[him]IP leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),b.e. 8',eqlu[field]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),b.e. 9',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),b.e. 10',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 1,lū[may]MOD awīlu[man]N annû[this]DP
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 2,lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 3,lū[may]MOD ahu[brother]N lū[may]MOD mammanu-[whosoever]XP
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 4,ša[that]REL dīnu[legal-decision]N dabābu[speak]V išti[with]PRP
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 5,u[and]CNJ nišu[people]N buʾʾû[look-for]V
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 6,manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 7,ina[in]PRP burku[knee]N Nikkal[1]DN
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 8,sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Sin[1]DN
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 9,āšibu[sitting]AJ Harranu[Harran]GN rakāsu[bind]V
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 10,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),r 11,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),e. 1,šību[witness]N Dadi[1]PN šību[witness]N ṭupšarru[scribe]N
+saao/saa14/P335333,SAA 14 193. Bel-[…] Buys Land (ADD 0389),SAA 14 193. Bel-[…] Buys Land (ADD 0389),e. 2,ṣābitu[recipient]N ṭuppu[tablet]N arhu[month]N ūmu[day]N līmu[eponym-(of-year)]N

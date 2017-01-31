@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),o 1',sinništu[woman]N
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),o 2',epēšu[do]V
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),o 3',ina[in]PRP libbu[interior]N
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),o 4',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),o 5',tadnu[given]AJ sinništu[woman]N šuāti[him]IP zarpu[purchased]AJ leqû[take]V
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),o 6',dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),o 7',laššu[(there)-is-not]V
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),b.e. 8',mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),b.e. 9',manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),r 1,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),r 2,ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),r 3,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),r 4,šību[witness]N Ṣidqa[1]PN
+saao/saa14/P335502,SAA 14 301. Purchase of a Woman (ADD 0577),SAA 14 301. Purchase of a Woman (ADD 0577),r 5,šību[witness]N Nabu-šumu-iddina[1]PN

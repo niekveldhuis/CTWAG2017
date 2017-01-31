@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 1,kunukku[seal]N Seʾ-natan[1]PN
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 3,Dinana[1]PN Gabiya[1]PN sinništu[woman]N
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 4,gimru[totality]N napištu[throat]N ardu[slave]N ša[of]DET Seʾ-natan[1]PN
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 5,epēšu[do]V Remanni-Adad[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 6,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 7,tadnu[given]AJ nišu[people]N zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 8,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 9,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV matīma[ever]AV
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 10,lū[may]MOD Seʾ-natan[1]PN lū[may]MOD mammanu-[whosoever]XP
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 11,ša[that]REL zaqāpu[fix-upright]V
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 12,parāku[lie-across]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 13,išti[with]PRP Remanni-Adad[1]PN u[and]CNJ māru[son]N
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),o 14,buʾʾû[look-for]V
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 1,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 2,ina[in]PRP burku[knee]N Belet-Ninua[Lady-of-Nineveh]DN šakānu[put]V
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 3,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 4,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 5,šību[witness]N Bel-aplu-iddina[1]PN pīhātu[responsibility]N
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 6,šību[witness]N Sin-abu-uṣur[1]PN
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 7,šību[witness]N Nergal-šarru-uṣur[1]PN ša-muhhi-āli[town-overseer]N
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 8,šību[witness]N Kiṣir-Aššur[1]PN hazannu[mayor]N
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 9,šību[witness]N Il-Il-milki[1]PN māru[son]N Bel-nuri[1]PN
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 10,šību[witness]N Bel-taklak[1]PN
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 11,šību[witness]N Rahim-Dadi[1]PN tamkāru[merchant]N
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 12,šību[witness]N Ilu-deni-amur[1]PN māru[son]N Bel-aplu-iddina[1]PN
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 13,šību[witness]N Adad-šallim[1]PN māru[son]N Attara[1]PN
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 14,šību[witness]N Ninuayu[1]PN šību[witness]N Bariku[1]PN
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 15,šību[witness]N Ahu-ilaʾi[1]PN šību[witness]N Nabu-šezibanni[1]PN
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 16,šību[witness]N Keni[1]PN ṭupšarru[scribe]N
+saao/saa06/P335184,SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),SAA 06 319. Remanni-Adad Buys Two Slaves (665-XI-10) (ADD 0237),r 17,Šabaṭu[Shebat]MN ūmu[day]N

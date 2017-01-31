@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336762,SAA 14 418. (no title) (K 20644),SAA 14 418. (no title) (K 20644),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa14/P336762,SAA 14 418. (no title) (K 20644),SAA 14 418. (no title) (K 20644),o 2,ṣupru[nail]N
+saao/saa14/P336762,SAA 14 418. (no title) (K 20644),SAA 14 418. (no title) (K 20644),o 3,ša[of]DET

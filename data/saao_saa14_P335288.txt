@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335288,SAA 14 054. Purchase of a House (ADD 0344),SAA 14 054. Purchase of a House (ADD 0344),o 1,kunukku[seal]N Šammu-uballiṭ[1]PN
+saao/saa14/P335288,SAA 14 054. Purchase of a House (ADD 0344),SAA 14 054. Purchase of a House (ADD 0344),o 2,ša-rēši[eunuch]N bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa14/P335288,SAA 14 054. Purchase of a House (ADD 0344),SAA 14 054. Purchase of a House (ADD 0344),r 1',šību[witness]N atû[gatekeeper]N
+saao/saa14/P335288,SAA 14 054. Purchase of a House (ADD 0344),SAA 14 054. Purchase of a House (ADD 0344),r 2',šību[witness]N Addi[1]PN tamkāru[merchant]N
+saao/saa14/P335288,SAA 14 054. Purchase of a House (ADD 0344),SAA 14 054. Purchase of a House (ADD 0344),r 3',šību[witness]N Nušku-balaṭu-uṣur[1]PN
+saao/saa14/P335288,SAA 14 054. Purchase of a House (ADD 0344),SAA 14 054. Purchase of a House (ADD 0344),r 4',māru[son]N Aššur-kettu-iram[1]PN
+saao/saa14/P335288,SAA 14 054. Purchase of a House (ADD 0344),SAA 14 054. Purchase of a House (ADD 0344),r 5',šību[witness]N Marduk-šarru-ibni[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335288,SAA 14 054. Purchase of a House (ADD 0344),SAA 14 054. Purchase of a House (ADD 0344),r 6',šību[witness]N Ṣalam-šarri-iqbi[1]PN
+saao/saa14/P335288,SAA 14 054. Purchase of a House (ADD 0344),SAA 14 054. Purchase of a House (ADD 0344),r.e. 7,šību[witness]N Nabu-šarru-uṣur[1]PN ša-rēši[eunuch]N

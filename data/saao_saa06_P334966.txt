@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334966,SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),1',šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P334966,SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),2',ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa06/P334966,SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),3',Nisannu[Nisan]MN ūmu[day]N
+saao/saa06/P334966,SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),b.e. 4',līmu[eponym-(of-year)]N Nabu-belu-uṣur[1]PN
+saao/saa06/P334966,SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),b.e. 5',šaknu[appointee]N mātu[land]N Dur-Šarruken[1]GN
+saao/saa06/P334966,SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),SAA 06 282. Fragment of a Debt-Note (672-I-26) (ADD 0014),r 1,šību[witness]N Taqisu[1]PN sīrāšû[brewer]N

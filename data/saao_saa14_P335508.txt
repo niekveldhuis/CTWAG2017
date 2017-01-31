@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),3',epēšu[do]V
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),4',ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),5',ištu[from]PRP pānu[front]N
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 1',šību[witness]N
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 2',šību[witness]N
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 3',šību[witness]N Adallal[1]PN
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 4',šību[witness]N Aʾilanu[1]PN
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 5',šību[witness]N Mannu-ki-ahhe[1]PN
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 6',šību[witness]N Zabinu[1]PN
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 7',šību[witness]N Ki-Mama[1]PN
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 8',šību[witness]N Hanunu[1]PN
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 9',šību[witness]N Adad-belu-uṣur[1]PN
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 10',Ayaru[Iyyar]MN ūmu[day]N
+saao/saa14/P335508,SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),SAA 14 076. Bel-[...] Buys [...] (661-II-1) (ADD 0586),r 11',līmu[eponym-(of-year)]N Arbailayu[1]PN

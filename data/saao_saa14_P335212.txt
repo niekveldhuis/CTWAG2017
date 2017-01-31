@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 1',Bel-nuri[1]PN ardu[slave]N
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 2',Šamaš-eriba[1]PN Busuku[1]PN sinništu[woman]N
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 3',epēšu[do]V Isinnayu[1]PN
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 4',ištu[from]PRP pānu[front]N Kiribtu-Aššur[1]PN
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 5',ina[in]PRP libbu[interior]N erû[copper]N ina[in]PRP manû[unit]N
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 6',zarāpu[purchase]V
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 7',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 8',tadnu[given]AJ nišu[people]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 9',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 10',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),o 11',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),r 1',ina[in]PRP burku[knee]N āšibu[sitting]AJ
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),r 2',šakānu[put]V
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),r 3',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),r 4',ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),r 5',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),r 6',mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),r 7',nabalkutu[cross-over]V
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),r 8',manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),r 9',šību[witness]N Duri-Aššur[1]PN šību[witness]N Ibašši-ilani[1]PN
+saao/saa14/P335212,SAA 14 196. Isinnayu Buys Slaves (ADD 0265),SAA 14 196. Isinnayu Buys Slaves (ADD 0265),r 10',šību[witness]N

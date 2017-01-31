@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335380,SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),o 1,kunukku[seal]N Habi[1]PN
+saao/saa06/P335380,SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),o 2,bēlu[lord]N bītu[house]N eqlu[field]N kirû[garden]N
+saao/saa06/P335380,SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),o 3,kirû[garden]N ša[of]DET arqu[green]AJ tadānu[give]V
+saao/saa06/P335380,SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),o 4,bītu[house]N epšu[made]AJ adi[until]PRP
+saao/saa06/P335380,SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),r 1',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335380,SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),r 2',šību[witness]N šību[witness]N
+saao/saa06/P335380,SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),r 3',šību[witness]N šību[witness]N
+saao/saa06/P335380,SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),r 4',šību[witness]N šību[witness]N Šamšya[1]PN
+saao/saa06/P335380,SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),r 5',šību[witness]N šību[witness]N Il-maʾadi[1]PN
+saao/saa06/P335380,SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),SAA 06 187. Purchase of a House and Gardens (682-II-24) (ADD 0437),r.e. 6,Ayaru[Iyyar]MN ūmu[day]N

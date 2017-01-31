@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),o 1,kunukku[seal]N Bel-ibni[1]PN
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),o 2,bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),o 3,Uquputu[1]PN amtu[maid]N
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),o 4,ša[of]DET Bel-ibni[1]PN epēšu[do]V
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),o 5,Šumma-ilani[1]PN
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),o 6,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),o 7,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),o 8,tadnu[given]AJ sinništu[woman]N šuāti[him]IP
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),r 1,šību[witness]N
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),r 2,šību[witness]N Takkulu[1]PN
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),r 3,šību[witness]N Nabu-kuṣuranni[1]PN
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),r 4,šību[witness]N Nabu-duru-uṣur[1]PN
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),r 5,ṭupšarru[scribe]N ūmu[day]N
+saao/saa06/P335169,SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),SAA 06 045. Šumma-ilani Buys a Maid (682) (ADD 0222),r 6,līmu[eponym-(of-year)]N Nabu-šarru-uṣur[1]PN

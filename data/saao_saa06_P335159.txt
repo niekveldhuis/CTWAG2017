@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 1,kunukku[seal]N Nabu-zeru-iddina[1]PN
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 2,bēlu[lord]N šinništu[woman]N tadānu[give]V
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 3,Šame-tabani[1]PN amtu[maid]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 4,ša[of]DET Nabu-zeru-iddina[1]PN
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 5,epēšu[do]V Šumma-ilani[1]PN
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 6,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 7,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 8,sinništu[woman]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 9,leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 10,dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 11,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 12,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 13,dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 14,išti[with]PRP Šumma-ilani[1]PN
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 15,išti[with]PRP māru[son]N išti[with]PRP māru[son]N māru[son]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),o 16,išti[with]PRP ahu[brother]N išti[with]PRP māru[son]N ahu[brother]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 1,ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 2,buʾʾû[look-for]V
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 3,kaspu[silver]N ina[in]PRP ešriātu[tenfold]AV ina[in]PRP bēlu[lord]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 4,târu[turn]V ina[in]PRP dīnu[legal-decision]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 5,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 6,ṣibtu[seizure]N bennu[epilepsy]N ina[in]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 7,sartu[falsehood]N ina[in]PRP kalû[totality]N ūmu[day]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 8,šību[witness]N Zababa-ahu-uṣur[1]PN
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 9,šību[witness]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 10,šību[witness]N ēpû[baker]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 11,šību[witness]N Hanin-Aya[1]PN
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 12,šību[witness]N Dagan-milki[1]PN
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 13,šību[witness]N Mannu-ki-ṣabi[1]PN
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 14,šību[witness]N La-tubašanni-ilu[1]PN itinnu[builder]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 15,šību[witness]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),r 16,šību[witness]N
+saao/saa06/P335159,SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),SAA 06 048. Šumma-ilani Buys a Maid (680) (ADD 0212),e. 1,šattu[year]N Sin-ahhe-eriba[Sennacherib]PN

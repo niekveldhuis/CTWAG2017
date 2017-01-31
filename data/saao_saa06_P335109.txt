@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),o 1,kunukku[seal]N
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),o 2,bēlu[lord]N
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),r 1',ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),r 2',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),r 3',lā[not]MOD leqû[take]V
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),r 4',šību[witness]N
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),r 5',šību[witness]N
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),r 6',šību[witness]N
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),r 7',šību[witness]N
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),r 8',šību[witness]N
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),r.e. 9,šību[witness]N
+saao/saa06/P335109,SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),SAA 06 141. A Fragmentary Sale Document (692-1) (ADD 0158),e. 1,ṭupšarru[scribe]N Nisannu[Nisan]MN

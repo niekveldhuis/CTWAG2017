@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335636,SAA 14 333. Fragment of a Conveyance Text (ADD 0776),SAA 14 333. Fragment of a Conveyance Text (ADD 0776),1',ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335636,SAA 14 333. Fragment of a Conveyance Text (ADD 0776),SAA 14 333. Fragment of a Conveyance Text (ADD 0776),2',ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335636,SAA 14 333. Fragment of a Conveyance Text (ADD 0776),SAA 14 333. Fragment of a Conveyance Text (ADD 0776),3',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335636,SAA 14 333. Fragment of a Conveyance Text (ADD 0776),SAA 14 333. Fragment of a Conveyance Text (ADD 0776),r 1,ṣibtu[seizure]N bennu[epilepsy]N ana[to]PRP meʾatu[(one)-hundred]NU
+saao/saa14/P335636,SAA 14 333. Fragment of a Conveyance Text (ADD 0776),SAA 14 333. Fragment of a Conveyance Text (ADD 0776),r 2,ūmu[day]N sartu[falsehood]N ana[to]PRP kalû[totality]N ūmu[day]N
+saao/saa14/P335636,SAA 14 333. Fragment of a Conveyance Text (ADD 0776),SAA 14 333. Fragment of a Conveyance Text (ADD 0776),r 3,šību[witness]N

@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 1,kunukku[seal]N Nabu-eriba[1]PN
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 3,Kandalanu[1]PN māru[son]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 4,sinništu[woman]N mārtu[daughter]N ahu[brother]N māru[son]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 5,epēšu[do]V Ululayu[1]PN
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 6,ištu[from]PRP pānu[front]N Nabu-eriba[1]PN ina[in]PRP libbu[interior]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 7,manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 8,ša[of]DET Gargamis[Carchemish]GN leqû[take]V
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 9,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ nišu[people]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 10,šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 11,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 12,lū[may]MOD Nabu-eriba[1]PN lū[may]MOD pīhātu[responsibility]N lū[may]MOD šanû[second]NU
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),o 13,ša[that]REL dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),b.e. 14,manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 1,šību[witness]N Nabu-leʾani[1]PN
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 2,tašlīšu[third-man-on-chariot]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 3,šību[witness]N Šulmu-beli-lamur[1]PN šanîš[otherwise]AV
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 4,šību[witness]N Nuranu[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 5,šību[witness]N Mannu-ki-Issar-leʾi[1]PN šanîš[otherwise]AV
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 6,šību[witness]N Nuhšaya[1]PN atû[gatekeeper]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 7,šību[witness]N Dadi-ibni[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 8,šību[witness]N Aplu-šezibanni[1]PN māru[son]N damqu[good]AJ
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 9,šību[witness]N Kusisi[1]PN šību[witness]N Inurti[1]PN
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 10,šību[witness]N Risaya[1]PN
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 11,šību[witness]N Tatti[1]PN
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 12,ṭupšarru[scribe]N ṣābitu[recipient]N egertu[inscribed-tablet]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 13,šību[witness]N Nergal-ilu[1]PN šību[witness]N Hu-mamati[1]PN
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 14,šību[witness]N Nabu-ašared[1]PN ṭupšarru[scribe]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 15,šību[witness]N Aššur-abu-uṣur[1]PN ṭupšarru[scribe]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 16,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 17,Manzarne[1]PN pīhātu[responsibility]N
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 18,Kullania[Calneh]GN
+saao/saa06/P335177,SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),SAA 06 177. Purchase of Slaves (684-II-8) (ADD 0230),r 19,šattu[year]N Sin-ahhe-eriba[Sennacherib]PN

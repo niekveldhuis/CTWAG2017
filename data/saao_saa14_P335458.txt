@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335458,SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),o 4',Ṣibtu[1]GN
+saao/saa14/P335458,SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),o 5',epēšu[do]V
+saao/saa14/P335458,SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),o 6',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET šarru[king]N
+saao/saa14/P335458,SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),o 7',ištu[from]PRP pānu[front]N leqû[take]V
+saao/saa14/P335458,SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),b.e. 8',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335458,SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),b.e. 9',kirû[garden]N
+saao/saa14/P335458,SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),r 3,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa14/P335458,SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),r 4,lū[may]MOD lū[may]MOD māru[son]N
+saao/saa14/P335458,SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),SAA 14 192. [... ]-emuranni Buys Land in Ṣibte (ADD 0521),r 5,lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N

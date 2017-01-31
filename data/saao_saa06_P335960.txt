@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),o 1,kunukku[seal]N
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),o 2,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),o 3,bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP Dunnu[1]GN
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),o 4,mišlu[half]NU būru[cistern]N ša[of]DET būru[cistern]N
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),o 5,epēšu[do]V Aššur-aplu-uṣur[1]PN ina[in]PRP libbu[interior]N
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),o 6,manû[unit]N ṣarpu[silver]N ša[of]DET šarru[king]N leqû[take]V
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),r 1',šību[witness]N Urdu-ahhešu[1]PN
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),r 2',šību[witness]N Nabu-naʾid[1]PN Nabu-naṣir[1]PN ikkaru[farmer]N ēkallu[palace]N
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),r 3',šību[witness]N Mera[1]GN
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),r 4',ūmu[day]N
+saao/saa06/P335960,SAA 06 115. Purchase of Land (702) (ADD 1180),SAA 06 115. Purchase of Land (702) (ADD 1180),r 5',līmu[eponym-(of-year)]N Nabu-leʾi[1]PN šaknu[appointee]N mātu[land]N Arbail[Arbela]GN

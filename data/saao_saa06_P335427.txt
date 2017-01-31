@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335427,SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),o 1',Mannu-ki-Arbail[1]PN ištu[from]PRP pānu[front]N Kiṣir-Issar[1]PN
+saao/saa06/P335427,SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),o 2',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335427,SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),o 3',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335427,SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),o 4',kirû[garden]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335427,SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),o 5',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335427,SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),r 1,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335427,SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),r 2,elû[go-up]V lū[may]MOD Kiṣir-Issar[1]PN
+saao/saa06/P335427,SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),r 3,lū[may]MOD māru[son]N lū[may]MOD mammanu-[whosoever]XP
+saao/saa06/P335427,SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),r 4,ša[that]REL parāku[lie-across]V zaqāpu[fix-upright]V
+saao/saa06/P335427,SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),SAA 06 213. Mannu-ki-Arbail Buys a Garden (676?) (ADD 0489),r 5,išti[with]PRP Mannu-ki-Arbail[1]PN

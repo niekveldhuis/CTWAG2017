@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335452,SAA 06 337. Remanni-Adad Buys Land (ADD 0515),SAA 06 337. Remanni-Adad Buys Land (ADD 0515),o 1',bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335452,SAA 06 337. Remanni-Adad Buys Land (ADD 0515),SAA 06 337. Remanni-Adad Buys Land (ADD 0515),o 2',Kapar-Andaranu[1]GN
+saao/saa06/P335452,SAA 06 337. Remanni-Adad Buys Land (ADD 0515),SAA 06 337. Remanni-Adad Buys Land (ADD 0515),o 3',bītu[house]N ana[to]PRP Darigu[1]GN
+saao/saa06/P335452,SAA 06 337. Remanni-Adad Buys Land (ADD 0515),SAA 06 337. Remanni-Adad Buys Land (ADD 0515),o 4',bītu[house]N imēru[unit]N bītu[house]N šīqu[irrigation]N
+saao/saa06/P335452,SAA 06 337. Remanni-Adad Buys Land (ADD 0515),SAA 06 337. Remanni-Adad Buys Land (ADD 0515),o 5',epēšu[do]V Remanni-Adad[1]PN

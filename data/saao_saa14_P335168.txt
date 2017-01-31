@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),o 1',amtu[maid]N
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),o 2',māru[son]N šizbu[milk]N
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),o 3',epēšu[do]V
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),o 4',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),o 5',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),o 6',tadnu[given]AJ sinništu[woman]N māru[son]N šuāti[him]IP
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),o 7',zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),r 1,mannu[who?]QP ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),r 2,buʾʾû[look-for]V ṣarpu[silver]N ana[to]PRP
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),r 3,ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),r 4,šību[witness]N
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),r 5,šību[witness]N
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),r 6,šību[witness]N
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),r 7,šību[witness]N
+saao/saa14/P335168,SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),SAA 14 165. [...]ayu Buys a Woman and a Child (*622) (ADD 0221),e. 1,šību[witness]N šību[witness]N Ṣallaya[1]PN arhu[month]N ūmu[day]N

@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),o 1',bītu[house]N ištu[from]PRP pānu[front]N
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),o 2',bītu[house]N abūsu[storehouse]N qannu[fringe]N ahāmiš[one-another]PRP
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),o 3',adi[until]PRP gimirtu[totality]N
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),o 4',ṭāhu[adjacent-to]PRP
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),o 5',ṭāhu[adjacent-to]PRP sūqu[street]N
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),o 6',gabdi[adjoining-to]PRP kirû[garden]N
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),o 7',epēšu[do]V
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),o 8',pīhātu[responsibility]N
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),r 1',lū[may]MOD
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),r 2',išti[with]PRP māru[son]N
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),r 3',buʾʾû[look-for]V
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),r 4',ana[to]PRP Adad[1]DN āšibu[sitting]AJ
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),r 5',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),r 6',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P418948,SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),SAA 14 131. Purchase of a House (666-II-16) (ADD 0338),e. 1,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N Kanunayu[1]PN

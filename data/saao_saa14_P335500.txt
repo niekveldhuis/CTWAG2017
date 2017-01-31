@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335500,SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),o 1,kunukku[seal]N
+saao/saa14/P335500,SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),o 2,bēlu[lord]N tadānu[give]V
+saao/saa14/P335500,SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),r 1',šību[witness]N
+saao/saa14/P335500,SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),r 2',šību[witness]N
+saao/saa14/P335500,SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),r 3',šību[witness]N šību[witness]N Aššur-iddin[1]PN
+saao/saa14/P335500,SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),r 4',šību[witness]N šību[witness]N Nabu-aplu-iddina[1]PN
+saao/saa14/P335500,SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),SAA 14 142. Fragmentary Sales Document (651) (ADD 0574),r 5',šību[witness]N šību[witness]N Kur-ilaʾi[1]PN

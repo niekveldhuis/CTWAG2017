@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335350,SAA 14 191. Bel-emuranni Buys Land (ADD 0407),SAA 14 191. Bel-emuranni Buys Land (ADD 0407),1',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335350,SAA 14 191. Bel-emuranni Buys Land (ADD 0407),SAA 14 191. Bel-emuranni Buys Land (ADD 0407),2',eqlu[field]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335350,SAA 14 191. Bel-emuranni Buys Land (ADD 0407),SAA 14 191. Bel-emuranni Buys Land (ADD 0407),3',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335350,SAA 14 191. Bel-emuranni Buys Land (ADD 0407),SAA 14 191. Bel-emuranni Buys Land (ADD 0407),4',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335350,SAA 14 191. Bel-emuranni Buys Land (ADD 0407),SAA 14 191. Bel-emuranni Buys Land (ADD 0407),b.e. 5',lū[may]MOD awīlu[man]N annû[this]DP
+saao/saa14/P335350,SAA 14 191. Bel-emuranni Buys Land (ADD 0407),SAA 14 191. Bel-emuranni Buys Land (ADD 0407),b.e. 6',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa14/P335350,SAA 14 191. Bel-emuranni Buys Land (ADD 0407),SAA 14 191. Bel-emuranni Buys Land (ADD 0407),b.e. 7',ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335350,SAA 14 191. Bel-emuranni Buys Land (ADD 0407),SAA 14 191. Bel-emuranni Buys Land (ADD 0407),b.e. 8',išti[with]PRP Bel-emuranni[1]PN
+saao/saa14/P335350,SAA 14 191. Bel-emuranni Buys Land (ADD 0407),SAA 14 191. Bel-emuranni Buys Land (ADD 0407),r 1,u[and]CNJ māru[son]N u[and]CNJ māru[son]N māru[son]N
+saao/saa14/P335350,SAA 14 191. Bel-emuranni Buys Land (ADD 0407),SAA 14 191. Bel-emuranni Buys Land (ADD 0407),r 2,buʾʾû[look-for]V

@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335528,SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),r 1',šību[witness]N Barruqu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335528,SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),r 2',šību[witness]N Aššur-ilaʾi[1]PN rabû[big-one]N kiṣru[knot]N ša-qurbūti[close-follower]N
+saao/saa06/P335528,SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),r 3',šību[witness]N Sakkannu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335528,SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),r 4',šību[witness]N Marduk-šarru-uṣur[1]PN māru[son]N Gabbe[1]PN
+saao/saa06/P335528,SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),r 5',šību[witness]N Nergal-šarru-uṣur[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335528,SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),r 6',šību[witness]N Zababa-eriba[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335528,SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),r 7',šību[witness]N Kanunayu[1]PN šību[witness]N
+saao/saa06/P335528,SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),SAA 06 327. Fragment of a Remanni-Adad Witness List (663-X-28) (ADD 0611),r 8',Ṭebetu[Tebet]MN ūmu[day]N līmu[eponym-(of-year)]N Bel-naʾdi[1]PN

@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335601,SAA 14 330. Fragment of a Conveyance Text (ADD 0729),SAA 14 330. Fragment of a Conveyance Text (ADD 0729),1',ša[of]DET Ninua[Nineveh]GN šakānu[put]V
+saao/saa14/P335601,SAA 14 330. Fragment of a Conveyance Text (ADD 0729),SAA 14 330. Fragment of a Conveyance Text (ADD 0729),2',kaspu[silver]N ina[in]PRP ešriātu[tenfold]AV
+saao/saa14/P335601,SAA 14 330. Fragment of a Conveyance Text (ADD 0729),SAA 14 330. Fragment of a Conveyance Text (ADD 0729),3',ina[in]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335601,SAA 14 330. Fragment of a Conveyance Text (ADD 0729),SAA 14 330. Fragment of a Conveyance Text (ADD 0729),4',ina[in]PRP lā[not]MOD dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335601,SAA 14 330. Fragment of a Conveyance Text (ADD 0729),SAA 14 330. Fragment of a Conveyance Text (ADD 0729),5',lā[not]MOD leqû[take]V
+saao/saa14/P335601,SAA 14 330. Fragment of a Conveyance Text (ADD 0729),SAA 14 330. Fragment of a Conveyance Text (ADD 0729),6',šību[witness]N

@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336751,SAA 14 407. Purchase of a Vacant Lot (K 16510),SAA 14 407. Purchase of a Vacant Lot (K 16510),2',qaqqaru[ground]N peṣû[white]AJ
+saao/saa14/P336751,SAA 14 407. Purchase of a Vacant Lot (K 16510),SAA 14 407. Purchase of a Vacant Lot (K 16510),b.e. 3',šuāti[him]IP zarpu[purchased]AJ
+saao/saa14/P336751,SAA 14 407. Purchase of a Vacant Lot (K 16510),SAA 14 407. Purchase of a Vacant Lot (K 16510),b.e. 4',leqû[taken]AJ târu[turn]V
+saao/saa14/P336751,SAA 14 407. Purchase of a Vacant Lot (K 16510),SAA 14 407. Purchase of a Vacant Lot (K 16510),b.e. 5',dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P336751,SAA 14 407. Purchase of a Vacant Lot (K 16510),SAA 14 407. Purchase of a Vacant Lot (K 16510),r 1,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV

@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),o 2,Salamanu[1]PN sinništu[woman]N Musukayu[1]PN sinništu[woman]N
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),o 3,Urdu-Inurta[1]PN mārtu[daughter]N gimru[totality]N napištu[throat]N
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),o 4,māru[son]N Gaddiya[1]PN
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),o 5,gimru[totality]N napištu[throat]N
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 1',sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Sin[1]DN
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 2',āšibu[sitting]AJ Harranu[Harran]GN rakāsu[bind]V kaspu[silver]N
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 3',ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 4',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 5',šību[witness]N Seʾ-naqami[1]PN rabû[big-one]N tillu[appendage]N
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 6',ša[of]DET tartānu[second-in-command]N
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 7',šību[witness]N Abdi-Milki[1]PN māru[son]N pīhātu[responsibility]N
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 8',ša[of]DET Lahiru[1]GN
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 9',šību[witness]N māru[son]N Kilaku[1]PN
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 10',šību[witness]N šību[witness]N Tarditu-Aššur[1]PN ša-rēši[eunuch]N
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),r 11',šību[witness]N Mannu-ki-ṣabi[1]PN šību[witness]N Tabalu[1]PN
+saao/saa14/P335222,SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),SAA 14 146. Purchase of Ten Slaves (*647-X-6) (ADD 0275+),e. 1,ina[in]PRP Ṭebetu[Tebet]MN ūmu[day]N

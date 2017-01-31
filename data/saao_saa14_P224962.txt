@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),o 1,ina[in]PRP ūmu[day]N ša[of]DET Tašritu[Tishri]MN
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),o 2,atānu[she-ass]N adi[until]PRP māru[son]N
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),o 3,Libluṭ[1]PN māru[son]N Urdu-Issar[1]PN wabālu[bring]V
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),o 4,ina[in]PRP qabaltu[middle]N Ninua[Nineveh]GN
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),o 5,ana[to]PRP Adad-bel[1]PN
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),b.e. 6,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),r 1,imēru[donkey]N adi[until]PRP tallaktu[walkway]N
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),r 2,ana[to]PRP Adad-bel[1]PN tadānu[give]V
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),r 3,Elulu[Elul]MN ūmu[day]N
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),r 4,līmu[eponym-(of-year)]N Milki-ramu[1]PN
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),r 5,šību[witness]N Sasi[1]PN
+saao/saa14/P224962,SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),SAA 14 439. Delivery Contract for a Donkey Mare (656-VI-1) (TIM 11 19),r.e. 6,šību[witness]N Ṣil-Mullissu[1]PN

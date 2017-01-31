@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),o 1,kunukku[seal]N Nabuʾa[1]PN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),o 2,ša[of]DET Til-hawar[1]GN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),o 3,bēlu[lord]N bītu[house]N eqlu[field]N adru[threshing-floor]N tabriu[fodder-crop]N
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),o 4,būrtu[cistern]N ina[in]PRP tarbāṣu[courtyard]N tadānu[give]V
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),o 5,bītu[house]N imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r 1',šību[witness]N Bel-Harran-duri[1]PN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r 2',šību[witness]N Qurdi[1]PN šību[witness]N
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r 3',šību[witness]N Nahiri[1]PN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r 4',šību[witness]N Uta[1]PN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r 5',šību[witness]N Ululayu[1]PN Abi-yaqar[1]PN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r 6',šību[witness]N Nuranu[1]PN Dannaya[1]PN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r 7',šību[witness]N Issaran-belu-uṣur[1]PN Nabu-naṣir[1]PN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r 8',šību[witness]N Yadiʾ[1]PN gimru[totality]N ša[of]DET Al-ša-rešani[Eunuch-town]GN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r 9',šību[witness]N Sahar-ili[1]PN Hiri-ahhe[1]PN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r.e. 10,gimru[totality]N ša[of]DET Ṣaṣu[1]GN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r.e. 11,Tašritu[Tishri]MN līmu[eponym-(of-year)]N
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),r.e. 12,Šarru-nuri[1]PN šaknu[appointee]N mātu[land]N Barhalza[1]GN
+saao/saa06/P335347,SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),SAA 06 277. A Fragmentary Estate Sale (674-VII) (ADD 0404),e. 1,nusāhu[(a-grain-tax)]N

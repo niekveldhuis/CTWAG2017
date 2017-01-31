@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 1,kunukku[seal]N Sin-ahu-iddina[1]PN
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 2,kunukku[seal]N Tuwi[1]PN
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 3,gimru[totality]N awīlu[man]N bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 4,Hazala[1]PN
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 5,Ahat-imma[1]PN gimru[totality]N sinništu[woman]N
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 6,amtu[maid]N ša[of]DET awīlu[man]N annû[this]DP
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 7,epēšu[do]V Dannaya[1]PN
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 8,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 9,ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 10,ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 11,leqû[take]V kaspu[silver]N
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),o 12,gammuru[finished]AJ tadnu[given]AJ sinništu[woman]N šuāti[him]IP
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 1',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 2',târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 3',šību[witness]N māru[son]N Bel-šarru-ibni[1]PN
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 4',šību[witness]N atû[gatekeeper]N
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 5',šību[witness]N tamkāru[merchant]N
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 6',šību[witness]N Nergal-šarru-uṣur[1]PN šušānu[horse-trainer]N ša[of]DET urû[team]N
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 7',šību[witness]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 8',šību[witness]N Halahhayu[1]PN
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 9',šību[witness]N Marduʾa[1]PN ṭupšarru[scribe]N
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 10',Nisannu[Nisan]MN ūmu[day]N
+saao/saa06/P335203,SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),SAA 06 239. Dannaya Buys Three Maids (676-1-25) (ADD 0256),r 11',līmu[eponym-(of-year)]N Banba[1]PN

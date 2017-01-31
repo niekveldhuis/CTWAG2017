@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335461,SAA 14 276. Purchase of Land (ADD 0524),SAA 14 276. Purchase of Land (ADD 0524),o 1',imēru[unit]N eqlu[field]N
+saao/saa14/P335461,SAA 14 276. Purchase of Land (ADD 0524),SAA 14 276. Purchase of Land (ADD 0524),o 2',ina[in]PRP libbu[interior]N
+saao/saa14/P335461,SAA 14 276. Purchase of Land (ADD 0524),SAA 14 276. Purchase of Land (ADD 0524),o 3',imēru[unit]N eqlu[field]N ina[in]PRP libbu[interior]N ṭāhu[adjacent-to]PRP
+saao/saa14/P335461,SAA 14 276. Purchase of Land (ADD 0524),SAA 14 276. Purchase of Land (ADD 0524),o 4',ṭāhu[adjacent-to]PRP hūlu[way]N ša[that]REL ana[to]PRP Libbi-ali[Inner-City-(Assur)]GN alāku[go]V
+saao/saa14/P335461,SAA 14 276. Purchase of Land (ADD 0524),SAA 14 276. Purchase of Land (ADD 0524),o 5',imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP hūlu[way]N
+saao/saa14/P335461,SAA 14 276. Purchase of Land (ADD 0524),SAA 14 276. Purchase of Land (ADD 0524),o 6',imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP ummu[mother]N

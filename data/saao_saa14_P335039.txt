@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),o 1,šiqlu[unit]N ṣarpu[silver]N ša[of]DET Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),o 2,ša[of]DET Nabu-iqbi[1]PN ina[in]PRP pānu[front]N Mutaqqin-Aššur[1]PN
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),o 3,ina[in]PRP pānu[front]N Aššur-reši-išši[1]PN ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),o 4,ina[in]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),o 5,eqlu[field]N ina[in]PRP ārišūtu[agricultural-tenancy]N
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),o 6,erēšu[sow]V eṣēdu[harvest]V lā[not]MOD qīpu[representative]N
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),o 7,lā[not]MOD šaknu[appointee]N muttatu[half]N
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),o 8,ištu[from]PRP libbu[interior]N eqlu[field]N hubullu[debt]N
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),b.e. 9,šalāmu[be(come)-healthy]V
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),r 1,Arahsamnu[Marchesvan]MN ūmu[day]N
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),r 2,līmu[eponym-(of-year)]N Dadi[1]PN mašennu[(an-administrator)]N
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),r 3,šību[witness]N Mannu-ki-Issar-leʾi[1]PN
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),r 4,šību[witness]N Urdu-Nanaya[1]PN
+saao/saa14/P335039,SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),SAA 14 164. Inner Tablet of the Preceding Text (ADD 0087),r 5,šību[witness]N Nergal-abu-uṣur[1]PN

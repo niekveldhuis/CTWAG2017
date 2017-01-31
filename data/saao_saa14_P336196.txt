@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),o 2',ša[of]DET
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),o 3',epēšu[do]V
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),o 4',ina[in]PRP manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),o 5',ša[of]DET Gargamis[Carchemish]GN leqû[take]V
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),o 6',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),o 7',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),o 8',târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),o 9',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),o 10',ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),o 11',zaqāpu[fix-upright]V
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),b.e. 12',lū[may]MOD
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),b.e. 13',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),b.e. 14',lū[may]MOD ahu[brother]N lū[may]MOD māru[son]N ahu[brother]N
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 1,lū[may]MOD ša[that]REL
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 2,ša[that]REL dīnu[legal-decision]N dabābu[speak]V išti[with]PRP
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 3,buʾʾû[look-for]V
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 4,manû[unit]N hurāṣu[gold]N ina[in]PRP burku[knee]N
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 5,āšibu[sitting]AJ šakānu[put]V
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 6,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 7,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 8,šību[witness]N Il-šumki[1]PN
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 9,šību[witness]N Ululayu[1]PN
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 10,šību[witness]N Šarru-nuri[1]PN māru[son]N
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 11,šību[witness]N Zabdi[1]PN
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 12,šību[witness]N Il-amar[1]PN
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 13,šību[witness]N Haria[1]PN
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 14,šību[witness]N
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),r 15,šību[witness]N
+saao/saa14/P336196,SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),SAA 14 398. Fragment of a Conveyance Text (Iraq 32 10),e. 1,šību[witness]N Il-gabbe[1]PN muterru[(re)turner]N ṭēmu[(fore)thought]N

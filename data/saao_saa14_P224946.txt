@@ -1,0 +1,38 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 1,kunukku[seal]N Halabeše[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 2,nappāhu[smith]N erû[copper]N māru[son]N Illaya[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 3,bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 4,Puṭu-šisi[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 5,amtu[maid]N ša[of]DET Halabeše[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 6,epēšu[do]V Inurta-šarru-uṣur[1]PN māru[son]N ēkallu[palace]N
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 7,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 8,ištu[from]PRP pānu[front]N Halabeše[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 9,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 10,tadnu[given]AJ amtu[maid]N šuāti[him]IP
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 11,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 12,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 13,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 14,zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),o 15,lū[may]MOD Halabeše[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),b.e. 16,lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 1,ša[that]REL išti[with]PRP Inurta-šarru-uṣur[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 2,išti[with]PRP māru[son]N išti[with]PRP māru[son]N māru[son]N
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 3,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 4,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 5,ina[in]PRP burku[knee]N Ištar[1]DN ša[of]DET Ninua[Nineveh]GN šakānu[put]V
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 6,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 7,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 8,ṣibtu[seizure]N bennu[epilepsy]N ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 9,sartu[falsehood]N ana[to]PRP kalû[totality]N šattu[year]N
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 10,arki[after]PRP andurāru[freedom]N dannutu[binding-document]N šaṭru[written]AJ
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 11,šību[witness]N Pan-Issar-lamur[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 12,šību[witness]N Abdi-Samsi[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 13,šību[witness]N šaknu[appointee]N ša[of]DET Halabese[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 14,šību[witness]N Puṭi-Eše[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 15,šību[witness]N Ahuʾa-eriba[1]PN šību[witness]N Ululayu[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 16,šību[witness]N Dadu[1]PN šību[witness]N Remanni-Illil[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 17,šību[witness]N Biʾisi[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 18,šību[witness]N Šamaš-iddina[1]PN šību[witness]N Ubru-Issar[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r 19,šību[witness]N Mannu-ki-Ninua[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r.e. 20,šību[witness]N Šamaš-ahu-iddina[1]PN
+saao/saa14/P224946,SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),SAA 14 435. Inurta-šarru-uṣur Buys a Woman (*612) (TIM 11 03),r.e. 21,šību[witness]N Nabu-nadin-ahhe[1]PN ṭupšarru[scribe]N

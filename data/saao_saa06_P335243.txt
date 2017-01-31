@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335243,SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),o 1,kunukku[seal]N Ramman-dala[1]PN
+saao/saa06/P335243,SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335243,SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),r 1',šību[witness]N
+saao/saa06/P335243,SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),r 2',šību[witness]N Ahu-duri[1]PN
+saao/saa06/P335243,SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),r 3',šību[witness]N
+saao/saa06/P335243,SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),SAA 06 261. A Fragmentary Slave Sale (680-III-22) (ADD 0298),r 4',Simanu[Sivan]MN ūmu[day]N

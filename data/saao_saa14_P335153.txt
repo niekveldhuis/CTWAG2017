@@ -1,0 +1,40 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 1,kunukku[seal]N Belet-uṣalla[1]PN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 2,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 3,ardu[slave]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 4,ša[of]DET Belet-uṣalla[1]PN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 5,epēšu[do]V šakintu[(a-female-official)]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 6,ša[of]DET Al-Aššur[1]GN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 7,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 8,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 9,tadnu[given]AJ awīlu[man]N šuāti[him]IP
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 10,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 11,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 12,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 13,zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 14,lū[may]MOD Belet-uṣalla[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 15,lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 16,lū[may]MOD mammanu-[whosoever]XP
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 17,ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),o 18,išti[with]PRP šakintu[(a-female-official)]N buʾʾû[look-for]V
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 1,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 2,ina[in]PRP burku[knee]N āšibu[sitting]AJ Al-Aššur[1]GN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 3,šakānu[put]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 4,ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP dīnu[legal-decision]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 5,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 6,dīnu[legal-decision]N dayyānu[judge]N lā[not]MOD šemû[hear]V
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 7,arhu[month]N ūmu[day]N līmu[eponym-(of-year)]N Bel-Harran-šadduʾa[1]PN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 8,šību[witness]N šību[witness]N Marduk-leʾi[1]PN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 9,šību[witness]N šību[witness]N Bel-šarru-uṣur[1]PN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 10,šību[witness]N šību[witness]N Aššur-nadin-ahi[1]PN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 11,šību[witness]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 12,šību[witness]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 13,šību[witness]N Šamaš-dala[1]PN šību[witness]N Belu-lu-balaṭ[1]PN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 14,šību[witness]N Aššur-šarru-ibni[1]PN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 15,šību[witness]N Kanunayu[1]PN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 16,šību[witness]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 17,šību[witness]N Mannu-ki-Ninua[1]PN
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 18,šību[witness]N Hana-Seʾ[1]PN šību[witness]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 19,šību[witness]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 20,šību[witness]N
+saao/saa14/P335153,SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),SAA 14 013. Manageress of Assur Buys a Slave (650) (ADD 0206),r 21,šību[witness]N Nargi[1]PN

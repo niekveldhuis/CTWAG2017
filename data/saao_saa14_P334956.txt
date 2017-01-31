@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),o 2,ša[of]DET Luqu[1]PN
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),o 3,ina[in]PRP pānu[front]N Sukkaya[1]PN
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),o 4,ina[in]PRP pānu[front]N Remut-ilani[1]PN
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),o 5,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),o 6,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),o 7,Elulu[Elul]MN ūmu[day]N
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),b.e. 8,līmu[eponym-(of-year)]N Šamaš-daʾʾinanni[1]PN
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),r 1,šību[witness]N Mannu-ki-Aššur[1]PN ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),r 2,šību[witness]N Qurdi-Dadi[1]PN ēpû[baker]N
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),r 3,šību[witness]N Kur-ilaʾi[1]PN tamkāru[merchant]N
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),r 4,šību[witness]N Takilati[1]PN
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),r 5,šību[witness]N Uqur-ahhe[1]PN
+saao/saa14/P334956,SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),SAA 14 026. Luqu Lends Ten Shekels of Silver (*645-VI-5) (ADD 0004),r 6,šību[witness]N Nargi[1]PN

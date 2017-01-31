@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335251,SAA 06 256. Fragmentary Purchase Document of Idu’a Town Manager (ADD 0306),SAA 06 256. Fragmentary Purchase Document of Idu’a Town Manager (ADD 0306),o 1,kunukku[seal]N Idduʾa[1]PN
+saao/saa06/P335251,SAA 06 256. Fragmentary Purchase Document of Idu’a Town Manager (ADD 0306),SAA 06 256. Fragmentary Purchase Document of Idu’a Town Manager (ADD 0306),o 2,rabû[big-one]N ālu[city]N bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335251,SAA 06 256. Fragmentary Purchase Document of Idu’a Town Manager (ADD 0306),SAA 06 256. Fragmentary Purchase Document of Idu’a Town Manager (ADD 0306),o 3,sinništu[woman]N
+saao/saa06/P335251,SAA 06 256. Fragmentary Purchase Document of Idu’a Town Manager (ADD 0306),SAA 06 256. Fragmentary Purchase Document of Idu’a Town Manager (ADD 0306),r 1',Elulu[Elul]MN līmu[eponym-(of-year)]N

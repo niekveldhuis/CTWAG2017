@@ -1,0 +1,40 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 1,kunukku[seal]N Aššur-matu-taqqin[1]PN
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 2,kunukku[seal]N Gabbu-amur[1]PN
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 3,gimru[totality]N awīlu[man]N māru[son]N Budanuše[1]PN
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 4,bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 5,Issar-remanni[1]PN amtu[maid]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 6,ša[of]DET awīlu[man]N annû[this]DP
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 7,epēšu[do]V Kakkullanu[1]PN
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 8,rabû[big-one]N kiṣru[knot]N ša[of]DET māru[son]N šarru[king]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 9,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 10,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 11,sinništu[woman]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 12,leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),o 13,dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),b.e. 14,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),b.e. 15,zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),b.e. 16,lū[may]MOD awīlu[man]N annû[this]DP
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 1,lū[may]MOD māru[son]N lū[may]MOD ahu[brother]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 2,lū[may]MOD mammanu-[whosoever]XP
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 3,ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 4,išti[with]PRP Kakkullanu[1]PN
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 5,ša[that]REL māru[son]N buʾʾû[look-for]V
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 6,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 7,tadānu[give]V kaspu[silver]N ina[in]PRP ešriātu[tenfold]AV bēlu[lord]N târu[turn]V
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 8,ina[in]PRP lā[not]MOD dīnu[legal-decision]N lā[not]MOD dabābu[speak]V
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 9,lā[not]MOD leqû[take]V
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 10,ṣibtu[seizure]N bennu[epilepsy]N ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 11,sartu[falsehood]N ana[to]PRP kalû[totality]N šattu[year]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 12,šību[witness]N Kiṣir-Aššur[1]PN rabû[big-one]N kiṣru[knot]N ša[of]DET ša-qurbūti[close-follower]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 13,šību[witness]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 14,šību[witness]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 15,šību[witness]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 16,šību[witness]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 17,šību[witness]N Aššur-šarru-uṣur[1]PN
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 18,šību[witness]N Zizi[1]PN šanû[second]NU
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r 19,šību[witness]N Nabu-šarru-uṣur[1]PN
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r.e. 20,rabû[big-one]N kiṣru[knot]N ša[of]DET šarru[king]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r.e. 21,šību[witness]N Nabu-tariṣ[1]PN šušānu[horse-trainer]N šarru[king]N
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),r.e. 22,šību[witness]N Aššur-killanni[1]PN
+saao/saa14/P335158,SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),SAA 14 048. Kakkullanu Buys a Woman (ADD 0211),e. 1,Tašritu[Tishri]MN ūmu[day]N līmu[eponym-(of-year)]N

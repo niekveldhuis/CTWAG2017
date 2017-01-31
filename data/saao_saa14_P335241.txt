@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),3,Halmusu[1]PN kāṣiru[tailor]N sinništu[woman]N
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),4,Mar-lihia[1]PN
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),5,Aššur-šumu-kaʾʾin[1]PN
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),6,gimru[totality]N napištu[throat]N ardu[slave]N ša[of]DET
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),7,epēšu[do]V Babilayu[1]PN
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),r 1',šību[witness]N
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),r 2',šību[witness]N Ribaya[1]PN
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),r 3',šību[witness]N Aya-ammu[1]PN
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),r 4',šību[witness]N Dadi-ibni[1]PN
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),r 5',šību[witness]N Tuimmu[1]PN
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),r 6',šību[witness]N
+saao/saa14/P335241,SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),SAA 14 186. Babilayu Buys Six Slaves (ADD 0296),r 7',šību[witness]N Adad-remanni[1]PN

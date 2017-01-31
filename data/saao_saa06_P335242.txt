@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 1',ištu[from]PRP pānu[front]N Il-taka[1]PN
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 2',ša[of]DET Esaggil[1]TN ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 3',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 4',tadnu[given]AJ nišu[people]N šuāti[him]IP
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 5',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 6',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 7',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV parāku[lie-across]V
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 8',lū[may]MOD Il-taka[1]PN lū[may]MOD māru[son]N
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 9',lū[may]MOD māru[son]N māru[son]N ša[that]REL išti[with]PRP Remanni-Adad[1]PN
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 10',dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),o 11',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),r 1,târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),r 2,lā[not]MOD leqû[take]V
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),r 3,šību[witness]N Zaruti[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),r 4,ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),r 5,šību[witness]N Ha-bašti[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),r 6,šību[witness]N Sin-naʾdi[1]PN
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),r 7,šību[witness]N Ṣillaya[1]PN tamkāru[merchant]N
+saao/saa06/P335242,SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),SAA 06 348. Remanni-Adad Buys Slaves (ADD 0297),r 8,šību[witness]N

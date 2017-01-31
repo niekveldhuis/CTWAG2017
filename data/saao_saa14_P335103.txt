@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),o 2,alpu[ox]N ša[of]DET tallaktu[walkway]N
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),o 3,ša[of]DET māru[son]N šarru[king]N ša[of]DET qātu[hand]N Bel-duri[1]PN
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),o 4,pīhātu[responsibility]N ša[of]DET māru[son]N šarru[king]N
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),o 5,ina[in]PRP pānu[front]N Nargi[1]PN ša[of]DET Balaṭu[1]GN
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),o 6,kūm[instead-of]PRP kurummatu[ration]N kūm[instead-of]PRP alpu[ox]N
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),o 7,ana[to]PRP Bel-duri[1]PN palāhu[fear]V
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),o 8,ša[that]REL mannu[who?]QP ša[that]REL uṭṭatu[grain]N alpu[ox]N
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),b.e. 9,erēbu[enter]V
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),b.e. 10,awīlu[man]N aṣû[go-out]V
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),r 1,šību[witness]N Aššur-šarru-uṣur[1]PN ša-qurbūti[close-follower]N
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),r 2,Balaṭaya[from-Balaṭu]EN
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),r 3,šību[witness]N Aššur-leʾi[1]PN šību[witness]N Aššur-reʾušunu[1]PN
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),r 4,Balaṭaya[from-Balaṭu]EN šību[witness]N Urdu-Issar[1]PN
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),r 5,šību[witness]N Bel-abu-uṣur[1]PN šību[witness]N Ki-Mama[1]PN
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),r 6,ša[of]DET Naṣibinaya[from-Naṣibina]EN šību[witness]N Bel-Harran-abu-uṣur[1]PN
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),r 7,Balaṭaya[from-Balaṭu]EN šību[witness]N Ilu-remanni[1]PN
+saao/saa14/P335103,SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),SAA 14 023. Bel-duri Lends Barley and an Ox (658-VI-18) (ADD 0152),r 8,ša-pīlūšu[limestone-dealer]N Elulu[Elul]MN

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335087,SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa06/P335087,SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),o 2,Sin-šarru-uṣur[1]PN
+saao/saa06/P335087,SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),o 3,Nergal-ašared[1]PN
+saao/saa06/P335087,SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),o 4,Remut-ili[1]PN
+saao/saa06/P335087,SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),o 5,Dayan-Kurbail[1]PN
+saao/saa06/P335087,SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),o 6,ša[of]DET Bahianu[1]PN
+saao/saa06/P335087,SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),o 7,ina[in]PRP pānu[front]N
+saao/saa06/P335087,SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),o 8,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P335087,SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),SAA 06 077. Bahianu Loans Three Homers of Barley (682-I-25) (ADD 0136),o 9,Ayaru[Iyyar]MN ūmu[day]N

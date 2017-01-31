@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P240189,SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),o 1,ṣupru[nail]N Sin-naʾdi[1]PN bēlu[lord]N awīlu[man]N
+saao/saa06/P240189,SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),o 2,Ahu-uqur[1]PN ardu[slave]N
+saao/saa06/P240189,SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),o 3,epēšu[do]V Mušallim-Issar[1]PN
+saao/saa06/P240189,SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),r 1',šību[witness]N
+saao/saa06/P240189,SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),r 2',Simanu[Sivan]MN ūmu[day]N
+saao/saa06/P240189,SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),SAA 06 005. Mušallim-Issar Buys a Servant (729-III-3) (ADD 0195),r 3',līmu[eponym-(of-year)]N Liphur-ilu[1]PN

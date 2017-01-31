@@ -1,0 +1,2 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P337159,SAA 14 454. (no title) (TIM 11 30c),SAA 14 454. (no title) (TIM 11 30c),b.e. 4',ana[to]PRP rebû[fourth]NU rabû[to-be-big]V

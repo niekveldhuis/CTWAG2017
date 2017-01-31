@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336016,SAA 14 141. (no title) (653?-III-11) (ADD 1255),SAA 14 141. (no title) (653?-III-11) (ADD 1255),r 1',gimru[totality]N
+saao/saa14/P336016,SAA 14 141. (no title) (653?-III-11) (ADD 1255),SAA 14 141. (no title) (653?-III-11) (ADD 1255),r 2',leqû[taken]AJ
+saao/saa14/P336016,SAA 14 141. (no title) (653?-III-11) (ADD 1255),SAA 14 141. (no title) (653?-III-11) (ADD 1255),r 3',Kidmuri[1]DN
+saao/saa14/P336016,SAA 14 141. (no title) (653?-III-11) (ADD 1255),SAA 14 141. (no title) (653?-III-11) (ADD 1255),r 4',Simanu[Sivan]MN ūmu[day]N līmu[eponym-(of-year)]N

@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),o 1,kunukku[seal]N
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),o 2,bēlu[lord]N nišu[people]N
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 1',lā[not]MOD leqû[take]V
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 2',šību[witness]N Abi-ilu[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 3',šību[witness]N Saʾiru[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 4',šību[witness]N Bel-zeru-iddina[1]PN
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 5',šību[witness]N Nabu-naʾid[1]PN šušānu[horse-trainer]N
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 6',šību[witness]N Ereš-ilu[1]PN tašlīšu[third-man-on-chariot]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 7',šību[witness]N Nabu-nammir[1]PN
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 8',šību[witness]N Nabuʾa[1]PN ardu[slave]N
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 9',šību[witness]N Sin-mutaqqin[1]PN
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 10',šību[witness]N Seʾ-barakka[1]PN
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 11',šību[witness]N Il-immi[1]PN
+saao/saa06/P335220,SAA 06 199. Purchase of Slaves (ADD 0273),SAA 06 199. Purchase of Slaves (ADD 0273),r 12',šību[witness]N Handi[1]PN

@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335510,SAA 06 205. (no title) (ADD 0588),SAA 06 205. (no title) (ADD 0588),o 2',lā[not]MOD leqû[take]V
+saao/saa06/P335510,SAA 06 205. (no title) (ADD 0588),SAA 06 205. (no title) (ADD 0588),r 1',šību[witness]N ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa06/P335510,SAA 06 205. (no title) (ADD 0588),SAA 06 205. (no title) (ADD 0588),r 2',šību[witness]N tašlīšu[third-man-on-chariot]N
+saao/saa06/P335510,SAA 06 205. (no title) (ADD 0588),SAA 06 205. (no title) (ADD 0588),r 3',šību[witness]N Šulmu-beli-lašme[1]PN nuhatimmu[cook]N
+saao/saa06/P335510,SAA 06 205. (no title) (ADD 0588),SAA 06 205. (no title) (ADD 0588),r 4',šību[witness]N šanû[second]NU

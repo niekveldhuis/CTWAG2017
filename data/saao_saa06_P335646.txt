@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335646,SAA 06 080. Bahianu Loans 6 Shekels of Silver (ADD 0792),SAA 06 080. Bahianu Loans 6 Shekels of Silver (ADD 0792),1,šiqlu[unit]N ṣarpu[silver]N Bahianu[1]PN
+saao/saa06/P335646,SAA 06 080. Bahianu Loans 6 Shekels of Silver (ADD 0792),SAA 06 080. Bahianu Loans 6 Shekels of Silver (ADD 0792),2,ana[to]PRP Halleṣu[1]PN ina[in]PRP pūhu[exchange]N
+saao/saa06/P335646,SAA 06 080. Bahianu Loans 6 Shekels of Silver (ADD 0792),SAA 06 080. Bahianu Loans 6 Shekels of Silver (ADD 0792),3,tadānu[give]V Itti-Adad-ahhutu[1]PN

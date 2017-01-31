@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 1,kunukku[seal]N Seʾ-immi[1]PN
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 2,kunukku[seal]N Diši[1]PN
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 3,gimru[totality]N bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 5,māru[son]N
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 7',māru[son]N
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 8',māru[son]N
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 9',māru[son]N
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 10',gimru[totality]N napištu[throat]N ša[of]DET awīlu[man]N annû[this]DP
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 11',epēšu[do]V Seʾ-iate[1]PN
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 12',ištu[from]PRP pānu[front]N Seʾ-immi[1]PN ištu[from]PRP pānu[front]N Diši[1]PN
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 13',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 14',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ nišu[people]N šuāti[him]IP
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 15',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 16',dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 17',zaqāpu[fix-upright]V manû[unit]N ṣarpu[silver]N manû[unit]N
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 18',hurāṣu[gold]N ana[to]PRP Sin[1]DN āšibu[sitting]AJ Harranu[Harran]GN tadānu[give]V
+saao/saa14/P335228,SAA 14 213. Se-yate Buys People (ADD 0282+),SAA 14 213. Se-yate Buys People (ADD 0282+),o 19',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V

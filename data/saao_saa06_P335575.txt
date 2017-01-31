@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),o 1,ša-pēthalli[rider]N
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),o 2,māru[son]N
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),o 3,ina[in]PRP libbu[interior]N
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),o 4,šunu[they]IP adi[until]PRP
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),o 5,adi[until]PRP alpu[ox]N
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),o 6,ša[that]REL māru[son]N ša[of]DET
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),b.e. 7,ina[in]PRP pānu[front]N
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),b.e. 8,pīhātu[responsibility]N Parsua[1]GN šunu[they]IP
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),r 1,adi[until]PRP libbu[interior]N Tašritu[Tishri]MN šalāmu[be(come)-healthy]V
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),r 2,tadānu[give]V
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),r 3,kīma[like]PRP gabbu[totality]N šalāmu[be(come)-healthy]V tadānu[give]V
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),r 4,Sahhi[1]PN ina[in]PRP pānu[front]N
+saao/saa06/P335575,SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),SAA 06 025. The Governor of Parsua Borrows 50 Cavalrymen (717-I) (ADD 0695),r 5,ramû[slacken]V

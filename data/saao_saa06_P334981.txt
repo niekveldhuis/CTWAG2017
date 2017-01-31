@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334981,SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),o 1,manû[unit]N erû[copper]N
+saao/saa06/P334981,SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),o 2,ša[of]DET Bahianu[1]PN
+saao/saa06/P334981,SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),o 3,ina[in]PRP pānu[front]N Kabti-ilani[1]PN
+saao/saa06/P334981,SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),o 4,ana[to]PRP manû[unit]N rabû[to-be-big]V
+saao/saa06/P334981,SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),o 5,šību[witness]N Aya-neri[1]PN
+saao/saa06/P334981,SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),b.e. 6,šību[witness]N Nabu-zeru-iqiša[1]PN
+saao/saa06/P334981,SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),SAA 06 064. Note of 7 Minas of Copper Owed to Bahianu (693) (ADD 0029),r 1,līmu[eponym-(of-year)]N Iddin-ahhe[1]PN

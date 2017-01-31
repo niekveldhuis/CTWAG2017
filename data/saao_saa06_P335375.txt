@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),o 1,bēlu[lord]N eqlu[field]N kirû[garden]N nišu[people]N tadānu[give]V
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),o 2,ana[to]PRP gimirtu[totality]N
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),o 3,ina[in]PRP mazrūtu[(area-or-state-of)-cultivation]N nāru[river]N mû[water]N kayyamānu[permanent]AJ
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),o 4,zakāru[speak]V
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),o 5,ša-epinni[plowman]N
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),o 6,napištu[throat]N
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),o 7,gimru[totality]N napištu[throat]N
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),r 1',šību[witness]N
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),r 2',šību[witness]N
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),r 3',šību[witness]N Ninua[Nineveh]GN
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),r 4',šību[witness]N
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),r 5',šību[witness]N
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),r 6',šību[witness]N
+saao/saa06/P335375,SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),SAA 06 149. A Broken Real Estate Sale (689) (ADD 0432),r 8',ūmu[day]N līmu[eponym-(of-year)]N Gihilu[1]PN šaknu[appointee]N mātu[land]N

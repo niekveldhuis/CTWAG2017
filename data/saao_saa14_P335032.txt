@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),o 1,manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),o 2,ša[of]DET Kiṣir-Aššur[1]PN
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),o 3,ina[in]PRP pānu[front]N Qat-Aššur-aṣbat[1]PN māru[son]N Issar-naʾdi[1]PN
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),o 4,ina[in]PRP pānu[front]N Susu[1]PN māru[son]N Lu-šakin[1]PN
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),o 5,maškuru[(inflatable)-animal-skin]N ša[of]DET arku[long]AJ
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),o 6,epēšu[do]V ina[in]PRP kūm[instead-of]PRP ina[in]PRP Ayaru[Iyyar]MN
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),b.e. 7,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),b.e. 8,ina[in]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),r 1,Ibašši-ilani[1]PN bēlu[lord]N qātu[hand]N
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),r 2,Ṭebetu[Tebet]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),r 3,šību[witness]N Abu-lešir[1]PN
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),r 4,šību[witness]N Mardu[1]PN
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),r 5,šību[witness]N
+saao/saa14/P335032,SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),SAA 14 033. Kiṣir-Aššur Lends One Mina 30 Shekels of Silver (ADD 0080),r.e. 6,šību[witness]N Nabuʾa[1]PN

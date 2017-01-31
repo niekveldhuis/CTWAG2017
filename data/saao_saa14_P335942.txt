@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335942,SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),o 1,manû[unit]N šiqlu[unit]N immeru[sheep]N
+saao/saa14/P335942,SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),o 2,nikkassu[account(s)]N ša[of]DET Ištar[1]DN Ninua[Nineveh]GN
+saao/saa14/P335942,SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),o 5,ina[in]PRP rabû[to-be-big]V
+saao/saa14/P335942,SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),o 6,bēlu[lord]N qātu[hand]N
+saao/saa14/P335942,SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),b.e. 7,Elulu[Elul]MN ūmu[day]N
+saao/saa14/P335942,SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),b.e. 8,līmu[eponym-(of-year)]N Šamaš-šarru-ibni[1]PN
+saao/saa14/P335942,SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),r 1,šību[witness]N Nabu-kenu-balliṭ[1]PN
+saao/saa14/P335942,SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),r 2,šību[witness]N Issar-ereš[1]PN
+saao/saa14/P335942,SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),r 3,šību[witness]N Zar-Issar[1]PN
+saao/saa14/P335942,SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),SAA 14 173. Inner Tablet of the Preceding Text (ADD 1160),r.e. 4,šību[witness]N Šeʾu[1]PN

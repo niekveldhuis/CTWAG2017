@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),1,kunukku[seal]N
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),2,nukaribbu[gardener]N ištu[from]PRP
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),3,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),4,ardu[slave]N
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),r 1',šarru[king]N
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),r 2',ša-rēši[eunuch]N
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),r 3',šību[witness]N Ubru-Issar[1]PN
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),r 4',šību[witness]N
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),r 5',šību[witness]N
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),r 6',šību[witness]N
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),r 7',šību[witness]N
+saao/saa14/P335995,SAA 14 364. Purchase of a Slave (ADD 1221+),SAA 14 364. Purchase of a Slave (ADD 1221+),r 8',Šabaṭu[Shebat]MN ūmu[day]N

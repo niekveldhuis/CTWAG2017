@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),o 1',ištu[from]PRP pānu[front]N Ṣil-Aššur-allak[1]PN
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),o 2',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),o 3',eqlu[field]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),o 4',târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),o 5',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),o 6',ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),o 7',lū[may]MOD Ṣil-Aššur-allak[1]PN
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),r 1,lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),r 2,ša[that]REL išti[with]PRP Nabuʾa[1]PN u[and]CNJ māru[son]N
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),r 3,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),r 4,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),r 5,târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),r 6,šību[witness]N Dugul-pan-ili[1]PN
+saao/saa14/P335349,SAA 14 079. Nabu’a Buys Land (ADD 0406),SAA 14 079. Nabu’a Buys Land (ADD 0406),r 7,šību[witness]N Mannu-ki-Arbail[1]PN

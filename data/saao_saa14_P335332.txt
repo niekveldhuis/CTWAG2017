@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),o 1,kunukku[seal]N Napi[1]PN
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),o 2,Issar-naʾdi[1]PN kunukku[seal]N
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),o 3,Seʾ-dala[1]PN
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),o 4,Nuraya[1]PN
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),o 5,Aggaru[1]PN gimru[totality]N awīlu[man]N
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),o 6,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),o 7,bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),o 8,ṭāhu[adjacent-to]PRP mašqû[watering-place]N ṭāhu[adjacent-to]PRP būru[cistern]N dannu[strong]AJ
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),o 9,ṭāhu[adjacent-to]PRP Seʾ-dala[1]PN
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),r 1',šību[witness]N
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),r 2',šību[witness]N Nabu-ahu-iddina[1]PN
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),r 3',šību[witness]N Mannu-ki-Aššur[1]PN
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),r 4',šību[witness]N Marduk-bani-ahhi[1]PN
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),r 5',šību[witness]N Nergal-ibni[1]PN
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),r 6',šību[witness]N Nergal-uballit[1]PN
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),r 7',šību[witness]N Igi[1]PN
+saao/saa14/P335332,SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),SAA 14 256. Purchase of an Estate of 10 Hectares (ADD 0388),r 8',šību[witness]N Lit-ili[1]PN

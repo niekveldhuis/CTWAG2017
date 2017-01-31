@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335987,SAA 14 357. (no title) (ADD 1207),SAA 14 357. (no title) (ADD 1207),1',šību[witness]N
+saao/saa14/P335987,SAA 14 357. (no title) (ADD 1207),SAA 14 357. (no title) (ADD 1207),2',šību[witness]N
+saao/saa14/P335987,SAA 14 357. (no title) (ADD 1207),SAA 14 357. (no title) (ADD 1207),3',šību[witness]N
+saao/saa14/P335987,SAA 14 357. (no title) (ADD 1207),SAA 14 357. (no title) (ADD 1207),5',gimru[totality]N

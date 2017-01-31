@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),1,kunukku[seal]N Nabu-ahu-eriba[1]PN bārû[diviner]N
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),2,būrtu[cistern]N tadānu[give]V
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 1',šību[witness]N
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 2',šību[witness]N
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 3',māru[son]N
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 4',šību[witness]N Ahi-qumu[1]PN
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 5',šību[witness]N Adunu[1]PN Halpaya[from-Halpa]PN
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 6',gimru[totality]N ištu[from]PRP Argunu[1]GN
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 7',šību[witness]N
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 8',ṭupšarru[scribe]N ṣābitu[recipient]N ṭuppu[tablet]N
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 9',Ṣidunaya[Sidonite]EN
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 10',gimru[totality]N ištu[from]PRP ša[that]REL ina[in]PRP muhhu[skull]N nahallu[stream]N
+saao/saa14/P335450,SAA 14 271. Purchase of a Well (ADD 0513),SAA 14 271. Purchase of a Well (ADD 0513),r 11',šību[witness]N Aššur-šarru-uṣur[1]PN sasinnu[bow-maker]N

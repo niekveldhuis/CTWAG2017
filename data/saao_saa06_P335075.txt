@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),1,imēru[unit]N karānu[vine]N
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),2,ina[in]PRP qû[unit]N ša[of]DET šarru[king]N ša[of]DET Silim-Aššur[1]PN
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),3,ina[in]PRP pānu[front]N Ubru-Harran[1]PN
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),4,ina[in]PRP ūmu[day]N ša[of]DET Nisannu[Nisan]MN
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),5,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),b.e. 6,karānu[vine]N akī[as]PRP mahīru[market-price]N
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),b.e. 7,ša[of]DET Ninua[Nineveh]GN tadānu[give]V
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),r 1,šību[witness]N Nušku-ilaʾi[1]PN
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),r 2,šību[witness]N Gurrayu[1]PN
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),r 3,šību[witness]N Nabu-šarru-uṣur[1]PN
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),r 4,šību[witness]N Ahu-duri[1]PN
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),r 5,šību[witness]N Ubrutu[1]PN
+saao/saa06/P335075,SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),SAA 06 232. Note of 5 Homers of Wine Owed to Silim-Aššur (675-XII-5) (ADD 0124),r 6,Addaru[Adar]MN ūmu[day]N

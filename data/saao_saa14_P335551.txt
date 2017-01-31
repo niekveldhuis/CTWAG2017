@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335551,SAA 14 323. Fragment of a Witness List (ADD 0638),SAA 14 323. Fragment of a Witness List (ADD 0638),r 1',līmu[eponym-(of-year)]N
+saao/saa14/P335551,SAA 14 323. Fragment of a Witness List (ADD 0638),SAA 14 323. Fragment of a Witness List (ADD 0638),r 2',šību[witness]N
+saao/saa14/P335551,SAA 14 323. Fragment of a Witness List (ADD 0638),SAA 14 323. Fragment of a Witness List (ADD 0638),r 3',šību[witness]N Aplaya[1]PN
+saao/saa14/P335551,SAA 14 323. Fragment of a Witness List (ADD 0638),SAA 14 323. Fragment of a Witness List (ADD 0638),r 4',šību[witness]N Issar-duri[1]PN
+saao/saa14/P335551,SAA 14 323. Fragment of a Witness List (ADD 0638),SAA 14 323. Fragment of a Witness List (ADD 0638),r 5',šību[witness]N Aššur-šimanni[1]PN
+saao/saa14/P335551,SAA 14 323. Fragment of a Witness List (ADD 0638),SAA 14 323. Fragment of a Witness List (ADD 0638),r 6',šību[witness]N
+saao/saa14/P335551,SAA 14 323. Fragment of a Witness List (ADD 0638),SAA 14 323. Fragment of a Witness List (ADD 0638),r 7',šību[witness]N
+saao/saa14/P335551,SAA 14 323. Fragment of a Witness List (ADD 0638),SAA 14 323. Fragment of a Witness List (ADD 0638),r 8',šību[witness]N Qannasusi[1]PN
+saao/saa14/P335551,SAA 14 323. Fragment of a Witness List (ADD 0638),SAA 14 323. Fragment of a Witness List (ADD 0638),r 9',šību[witness]N Urdu-Aššur[1]PN
+saao/saa14/P335551,SAA 14 323. Fragment of a Witness List (ADD 0638),SAA 14 323. Fragment of a Witness List (ADD 0638),r 10',šību[witness]N Nabu-nammir[1]PN

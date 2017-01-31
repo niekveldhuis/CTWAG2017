@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335494,SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),r 1',lā[not]MOD leqû[take]V
+saao/saa14/P335494,SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),r 2',šību[witness]N Kanunayu[1]PN
+saao/saa14/P335494,SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),r 3',šību[witness]N Sin-uballiṭ[1]PN
+saao/saa14/P335494,SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),r 4',šību[witness]N Ribati-ili[1]PN
+saao/saa14/P335494,SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),r 5',šību[witness]N Nabu-aplu-iddina[1]PN
+saao/saa14/P335494,SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),r 6',šību[witness]N Nabu-naʾid[1]PN ša-qurbūti[close-follower]N
+saao/saa14/P335494,SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),r 7',šību[witness]N Bel-ibni[1]PN
+saao/saa14/P335494,SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),SAA 14 055. Fragment of a Kakkullanu Witness List (ADD 0568),r 8',šību[witness]N

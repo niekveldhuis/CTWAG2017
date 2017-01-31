@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),o 1',imēru[unit]N
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),o 2',māru[son]N
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),o 3',bītu[house]N
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),o 4',šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),o 5',ana[to]PRP šattu[year]N akālu[eat]V
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),o 6',mērešu[cultivated-land]N akālu[eat]V
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),o 7',mannu[who?]QP ša[that]REL nabalkutu[cross-over]V
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),o 8',manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),r 1,šību[witness]N Nabu-eriba[1]PN
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),r 2,šību[witness]N Ahuʾa-amur[1]PN
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),r 3,šību[witness]N La-qepu[1]PN
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),r 4,šību[witness]N Ša-la-ili-mannu[1]PN
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),r 5,šību[witness]N Zibbu[1]PN
+saao/saa14/P335548,SAA 14 322. Land Lease (ADD 0633),SAA 14 322. Land Lease (ADD 0633),r 6,šību[witness]N Ahu-duri[1]PN

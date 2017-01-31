@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335232,SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),o 1,kunukku[seal]N Nabutu[1]PN
+saao/saa14/P335232,SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa14/P335232,SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),o 3,sinništu[woman]N
+saao/saa14/P335232,SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),o 4,Bel-šarru-ibni[1]PN
+saao/saa14/P335232,SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),o 5,gimru[totality]N napištu[throat]N
+saao/saa14/P335232,SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),SAA 14 004. Milki-nuri Buys Five Slaves (ADD 0287),o 6,epēšu[do]V Milki-nuri[1]PN

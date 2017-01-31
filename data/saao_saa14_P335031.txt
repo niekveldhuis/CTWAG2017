@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335031,SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),b.e. 1,ardu[slave]N ša[of]DET
+saao/saa14/P335031,SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),o 2,māru[son]N sinništu[woman]N gimru[totality]N napištu[throat]N
+saao/saa14/P335031,SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),o 3,ana[to]PRP šapartu[pledge]N šakānu[put]V kūm[instead-of]PRP manû[unit]N ṣarpu[silver]N
+saao/saa14/P335031,SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),o 4,ina[in]PRP pānu[front]N Nahiri[1]PN
+saao/saa14/P335031,SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),o 5,šunu[they]IP manû[unit]N ṣarpu[silver]N Tiurame[1]PN
+saao/saa14/P335031,SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),o 6,šattu[year]N ana[to]PRP Nahiri[1]PN
+saao/saa14/P335031,SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),o 7,tadānu[give]V šumma[if]MOD ṣarpu[silver]N lā[not]MOD tadānu[give]V Tiurame[1]PN
+saao/saa14/P335031,SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),SAA 14 209. Nahiri Lends Six Minas of Silver Against a Pledge (ADD 0079),o 8,u[and]CNJ nišu[people]N zarpu[purchased]AJ leqû[taken]AJ rubbû[increase]N laššu[(there)-is-not]V

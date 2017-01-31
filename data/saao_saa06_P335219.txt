@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335219,SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),o 1,ṣupru[nail]N
+saao/saa06/P335219,SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),o 2,kunukku[seal]N
+saao/saa06/P335219,SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),o 3,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335219,SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),r 2',šību[witness]N šību[witness]N
+saao/saa06/P335219,SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),r 3',ša[of]DET sinništu[woman]N ēkallu[palace]N
+saao/saa06/P335219,SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),r 4',šību[witness]N Ilu-liphur[1]PN
+saao/saa06/P335219,SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),r 5',šību[witness]N Libbalayu[1]PN ṣābitu[recipient]N ṭuppu[tablet]N
+saao/saa06/P335219,SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),SAA 06 135. Purchase of Slaves (694-V-29) (ADD 0272),r 6',Abu[Ab]MN ūmu[day]N līmu[eponym-(of-year)]N Ilu-ittiya[1]PN

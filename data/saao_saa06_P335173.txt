@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335173,SAA 06 049. Duplicate of the Preceding Text (ADD 0226),SAA 06 049. Duplicate of the Preceding Text (ADD 0226),o 1',Šame-tabani[1]PN amtu[maid]N
+saao/saa06/P335173,SAA 06 049. Duplicate of the Preceding Text (ADD 0226),SAA 06 049. Duplicate of the Preceding Text (ADD 0226),o 2',ša[of]DET Nabu-zeru-iddina[1]PN epēšu[do]V
+saao/saa06/P335173,SAA 06 049. Duplicate of the Preceding Text (ADD 0226),SAA 06 049. Duplicate of the Preceding Text (ADD 0226),o 3',Šumma-ilani[1]PN ina[in]PRP libbu[interior]N manû[unit]N
+saao/saa06/P335173,SAA 06 049. Duplicate of the Preceding Text (ADD 0226),SAA 06 049. Duplicate of the Preceding Text (ADD 0226),o 4',ṣarpu[silver]N leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335173,SAA 06 049. Duplicate of the Preceding Text (ADD 0226),SAA 06 049. Duplicate of the Preceding Text (ADD 0226),o 5',tadnu[given]AJ sinništu[woman]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335173,SAA 06 049. Duplicate of the Preceding Text (ADD 0226),SAA 06 049. Duplicate of the Preceding Text (ADD 0226),o 6',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335173,SAA 06 049. Duplicate of the Preceding Text (ADD 0226),SAA 06 049. Duplicate of the Preceding Text (ADD 0226),o 7',dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL
+saao/saa06/P335173,SAA 06 049. Duplicate of the Preceding Text (ADD 0226),SAA 06 049. Duplicate of the Preceding Text (ADD 0226),o 8',ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV

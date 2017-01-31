@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335113,SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),1,manû[unit]N erû[copper]N qaqqadu[head]N
+saao/saa06/P335113,SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),2,sartu[falsehood]N ša[of]DET šukkallu[(a-court-official)]N
+saao/saa06/P335113,SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),3,emēdu[lean-on]V
+saao/saa06/P335113,SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),4,ina[in]PRP pānu[front]N šakintu[(a-female-official)]N
+saao/saa06/P335113,SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),5,šību[witness]N Il-immi[1]PN
+saao/saa06/P335113,SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),6,šību[witness]N Ilu-ukallanni[1]PN
+saao/saa06/P335113,SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),b.e. 7,šību[witness]N Nabu-ahu-uṣur[1]PN
+saao/saa06/P335113,SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),r 1,šību[witness]N La-tubašanni-ilu[1]PN
+saao/saa06/P335113,SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),SAA 06 083. The Governess Gets a Fine (694-XII-10) (ADD 0162),r 2,Addaru[Adar]MN ūmu[day]N

@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),o 1,kūdanu[mule]N damqu[good]AJ
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),o 2,ša[of]DET Mannu-ki-Arbail[1]PN
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),o 3,ina[in]PRP pānu[front]N Pilaqqi-lipire[1]PN
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),o 4,Urda[1]PN bēlu[lord]N qātu[hand]N
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),o 5,ina[in]PRP Ayaru[Iyyar]MN tadānu[give]V
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),o 6,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),o 7,manû[unit]N ṣarpu[silver]N
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),r 1,ana[to]PRP šarru[king]N tadānu[give]V
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),r 2,Šabaṭu[Shebat]MN ūmu[day]N
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),r 3,līmu[eponym-(of-year)]N Itti-Adad-anenu[1]PN
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),r 4,šību[witness]N Arzezu[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),r 5,šību[witness]N Mami[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),r 6,šību[witness]N Ha-bašti[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),r 7,šību[witness]N Kubabu-ilaʾi[1]PN
+saao/saa06/P335101,SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),SAA 06 206. Note of a Mule Owed to Mannu-ki-Arbail (679-XI-15) (ADD 0150),r.e. 8,šību[witness]N Abi-lu-reʾi[1]PN

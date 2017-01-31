@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336010,SAA 14 373. Fragment of a Witness List (ADD 1248),SAA 14 373. Fragment of a Witness List (ADD 1248),o 1',atû[gatekeeper]N
+saao/saa14/P336010,SAA 14 373. Fragment of a Witness List (ADD 1248),SAA 14 373. Fragment of a Witness List (ADD 1248),r 1',šību[witness]N
+saao/saa14/P336010,SAA 14 373. Fragment of a Witness List (ADD 1248),SAA 14 373. Fragment of a Witness List (ADD 1248),r 2',šību[witness]N
+saao/saa14/P336010,SAA 14 373. Fragment of a Witness List (ADD 1248),SAA 14 373. Fragment of a Witness List (ADD 1248),r 3',šību[witness]N Šulmu-ahhe[1]PN
+saao/saa14/P336010,SAA 14 373. Fragment of a Witness List (ADD 1248),SAA 14 373. Fragment of a Witness List (ADD 1248),r 4',šību[witness]N Aplaya[1]PN
+saao/saa14/P336010,SAA 14 373. Fragment of a Witness List (ADD 1248),SAA 14 373. Fragment of a Witness List (ADD 1248),r 5',šību[witness]N Arbailayu[1]PN māru[son]N
+saao/saa14/P336010,SAA 14 373. Fragment of a Witness List (ADD 1248),SAA 14 373. Fragment of a Witness List (ADD 1248),r 6',šību[witness]N Nergal-šarru-uṣur[1]PN muribbānu[(a-function-or-prof.)]N
+saao/saa14/P336010,SAA 14 373. Fragment of a Witness List (ADD 1248),SAA 14 373. Fragment of a Witness List (ADD 1248),r 7',šību[witness]N Issar-duri[1]PN tamkāru[merchant]N
+saao/saa14/P336010,SAA 14 373. Fragment of a Witness List (ADD 1248),SAA 14 373. Fragment of a Witness List (ADD 1248),r 8',šību[witness]N Našuh-aplu-ušur[1]PN ahu[brother]N
+saao/saa14/P336010,SAA 14 373. Fragment of a Witness List (ADD 1248),SAA 14 373. Fragment of a Witness List (ADD 1248),r 9',šību[witness]N Ululayu[1]PN tamkāru[merchant]N

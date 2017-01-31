@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335425,SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),o 1',nišu[people]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335425,SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),o 2',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335425,SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),o 3',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335425,SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),o 4',zaqāpu[fix-upright]V lū[may]MOD Ṣabu-damqu[1]PN
+saao/saa06/P335425,SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),o 5',lū[may]MOD māru[son]N išti[with]PRP Mušallim-Issar[1]PN
+saao/saa06/P335425,SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),o 6',dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335425,SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),o 7',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa06/P335425,SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),SAA 06 009. Mušallim-Issar Buys Slaves (ADD 0486),o 8',târu[turn]V ana[to]PRP dīnu[legal-decision]N dabābu[speak]V

@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),o 2,ša[of]DET Qidri[1]PN
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),o 3,ina[in]PRP pānu[front]N Dadi[1]PN
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),o 4,māru[son]N Nergal-naṣir[1]PN
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),o 5,ūmu[day]N ša[of]DET Simanu[Sivan]MN
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),o 6,ṣarpu[silver]N tadānu[give]V
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),b.e. 7,šumma[if]MOD lā[not]MOD tadnu[given]AJ
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),r 1,ana[to]PRP šiqlu[unit]N rabû[to-be-big]V
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),r 2,Ayaru[Iyyar]MN ūmu[day]N
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),r 3,līmu[eponym-(of-year)]N Aššur-gimillu-tere[1]PN
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),r 4,šību[witness]N Remut-ilani[1]PN
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),r 5,šību[witness]N Sukkaya[1]PN
+saao/saa14/P334968,SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),SAA 14 106. Qidri Lends Eight Shekels of Silver (*638-II-11) (ADD 0016),r 6,šību[witness]N Aššur-šarru-uṣur[1]PN

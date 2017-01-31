@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),o 1,dīnu[legal-decision]N ša[of]DET Nabu-ahhe-eriba[1]PN
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),o 2,hazannu[mayor]N emēdu[lean-on]V
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),o 3,ina[in]PRP Ṭebetu[Tebet]MN Adad-reṣuwa[1]PN
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),o 4,alāku[go]V ina[in]PRP kutallu[back]N
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),o 5,Šalamu[1]PN amtu[maid]N
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),b.e. 6,izuzzu[stand]V šumma[if]MOD lā[not]MOD alāku[go]V
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),b.e. 7,amtu[maid]N ina[in]PRP kūm[instead-of]PRP amtu[maid]N
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),r 1,Šalamu[1]PN tadānu[give]V
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),r 2,Nabu-ahu-iddina[1]PN bēlu[lord]N qātu[hand]N
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),r 3,ša[of]DET Šalamu[1]PN adi[until]PRP libbu[interior]N Ṭebetu[Tebet]MN
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),r 4,šumma[if]MOD sinništu[woman]N lā[not]MOD tadānu[give]V amtu[maid]N ina[in]PRP kūm[instead-of]PRP
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),r 5,amtu[maid]N Nabu-ahu-iddina[1]PN ana[to]PRP Kanunu[1]PN
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),r 6,tadānu[give]V šību[witness]N Aššur-šallimšunu[1]PN
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),r 7,šību[witness]N Mannu-lu-šulmu[1]PN
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),r.e. 8,šību[witness]N Mannu-ki-ili[1]PN šību[witness]N Urdu-Baniti[1]PN
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),e. 1,šību[witness]N Naʾid-Marduk[1]PN
+saao/saa14/P335117,SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),SAA 14 156. Court Decision on Behalf of Adad-reṣuwa (*627) (ADD 0166),e. 2,arhu[month]N ūmu[day]N ša[of]DET

@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335644,SAA 14 338. Fragment of a Witness List (ADD 0790),SAA 14 338. Fragment of a Witness List (ADD 0790),r 1',šību[witness]N
+saao/saa14/P335644,SAA 14 338. Fragment of a Witness List (ADD 0790),SAA 14 338. Fragment of a Witness List (ADD 0790),r 2',šību[witness]N
+saao/saa14/P335644,SAA 14 338. Fragment of a Witness List (ADD 0790),SAA 14 338. Fragment of a Witness List (ADD 0790),r 3',šību[witness]N
+saao/saa14/P335644,SAA 14 338. Fragment of a Witness List (ADD 0790),SAA 14 338. Fragment of a Witness List (ADD 0790),r 4',šību[witness]N
+saao/saa14/P335644,SAA 14 338. Fragment of a Witness List (ADD 0790),SAA 14 338. Fragment of a Witness List (ADD 0790),r 5',šību[witness]N

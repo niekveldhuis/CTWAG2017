@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),o 1',tadānu[give]V
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),o 2',bītu[house]N imēru[unit]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),o 3',ištēn[one]NU būru[cistern]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),o 4',ṭāhu[adjacent-to]PRP
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),o 5',hūlu[way]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),o 6',yarhu[pond]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),o 7',ša[of]DET kapru[village]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),o 8',bītu[house]N imēru[unit]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),o 9',gabdi[adjoining-to]PRP ummu[mother]N ša[of]DET
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),b.e. 10',būru[cistern]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),b.e. 12',Adda-pada[1]PN
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),b.e. 13',gimru[totality]N imēru[unit]N eqlu[field]N bītu[house]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 1,ištēn[one]NU kirû[garden]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 2,Ratulu[1]PN
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 3,Bita[1]PN sinništu[woman]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 4,Yaqira[1]PN
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 5,epēšu[do]V
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 6,rabû[big-one]N ša-rēši[eunuch]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 7,ištu[from]PRP
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 8,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 9,eqlu[field]N bītu[house]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 10,šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 11,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V ina[in]PRP urkiš[later]AV
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 12,ina[in]PRP matīma[ever]AV lū[may]MOD
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),r 13,lū[may]MOD māru[son]N
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),e. 1,šību[witness]N šību[witness]N Kanunayu[1]PN šību[witness]N Zer-šangussu[1]PN
+saao/saa14/P335378,SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),SAA 14 168. Purchase of 40 Hectares of Land and Two Houses (*620) (ADD 0435),e. 2,šību[witness]N šību[witness]N Laqisu[1]PN māhiṣu[beater]N kapru[village]N

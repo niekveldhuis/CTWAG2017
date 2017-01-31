@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),o 1,manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET šarru[king]N
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),o 2,iškāru[work-assignment]N ša[of]DET ummu[mother]N šarru[king]N
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),o 3,ša[of]DET Nabu-taklak[1]PN
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),o 4,ina[in]PRP pānu[front]N Nergal-ilaʾi[1]PN
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),o 5,ina[in]PRP Tašritu[Tishri]MN ina[in]PRP qaqqadu[head]N
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),o 6,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),b.e. 7,ṣarpu[silver]N ina[in]PRP manû[unit]N
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),b.e. 8,rabû[to-be-big]V
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),r 1,Elulu[Elul]MN ūmu[day]N
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),r 2,līmu[eponym-(of-year)]N Zazaya[1]PN
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),r 3,šību[witness]N Aya-lešir[1]PN
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),r 4,šību[witness]N Mitimu[1]PN
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),r 5,šību[witness]N Siru[1]PN
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),r.e. 6,šību[witness]N Nabu-eṭir[1]PN
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),r.e. 7,ṭupšarru[scribe]N
+saao/saa06/P334985,SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),SAA 06 143. Debt-note for iškaru Silver (692-VI-29) (ADD 0033),e. 1,šību[witness]N Ša-la-maše[1]PN

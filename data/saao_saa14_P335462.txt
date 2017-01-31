@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),1',ina[in]PRP ālu[city]N
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),5',ana[to]PRP
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),6',alāku[go]V
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),7',ṭāhu[adjacent-to]PRP
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),r 2',manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),r 3',šību[witness]N Balaṭu-ereš[1]PN
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),r 4',kuluʾu[(male-cultic-prostitute)]N
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),r 5',šību[witness]N Issar-nadin-ahhe[1]PN bēlu[lord]N mugerru[chariot]N
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),r 6',šību[witness]N Šamaš-kenu-balliṭ[1]PN
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),r 7',šību[witness]N Urdu-Issar[1]PN māru[son]N Teše-ereš[1]PN
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),r 8',šību[witness]N Mar-Issar[1]PN
+saao/saa14/P335462,SAA 14 277. Purchase of Land (ADD 0525),SAA 14 277. Purchase of Land (ADD 0525),r 9',šību[witness]N Quri[1]PN

@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 1,kunukku[seal]N Sangi-Issar[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 2,māru[son]N Handa-riṣi[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 3,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 4,Baʾalti-idri[1]PN ardu[slave]N
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 5,ša[of]DET Sangi-Issar[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 6,epēšu[do]V Nabuʾa[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 7,ištu[from]PRP pānu[front]N Sangi-Issar[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 8,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 9,ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 10,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),o 11,tadnu[given]AJ awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 1,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 2,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV u[and]CNJ matīma[ever]AV
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 3,zaqāpu[fix-upright]V
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 4,parāku[lie-across]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 5,ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP lā[not]MOD dīnu[legal-decision]N
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 6,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 7,šību[witness]N Nabu-riba-ahhe[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 8,šību[witness]N Marduk-šallimšunu[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 9,šību[witness]N Ukkayu[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 10,šību[witness]N Ṭab-Seʾ[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 11,šību[witness]N Kinaya[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 12,šību[witness]N Dadi[1]PN māru[son]N Bel-remanni[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r 13,šību[witness]N Nabu-tabni-uṣur[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r.e. 14,māru[son]N Gula-eṭir[1]PN
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),r.e. 15,ṭupšarru[scribe]N
+saao/saa14/P336004,SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),SAA 14 078. Nabu’a Buys a Slave (659) (ADD 1241),e. 1,ūmu[day]N līmu[eponym-(of-year)]N Silim-Aššur[1]PN

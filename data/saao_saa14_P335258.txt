@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),o 2',rūṭu[unit]N epēšu[do]V
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),o 3',Mar-šarri-ilaʾi[1]PN
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),o 4',ša[of]DET
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),o 5',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),o 6',ištu[from]PRP pānu[front]N awīlu[man]N
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),o 7',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),o 8',awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[take]V
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),o 9',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),o 10',mannu[who?]QP
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),r 1',lū[may]MOD
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),r 2',lū[may]MOD
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),r 3',ša[that]REL išti[with]PRP
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),r 4',māru[son]N māru[son]N māru[son]N
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),r 5',išti[with]PRP ahu[brother]N
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),r 6',manû[unit]N
+saao/saa14/P335258,SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),SAA 14 128. Mar-šarri-ila’i Buys Slaves (ADD 0313),r 7',šību[witness]N

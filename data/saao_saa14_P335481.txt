@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335481,SAA 14 290. Fragment of a Conveyance Text (ADD 0552),SAA 14 290. Fragment of a Conveyance Text (ADD 0552),o 1',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335481,SAA 14 290. Fragment of a Conveyance Text (ADD 0552),SAA 14 290. Fragment of a Conveyance Text (ADD 0552),o 2',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335481,SAA 14 290. Fragment of a Conveyance Text (ADD 0552),SAA 14 290. Fragment of a Conveyance Text (ADD 0552),o 3',parāku[lie-across]V
+saao/saa14/P335481,SAA 14 290. Fragment of a Conveyance Text (ADD 0552),SAA 14 290. Fragment of a Conveyance Text (ADD 0552),o 4',manû[unit]N ṣarpu[silver]N ina[in]PRP burku[knee]N Ištar[1]DN

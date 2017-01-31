@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),o 1,kunukku[seal]N Issar-šarru-ibni[1]PN rabû[big-one]N sasinnu[bow-maker]N
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),o 2,māru[son]N Issar-tariba[1]PN
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),r 2',mamman[somebody]XP išti[with]PRP mamman[somebody]XP lā[not]MOD dabābu[speak]V
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),r 3',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV dabābu[speak]V
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),r 4',Aššur[1]DN Šamaš[1]DN lū[may]MOD bēlu[lord]N dīnu[legal-decision]N adû[(treaty-)oath]N
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),r 5',ša[of]DET šarru[king]N ina[in]PRP qātu[hand]N buʾʾû[look-for]V
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),r 6',šību[witness]N Kaqqadanu[1]PN šību[witness]N Quli[1]PN
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),r 7',šību[witness]N Šumma-ussezib[1]PN šību[witness]N Urdu-ahhešu[1]PN
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),r 8',šību[witness]N Nergal-eṭir[1]PN šību[witness]N Zaruti[1]PN
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),r 9',šību[witness]N Remanni-Aššur[1]PN šību[witness]N Gula-šumu-ibni[1]PN
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),r.e. 10,šību[witness]N Mušallim-Marduk[1]PN
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),r.e. 11,šību[witness]N Ahuʾa-eriba[1]PN
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),e. 1,līmu[eponym-(of-year)]N Belu-lu-dari[1]PN
+saao/saa14/P224975,SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),SAA 14 459. Fragment of a Conveyance Text (*635) (TIM 11 32),e. 2,šību[witness]N Urdu-Issar[1]PN

@@ -1,0 +1,36 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 1,kunukku[seal]N Mannu-lisamme[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 2,kunukku[seal]N Adad-naṣir[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 3,kunukku[seal]N Ṭabussu[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 4,kunukku[seal]N Adad-iqbi[1]PN bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 5,bītu[house]N imēru[unit]N eqlu[field]N birti[between]PRP hirītu[ditch]N
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 6,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Kanunayu[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 7,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Muqalli[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 8,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Nuhšaya[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 9,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 10,epēšu[do]V Ribati[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 11,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 12,ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),o 13,eqlu[field]N zarāpu[purchase]V leqû[take]V
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),b.e. 14,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),b.e. 15,eqlu[field]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),b.e. 16,târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),b.e. 17,laššu[(there)-is-not]V
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 1,mannu[who?]QP ša[that]REL urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 2,ša[of]DET zaqāpu[fix-upright]V lū[may]MOD awīlu[man]N annû[this]DP
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 3,lū[may]MOD māru[son]N lū[may]MOD ahu[brother]N
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 4,lū[may]MOD mammanu-[whosoever]XP išti[with]PRP Ribati[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 5,u[and]CNJ māru[son]N māru[son]N māru[son]N
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 6,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 7,kaspu[silver]N ana[to]PRP ana[to]PRP bēlu[lord]N
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 8,târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 9,lā[not]MOD leqû[take]V
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 10,šību[witness]N Marduk-ibni[1]PN Ahu-iddina[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 11,šību[witness]N Šumma-ilu[1]PN šangû[priest]N
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 12,šību[witness]N Ahu-la-amašši[1]PN Nergal-ašared[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 13,šību[witness]N Mamu-iqbi[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 14,šību[witness]N Kanunayu[1]PN Il-kabar[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 15,šību[witness]N Šamaš-remanni[1]PN Ubru-Issar[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 16,šību[witness]N Muqalli[1]PN Nuhšaya[1]PN
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r 17,šību[witness]N Nabu-bani-apli[1]PN ṭupšarru[scribe]N
+saao/saa06/P335318,SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),SAA 06 161. Ribate Adds to his Land (686-X-7) (ADD 0374),r.e. 18,Ṭebetu[Tebet]MN ūmu[day]N līmu[eponym-(of-year)]N

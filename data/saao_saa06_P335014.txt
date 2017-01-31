@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),b.e. 1,eqlu[field]N ša[of]DET šakintu[(a-female-official)]N
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),o 2,eqlu[field]N ša[that]REL Inbi-Aššur[1]PN ana[to]PRP šapartu[pledge]N
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),o 3,akālu[eat]V māru[son]N šipru[sending]N ša[of]DET bītu[house]N bēlu[lord]N
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),o 4,alāku[go]V eqlu[field]N bītu[house]N bēlu[lord]N
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),o 5,ramû[slacken]V šibšu[(an-agricultural-tax)]N nusāhu[(a-grain-tax)]N kūm[instead-of]PRP
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),o 6,kaspu[silver]N šalāmu[be(come)-healthy]V eqlu[field]N bītu[house]N bēlu[lord]N
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),o 7,Nabu-šallim[1]PN
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),o 8,ramû[slacken]V
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),o 9,Ahu-eriba[1]PN
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),r 1,kūm[instead-of]PRP nusāhu[(a-grain-tax)]N
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),r 2,ša[of]DET šalāmu[be(come)-healthy]V eqlu[field]N bītu[house]N bēlu[lord]N
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),r 3,mannu[who?]QP ša[that]REL parāku[lie-across]V sisû[horse]N peṣû[white]AJ ina[in]PRP Aššur[1]DN
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),r 4,tadānu[give]V manû[unit]N hurāṣu[gold]N ina[in]PRP Mullissu[1]DN tadānu[give]V
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),r 5,adû[(treaty-)oath]N ša[of]DET šarru[king]N qātu[hand]N buʾʾû[look-for]V
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),r 6,šību[witness]N Kablu-Issar[1]PN rabû[big-one]N sikkatu[peg]N šību[witness]N
+saao/saa06/P335014,SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),SAA 06 095. The Governess Forfeits a Pledged Field (ADD 0062),r 7,šību[witness]N Sanaʾil[1]PN māru[son]N šipru[sending]N ša[of]DET rabû[big-one]N bītu[house]N

@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P337158,SAA 14 453. (no title) (TIM 11 30a),SAA 14 453. (no title) (TIM 11 30a),o 1',ardu[slave]N
+saao/saa14/P337158,SAA 14 453. (no title) (TIM 11 30a),SAA 14 453. (no title) (TIM 11 30a),o 2',mannu[who?]QP
+saao/saa14/P337158,SAA 14 453. (no title) (TIM 11 30a),SAA 14 453. (no title) (TIM 11 30a),r 1',šību[witness]N

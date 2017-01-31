@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335454,SAA 14 274. Purchase of a Well (ADD 0517),SAA 14 274. Purchase of a Well (ADD 0517),2',rabû[big-one]N ša-rēši[eunuch]N
+saao/saa14/P335454,SAA 14 274. Purchase of a Well (ADD 0517),SAA 14 274. Purchase of a Well (ADD 0517),3',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET šarru[king]N
+saao/saa14/P335454,SAA 14 274. Purchase of a Well (ADD 0517),SAA 14 274. Purchase of a Well (ADD 0517),4',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335454,SAA 14 274. Purchase of a Well (ADD 0517),SAA 14 274. Purchase of a Well (ADD 0517),5',būrtu[cistern]N zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335454,SAA 14 274. Purchase of a Well (ADD 0517),SAA 14 274. Purchase of a Well (ADD 0517),6',târu[turn]V dīnu[legal-decision]N dabābu[speak]V lā[not]MOD
+saao/saa14/P335454,SAA 14 274. Purchase of a Well (ADD 0517),SAA 14 274. Purchase of a Well (ADD 0517),7',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335454,SAA 14 274. Purchase of a Well (ADD 0517),SAA 14 274. Purchase of a Well (ADD 0517),8',zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa14/P335454,SAA 14 274. Purchase of a Well (ADD 0517),SAA 14 274. Purchase of a Well (ADD 0517),9',lū[may]MOD awīlu[man]N annû[this]DP

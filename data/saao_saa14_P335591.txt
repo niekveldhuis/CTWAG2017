@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335591,SAA 14 326. A Scribe Buys Slaves (ADD 0718),SAA 14 326. A Scribe Buys Slaves (ADD 0718),o 3',Ammi-yababa[1]PN
+saao/saa14/P335591,SAA 14 326. A Scribe Buys Slaves (ADD 0718),SAA 14 326. A Scribe Buys Slaves (ADD 0718),o 4',Abdaʾ[1]PN
+saao/saa14/P335591,SAA 14 326. A Scribe Buys Slaves (ADD 0718),SAA 14 326. A Scribe Buys Slaves (ADD 0718),o 5',Laia[1]PN
+saao/saa14/P335591,SAA 14 326. A Scribe Buys Slaves (ADD 0718),SAA 14 326. A Scribe Buys Slaves (ADD 0718),o 6',ištēn[one]NU māru[son]N pirsu[weaned]AJ
+saao/saa14/P335591,SAA 14 326. A Scribe Buys Slaves (ADD 0718),SAA 14 326. A Scribe Buys Slaves (ADD 0718),o 7',gimru[totality]N māru[son]N gimru[totality]N napištu[throat]N
+saao/saa14/P335591,SAA 14 326. A Scribe Buys Slaves (ADD 0718),SAA 14 326. A Scribe Buys Slaves (ADD 0718),o 8',ardu[slave]N ša[of]DET
+saao/saa14/P335591,SAA 14 326. A Scribe Buys Slaves (ADD 0718),SAA 14 326. A Scribe Buys Slaves (ADD 0718),o 9',epēšu[do]V

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335432,SAA 14 007. Milki-nuri Buys [...] (ADD 0494),SAA 14 007. Milki-nuri Buys [...] (ADD 0494),r 1,ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335432,SAA 14 007. Milki-nuri Buys [...] (ADD 0494),SAA 14 007. Milki-nuri Buys [...] (ADD 0494),r 2,išti[with]PRP Milki-nuri[1]PN māru[son]N
+saao/saa14/P335432,SAA 14 007. Milki-nuri Buys [...] (ADD 0494),SAA 14 007. Milki-nuri Buys [...] (ADD 0494),r 3,buʾʾû[look-for]V
+saao/saa14/P335432,SAA 14 007. Milki-nuri Buys [...] (ADD 0494),SAA 14 007. Milki-nuri Buys [...] (ADD 0494),r 4,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335432,SAA 14 007. Milki-nuri Buys [...] (ADD 0494),SAA 14 007. Milki-nuri Buys [...] (ADD 0494),r 5,târu[turn]V ina[in]PRP dīnu[legal-decision]N
+saao/saa14/P335432,SAA 14 007. Milki-nuri Buys [...] (ADD 0494),SAA 14 007. Milki-nuri Buys [...] (ADD 0494),r 6,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335432,SAA 14 007. Milki-nuri Buys [...] (ADD 0494),SAA 14 007. Milki-nuri Buys [...] (ADD 0494),r 7,šību[witness]N Lit-ili[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335432,SAA 14 007. Milki-nuri Buys [...] (ADD 0494),SAA 14 007. Milki-nuri Buys [...] (ADD 0494),r 8,ša[of]DET māru[son]N damqu[good]AJ ša[of]DET sinništu[woman]N ēkallu[palace]N
+saao/saa14/P335432,SAA 14 007. Milki-nuri Buys [...] (ADD 0494),SAA 14 007. Milki-nuri Buys [...] (ADD 0494),r 9,šību[witness]N tašlīšu[third-man-on-chariot]N ša[of]DET

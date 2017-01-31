@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),o 1,kunukku[seal]N
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),o 2,imēru[unit]N eqlu[field]N
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),r 1',šību[witness]N
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),r 2',šību[witness]N Silim-Dadi[1]PN
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),r 3',šību[witness]N Hašanu[1]PN
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),r 4',šību[witness]N
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),r 5',šību[witness]N Iddin-ahhe[1]PN
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),r 6',Arahsamnu[Marchesvan]MN ūmu[day]N
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),r 7',ina[in]PRP tarṣu[extent]N
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),r 8',šaknu[appointee]N mātu[land]N
+saao/saa14/P335346,SAA 14 260. Purchase of Land (ADD 0403),SAA 14 260. Purchase of Land (ADD 0403),r.e. 9,līmu[eponym-(of-year)]N

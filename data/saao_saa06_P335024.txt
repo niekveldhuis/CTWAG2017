@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 1,kunukku[seal]N
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 2,šiqlu[unit]N ṣarpu[silver]N ša[of]DET Nušku-naṣir[1]PN
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 3,rēštu[beginning]N ša[of]DET Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 4,ina[in]PRP pānu[front]N sīrāšû[brewer]N
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 5,La-amašši[1]PN ana[to]PRP šapartu[pledge]N
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 6,kamsu[squatting]AJ adi[until]PRP ūmu[day]N
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 7,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 8,sinništu[woman]N zarpu[purchased]AJ našû[lifted]AJ
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 9,šību[witness]N Arbailayu[1]PN šību[witness]N Sagibi[1]PN
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 10,šību[witness]N Barruqu[1]PN ṭupšarru[scribe]N
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 11,Addaru[Adar]MN ūmu[day]N līmu[eponym-(of-year)]N Abi-ramu[1]PN
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),o 12,šukkallu[(a-court-official)]N rabû[big]AJ
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),r 1',ina[in]PRP pānu[front]N sīrāšû[brewer]N
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),r 2',La-amašši[1]PN ana[to]PRP šapartu[pledge]N
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),r 3',kamsu[squatting]AJ adi[until]PRP ūmu[day]N
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),r 4',ṣarpu[silver]N tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),r 5',sinništu[woman]N zarpu[purchased]AJ našû[lifted]AJ
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),r 6',šību[witness]N Arbailayu[1]PN šību[witness]N Sagibi[1]PN
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),r 7',šību[witness]N Barruqu[1]PN ṭupšarru[scribe]N
+saao/saa06/P335024,SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),SAA 06 272. Pledge of a Woman (677-XII-7) (ADD 0072),r 8',Addaru[Adar]MN ūmu[day]N līmu[eponym-(of-year)]N Abi-ramu[1]PN

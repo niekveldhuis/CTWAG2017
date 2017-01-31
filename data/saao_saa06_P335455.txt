@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335455,SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),o 1',ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa06/P335455,SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),o 2',ina[in]PRP muhhu[skull]N
+saao/saa06/P335455,SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),o 3',ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa06/P335455,SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),r 1',āšibu[sitting]AJ šakānu[put]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335455,SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),r 2',ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP dīnu[legal-decision]N
+saao/saa06/P335455,SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),r 3',dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335455,SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),r 4',šību[witness]N Muneppiš-ilu[1]PN hazannu[mayor]N
+saao/saa06/P335455,SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),SAA 06 016. Fragment of a Purchase Document of Inurta-ila'i (ADD 0518),r 5',šību[witness]N Urarṭayu[1]PN

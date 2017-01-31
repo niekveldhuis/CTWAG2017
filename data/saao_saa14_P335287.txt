@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335287,SAA 14 250. Purchase of a House in Nineveh (ADD 0343),SAA 14 250. Purchase of a House in Nineveh (ADD 0343),1,kunukku[seal]N Nur-Šamaš[1]PN
+saao/saa14/P335287,SAA 14 250. Purchase of a House in Nineveh (ADD 0343),SAA 14 250. Purchase of a House in Nineveh (ADD 0343),2,bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa14/P335287,SAA 14 250. Purchase of a House in Nineveh (ADD 0343),SAA 14 250. Purchase of a House in Nineveh (ADD 0343),3,bītu[house]N epšu[made]AJ adi[until]PRP gušūru[tree-trunk]N
+saao/saa14/P335287,SAA 14 250. Purchase of a House in Nineveh (ADD 0343),SAA 14 250. Purchase of a House in Nineveh (ADD 0343),4,adi[until]PRP daltu[door]N ina[in]PRP Ninua[Nineveh]GN
+saao/saa14/P335287,SAA 14 250. Purchase of a House in Nineveh (ADD 0343),SAA 14 250. Purchase of a House in Nineveh (ADD 0343),5,ṭāhu[adjacent-to]PRP bītu[house]N Ahi-gedi[1]PN
+saao/saa14/P335287,SAA 14 250. Purchase of a House in Nineveh (ADD 0343),SAA 14 250. Purchase of a House in Nineveh (ADD 0343),6,ṭāhu[adjacent-to]PRP bītu[house]N Hazugu[1]PN
+saao/saa14/P335287,SAA 14 250. Purchase of a House in Nineveh (ADD 0343),SAA 14 250. Purchase of a House in Nineveh (ADD 0343),7,ṭāhu[adjacent-to]PRP bītu[house]N
+saao/saa14/P335287,SAA 14 250. Purchase of a House in Nineveh (ADD 0343),SAA 14 250. Purchase of a House in Nineveh (ADD 0343),8,ṭāhu[adjacent-to]PRP bītu[house]N Ubru-Nabu[1]PN
+saao/saa14/P335287,SAA 14 250. Purchase of a House in Nineveh (ADD 0343),SAA 14 250. Purchase of a House in Nineveh (ADD 0343),9,ṭāhu[adjacent-to]PRP īnu[eye]N ša[of]DET

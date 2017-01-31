@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),1',ša[of]DET eqlu[field]N
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),2',ṭāhu[adjacent-to]PRP nahallu[stream]N
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),3',bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),4',ṭāhu[adjacent-to]PRP bītu[house]N
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),5',epēšu[do]V
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),6',ina[in]PRP libbu[interior]N meʾatu[(one)-hundred]NU erû[copper]N
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),7',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),8',šuāti[him]IP
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),r 1',biltu[load]N annaku[tin]N ana[to]PRP
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),r 2',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),r 3',ana[to]PRP dīnu[legal-decision]N
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),r 4',šību[witness]N Aššur-taqqinanni[1]PN
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),r 5',šību[witness]N
+saao/saa14/P335460,SAA 14 275. Purchase of Land (ADD 0523),SAA 14 275. Purchase of Land (ADD 0523),r 6',šību[witness]N

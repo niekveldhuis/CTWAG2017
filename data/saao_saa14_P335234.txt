@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335234,SAA 14 243. Purchase of Slaves (ADD 0289),SAA 14 243. Purchase of Slaves (ADD 0289),o 2',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335234,SAA 14 243. Purchase of Slaves (ADD 0289),SAA 14 243. Purchase of Slaves (ADD 0289),o 3',nišu[people]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335234,SAA 14 243. Purchase of Slaves (ADD 0289),SAA 14 243. Purchase of Slaves (ADD 0289),o 4',târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335234,SAA 14 243. Purchase of Slaves (ADD 0289),SAA 14 243. Purchase of Slaves (ADD 0289),o 5',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335234,SAA 14 243. Purchase of Slaves (ADD 0289),SAA 14 243. Purchase of Slaves (ADD 0289),o 6',ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa14/P335234,SAA 14 243. Purchase of Slaves (ADD 0289),SAA 14 243. Purchase of Slaves (ADD 0289),r 1,manû[unit]N ṣarpu[silver]N mesû[washed]AJ tadānu[give]V
+saao/saa14/P335234,SAA 14 243. Purchase of Slaves (ADD 0289),SAA 14 243. Purchase of Slaves (ADD 0289),r 2,nišu[people]N aṣû[go-out]V ṣibtu[seizure]N bennu[epilepsy]N
+saao/saa14/P335234,SAA 14 243. Purchase of Slaves (ADD 0289),SAA 14 243. Purchase of Slaves (ADD 0289),r 3,ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N sartu[falsehood]N ina[in]PRP kalû[totality]N ūmu[day]N

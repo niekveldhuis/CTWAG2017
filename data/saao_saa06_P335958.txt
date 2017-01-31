@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335958,SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),o 1,manû[unit]N erû[copper]N ša[of]DET Urda[1]PN
+saao/saa06/P335958,SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),o 2,ina[in]PRP pānu[front]N Mannu-ki-Issar[1]PN bītu[house]N imēru[unit]N
+saao/saa06/P335958,SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),o 3,bītu[house]N imēru[unit]N ina[in]PRP rēšu[head]N kappu[hand]N bītu[house]N
+saao/saa06/P335958,SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),o 4,bītu[house]N imēru[unit]N kuribtu[(a-kind-of-field)]N ina[in]PRP muhhu[skull]N nahallu[stream]N
+saao/saa06/P335958,SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),r 1',šību[witness]N šību[witness]N
+saao/saa06/P335958,SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),r 2',šību[witness]N Šumma-ilaʾi[1]PN šību[witness]N
+saao/saa06/P335958,SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),r 3',šību[witness]N šību[witness]N Urdu[1]PN šību[witness]N Didi[1]PN
+saao/saa06/P335958,SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),r 4',šību[witness]N šību[witness]N Tikala[1]PN
+saao/saa06/P335958,SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),SAA 06 137. A Copper Loan with a Pledge of Land (693) (ADD 1177),r 5',šību[witness]N Abu-eriba[1]PN šību[witness]N Nabu-šumu-lešir[1]PN ṭupšarru[scribe]N

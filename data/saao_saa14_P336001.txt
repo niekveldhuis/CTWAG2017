@@ -1,0 +1,2 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336001,SAA 14 370. (no title) (ADD 1238),SAA 14 370. (no title) (ADD 1238),2',rabû[big-one]N kiṣru[knot]N

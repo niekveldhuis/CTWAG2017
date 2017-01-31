@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),o 2,erû[copper]N
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),o 3,ša[of]DET
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),o 4,Urdu-Nabu[1]PN
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),o 6,išti[with]PRP
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),b.e. 7,matāhu[lift]V
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),r 1,tarāṣu[be(come)-in-order]V
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),r 2,ṣarpu[silver]N
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),r 3,Urdu-Nabu[1]PN
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),r 4,tadānu[give]V
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),r 5,šulmu[completeness]N ina[in]PRP birti[between]PRP
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),r 6,Ṭebetu[Tebet]MN ūmu[day]N
+saao/saa14/P224965,SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),SAA 14 448. Court Order Concerning Copper Vessels (TIM 11 21),r 7,līmu[eponym-(of-year)]N rabû[big]AJ

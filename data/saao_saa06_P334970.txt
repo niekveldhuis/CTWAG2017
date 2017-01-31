@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),o 1,manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),o 2,ša[of]DET Mannu-ki-Arbail[1]PN
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),o 3,ina[in]PRP pānu[front]N Ṣil-Bel[1]PN
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),o 4,Tašritu[Tishri]MN ṣarpu[silver]N tadānu[give]V
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),o 5,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),o 6,ṣarpu[silver]N rabû[to-be-big]V
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),b.e. 7,Elulu[Elul]MN ūmu[day]N līmu[eponym-(of-year)]N Nergal-šarru-uṣur[1]PN
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),r 1,šību[witness]N
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),r 2,šību[witness]N Mannu-ki-ahi[1]PN
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),r 3,šību[witness]N Mannu-ki-abi[1]PN
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),r 4,šību[witness]N
+saao/saa06/P334970,SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),SAA 06 208. Note of Silver Owed to Mannu-ki-Arbail (678-VI-6) (ADD 0018),r 5,šību[witness]N Nabu-eṭir-napšati[1]PN

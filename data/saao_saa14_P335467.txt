@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 1',Ahat-abiša[1]PN mārtu[daughter]N
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 2',ša[of]DET Ubru-Aššur[1]PN
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 3',epēšu[do]V Zabdi[1]PN
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 4',ištu[from]PRP pānu[front]N Ubru-Aššur[1]PN
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 5',kūm[instead-of]PRP šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 6',ša[of]DET Zabdi[1]PN ša[of]DET
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 7',kūm[instead-of]PRP hubullu[debt]N
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 8',mārtu[daughter]N ana[to]PRP Zabdi[1]PN
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 9',tadānu[give]V sinništu[woman]N šuāti[him]IP
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 10',zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 11',târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),o 12',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 1',dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 2',išti[with]PRP Zabdi[1]PN māru[son]N
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 3',māru[son]N māru[son]N buʾʾû[look-for]V
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 4',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 5',ina[in]PRP burku[knee]N Ištar[1]DN āšibu[sitting]AJ Ninua[Nineveh]GN
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 6',šakānu[put]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 7',ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP dīnu[legal-decision]N
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 8',dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 9',šību[witness]N Urdu-Nanaya[1]PN
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 10',šību[witness]N Aššur-mutaqqin[1]PN
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 11',šību[witness]N
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 12',šību[witness]N Šakil-Aya[1]PN
+saao/saa14/P335467,SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),SAA 14 085. Zabdi Buys a Woman (652-IV) (ADD 0533),r 13',šību[witness]N

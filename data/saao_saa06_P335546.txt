@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),o 1,kunukku[seal]N Sin-šar-ilani[1]PN bēlu[lord]N eqlu[field]N
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),o 2,kirû[garden]N tadānu[give]V
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),o 3,bītu[house]N eqlu[field]N kirû[garden]N
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),r 1',šību[witness]N Nabu-taklak[1]PN
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),r 2',šību[witness]N Aplu-iddina[1]PN māhiṣu[beater]N
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),r 3',šību[witness]N Šulmu-ahhe[1]PN šanîš[otherwise]AV
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),r 4',šību[witness]N Nergal-šarru-uṣur[1]PN māru[son]N Dayan-Adad[1]PN
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),r 5',šību[witness]N Kalhayu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),r 6',Nisannu[Nisan]MN ūmu[day]N
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),r 7',līmu[eponym-(of-year)]N Dananu[1]PN
+saao/saa06/P335546,SAA 06 258. Sale of Land (680-I-28) (ADD 0631),SAA 06 258. Sale of Land (680-I-28) (ADD 0631),r 8',ša[of]DET Marqasa[1]GN

@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335505,SAA 14 304. Fragment of a Conveyance Text (ADD 0583),SAA 14 304. Fragment of a Conveyance Text (ADD 0583),o 1',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335505,SAA 14 304. Fragment of a Conveyance Text (ADD 0583),SAA 14 304. Fragment of a Conveyance Text (ADD 0583),o 2',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335505,SAA 14 304. Fragment of a Conveyance Text (ADD 0583),SAA 14 304. Fragment of a Conveyance Text (ADD 0583),o 3',šību[witness]N
+saao/saa14/P335505,SAA 14 304. Fragment of a Conveyance Text (ADD 0583),SAA 14 304. Fragment of a Conveyance Text (ADD 0583),o 4',šību[witness]N
+saao/saa14/P335505,SAA 14 304. Fragment of a Conveyance Text (ADD 0583),SAA 14 304. Fragment of a Conveyance Text (ADD 0583),o 5',šību[witness]N

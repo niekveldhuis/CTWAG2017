@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),o 1',epēšu[do]V Aššur-duru-uṣur[1]PN
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),o 2',ištu[from]PRP pānu[front]N Remanni-ilu[1]PN ina[in]PRP libbu[interior]N
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),o 3',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),o 4',tadnu[given]AJ qaqqaru[ground]N peṣû[white]AJ
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),b.e. 5',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),b.e. 6',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),b.e. 7',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),r 1,zaqāpu[fix-upright]V lū[may]MOD Remanni-ilu[1]PN
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),r 2,lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),r 3,ša[that]REL išti[with]PRP Aššur-duru-uṣur[1]PN
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),r 4,u[and]CNJ māru[son]N u[and]CNJ māru[son]N māru[son]N
+saao/saa14/P335434,SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),SAA 14 184. Aššur-duru-uṣur Buys a Vacant Lot (ADD 0496),r 5,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V

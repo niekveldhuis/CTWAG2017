@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 1',Ahi-leti[1]PN ardu[slave]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 2',epēšu[do]V Mannu-ki-Arbail[1]PN
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 3',ištu[from]PRP pānu[front]N Zari[1]PN
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 4',ana[to]PRP manû[unit]N ṣarpu[silver]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 5',ana[to]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 6',zarāpu[purchase]V leqû[take]V
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 7',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 8',awīlu[man]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 9',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 10',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 11',ṣibtu[seizure]N bennu[epilepsy]N ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),o 12',sartu[falsehood]N ina[in]PRP kalû[totality]N šattu[year]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 1,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 2,lū[may]MOD Zari[1]PN lū[may]MOD māru[son]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 3,lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 4,lū[may]MOD bēlu[lord]N ilku[state-service]N ša[that]REL dīnu[legal-decision]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 5,dabābu[speak]V išti[with]PRP Mannu-ki-Arbail[1]PN
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 6,u[and]CNJ māru[son]N u[and]CNJ māru[son]N māru[son]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 7,buʾʾû[look-for]V biltu[load]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 8,manû[unit]N hurāṣu[gold]N ina[in]PRP burku[knee]N Ištar[1]DN
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 9,āšibu[sitting]AJ Arbail[Arbela]GN šakānu[put]V kaspu[silver]N
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 10,ana[to]PRP ešriātu[tenfold]AV ina[in]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 11,ana[to]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 12,dīnu[legal-decision]N Madanu[1]DN lā[not]MOD šemû[hear]V
+saao/saa06/P335939,SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),SAA 06 219. Mannu-ki-Arbail Buys a Servant (ADD 1157),r 13,šību[witness]N

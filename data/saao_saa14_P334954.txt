@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),o 2,ša[of]DET Urdu-Aya[1]PN
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),o 3,ina[in]PRP pānu[front]N Qiti-muti[1]PN
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),o 4,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),o 5,ina[in]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),o 6,Ayaru[Iyyar]MN ūmu[day]N
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),b.e. 7,līmu[eponym-(of-year)]N Sin-šarru-uṣur[1]PN
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),r 1,šību[witness]N Aššur-ahu-uṣur[1]PN
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),r 2,šību[witness]N Issar-nadin-apli[1]PN
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),r 3,šību[witness]N Nuhšaya[1]PN
+saao/saa14/P334954,SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),SAA 14 110. Urdu-Aya Lends Ten Shekels of Silver (*636-II-2) (ADD 0002),r 4,šību[witness]N Nur-Šamaš[1]PN

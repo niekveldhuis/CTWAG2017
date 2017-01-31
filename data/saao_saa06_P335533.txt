@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 1,Bel-Harran-isseʾa[1]PN
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 2,ša-pēthalli[rider]N
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 3,Kiṣir-Aššur[1]PN
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 4,gimru[totality]N bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 5,ardu[slave]N
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 6,ša[of]DET Bel-Harran-isseʾa[1]PN ša[of]DET
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 7,ša[of]DET Kiṣir-Aššur[1]PN epēšu[do]V
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 8,ana[to]PRP Silim-Aššur[1]PN tadānu[give]V
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 9,mannu[who?]QP ša[that]REL manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 10,ardu[slave]N aṣû[go-out]V
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 11,šību[witness]N Aššur-ahu-iddina[1]PN
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),o 12,rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),b.e. 13,šību[witness]N Naʾid-Aššur[1]PN šeleppāyu[(a-type-of-craftsman)]N
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),r 1,šību[witness]N gimru[totality]N
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),r 2,ša[of]DET
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),r 3,šību[witness]N
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),r 4,šību[witness]N
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),r 5,šību[witness]N
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),r 6,šību[witness]N
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),r 7,šību[witness]N
+saao/saa06/P335533,SAA 06 132. Sale of a Slave (695) (ADD 0616),SAA 06 132. Sale of a Slave (695) (ADD 0616),e. 1,ūmu[day]N

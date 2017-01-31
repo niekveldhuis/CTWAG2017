@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),o 1,imēru[unit]N uṭṭatu[grain]N ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),o 2,ša[of]DET māru[son]N Adad-riba-ahhe[1]PN
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),o 3,ina[in]PRP pānu[front]N ṭupšarru[scribe]N
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),o 5,bēlu[lord]N qātu[hand]N ša[of]DET ēṣidu[reaper]N
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),o 6,ina[in]PRP šurrû[begin]V eqlu[field]N ēṣidu[reaper]N
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),r 1,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),r 2,manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),r 3,Šabaṭu[Shebat]MN ūmu[day]N
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),r 4,līmu[eponym-(of-year)]N Mannu-ki-šarri[1]PN
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),r 5,šību[witness]N Ša-Nabu-šu[1]PN
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),r 6,šību[witness]N Zabda[1]PN
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),r 7,šību[witness]N Dadusu[1]PN
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),r 8,šību[witness]N Abdi-Ramman[1]PN
+saao/saa14/P336201,SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),SAA 14 134. Barley Loan (665-XI-30) (Iraq 32 15),e. 1,šību[witness]N

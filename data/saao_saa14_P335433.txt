@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),o 1',zarpu[purchased]AJ
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),o 2',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),o 3',dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),o 4',matīma[ever]AV zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),o 5',lū[may]MOD Bessi-naʾdat[1]PN lū[may]MOD šaknu[appointee]N
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),o 6',lū[may]MOD pīhātu[responsibility]N lū[may]MOD mammanu-[whosoever]XP
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),o 7',lū[may]MOD hazannu[mayor]N ālu[city]N išti[with]PRP Bel-duri[1]PN
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),o 8',māru[son]N māru[son]N māru[son]N dīnu[legal-decision]N
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),r 1,dabābu[speak]V buʾʾû[look-for]V biltu[load]N ṣarpu[silver]N
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),r 2,mesû[washed]AJ manû[unit]N hurāṣu[gold]N sakru[refined]AJ ina[in]PRP burku[knee]N
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),r 3,Ištar[1]DN āšibu[sitting]AJ Ninua[Nineveh]GN
+saao/saa14/P335433,SAA 14 467. Bel-duri Buys […] (ADD 0495),SAA 14 467. Bel-duri Buys […] (ADD 0495),r 4,šakānu[put]V ṣarpu[silver]N ana[to]PRP ešriātu[tenfold]AV

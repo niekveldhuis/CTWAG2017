@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 2',amtu[maid]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 3',epēšu[do]V Ninuayu[1]PN
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 4',ša-rēši[eunuch]N šarru[king]N ina[in]PRP libbu[interior]N šiqlu[unit]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 5',ṣarpu[silver]N ištu[from]PRP pānu[front]N Yamani[1]PN leqû[take]V
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 6',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ sinništu[woman]N šuāti[him]IP
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 7',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 8',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 9',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 10',zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 11',lū[may]MOD Yamani[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),o 12',lū[may]MOD ahu[brother]N ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 1,ina[in]PRP burku[knee]N ina[in]PRP burku[knee]N šakānu[put]V
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 2,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 3,târu[turn]V ana[to]PRP dīnu[legal-decision]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 4,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 5,Ayaru[Iyyar]MN ūmu[day]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 6,līmu[eponym-(of-year)]N Upaqa-ana-Arbail[1]PN
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 7,šību[witness]N rabû[big-one]N bītu[house]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 8,šību[witness]N Nabu-naʾid[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 9,šību[witness]N Bel-likṣur[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 10,šību[witness]N Uznanu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 11,šību[witness]N
+saao/saa14/P335161,SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),SAA 14 017. Ninuayu Buys a Woman (*633-II-14) (ADD 0214),r 12,šību[witness]N Il-immi[1]PN tamkāru[merchant]N

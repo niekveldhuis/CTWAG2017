@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),b.e. 1,kunukku[seal]N Ila-eriba[1]PN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),b.e. 2,māru[son]N Aṣal-Iau[1]PN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),b.e. 3,ištu[from]PRP libbu[interior]N Zanbayu[1]GN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),b.e. 4,meʾatu[(one)-hundred]NU rittu[hand]N
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),b.e. 5,ša[of]DET
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),b.e. 6,ša[of]DET Inurta-šarru-uṣur[1]PN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),b.e. 7,ina[in]PRP pānu[front]N ina[in]PRP Duʾuzu[Tammuz]MN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),b.e. 8,ina[in]PRP Ninua[Nineveh]GN tadānu[give]V
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),r 1,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),r 2,ana[to]PRP mithāru[corresponding-(to-one-another)]AJ rabû[to-be-big]V
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),r 3,šību[witness]N Aya-ahi[1]PN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),r 4,šību[witness]N Inurta-sukki[1]PN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),r 5,šību[witness]N Šep-Inurta-aṣbat[1]PN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),r 6,šību[witness]N Nabu-bani-šarri[1]PN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),e. 1,šību[witness]N Aššur-uballiṭ[1]PN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),e. 2,šību[witness]N Adad-aplu-iddina[1]PN
+saao/saa14/P224948,SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),SAA 14 428. Inurta-šarru-uṣur Lends Donkey Legs (*626-I) (TIM 11 05),e. 3,Nisannu[Nisan]MN

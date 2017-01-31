@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),o 1,kunukku[seal]N Mutaqqin-ilu[1]PN bēlu[lord]N awīlu[man]N
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),o 2,Ša-Issar-dubbu[1]PN ardu[slave]N
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),o 3,epēšu[do]V
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),o 4,ištu[from]PRP pānu[front]N Mutaqqin-ilu[1]PN
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),o 5,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),o 6,zarāpu[purchase]V leqû[take]V
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),o 7,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 1,awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 2,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 3,ṣibtu[seizure]N ina[in]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 4,sartu[falsehood]N ina[in]PRP kalû[totality]N ūmu[day]N
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 5,mannu[who?]QP ša[that]REL nabalkutu[cross-over]V
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 6,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ina[in]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 7,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 8,šību[witness]N
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 9,šību[witness]N Nuhšaya[1]PN rabû[big-one]N kiṣru[knot]N ša[of]DET rabû[big-one]N ša-rēši[eunuch]N
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 10,šību[witness]N Sin-abu-uṣur[1]PN atû[gatekeeper]N
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 11,šību[witness]N Kuluʾ-Issar[1]PN
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 12,šību[witness]N Tardiya[1]PN
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 13,šību[witness]N Issar-šumu-lešir[1]PN
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r 14,šību[witness]N Nabu-uballiṭ[1]PN
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r.e. 15,šību[witness]N Nabu-eriba[1]PN ṭupšarru[scribe]N
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r.e. 16,ina[in]PRP šattu[year]N Sin-ahhe-eriba[Sennacherib]PN
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),r.e. 17,šarru[king]N mātu[land]N Aššur[1]DN
+saao/saa06/P335952,SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),SAA 06 174. Purchase of a Slave (685-XII-20) (ADD 1170+),e. 1,Addaru[Adar]MN ūmu[day]N līmu[eponym-(of-year)]N Aššur-daʾʾinanni[1]PN

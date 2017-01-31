@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),o 1,šiqlu[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),o 2,ša[of]DET Edu-šallim[1]PN
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),o 3,ina[in]PRP pānu[front]N Eriba-Adad[1]PN
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),o 4,ša[of]DET Supuri-eddete[1]GN
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),o 5,Ahassunu[1]PN amtu[maid]N
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),b.e. 6,ina[in]PRP Simanu[Sivan]MN ina[in]PRP kaspu[silver]N tadānu[give]V
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),b.e. 7,šumma[if]MOD ṣehhertu[young-girl]N
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),r 1,lā[not]MOD tadānu[give]V
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),r 2,ṣarpu[silver]N ana[to]PRP šiqlu[unit]N
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),r 3,rabû[to-be-big]V tadānu[give]V
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),r 4,šumma[if]MOD tadānu[give]V
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),r 5,gabbu[totality]N
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),r.e. 6,Tašritu[Tishri]MN ūmu[day]N
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),r.e. 7,līmu[eponym-(of-year)]N Šamaš-kašid-ayabi[1]PN
+saao/saa06/P335055,SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),SAA 06 293. Inner Tablet of the Previous Text (669-VII-13) (ADD 0103),r.e. 8,šību[witness]N Mannu-ki-Libbali[1]PN

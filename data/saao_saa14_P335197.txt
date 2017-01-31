@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),o 1,kunukku[seal]N Huddaya[1]PN māru[son]N Muṣurayu[1]PN
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),o 3,Ahati-ṭabat[1]PN ummu[mother]N
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),o 4,gimru[totality]N napištu[throat]N ardu[slave]N ša[of]DET Huddaya[1]PN
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),o 5,epēšu[do]V Ninuayu[1]PN ša-rēš-šarri[royal-eunuch]N
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),o 6,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ištu[from]PRP pānu[front]N Huddaya[1]PN
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),o 7,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ nišu[people]N
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),r 1',šību[witness]N Issar-tariba[1]PN
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),r 2',Ṭebetu[Tebet]MN ūmu[day]N
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),r 3',līmu[eponym-(of-year)]N Mušallim-Aššur[1]PN
+saao/saa14/P335197,SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),SAA 14 016. Ninuayu Buys Slaves (*639-X-18) (ADD 0250),r 4',šību[witness]N Marduk-zeru-ibni[1]PN ṭupšarru[scribe]N

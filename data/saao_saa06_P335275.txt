@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 1,kunukku[seal]N Issar-duri[1]PN kunukku[seal]N Lu-šakin[1]PN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 2,māru[son]N Abši-Ešu[1]PN Muṣuraya[Egyptian]EN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 3,bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 4,bītu[house]N epšu[made]AJ adi[until]PRP gušūru[tree-trunk]N adi[until]PRP
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 5,daltu[door]N ina[in]PRP Bet-Eriba-ilu[1]GN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 6,qannu[fringe]N ša[of]DET Ṣab-Adad[1]GN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 7,epēšu[do]V Remanni-Adad[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 8,dannu[strong]AJ ša[of]DET Aššur-bani-apli[1]PN šarru[king]N mātu[land]N Aššur[1]DN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 9,ištu[from]PRP pānu[front]N Issar-duri[1]PN ištu[from]PRP pānu[front]N Lu-šakin[1]PN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 10,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 11,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 12,bītu[house]N zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 13,dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 14,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),o 15,awīlu[man]N annû[this]DP lū[may]MOD māru[son]N
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),r 1,šību[witness]N
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),r 2,šību[witness]N
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),r 3,šību[witness]N Seʾ-ilaʾi[1]PN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),r 4,šību[witness]N Bahianu[1]PN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),r 5,šību[witness]N Marduk-remanni[1]PN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),r 6,gimru[totality]N šību[witness]N Bet-Eriba-ilu[1]GN
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),r 7,šību[witness]N Issar-nadin-apli[1]PN ṭupšarru[scribe]N ṣābitu[recipient]N dannutu[binding-document]N
+saao/saa06/P335275,SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),SAA 06 311. Remanni-Adad Buys a House (666-XI-1) (ADD 0331),r 8,Šabaṭu[Shebat]MN ūmu[day]N līmu[eponym-(of-year)]N Kanunayu[1]PN

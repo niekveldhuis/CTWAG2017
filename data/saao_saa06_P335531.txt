@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335531,SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),o 1,kunukku[seal]N
+saao/saa06/P335531,SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),o 2,bēlu[lord]N tadānu[give]V
+saao/saa06/P335531,SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),o 3',sinništu[woman]N
+saao/saa06/P335531,SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),o 4',mārtu[daughter]N
+saao/saa06/P335531,SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),r 1',šību[witness]N
+saao/saa06/P335531,SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),r 2',šību[witness]N Nabuʾa[1]PN ṭupšarru[scribe]N
+saao/saa06/P335531,SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),r 3',Abu[Ab]MN ūmu[day]N
+saao/saa06/P335531,SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),SAA 06 128. Purchase of Slaves (696-V-5) (ADD 0614),r 4',līmu[eponym-(of-year)]N Šulmu-beli[1]PN

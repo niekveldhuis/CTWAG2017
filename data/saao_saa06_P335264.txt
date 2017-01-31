@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),1',ardu[slave]N
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),2',ša[of]DET
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),3',epēšu[do]V Šumma-ilani[1]PN
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),4',ina[in]PRP libbu[interior]N manû[unit]N erû[copper]N
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),5',ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),6',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),7',tadnu[given]AJ ṣehru[small]AJ šuāti[him]IP
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),8',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),b.e. 9',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),b.e. 10',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),b.e. 11',zaqāpu[fix-upright]V lū[may]MOD
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),r 1,awīlu[man]N annû[this]DP
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),r 2,lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),r 3,dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),r 4,išti[with]PRP Šumma-ilani[1]PN
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),r 5,māru[son]N māru[son]N māru[son]N
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),r 6,buʾʾû[look-for]V manû[unit]N ṣarpu[silver]N
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),r 7,ana[to]PRP āšibu[sitting]AJ
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),r 8,tadānu[give]V
+saao/saa06/P335264,SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),SAA 06 056. Šumma-ilani Buys a Boy (ADD 0319),e. 1,šību[witness]N

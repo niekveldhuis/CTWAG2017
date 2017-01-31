@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335398,SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),o 1',Baššaša[1]PN gimru[totality]N awīlu[man]N
+saao/saa14/P335398,SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),o 2',mārtu[daughter]N gimru[totality]N napištu[throat]N
+saao/saa14/P335398,SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),o 3',ana[to]PRP gimirtu[totality]N
+saao/saa14/P335398,SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),o 4',epēšu[do]V tašlīšu[third-man-on-chariot]N
+saao/saa14/P335398,SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),o 5',ištu[from]PRP pānu[front]N rabû[big-one]N kāṣiru[tailor]N
+saao/saa14/P335398,SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),SAA 14 229. [...]-ila’i ‘Third Man’ Buys Land and People (ADD 0457),o 6',ina[in]PRP libbu[interior]N leqû[take]V kaspu[silver]N

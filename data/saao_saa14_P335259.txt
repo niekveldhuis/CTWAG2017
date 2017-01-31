@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),o 1,kunukku[seal]N Ṣil-Aššur[1]PN
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),o 2,bēlu[lord]N māru[son]N tadānu[give]V
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),o 3,Nergal-ahu-uṣur[1]PN māru[son]N
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),o 4,rūṭu[unit]N epēšu[do]V Eriba-ilu[1]PN
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),o 5,ištu[from]PRP pānu[front]N Ṣil-Aššur[1]PN
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),o 6,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),o 7,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),o 8,tadnu[given]AJ awīlu[man]N šuāti[him]IP
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),o 9,zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),o 10,târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),r 1,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),r 2,ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),r 3,šību[witness]N
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),r 4,šību[witness]N
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),r 5,šību[witness]N
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),r 6,šību[witness]N
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),r 7,šību[witness]N
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),r 8,šību[witness]N
+saao/saa14/P335259,SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),SAA 14 212. Riba-ilu Buys a Boy (ADD 0314),r 9,šību[witness]N

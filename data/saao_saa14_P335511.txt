@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335511,SAA 14 308. Fragment of a Conveyance Text (ADD 0589),SAA 14 308. Fragment of a Conveyance Text (ADD 0589),o 1',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335511,SAA 14 308. Fragment of a Conveyance Text (ADD 0589),SAA 14 308. Fragment of a Conveyance Text (ADD 0589),o 2',šību[witness]N Šarru-lu-dari[1]PN māru[son]N
+saao/saa14/P335511,SAA 14 308. Fragment of a Conveyance Text (ADD 0589),SAA 14 308. Fragment of a Conveyance Text (ADD 0589),o 3',šību[witness]N māru[son]N Lit-ili[1]PN
+saao/saa14/P335511,SAA 14 308. Fragment of a Conveyance Text (ADD 0589),SAA 14 308. Fragment of a Conveyance Text (ADD 0589),o 4',šību[witness]N māru[son]N Sin-ahu-iddina[1]PN
+saao/saa14/P335511,SAA 14 308. Fragment of a Conveyance Text (ADD 0589),SAA 14 308. Fragment of a Conveyance Text (ADD 0589),o 5',šību[witness]N hazannu[mayor]N
+saao/saa14/P335511,SAA 14 308. Fragment of a Conveyance Text (ADD 0589),SAA 14 308. Fragment of a Conveyance Text (ADD 0589),o 6',šību[witness]N māru[son]N Ninua[Nineveh]GN
+saao/saa14/P335511,SAA 14 308. Fragment of a Conveyance Text (ADD 0589),SAA 14 308. Fragment of a Conveyance Text (ADD 0589),o 7',šību[witness]N māru[son]N
+saao/saa14/P335511,SAA 14 308. Fragment of a Conveyance Text (ADD 0589),SAA 14 308. Fragment of a Conveyance Text (ADD 0589),o 8',šību[witness]N māru[son]N Kusini[1]PN
+saao/saa14/P335511,SAA 14 308. Fragment of a Conveyance Text (ADD 0589),SAA 14 308. Fragment of a Conveyance Text (ADD 0589),o 9',šību[witness]N šību[witness]N Sahra[1]PN

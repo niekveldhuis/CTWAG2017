@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335062,SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),b.e. 1,manû[unit]N ṣarpu[silver]N
+saao/saa14/P335062,SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),o 2,ša[of]DET Luqu[1]PN
+saao/saa14/P335062,SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),o 3,ina[in]PRP pānu[front]N Danni[1]PN
+saao/saa14/P335062,SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),o 4,ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P335062,SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),o 5,arhu[month]N ūmu[day]N
+saao/saa14/P335062,SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),o 6,līmu[eponym-(of-year)]N Belšunu[1]PN
+saao/saa14/P335062,SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),r 1,šību[witness]N
+saao/saa14/P335062,SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),r 2,šību[witness]N
+saao/saa14/P335062,SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),r 3,šību[witness]N Qurdi-Adad[1]PN
+saao/saa14/P335062,SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),SAA 14 025. Luqu Lends Silver (*648) (ADD 0111),r 4,šību[witness]N Šumma-Iau[1]PN

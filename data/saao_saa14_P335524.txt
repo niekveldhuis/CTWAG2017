@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335524,SAA 14 317. Fragment of a Witness List (ADD 0606),SAA 14 317. Fragment of a Witness List (ADD 0606),r 1',šību[witness]N Ninuayu[1]PN
+saao/saa14/P335524,SAA 14 317. Fragment of a Witness List (ADD 0606),SAA 14 317. Fragment of a Witness List (ADD 0606),r 2',šību[witness]N Ubru-Issar[1]PN ardu[slave]N
+saao/saa14/P335524,SAA 14 317. Fragment of a Witness List (ADD 0606),SAA 14 317. Fragment of a Witness List (ADD 0606),r 3',šību[witness]N Azzanayu[1]PN ardu[slave]N ša[of]DET
+saao/saa14/P335524,SAA 14 317. Fragment of a Witness List (ADD 0606),SAA 14 317. Fragment of a Witness List (ADD 0606),r 4',šību[witness]N Liphur[1]PN
+saao/saa14/P335524,SAA 14 317. Fragment of a Witness List (ADD 0606),SAA 14 317. Fragment of a Witness List (ADD 0606),r 5',šību[witness]N Puhrat-Issar[1]PN
+saao/saa14/P335524,SAA 14 317. Fragment of a Witness List (ADD 0606),SAA 14 317. Fragment of a Witness List (ADD 0606),r.e. 6,šību[witness]N ardu[slave]N ša[of]DET māru[son]N šarru[king]N

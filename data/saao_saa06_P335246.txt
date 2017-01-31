@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335246,SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),o 1,kunukku[seal]N Idduʾa[1]PN rabû[big-one]N ālu[city]N
+saao/saa06/P335246,SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),o 2,ša[of]DET Lahiru[1]GN ša[of]DET bītu[house]N ummu[mother]N šarru[king]N
+saao/saa06/P335246,SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),o 3,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335246,SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),o 4,ikkaru[farmer]N
+saao/saa06/P335246,SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),o 5,ikkaru[farmer]N
+saao/saa06/P335246,SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),r 1',šību[witness]N ṭupšarru[scribe]N
+saao/saa06/P335246,SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),r 2',šību[witness]N Urdu-Nanaya[1]PN ṭupšarru[scribe]N
+saao/saa06/P335246,SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),SAA 06 255. Idu’a Town Manager of the Queen Mother Sells People (678) (ADD 0301),r 3',ūmu[day]N

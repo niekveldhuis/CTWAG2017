@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336742,SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),o 2',ša[of]DET
+saao/saa14/P336742,SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),o 3',epēšu[do]V
+saao/saa14/P336742,SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),o 4',ištu[from]PRP pānu[front]N
+saao/saa14/P336742,SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),o 5',ištu[from]PRP pānu[front]N ina[in]PRP libbu[interior]N
+saao/saa14/P336742,SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),o 6',ana[to]PRP kūm[instead-of]PRP
+saao/saa14/P336742,SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),o 7',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P336742,SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),o 8',tadnu[given]AJ bītu[house]N imēru[unit]N
+saao/saa14/P336742,SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),o 10',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P336742,SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),o 11',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P336742,SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),SAA 14 225. Adad-[ ...] Buys an Estate of 50 Hectares (K 13014),o 12',ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV

@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),o 2,ša[of]DET Bahianu[1]PN
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),o 3,ina[in]PRP pānu[front]N Ahu-aya[1]PN
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),o 4,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),o 5,šību[witness]N Nanaya[1]PN
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),o 6,šību[witness]N Nabuʾa[1]PN
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),o 7,māru[son]N damqu[good]AJ
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),r 1,ana[to]PRP sūtu[unit]N
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),r 2,rabû[to-be-big]V
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),r 3,ūmu[day]N
+saao/saa06/P335992,SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),SAA 06 069. Bahianu Loans 10 Homers of Barley (688-X-6) (ADD 1213+),r 4,līmu[eponym-(of-year)]N Iddin-ahhe[1]PN

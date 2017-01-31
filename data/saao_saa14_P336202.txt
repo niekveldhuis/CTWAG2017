@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 1,manû[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 2,nikkassu[account(s)]N ša[of]DET Nabu-reši-išši[1]PN
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 3,ša[that]REL ina[in]PRP pānu[front]N Gabbu-ilani-ereš[1]PN
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 4,imēru[unit]N karānu[vine]N Babilayu[1]PN
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 5,ša-pān-ēkalli[palace-supervisor]N našû[lift]V
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 6,Addaru[Adar]MN līmu[eponym-(of-year)]N Silim-Aššur[1]PN
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 7,šiqlu[unit]N ṣarpu[silver]N Nabu-reši-išši[1]PN
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 8,Nisannu[Nisan]MN ūmu[day]N līmu[eponym-(of-year)]N Ša-Nabu-šu[1]PN
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 9,našû[lift]V
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 10,mā[saying]PRP šeʾu[barley]N eršu[tilled]AJ ša[of]DET kibtu[wheat]N
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 11,zabālu[carry]V
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),o 12,Sinqi-Issar[1]PN
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),r 1',lā[not]MOD leqû[take]V
+saao/saa14/P336202,SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),SAA 14 080. Nabu-reši-išši Lends Silver (658-I-29) (Iraq 32 16),r 2',šību[witness]N Nabu-zaqip-enši[1]PN

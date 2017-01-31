@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224978,SAA 14 458. Barruqu Lends Grain (TIM 11 35),SAA 14 458. Barruqu Lends Grain (TIM 11 35),o 1,imēru[unit]N qû[unit]N
+saao/saa14/P224978,SAA 14 458. Barruqu Lends Grain (TIM 11 35),SAA 14 458. Barruqu Lends Grain (TIM 11 35),o 2,ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa14/P224978,SAA 14 458. Barruqu Lends Grain (TIM 11 35),SAA 14 458. Barruqu Lends Grain (TIM 11 35),o 3,ša[of]DET Barruqu[1]PN
+saao/saa14/P224978,SAA 14 458. Barruqu Lends Grain (TIM 11 35),SAA 14 458. Barruqu Lends Grain (TIM 11 35),o 4,ina[in]PRP pānu[front]N Nabu-šallimšunu[1]PN
+saao/saa14/P224978,SAA 14 458. Barruqu Lends Grain (TIM 11 35),SAA 14 458. Barruqu Lends Grain (TIM 11 35),o 5,ina[in]PRP pānu[front]N Ereš-Issar[1]PN
+saao/saa14/P224978,SAA 14 458. Barruqu Lends Grain (TIM 11 35),SAA 14 458. Barruqu Lends Grain (TIM 11 35),o 6,ina[in]PRP adru[threshing-floor]N qaqqadu[head]N tadānu[give]V
+saao/saa14/P224978,SAA 14 458. Barruqu Lends Grain (TIM 11 35),SAA 14 458. Barruqu Lends Grain (TIM 11 35),b.e. 7,šumma[if]MOD lā[not]MOD tadānu[give]V

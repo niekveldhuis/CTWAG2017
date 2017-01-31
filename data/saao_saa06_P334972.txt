@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334972,SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),1,kunukku[seal]N Bel-ašared[1]PN manû[unit]N šiqlu[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa06/P334972,SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),2,ša[of]DET Šumma-ilani[1]PN
+saao/saa06/P334972,SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),3,ina[in]PRP pānu[front]N Bel-ašared[1]PN ana[to]PRP pūhu[exchange]N našû[lift]V ana[to]PRP rebû[fourth]NU
+saao/saa06/P334972,SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),4,rabû[to-be-big]V šību[witness]N Sin-zeru-ibni[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P334972,SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),5,šību[witness]N Nabu-ahu-uṣur[1]PN ša-qurbūti[close-follower]N šību[witness]N Meʾisu[1]PN ṭupšarru[scribe]N
+saao/saa06/P334972,SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),6,šību[witness]N Milkya[1]PN šību[witness]N Nabu-leʾani[1]PN
+saao/saa06/P334972,SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),7,šību[witness]N Yaʾla[1]PN
+saao/saa06/P334972,SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),SAA 06 044. Envelope of the Preceding Text (684) (ADD 0020),r 1,Nisannu[Nisan]MN ūmu[day]N līmu[eponym-(of-year)]N

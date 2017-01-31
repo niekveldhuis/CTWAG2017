@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),o 2',lū[may]MOD bēlu[lord]N ilku[state-service]N
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),o 3',ša[that]REL dīnu[legal-decision]N dabābu[speak]V išti[with]PRP Bel-duri[1]PN
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),o 4',māru[son]N māru[son]N māru[son]N buʾʾû[look-for]V
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),o 5',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N ana[to]PRP
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),o 6',Ištar[1]DN āšibu[sitting]AJ Arbail[Arbela]GN šakānu[put]V
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),o 7',sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Aššur[1]DN rakāsu[bind]V
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),r 1,sisû[horse]N harbakkannu[(a-kind-of-horse)]N ina[in]PRP šēpu[foot]N Nergal[1]DN
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),r 2,erēbu[enter]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),r 3,ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP dīnu[legal-decision]N
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),r 4,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),r 5,šību[witness]N rabû[big-one]N kallāpu[outrider]N
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),r 6,šību[witness]N nāgiru[herald]N ēkallu[palace]N
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),r 7,šību[witness]N māru[son]N Gimillu[1]PN
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),r 8,šību[witness]N šangû[priest]N šanû[second]NU
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),r 9,šību[witness]N ša-qurbūti[close-follower]N
+saao/saa14/P335424,SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),SAA 14 466. Fragment of a Bel-duri Document (ADD 0485),r 10,šību[witness]N

@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335977,SAA 14 133. Fragment of a Sales Document (666) (ADD 1197),SAA 14 133. Fragment of a Sales Document (666) (ADD 1197),o 1,kunukku[seal]N Inurta-aplu-iddina[1]PN
+saao/saa14/P335977,SAA 14 133. Fragment of a Sales Document (666) (ADD 1197),SAA 14 133. Fragment of a Sales Document (666) (ADD 1197),o 2,bēlu[lord]N tadānu[give]V
+saao/saa14/P335977,SAA 14 133. Fragment of a Sales Document (666) (ADD 1197),SAA 14 133. Fragment of a Sales Document (666) (ADD 1197),r 1',šību[witness]N ṭupšarru[scribe]N
+saao/saa14/P335977,SAA 14 133. Fragment of a Sales Document (666) (ADD 1197),SAA 14 133. Fragment of a Sales Document (666) (ADD 1197),r.e. 2,arhu[month]N ūmu[day]N
+saao/saa14/P335977,SAA 14 133. Fragment of a Sales Document (666) (ADD 1197),SAA 14 133. Fragment of a Sales Document (666) (ADD 1197),r.e. 3,līmu[eponym-(of-year)]N Kanunaya[1]PN

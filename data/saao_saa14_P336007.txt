@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336007,SAA 14 372. Fragment of a Witness List (ADD 1244),SAA 14 372. Fragment of a Witness List (ADD 1244),r 1',šību[witness]N
+saao/saa14/P336007,SAA 14 372. Fragment of a Witness List (ADD 1244),SAA 14 372. Fragment of a Witness List (ADD 1244),r 2',šību[witness]N Šarru-emuranni[1]PN
+saao/saa14/P336007,SAA 14 372. Fragment of a Witness List (ADD 1244),SAA 14 372. Fragment of a Witness List (ADD 1244),r 3',šību[witness]N Sin-naʾdi[1]PN
+saao/saa14/P336007,SAA 14 372. Fragment of a Witness List (ADD 1244),SAA 14 372. Fragment of a Witness List (ADD 1244),r 4',šību[witness]N
+saao/saa14/P336007,SAA 14 372. Fragment of a Witness List (ADD 1244),SAA 14 372. Fragment of a Witness List (ADD 1244),r 5',šību[witness]N Qurdi[1]PN
+saao/saa14/P336007,SAA 14 372. Fragment of a Witness List (ADD 1244),SAA 14 372. Fragment of a Witness List (ADD 1244),r 6',šību[witness]N
+saao/saa14/P336007,SAA 14 372. Fragment of a Witness List (ADD 1244),SAA 14 372. Fragment of a Witness List (ADD 1244),e. 1,šiqlu[unit]N

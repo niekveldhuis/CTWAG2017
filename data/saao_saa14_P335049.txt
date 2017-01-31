@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),o 1,ina[in]PRP ūmu[day]N ša[of]DET Simanu[Sivan]MN
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),o 2,šumma[if]MOD ardu[slave]N ša[that]REL Uqupu[1]PN
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),o 3,ina[in]PRP qātu[hand]N Menaheme[1]PN
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),o 4,aṣû[go-out]V
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),o 5,lā[not]MOD sahāru[go-around]V
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),o 6,lā[not]MOD tadānu[give]V
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),r 1,manû[unit]N ṣarpu[silver]N
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),r 2,adi[until]PRP rubbû[increase]N
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),r 3,Uqupu[1]PN
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),r 4,ana[to]PRP Menaheme[1]PN tadānu[give]V
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),r 5,Nisannu[Nisan]MN ūmu[day]N
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),r 6,līmu[eponym-(of-year)]N Aššur-garuʾa-nere[1]PN
+saao/saa14/P335049,SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),SAA 14 103. Court Decision on Behalf of Menahem (*641-I-23) (ADD 0098),r.e. 7,šību[witness]N Nabu-šarru-ahhešu[1]PN

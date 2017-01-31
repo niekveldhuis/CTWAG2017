@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),o 1,kunukku[seal]N Adad-naṣir[1]PN ṭupšarru[scribe]N
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),o 2,māru[son]N Nabu-naṣir[1]PN ṭupšarru[scribe]N ša[of]DET bītu[house]N Aššur-leʾi[1]PN
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),o 3,bēlu[lord]N kirû[garden]N tadānu[give]V
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),o 4,kirû[garden]N ina[in]PRP Singara[1]GN ina[in]PRP bītu[house]N Ištar[1]DN
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),o 5,līm[thousand]NU meʾatu[(one)-hundred]NU tillatu[vine]N ina[in]PRP libbu[interior]N
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),o 6,bītu[house]N ana[to]PRP gimirtu[totality]N
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),o 7,ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),o 8,ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),r 1',šību[witness]N
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),r 2',šību[witness]N
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),r 3',šību[witness]N Dari-šarru[1]PN šušānu[horse-trainer]N ša-pattūti[open-chariot]N
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),r 4',šību[witness]N Šamaš-šallim[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),r 5',šību[witness]N Ilu-mušezib[1]PN šušānu[horse-trainer]N ša-pattūti[open-chariot]N
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),r 6',šību[witness]N Marduk-zeru-ibni[1]PN ṭupšarru[scribe]N
+saao/saa06/P335306,SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),SAA 06 331. Remanni-Adad Buys Vineyards in Singara (660-V-3) (ADD 0362),r 7',Abu[Ab]MN ūmu[day]N

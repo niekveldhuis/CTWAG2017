@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),o 1,kunukku[seal]N Kinanni-Issar[1]PN
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),o 2,Qatnaya[Qatnean]EN bēlu[lord]N eqlu[field]N nišu[people]N
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),o 3,tadānu[give]V
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),o 4,bītu[house]N imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP hūlu[way]N ša[of]DET Kapar-Dannaya[1]GN
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),o 5,ana[to]PRP Kapar-Ildiši[1]GN alāku[go]V ṭāhu[adjacent-to]PRP
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),o 6,kirû[garden]N ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Iddinaya[1]PN
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),o 7,bītu[house]N imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP hūlu[way]N ša[that]REL ištu[from]PRP Kapar-Dannaya[1]GN
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),o 8,ana[to]PRP alāku[go]V
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),o 9,gimru[totality]N ṭāhu[adjacent-to]PRP ṭāhu[adjacent-to]PRP hūlu[way]N ša[that]REL ana[to]PRP
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),o 10,alāku[go]V
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),r 1',šību[witness]N Šamaš-šarru-uṣur[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),r 2',šību[witness]N Marduk-šarru-uṣur[1]PN māru[son]N Gabbe[1]PN
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),r 3',šību[witness]N Zaruti[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),r 4',šību[witness]N Sin-ašared[1]PN tašlīšu[third-man-on-chariot]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),r 5',šību[witness]N Zaruti[1]PN rabû[big-one]N kiṣru[knot]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),r 6',šību[witness]N Nabu-eriba[1]PN šanû[second]NU ša[of]DET
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),r 7',šību[witness]N Nergal-šarru-uṣur[1]PN tašlīšu[third-man-on-chariot]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335382,SAA 06 321. Duplicate of the Previous Text (ADD 0439),SAA 06 321. Duplicate of the Previous Text (ADD 0439),r 8',šību[witness]N Bani[1]PN šanû[second]NU ša[of]DET rabû[big-one]N asû[physician]N

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335237,SAA 14 136. (no title) (658-I-28) (ADD 0292),SAA 14 136. (no title) (658-I-28) (ADD 0292),o 3',Issar-šimanni[1]PN
+saao/saa14/P335237,SAA 14 136. (no title) (658-I-28) (ADD 0292),SAA 14 136. (no title) (658-I-28) (ADD 0292),r 1',šību[witness]N
+saao/saa14/P335237,SAA 14 136. (no title) (658-I-28) (ADD 0292),SAA 14 136. (no title) (658-I-28) (ADD 0292),r 2',šību[witness]N
+saao/saa14/P335237,SAA 14 136. (no title) (658-I-28) (ADD 0292),SAA 14 136. (no title) (658-I-28) (ADD 0292),r 3',šību[witness]N Bel-ibni[1]PN Kalhaya[1]EN
+saao/saa14/P335237,SAA 14 136. (no title) (658-I-28) (ADD 0292),SAA 14 136. (no title) (658-I-28) (ADD 0292),r 4',šību[witness]N Naʾnu[1]PN
+saao/saa14/P335237,SAA 14 136. (no title) (658-I-28) (ADD 0292),SAA 14 136. (no title) (658-I-28) (ADD 0292),r 5',šību[witness]N Abdi[1]PN nagāru[joiner]N
+saao/saa14/P335237,SAA 14 136. (no title) (658-I-28) (ADD 0292),SAA 14 136. (no title) (658-I-28) (ADD 0292),r 6',šību[witness]N Nabu-dur-enši[1]PN
+saao/saa14/P335237,SAA 14 136. (no title) (658-I-28) (ADD 0292),SAA 14 136. (no title) (658-I-28) (ADD 0292),r 7',šību[witness]N Nabu-naʾid[1]PN ṭupšarru[scribe]N
+saao/saa14/P335237,SAA 14 136. (no title) (658-I-28) (ADD 0292),SAA 14 136. (no title) (658-I-28) (ADD 0292),r 8',Nisannu[Nisan]MN ūmu[day]N

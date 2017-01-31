@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),o 1,ursūtu[(a-storeroom;-deposit)?]N ša[of]DET
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),o 2,niksu[cutting-(off)]N dullu[trouble]N
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),o 3,qatnu[thin]AJ ša[of]DET
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),o 4,ina[in]PRP pānu[front]N Urda[1]PN
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),o 5,rabû[big-one]N išparu[weaver]N
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),o 6,meʾatu[(one)-hundred]NU manû[unit]N erû[copper]N
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),o 7,arhiš[quickly]AV apālu[pay]V
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),o 8,šību[witness]N Nabuʾa[1]PN
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),o 9,šību[witness]N Andiayu[1]PN
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),r 1,šību[witness]N Aššur-šumu-uṣur[1]PN
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),r 2,šību[witness]N Bahianu[1]PN
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),r 3,šību[witness]N
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),r 4,šību[witness]N
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),r 5,Abu[Ab]MN ūmu[day]N
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),r 6,līmu[eponym-(of-year)]N Nabu-šarru-uṣur[1]PN
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),r 7,šaknu[appointee]N mātu[land]N Marqasa[1]GN
+saao/saa06/P335561,SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),SAA 06 190. Cloth for the King’s Napkin (682-V-7) (ADD 0679),e. 1,šušippum[towel]N

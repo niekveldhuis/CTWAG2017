@@ -1,0 +1,35 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 1,ṣupru[nail]N Ubru-Allaya[1]PN
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 2,bēlu[lord]N qaqqaru[ground]N peṣû[white]AJ tadānu[give]V
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 3,qaqqaru[ground]N peṣû[white]AJ ṭāhu[adjacent-to]PRP Inurti[1]PN
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 4,kirû[garden]N bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP Bit-Dagan[1]GN
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 5,ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET Arbailayu[1]PN
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 6,ṭāhu[adjacent-to]PRP Qurdi-Issar[1]PN ṭāhu[adjacent-to]PRP hirītu[ditch]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 7,ša[of]DET Adian[1]GN ṭāhu[adjacent-to]PRP Bel-taklak[1]PN
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 8,epēšu[do]V Gazilu[1]PN
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 9,ina[in]PRP libbu[interior]N manû[unit]N erû[copper]N zarāpu[purchase]V
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 10,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 11,eqlu[field]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 12,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 13,mannu[who?]QP ša[that]REL urkiš[later]AV ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 14,lū[may]MOD Ubru-Allaya[1]PN lū[may]MOD māru[son]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 15,lū[may]MOD ahu[brother]N lū[may]MOD mammanu-[whosoever]XP
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),o 16,išti[with]PRP Gazilu[1]PN u[and]CNJ māru[son]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),b.e. 17,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 1,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 2,ana[to]PRP Inurta[1]DN āšibu[sitting]AJ Kalhu[1]GN tadānu[give]V
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 3,sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Aššur[1]DN
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 4,rakāsu[bind]V harbakkannu[(a-kind-of-horse)]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 5,ina[in]PRP šēpu[foot]N Nergal[1]DN erēbu[enter]V biltu[load]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 6,annaku[tin]N ana[to]PRP šaknu[appointee]N ālu[city]N tadānu[give]V
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 7,kaspu[silver]N ana[to]PRP meʾatu[(one)-hundred]NU ana[to]PRP bēlu[lord]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 8,târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 9,šību[witness]N Naʾdi-ilu[1]PN šību[witness]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 10,šību[witness]N Urdu-ahhešu[1]PN šību[witness]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 11,gimru[totality]N šību[witness]N Maškarit[1]GN
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 12,šību[witness]N Nergal-ibni[1]PN Adad-šumu-uṣur[1]PN
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 13,šību[witness]N Pulu[1]PN šību[witness]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 14,šību[witness]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 15,šību[witness]N Sangi-Issar[1]PN ṭupšarru[scribe]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 16,Elulu[Elul]MN ūmu[day]N
+saao/saa06/P335294,SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),SAA 06 032. Gazilu Buys a Building Plot (707-VI-15) (ADD 0350),r 17,līmu[eponym-(of-year)]N Ša-Aššur-dubbu[1]PN

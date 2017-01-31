@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P274788,SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),o 1,imēru[unit]N Ṣabbutanu[1]PN
+saao/saa06/P274788,SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),o 2,La-tubašanni-ilu[1]PN
+saao/saa06/P274788,SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),o 3,gimru[totality]N kurummatu[ration]N
+saao/saa06/P274788,SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),o 4,ana[to]PRP Bahianu[1]PN
+saao/saa06/P274788,SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),b.e. 5,šalāmu[be(come)-healthy]V
+saao/saa06/P274788,SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),r 1,Nabu-nuru-nammir[1]PN
+saao/saa06/P274788,SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),r 2,lā[not]MOD šalāmu[be(come)-healthy]V
+saao/saa06/P274788,SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),SAA 06 072. A Barley Loan Paid Back to Bahianu (685-VII) (ADD 0135),r 3,Tašritu[Tishri]MN

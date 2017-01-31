@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335046,SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),o 2,Lu-balaṭ[1]PN
+saao/saa06/P335046,SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),o 3,ina[in]PRP qû[unit]N erû[copper]N
+saao/saa06/P335046,SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),o 4,Upi[Opis]GN
+saao/saa06/P335046,SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),o 7,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335046,SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),r 1,šību[witness]N
+saao/saa06/P335046,SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),r 2,šību[witness]N
+saao/saa06/P335046,SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),r 3,šību[witness]N
+saao/saa06/P335046,SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),SAA 06 276. A Fragmentary Loan Document (675) (ADD 0095),r 4,šību[witness]N

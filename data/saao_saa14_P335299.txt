@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),1,kunukku[seal]N Zabayu[1]PN
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),2,kunukku[seal]N Bel-ahu-iddina[1]PN
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),3,kunukku[seal]N Bel-ereš[1]PN
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),4,gimru[totality]N awīlu[man]N bēlu[lord]N qaqqaru[ground]N
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),5,peṣû[white]AJ tadnu[given]AJ
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),6,qaqqaru[ground]N peṣû[white]AJ
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),7,ina[in]PRP ammatu[unit]N mūraku[length]N
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),8,ina[in]PRP ammatu[unit]N rupšu[width]N gabdi[adjoining-to]PRP
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),9,tadnu[given]AJ
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),r 1',šību[witness]N
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),r 2',šību[witness]N
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),r 3',šību[witness]N
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),r 4',šību[witness]N
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),r 5',šību[witness]N Urdu[1]PN
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),r 6',šību[witness]N Ibašši-ilani[1]PN
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),r 7',šību[witness]N Bel-leʾi[1]PN
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),r 8',šību[witness]N Belayu[1]PN
+saao/saa14/P335299,SAA 14 248. Purchase of a Vacant Lot (ADD 0355),SAA 14 248. Purchase of a Vacant Lot (ADD 0355),r.e. 9,šību[witness]N Taklak-ana-ili[1]PN

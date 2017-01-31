@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335943,SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),o 1,nikkassu[account(s)]N ša[of]DET Ištar[1]DN ša[of]DET Ninua[Nineveh]GN
+saao/saa14/P335943,SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),o 2,ša[of]DET
+saao/saa14/P335943,SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),o 3,ina[in]PRP pānu[front]N
+saao/saa14/P335943,SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),o 4,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P335943,SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),o 5,ina[in]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P335943,SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),o 6,Elulu[Elul]MN ūmu[day]N
+saao/saa14/P335943,SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),o 7,līmu[eponym-(of-year)]N Šamaš-šarru-ibni[1]PN
+saao/saa14/P335943,SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),SAA 14 172. [...]-Marduk Lends Silver (*612-VI-18) (ADD 1161),o 8,bēlu[lord]N qātu[hand]N ša[of]DET ṣarpu[silver]N

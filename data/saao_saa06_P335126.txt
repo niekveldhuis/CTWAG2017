@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 2,ṣupru[nail]N Zakkuru[1]PN ṣupru[nail]N Dukur-il[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 3,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 4,Mannu-ki-Arbail[1]PN māru[son]N ša[of]DET Ahi-Yau[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 5,epēšu[do]V Bahianu[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 6,ištu[from]PRP pānu[front]N Zakkuru[1]PN ištu[from]PRP pānu[front]N Dukur-il[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 7,ina[in]PRP libbu[interior]N manû[unit]N erû[copper]N paṭāru[loosen]V
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 8,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ awīlu[man]N šuāti[him]IP
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 9,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 10,dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 11,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 12,manû[unit]N ṣarpu[silver]N tadānu[give]V awīlu[man]N aṣû[go-out]V
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 13,ṣibtu[seizure]N bennu[epilepsy]N ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 14,sartu[falsehood]N ina[in]PRP kalû[totality]N ūmu[day]N
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 15,šību[witness]N Bel-duri[1]PN rabû[big-one]N ālu[city]N
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),o 16,šību[witness]N Dususu[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),r 1,šību[witness]N Milku-il[1]PN šību[witness]N Bel-emuranni[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),r 2,šību[witness]N Šamaš-šezib[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),r 3,šību[witness]N Attara[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),r 4,šību[witness]N Inurta-mušezib[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),r 5,Abu[Ab]MN ūmu[day]N
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),r 7,līmu[eponym-(of-year)]N Metunu[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),r 8,šaknu[appointee]N mātu[land]N Isana[1]GN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),r 9,šību[witness]N Nabu-nadin-ahhe[1]PN
+saao/saa06/P335126,SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),SAA 06 061. Bahianu Redeems a Bondman (700-V-5) (ADD 0176+),r 10,ṭupšarru[scribe]N ṣābitu[recipient]N dannutu[binding-document]N

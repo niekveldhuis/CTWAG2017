@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335468,SAA 06 270. Fragment of a Legal Document (679) (ADD 0534),SAA 06 270. Fragment of a Legal Document (679) (ADD 0534),o 1,kunukku[seal]N Nergal-šarru-uṣur[1]PN
+saao/saa06/P335468,SAA 06 270. Fragment of a Legal Document (679) (ADD 0534),SAA 06 270. Fragment of a Legal Document (679) (ADD 0534),r 1',šību[witness]N Nabu-belu-kaʾʾin[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335468,SAA 06 270. Fragment of a Legal Document (679) (ADD 0534),SAA 06 270. Fragment of a Legal Document (679) (ADD 0534),r 2',ša[of]DET bītu[house]N šanû[second]NU
+saao/saa06/P335468,SAA 06 270. Fragment of a Legal Document (679) (ADD 0534),SAA 06 270. Fragment of a Legal Document (679) (ADD 0534),r 3',šību[witness]N Ina-šar-Nabu-allak[1]PN

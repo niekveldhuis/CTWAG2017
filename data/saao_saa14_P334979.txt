@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334979,SAA 14 068. Bahianu Lends Barley to a Priestess (667-II-5) (ADD 0027),SAA 14 068. Bahianu Lends Barley to a Priestess (667-II-5) (ADD 0027),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa14/P334979,SAA 14 068. Bahianu Lends Barley to a Priestess (667-II-5) (ADD 0027),SAA 14 068. Bahianu Lends Barley to a Priestess (667-II-5) (ADD 0027),o 2,ša[of]DET Bahianu[1]PN
+saao/saa14/P334979,SAA 14 068. Bahianu Lends Barley to a Priestess (667-II-5) (ADD 0027),SAA 14 068. Bahianu Lends Barley to a Priestess (667-II-5) (ADD 0027),o 3,ina[in]PRP pānu[front]N entu[priestess]N
+saao/saa14/P334979,SAA 14 068. Bahianu Lends Barley to a Priestess (667-II-5) (ADD 0027),SAA 14 068. Bahianu Lends Barley to a Priestess (667-II-5) (ADD 0027),r 1,Ayaru[Iyyar]MN ūmu[day]N

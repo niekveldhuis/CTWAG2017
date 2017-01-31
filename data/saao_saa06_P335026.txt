@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),o 1,imēru[unit]N eqlu[field]N ša[of]DET Edu-šallim[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),o 2,ina[in]PRP Kar-Apladad[1]GN Mušezibu[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),o 3,manû[unit]N ṣarpu[silver]N ana[to]PRP Edu-šallim[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),o 4,tadānu[give]V manû[unit]N ša[of]DET eqlu[field]N Mušezibu[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),o 5,išti[with]PRP Edu-šallim[1]PN akālu[eat]V
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),b.e. 6,ina[in]PRP ūmu[day]N ša[that]REL manû[unit]N ṣarpu[silver]N
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),b.e. 7,Edu-šallim[1]PN ana[to]PRP Mušezibu[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),r 1,tadānu[give]V eqlu[field]N aṣû[go-out]V
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),r 2,šību[witness]N Il-tappa[1]PN šību[witness]N Nabu-damqi-ilani[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),r 3,šību[witness]N Abi-danu[1]PN šību[witness]N Bel-ereš[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),r 4,šību[witness]N Šamaš-taklak[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),r 5,šību[witness]N Zar-Issar[1]PN šību[witness]N Kubabu-ereš[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),r 6,šību[witness]N Lu-balaṭ[1]PN šību[witness]N La-tubašanni-ilu[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),r 7,Ayaru[Iyyar]MN ūmu[day]N
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),r.e. 8,līmu[eponym-(of-year)]N Dananu[1]PN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),r.e. 9,ša[of]DET Manṣuati[1]GN
+saao/saa06/P335026,SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),SAA 06 259. Edu-šallim Borrows Silver (680-II-16) (ADD 0074),e. 1,arki[after]PRP andurāru[freedom]N

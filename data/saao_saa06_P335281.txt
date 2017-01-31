@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),o 1,kunukku[seal]N Šamaš-abuʾa[1]PN
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),o 2,māru[son]N Kakia[1]PN ša[of]DET Maganuba[1]GN
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),o 3,bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),o 4,bītu[house]N talpittu[application]N
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),o 5,mû[water]N kiqillutu[rubbish-dump]N
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),o 6,ṭāhu[adjacent-to]PRP bītu[house]N Bahianu[1]PN
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),o 7,ṭāhu[adjacent-to]PRP bītu[house]N Daniati-il[1]PN
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),o 8,qaqqaru[ground]N peṣû[white]AJ mūraku[length]N
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),o 9,ina[in]PRP Maganuba[1]GN
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 1',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 2',ina[in]PRP burku[knee]N Mullissu[1]DN šakānu[put]V
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 3',sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Aššur[1]DN
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 4',āšibu[sitting]AJ Ešarra[1]TN rakāsu[bind]V
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 5',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 6',lā[not]MOD leqû[take]V
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 7',šību[witness]N māru[son]N damqu[good]AJ ša[of]DET bēltu[lady]N bītu[house]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 8',šību[witness]N māru[son]N
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 9',šību[witness]N māru[son]N Mariʾ[1]PN
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 10',šību[witness]N māru[son]N Ahuʾa-eriba[1]PN
+saao/saa06/P335281,SAA 06 200. Purchase of a House (ADD 0337),SAA 06 200. Purchase of a House (ADD 0337),r 11',šību[witness]N ša[of]DET Hatayate[1]GN

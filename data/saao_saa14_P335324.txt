@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),1,ṣupru[nail]N ṣupru[nail]N
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),2,eqlu[field]N tadānu[give]V
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),3,bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),4,ina[in]PRP Kisiri[1]GN
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),5,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Issar-alik-pani[1]PN
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),6,ṭāhu[adjacent-to]PRP hūlu[way]N ša[that]REL ana[to]PRP
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),7,alāku[go]V
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),8,bītu[house]N eqlu[field]N ṭāhu[adjacent-to]PRP
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),9,ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),10,ṭāhu[adjacent-to]PRP šanîš[otherwise]AV
+saao/saa14/P335324,SAA 14 255. Purchase of Land in Kisiri (ADD 0380),SAA 14 255. Purchase of Land in Kisiri (ADD 0380),11,epēšu[do]V

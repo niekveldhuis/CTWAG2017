@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 1,kunukku[seal]N Ša-ili-tazzaz[1]PN
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 2,māru[son]N Nabu-nadin-ahhe[1]PN
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 3,bītu[house]N qaqqaru[ground]N peṣû[white]AJ
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 4,tadānu[give]V
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 5,qaqqaru[ground]N ina[in]PRP ammatu[unit]N mūraku[length]N
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 6,ina[in]PRP ammatu[unit]N rupšu[width]N
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 7,gabdi[adjoining-to]PRP bītu[house]N Mušezib-Nabu[1]PN
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 8,gabdi[adjoining-to]PRP bītu[house]N Nabu-mar-šarri-uṣur[1]PN
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 9,gabdi[adjoining-to]PRP dūru[(city)-wall]N gabdi[adjoining-to]PRP
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 10,bītu[house]N Dadi[1]PN
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),o 11,epēšu[do]V Mušezib-Nabu[1]PN
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 1,ina[in]PRP libbu[interior]N
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 2,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 3,tadnu[given]AJ
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 4,šuāti[him]IP
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 5,līmu[eponym-(of-year)]N Zababa-eriba[1]PN
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 6,šību[witness]N Ṣalam-ahhe[1]PN
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 7,šību[witness]N Bel-abuʾa[1]PN
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 8,šību[witness]N
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 9,šību[witness]N ēpû[baker]N
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 10,šību[witness]N
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 11,šību[witness]N Ahu-eriba[1]PN
+saao/saa14/P335295,SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),SAA 14 109. Mušezib-Nabu Buys a Vacant Lot (*637) (ADD 0351),r 12,šību[witness]N Ahu-lamur[1]PN

@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335503,SAA 14 302. Fragment of a Conveyance Text (ADD 0578),SAA 14 302. Fragment of a Conveyance Text (ADD 0578),r 1',lū[may]MOD
+saao/saa14/P335503,SAA 14 302. Fragment of a Conveyance Text (ADD 0578),SAA 14 302. Fragment of a Conveyance Text (ADD 0578),r 2',u[and]CNJ māru[son]N
+saao/saa14/P335503,SAA 14 302. Fragment of a Conveyance Text (ADD 0578),SAA 14 302. Fragment of a Conveyance Text (ADD 0578),r 3',buʾʾû[look-for]V
+saao/saa14/P335503,SAA 14 302. Fragment of a Conveyance Text (ADD 0578),SAA 14 302. Fragment of a Conveyance Text (ADD 0578),r 4',sakru[refined]AJ ina[in]PRP burku[knee]N
+saao/saa14/P335503,SAA 14 302. Fragment of a Conveyance Text (ADD 0578),SAA 14 302. Fragment of a Conveyance Text (ADD 0578),r 5',biltu[load]N annaku[tin]N ana[to]PRP
+saao/saa14/P335503,SAA 14 302. Fragment of a Conveyance Text (ADD 0578),SAA 14 302. Fragment of a Conveyance Text (ADD 0578),r 6',ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335503,SAA 14 302. Fragment of a Conveyance Text (ADD 0578),SAA 14 302. Fragment of a Conveyance Text (ADD 0578),r 7',šību[witness]N Bel-zeru-iqiša[1]PN
+saao/saa14/P335503,SAA 14 302. Fragment of a Conveyance Text (ADD 0578),SAA 14 302. Fragment of a Conveyance Text (ADD 0578),r 8',šību[witness]N Adad-šallim[1]PN
+saao/saa14/P335503,SAA 14 302. Fragment of a Conveyance Text (ADD 0578),SAA 14 302. Fragment of a Conveyance Text (ADD 0578),r 9',šību[witness]N
+saao/saa14/P335503,SAA 14 302. Fragment of a Conveyance Text (ADD 0578),SAA 14 302. Fragment of a Conveyance Text (ADD 0578),r 10',šību[witness]N Sin-natannu[1]PN

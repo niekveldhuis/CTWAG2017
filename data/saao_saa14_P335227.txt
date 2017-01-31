@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),2',ša[of]DET
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),3',epēšu[do]V Inurta-ahu-iddina[1]PN
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),4',ištu[from]PRP pānu[front]N Dannu-Nergal[1]PN
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),5',ina[in]PRP libbu[interior]N manû[unit]N erû[copper]N leqû[take]V
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),6',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),7',šuāti[him]IP zarpu[purchased]AJ
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),8',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),9',dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),10',ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),11',lū[may]MOD Dannu-Nergal[1]PN
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),r 1',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),r 2',lū[may]MOD ahu[brother]N ša[that]REL išti[with]PRP Inurta-ahu-iddina[1]PN
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),r 3',lū[may]MOD māru[son]N dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),r 4',manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),r 5',ṣibtu[seizure]N bennu[epilepsy]N ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),r 6',sartu[falsehood]N ina[in]PRP kalû[totality]N šattu[year]N
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),r 7',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ina[in]PRP bēlu[lord]N
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),r 8',târu[turn]V ina[in]PRP lā[not]MOD dīnu[legal-decision]N
+saao/saa14/P335227,SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),SAA 14 195. Inurta-ahu-iddina Buys a Slave (ADD 0280),r 9',dabābu[speak]V lā[not]MOD leqû[take]V

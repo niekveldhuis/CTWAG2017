@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),o 2',ištu[from]PRP pānu[front]N Dadi[1]PN ina[in]PRP libbu[interior]N
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),o 3',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ târu[turn]V
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),o 4',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),o 5',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),o 6',lū[may]MOD Dadi[1]PN lū[may]MOD māru[son]N
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),o 7',lū[may]MOD ahu[brother]N lū[may]MOD
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),o 8',lū[may]MOD mammanu-[whosoever]XP ša[that]REL
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),b.e. 9',mannu[who?]QP ša[that]REL išti[with]PRP Remanni-Adad[1]PN
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),b.e. 10',māru[son]N māru[son]N māru[son]N
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),b.e. 11',dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),b.e. 12',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),r 1,ina[in]PRP burku[knee]N Mullissu[1]DN šakānu[put]V
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),r 2,sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Aššur[1]DN rakāsu[bind]V
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),r 3,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),r 4,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),r 5,šību[witness]N Silim-Aššur[1]PN šukkallu[(a-court-official)]N rabû[big]AJ
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),r 6,šību[witness]N Šumma-ilu[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),r 7,šību[witness]N Ha-bašti[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),r 8,šību[witness]N Nabu-šumu-uṣur[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),r 9,šību[witness]N Nabu-eriba[1]PN šanû[second]NU ša[of]DET rabû[big-one]N urû[team]N
+saao/saa06/P335937,SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),SAA 06 308. Remanni-Adad Buys [...] (668?) (ADD 1155),r 10,šību[witness]N Ṣalam-šarri-iqbi[1]PN

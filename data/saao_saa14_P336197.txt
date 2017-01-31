@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 2',sinništu[woman]N gimru[totality]N
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 3',sinništu[woman]N gimru[totality]N Hanunu-il[1]PN
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 4',sinništu[woman]N gimru[totality]N Qanse[1]PN
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 5',gimru[totality]N napištu[throat]N gimru[totality]N bītu[house]N
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 6',bītu[house]N imēru[unit]N eqlu[field]N kirû[garden]N
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 7',ina[in]PRP Nikua[1]GN epēšu[do]V
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 8',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 9',ištu[from]PRP pānu[front]N Marduk-ahu-iddina[1]PN leqû[take]V
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 10',bītu[house]N eqlu[field]N kirû[garden]N nišu[people]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 11',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P336197,SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),SAA 14 399. Purchase of an Estate of 60 Hectares in Nikua (Iraq 32 11),o 12',sartu[falsehood]N ana[to]PRP kalû[totality]N ūmu[day]N mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV

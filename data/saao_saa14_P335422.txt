@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335422,SAA 14 189. Barruqu Buys […] (ADD 0483),SAA 14 189. Barruqu Buys […] (ADD 0483),o 2',tadnu[given]AJ
+saao/saa14/P335422,SAA 14 189. Barruqu Buys […] (ADD 0483),SAA 14 189. Barruqu Buys […] (ADD 0483),o 3',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P335422,SAA 14 189. Barruqu Buys […] (ADD 0483),SAA 14 189. Barruqu Buys […] (ADD 0483),b.e. 4',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335422,SAA 14 189. Barruqu Buys […] (ADD 0483),SAA 14 189. Barruqu Buys […] (ADD 0483),b.e. 5',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335422,SAA 14 189. Barruqu Buys […] (ADD 0483),SAA 14 189. Barruqu Buys […] (ADD 0483),b.e. 6',zaqāpu[fix-upright]V
+saao/saa14/P335422,SAA 14 189. Barruqu Buys […] (ADD 0483),SAA 14 189. Barruqu Buys […] (ADD 0483),b.e. 7',parāku[lie-across]V lū[may]MOD
+saao/saa14/P335422,SAA 14 189. Barruqu Buys […] (ADD 0483),SAA 14 189. Barruqu Buys […] (ADD 0483),r 1,Marduk-šarru-uṣur[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335422,SAA 14 189. Barruqu Buys […] (ADD 0483),SAA 14 189. Barruqu Buys […] (ADD 0483),r 2,māru[son]N māru[son]N lū[may]MOD
+saao/saa14/P335422,SAA 14 189. Barruqu Buys […] (ADD 0483),SAA 14 189. Barruqu Buys […] (ADD 0483),r 3,ša[that]REL dīnu[legal-decision]N dabābu[speak]V

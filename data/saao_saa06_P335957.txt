@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 1,ṣupru[nail]N Barruqu[1]PN bēlu[lord]N eqlu[field]N
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 2,bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP Alli[1]GN
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 3,ša[of]DET bītu[house]N tartānu[second-in-command]N
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 4,gabdi[adjoining-to]PRP
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 5,gabdi[adjoining-to]PRP
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 6,gabdi[adjoining-to]PRP eqlu[field]N ša[of]DET
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 7,gabdi[adjoining-to]PRP eqlu[field]N ša[of]DET Dagan-šimti[1]PN rabû[big-one]N kirû[garden]N
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 8,eqlu[field]N hūlu[way]N epinnu[(seed)-plough]N
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 9,epēšu[do]V Muaddi[1]PN
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 10,ina[in]PRP libbu[interior]N manû[unit]N erû[copper]N leqû[take]V
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 11,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ eqlu[field]N zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),o 12,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 1',šību[witness]N
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 2',šību[witness]N Babilayu[1]PN
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 3',šību[witness]N
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 4',šību[witness]N Mannu-ki-ahi[1]PN ša-rēši[eunuch]N
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 5',šību[witness]N Zibatu[1]PN hazannu[mayor]N
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 6',šību[witness]N Remanni-ilu[1]PN šību[witness]N Sin-naʾdi[1]PN
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 7',šību[witness]N Ahu-ittabši[1]PN šību[witness]N Damqi[1]PN
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 8',šību[witness]N Kenuʾa[1]PN šību[witness]N Mullu-abu[1]PN
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 9',šību[witness]N Kukulu[1]PN šību[witness]N Kullulu[1]PN
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 10',šību[witness]N Bel-šumu-iddina[1]PN ṭupšarru[scribe]N
+saao/saa06/P335957,SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),SAA 06 022. Muaddi Buys 12 Hectares of Land (729-X) (ADD 1176+),r 11',Ṭebetu[Tebet]MN ūmu[day]N

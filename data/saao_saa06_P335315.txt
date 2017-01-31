@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335315,SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),o 1,ṣupru[nail]N Ahu-ilaʾi[1]PN
+saao/saa06/P335315,SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),o 2,bēlu[lord]N kirû[garden]N tillatu[vine]N tadānu[give]V
+saao/saa06/P335315,SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),o 3,kirû[garden]N tillatu[vine]N ina[in]PRP Medun[1]GN
+saao/saa06/P335315,SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),o 4,Piqaqu[1]PN
+saao/saa06/P335315,SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),r 1',Seʾ-abi[1]PN
+saao/saa06/P335315,SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),r 2',ša[of]DET Irri[1]GN
+saao/saa06/P335315,SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),r 3',šību[witness]N Kaqqadanu[1]PN ša-rēši[eunuch]N
+saao/saa06/P335315,SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),r 4',šību[witness]N Qurdi-Adad[1]PN
+saao/saa06/P335315,SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),r 5',šību[witness]N Anaku[1]PN
+saao/saa06/P335315,SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),SAA 06 120. Purchase of a Vineyard (699-VII-22) (ADD 0371),r.e. 6,Tašritu[Tishri]MN ūmu[day]N līmu[eponym-(of-year)]N Bel-šarrani[1]PN

@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335290,SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),1',imēru[unit]N
+saao/saa14/P335290,SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),2',ina[in]PRP Ninua[Nineveh]GN
+saao/saa14/P335290,SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),3',ṭāhu[adjacent-to]PRP bītu[house]N Nabu-šumu-uṣur[1]PN
+saao/saa14/P335290,SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),4',ṭāhu[adjacent-to]PRP sūqāqû[street]N epēšu[do]V
+saao/saa14/P335290,SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),5',Adunu-dala[1]PN ištu[from]PRP pānu[front]N awīlu[man]N
+saao/saa14/P335290,SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),6',annû[this]DP zittu[share]N bītu[house]N abu[father]N
+saao/saa14/P335290,SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),7',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N
+saao/saa14/P335290,SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),SAA 14 182. Adunu-dala Buys Land in Nineveh for 12 Minas of Silver (ADD 0346),8',ša[of]DET šarru[king]N leqû[take]V kaspu[silver]N gammuru[finished]AJ

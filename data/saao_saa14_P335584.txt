@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),o 1',adru[threshing-floor]N zarpu[purchased]AJ
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),o 2',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),o 3',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),o 4',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),o 5',parāku[lie-across]V manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),o 6',manû[unit]N ṣarpu[silver]N mesû[washed]AJ
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),o 7',ina[in]PRP burku[knee]N Ištar[1]DN āšibu[sitting]AJ
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),o 8',Ninua[Nineveh]GN šakānu[put]V
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),o 9',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),o 10',târu[turn]V
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),r 1,šību[witness]N Šamaš-naʾdi[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),r 2,šību[witness]N Arbailayu[1]PN
+saao/saa14/P335584,SAA 14 325. Purchase of a Threshing Floor (ADD 0706),SAA 14 325. Purchase of a Threshing Floor (ADD 0706),r 3,šību[witness]N

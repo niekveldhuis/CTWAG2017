@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),o 1',kunukku[seal]N
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),o 2',kunukku[seal]N
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),o 3',kunukku[seal]N Tartiba[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),o 4',kunukku[seal]N Nabu-upaqa[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),o 5',kunukku[seal]N Nabu-gabbu-ileʾʾi[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),o 6',ṭāhu[adjacent-to]PRP Burukutunte[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),o 7',ṭāhu[adjacent-to]PRP Bit-Šamaš[1]GN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),o 8',ṭāhu[adjacent-to]PRP Ša-Kurbilayu[1]GN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),o 9',ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET nišu[people]N ēkallu[palace]N
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),o 10',ṭāhu[adjacent-to]PRP Šallimanni-Aššur[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),b.e. 11',bītu[house]N eqlu[field]N sūtu[unit]N qû[unit]N
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),b.e. 12',ina[in]PRP kutallu[back]N kirû[garden]N
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 1,māru[son]N epēšu[do]V
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 2,Yata[1]PN ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 3,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N Gargamis[Carchemish]GN leqû[take]V
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 4,mērešu[cultivated-land]N karaphu[fallow-land]N
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 5,ana[to]PRP šattu[year]N akālu[eat]V
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 6,ūmu[day]N ša[that]REL ṣarpu[silver]N ana[to]PRP Yata[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 7,ana[to]PRP Nabu-gabbu-ileʾʾi[1]PN tadānu[give]V
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 8,eqlu[field]N aṣû[go-out]V
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 9,šību[witness]N Dadusu[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 10,šību[witness]N Ququ[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 11,šību[witness]N Rehtu-uṣur[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 12,šību[witness]N Ṭab-Aya[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 13,šību[witness]N Nabuʾa[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 14,šību[witness]N Udia[1]PN
+saao/saa14/P336194,SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),SAA 14 126. Iata Leases 50 Hectares of Land (Iraq 32 08),r 15,šību[witness]N

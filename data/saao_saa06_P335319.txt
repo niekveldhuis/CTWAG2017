@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 2,ṣupru[nail]N Hasabu[1]PN
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 3,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 4,bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 5,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 6,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 7,epēšu[do]V Mannu-ki-Arbail[1]PN
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 8,ištu[from]PRP pānu[front]N Hasabu[1]PN ina[in]PRP libbu[interior]N
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 9,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ eqlu[field]N šuāti[him]IP
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 10,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 11,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 12,zaqāpu[fix-upright]V lū[may]MOD Hasabu[1]PN
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),o 13,lū[may]MOD māru[son]N lū[may]MOD
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),r 1,šību[witness]N Šulmu-beli-lašme[1]PN
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),r 2,šību[witness]N Abunu[1]PN
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),r 3,šību[witness]N Ha-bašti[1]PN
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),r 4,šību[witness]N Namu[1]PN
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),r 5,šību[witness]N Nur-ilaʾi[1]PN
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),r 6,šību[witness]N Nabu-eṭir[1]PN ṭupšarru[scribe]N
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),r 7,Ayaru[Iyyar]MN ūmu[day]N
+saao/saa06/P335319,SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),SAA 06 218. Mannu-ki-Arbail Buys 20 Hectares of Land (ADD 0375),r 8,līmu[eponym-(of-year)]N

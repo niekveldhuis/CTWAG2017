@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 1,kunukku[seal]N Bir-Attar[1]PN
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 2,bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 3,bītu[house]N epšu[made]AJ adi[until]PRP gušūru[tree-trunk]N
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 4,daltu[door]N bītu[house]N elû[upper-part]N
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 5,mūṣû[exit]N issahîš[together]AV
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 6,ṭāhu[adjacent-to]PRP bītu[house]N Ah-abu[1]PN
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 7,ṭāhu[adjacent-to]PRP bītu[house]N Sunaya[1]PN
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 8,ṭāhu[adjacent-to]PRP bītu[house]N Hana-Huru[1]PN
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 9,epēšu[do]V Hala-šuri[1]PN
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 10,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 11,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),o 12,bītu[house]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),b.e. 13,târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),b.e. 14,dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 1,ina[in]PRP urkiš[later]AV mannu[who?]QP zaqāpu[fix-upright]V
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 2,tadānu[give]V
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 3,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 4,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 5,šību[witness]N
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 6,šību[witness]N
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 7,šību[witness]N
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 8,šību[witness]N
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 9,šību[witness]N Issar-duri[1]PN
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 10,šību[witness]N
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 11,šību[witness]N Ašuisi[1]PN
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 12,šību[witness]N Nabu-ahu-uṣur[1]PN ṭupšarru[scribe]N
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 13,Simanu[Sivan]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 14,Nabu-ahu-uṣur[1]PN
+saao/saa14/P335273,SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),SAA 14 102. Hala-šuri Buys a House (*642-III-1) (ADD 0329),r 15,šaknu[appointee]N mātu[land]N Que[1]GN

@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),o 4',ina[in]PRP qû[unit]N Aššuraya[Assyrian]EN
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 1',ana[to]PRP Nabu[1]DN āšibu[sitting]AJ Ezida[Temple-of-Nabu]TN tadānu[give]V
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 2',ana[to]PRP pīhātu[responsibility]N ālu[city]N tadānu[give]V
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 3',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 4',ina[in]PRP lā[not]MOD dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 5',ša[of]DET tašlīšu[third-man-on-chariot]N ša[of]DET māru[son]N šarru[king]N
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 6',šību[witness]N hazannu[mayor]N ša[of]DET Samanu[1]GN
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 7',šību[witness]N Sa-eṭir[1]PN šību[witness]N Qullulu[1]PN
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 8',gimru[totality]N Samanaya[Samanean]EN
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 9',šību[witness]N Tabalayu[1]PN šušānu[horse-trainer]N ša-qurbūti[close-follower]N Šišilaya[from-Šišil]EN
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 10',šību[witness]N šību[witness]N Haldi-duri[1]PN Ammi-suri[1]PN
+saao/saa14/P336193,SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),SAA 14 397. Fragment of a Conveyance Text (Iraq 32 07),r 11',šību[witness]N malāhu[sailor]N Šišil[1]GN

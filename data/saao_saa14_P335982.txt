@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335982,SAA 14 352. Purchase of Land (ADD 1202+),SAA 14 352. Purchase of Land (ADD 1202+),o 1',ina[in]PRP
+saao/saa14/P335982,SAA 14 352. Purchase of Land (ADD 1202+),SAA 14 352. Purchase of Land (ADD 1202+),o 2',ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa14/P335982,SAA 14 352. Purchase of Land (ADD 1202+),SAA 14 352. Purchase of Land (ADD 1202+),o 3',bītu[house]N
+saao/saa14/P335982,SAA 14 352. Purchase of Land (ADD 1202+),SAA 14 352. Purchase of Land (ADD 1202+),o 4',ṭāhu[adjacent-to]PRP
+saao/saa14/P335982,SAA 14 352. Purchase of Land (ADD 1202+),SAA 14 352. Purchase of Land (ADD 1202+),o 5',ṭāhu[adjacent-to]PRP
+saao/saa14/P335982,SAA 14 352. Purchase of Land (ADD 1202+),SAA 14 352. Purchase of Land (ADD 1202+),o 6',bītu[house]N imēru[unit]N
+saao/saa14/P335982,SAA 14 352. Purchase of Land (ADD 1202+),SAA 14 352. Purchase of Land (ADD 1202+),o 7',ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa14/P335982,SAA 14 352. Purchase of Land (ADD 1202+),SAA 14 352. Purchase of Land (ADD 1202+),o 8',bītu[house]N

@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),o 2,ša[of]DET
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),o 3,ina[in]PRP pānu[front]N
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),o 4,māru[son]N Nabu-sagibi[1]PN
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),o 5,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),o 6,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),b.e. 7,rabû[to-be-big]V
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),r 1,Addaru[Adar]MN ūmu[day]N
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),r 2,līmu[eponym-(of-year)]N Aššur-remanni[1]PN
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),r 3,rabû[big-one]N ša-rēši[eunuch]N māru[son]N šarru[king]N
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),r 4,šību[witness]N
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),r 5,šību[witness]N ṭupšarru[scribe]N
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),r 6,šību[witness]N
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),r 7,šību[witness]N
+saao/saa14/P336203,SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),SAA 14 170. Silver Loan (*617-XII-14) (Iraq 32 17),e. 1,šību[witness]N

@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 1,kunukku[seal]N Ṭaliya[1]PN
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 2,bēlu[lord]N ṣehhertu[young-girl]N tadānu[give]V
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 3,Anat-dalati[1]PN
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 4,mārtu[daughter]N rūṭu[unit]N
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 5,epēšu[do]V Ahi-ṭalli[1]PN
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 6,sekretu[enclosed-(woman)]N ēkallu[palace]N ištu[from]PRP pānu[front]N
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 7,Ṭaliya[1]PN ina[in]PRP libbu[interior]N
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 8,manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 9,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 10,ṣehhertu[young-girl]N šuāti[him]IP
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 11,zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 12,târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),o 13,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),r 1',ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),r 2',parāku[lie-across]V
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),r 4',lā[not]MOD
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),r 9',šību[witness]N
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),r 10',šību[witness]N
+saao/saa06/P335262,SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),SAA 06 088. Ahi-ṭalli Harem Woman Buys a Girl (687-XI-12) (ADD 0317),r 11',Šabaṭu[Shebat]MN ūmu[day]N

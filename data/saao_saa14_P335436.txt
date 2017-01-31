@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 1',lū[may]MOD awīlu[man]N annû[this]DP lū[may]MOD māru[son]N
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 2',lū[may]MOD māru[son]N māru[son]N lū[may]MOD māru[son]N ahu[brother]N
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 3',lū[may]MOD qurbu[relative]N lū[may]MOD
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 4',lū[may]MOD rabû[big-one]N kiṣru[knot]N ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 5',išti[with]PRP šakintu[(a-female-official)]N buʾʾû[look-for]V manû[unit]N akālu[eat]V
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 6',sūtu[unit]N kurru[tanning-fluid]N šatû[drink]V sisû[horse]N ina[in]PRP šēpu[foot]N ša[of]DET Aššur[1]DN rakāsu[bind]V
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 7',harbakkannu[(a-kind-of-horse)]N ina[in]PRP šaplu[underside]N Nergal[1]DN erēbu[enter]V
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 8',qanû[reed]N ša[that]REL lā[not]MOD kiṣru[knot]N ina[in]PRP bābu[gate]N Aššur[1]DN zaqāpu[fix-upright]V
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 9',biltu[load]N annaku[tin]N ana[to]PRP pīhātu[responsibility]N ālu[city]N tadānu[give]V
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 10',biltu[load]N uqnû[lapis-lazuli]N hīpu[break]N šadû[mountain]N
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 11',gērû[opponent]N
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),o 12',ša[of]DET Ninua[Nineveh]GN
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),r 1',šību[witness]N Šar-ilani[1]PN šību[witness]N
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),r 2',šību[witness]N Nargi[1]PN šību[witness]N
+saao/saa14/P335436,SAA 14 176. Manageress Buys […] (ADD 0498),SAA 14 176. Manageress Buys […] (ADD 0498),r 3',šību[witness]N Munnabitu[1]PN šību[witness]N

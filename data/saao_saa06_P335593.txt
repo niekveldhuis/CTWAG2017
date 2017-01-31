@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335593,SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa06/P335593,SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),o 3,Šulmu-lamur[1]PN
+saao/saa06/P335593,SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),o 4,Mar-biʾdi[1]PN
+saao/saa06/P335593,SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),o 5,Dala-il[1]PN
+saao/saa06/P335593,SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),o 6,Adad-belu-uṣur[1]PN
+saao/saa06/P335593,SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),o 7,gimru[totality]N kurummatu[ration]N
+saao/saa06/P335593,SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),SAA 06 079. Bahianu Loans 12 Homers of Barley (ADD 0720),o 8,ša[of]DET Bahianu[1]PN

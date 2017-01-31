@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 1,kunukku[seal]N Bel-aplu-iddina[1]PN rabû[big-one]N
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 2,zammāru[singer]N ša[of]DET Til-Barsip[1]GN
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 3,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 4,kāṣiru[tailor]N sinništu[woman]N
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 5,ummu[mother]N māru[son]N gimru[totality]N napištu[throat]N
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 6,ardu[slave]N ša[of]DET Bel-aplu-iddina[1]PN
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 7,epēšu[do]V Remanni-Adad[1]PN
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 8,mukillu[holder]N appatu[bridle]N ša[of]DET šarru[king]N ištu[from]PRP pānu[front]N
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 9,Bel-aplu-iddina[1]PN ina[in]PRP libbu[interior]N manû[unit]N
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 10,ṣarpu[silver]N ša[of]DET Gargamis[Carchemish]GN leqû[take]V
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 11,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 12,nišu[people]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 13,leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),o 14,dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),r 1',šanû[second]NU ša[of]DET
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),r 2',šību[witness]N Aššur-ilaʾi[1]PN māru[son]N Šarru-ibni[1]PN
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),r 3',šību[witness]N Nergal-šarru-uṣur[1]PN māru[son]N ṣīru[envoy]N
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),r 4',ša[of]DET Til-Barsip[1]GN Duʾuzu[Tammuz]MN
+saao/saa06/P335205,SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),SAA 06 313. Duplicate of the Previous Text (666-IV-20) (ADD 0258),r 5',ūmu[day]N līmu[eponym-(of-year)]N Kanunayu[1]PN

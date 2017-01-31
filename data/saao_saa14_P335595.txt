@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335595,SAA 14 327. (no title) (ADD 0722),SAA 14 327. (no title) (ADD 0722),1',zarpu[purchased]AJ
+saao/saa14/P335595,SAA 14 327. (no title) (ADD 0722),SAA 14 327. (no title) (ADD 0722),2',leqû[taken]AJ târu[turn]V
+saao/saa14/P335595,SAA 14 327. (no title) (ADD 0722),SAA 14 327. (no title) (ADD 0722),3',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335595,SAA 14 327. (no title) (ADD 0722),SAA 14 327. (no title) (ADD 0722),4',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV matīma[ever]AV
+saao/saa14/P335595,SAA 14 327. (no title) (ADD 0722),SAA 14 327. (no title) (ADD 0722),5',parāku[lie-across]V
+saao/saa14/P335595,SAA 14 327. (no title) (ADD 0722),SAA 14 327. (no title) (ADD 0722),6',manû[unit]N ṣarpu[silver]N bašlu[cooked]AJ
+saao/saa14/P335595,SAA 14 327. (no title) (ADD 0722),SAA 14 327. (no title) (ADD 0722),7',manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P335595,SAA 14 327. (no title) (ADD 0722),SAA 14 327. (no title) (ADD 0722),b.e. 8',ina[in]PRP burku[knee]N Mullissu[1]DN šakānu[put]V
+saao/saa14/P335595,SAA 14 327. (no title) (ADD 0722),SAA 14 327. (no title) (ADD 0722),b.e. 9',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335595,SAA 14 327. (no title) (ADD 0722),SAA 14 327. (no title) (ADD 0722),r 1,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V

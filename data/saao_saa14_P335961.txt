@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 2,ṣupru[nail]N Upaqu[1]PN bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 3,bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 4,ša[of]DET epēšu[do]V
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 5,Bel-Harran-belu-uṣur[1]PN
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 6,ša[of]DET
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 7,ina[in]PRP libbu[interior]N
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 8,bītu[house]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 9,târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 10,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 11,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 12,lū[may]MOD Upaqu[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 13,lū[may]MOD ahu[brother]N lū[may]MOD mammanu-[whosoever]XP
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 14,lū[may]MOD šaknu[appointee]N lū[may]MOD bēlu[lord]N ilku[state-service]N
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 15,ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 16,išti[with]PRP Bel-Harran-belu-uṣur[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335961,SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),SAA 14 190. Bel-Harran-belu-uṣur Buys an Estate of 30 Hectares (ADD 1181),o 17,buʾʾû[look-for]V

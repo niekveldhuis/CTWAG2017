@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224972,SAA 14 452. (no title) (TIM 11 28),SAA 14 452. (no title) (TIM 11 28),o 1,kunukku[seal]N Mannu-ki-Adad[1]PN
+saao/saa14/P224972,SAA 14 452. (no title) (TIM 11 28),SAA 14 452. (no title) (TIM 11 28),o 2,māru[son]N Urdu-Mullissi[1]PN
+saao/saa14/P224972,SAA 14 452. (no title) (TIM 11 28),SAA 14 452. (no title) (TIM 11 28),r 1',šību[witness]N šību[witness]N Inurta-abu-uṣur[1]PN
+saao/saa14/P224972,SAA 14 452. (no title) (TIM 11 28),SAA 14 452. (no title) (TIM 11 28),r 2',šību[witness]N šību[witness]N Dan-Adad[1]PN
+saao/saa14/P224972,SAA 14 452. (no title) (TIM 11 28),SAA 14 452. (no title) (TIM 11 28),r 3',šību[witness]N māru[son]N Ilumma-lidgul[1]PN
+saao/saa14/P224972,SAA 14 452. (no title) (TIM 11 28),SAA 14 452. (no title) (TIM 11 28),r 4',šību[witness]N māru[son]N Nabu-naṣir[1]PN

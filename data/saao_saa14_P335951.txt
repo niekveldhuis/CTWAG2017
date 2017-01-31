@@ -1,0 +1,23 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),o 1,kunukku[seal]N Zeru-ken[1]PN
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),o 2,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),o 3,bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),o 4,ša[of]DET Zeru-ken[1]PN
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),o 5,ina[in]PRP Samanu[1]GN
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),o 6,ṭāhu[adjacent-to]PRP hūlu[way]N ša[of]DET
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),o 7,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),o 8,ṭāhu[adjacent-to]PRP
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),o 9,ṣarpu[silver]N
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 2',šaknu[placed]AJ šattu[year]N
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 3',šattu[year]N karaphu[fallow-land]N
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 4',gimru[totality]N šattu[year]N akālu[eat]V
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 5',ina[in]PRP muhhu[skull]N
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 6',ana[to]PRP mērešu[cultivated-land]N akālu[eat]V
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 7',šību[witness]N Nabu-naṣir[1]PN
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 8',šību[witness]N Bel-šarru-uṣur[1]PN
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 9',šību[witness]N Paluʾa[1]PN
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 10',šību[witness]N Bel-šimanni[1]PN
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 11',šību[witness]N
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 12',šību[witness]N Sin-naʾdi[1]PN
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),r 13',šību[witness]N
+saao/saa14/P335951,SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),SAA 14 346. Lease of 4 Hectares of Land in Samanu (ADD 1169),e. 1,Tašritu[Tishri]MN ūmu[day]N

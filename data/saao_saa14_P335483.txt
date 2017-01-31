@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),o 1',epēšu[do]V Šamaš-naʾdi[1]PN
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),o 2',ištu[from]PRP pānu[front]N Balṭi-Aya[1]PN
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),o 3',ina[in]PRP libbu[interior]N manû[unit]N
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),r 1',lū[may]MOD
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),r 2',išti[with]PRP Šamaš-naʾdi[1]PN dīnu[legal-decision]N
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),r 3',dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),r 4',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),r 5',ina[in]PRP burku[knee]N Ištar[1]DN ša[of]DET
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),r 6',šakānu[put]V biltu[load]N annaku[tin]N
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),r 7',ana[to]PRP pīhātu[responsibility]N ālu[city]N tadānu[give]V
+saao/saa14/P335483,SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),SAA 14 217. Šamaš-na’id Buys [... ] (ADD 0554),r 8',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV

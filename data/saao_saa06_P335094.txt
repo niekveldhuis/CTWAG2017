@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335094,SAA 06 076. Bahianu Loans Barley (682-II-10) (ADD 0143),SAA 06 076. Bahianu Loans Barley (682-II-10) (ADD 0143),o 1',Apladad-dala[1]PN
+saao/saa06/P335094,SAA 06 076. Bahianu Loans Barley (682-II-10) (ADD 0143),SAA 06 076. Bahianu Loans Barley (682-II-10) (ADD 0143),o 2',ša[of]DET Bahianu[1]PN
+saao/saa06/P335094,SAA 06 076. Bahianu Loans Barley (682-II-10) (ADD 0143),SAA 06 076. Bahianu Loans Barley (682-II-10) (ADD 0143),o 3',ina[in]PRP pānu[front]N
+saao/saa06/P335094,SAA 06 076. Bahianu Loans Barley (682-II-10) (ADD 0143),SAA 06 076. Bahianu Loans Barley (682-II-10) (ADD 0143),o 4',ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P335094,SAA 06 076. Bahianu Loans Barley (682-II-10) (ADD 0143),SAA 06 076. Bahianu Loans Barley (682-II-10) (ADD 0143),r 1,Ayaru[Iyyar]MN ūmu[day]N

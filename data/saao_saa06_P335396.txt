@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),o 2',māru[son]N
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),o 3',māru[son]N šizbu[milk]N gimru[totality]N napištu[throat]N ardu[slave]N
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),o 4',ša[of]DET Bi-Dadi[1]PN bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),o 5',tillatu[vine]N
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),o 6',būrtu[cistern]N ina[in]PRP libbu[interior]N
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),o 7',epēšu[do]V Seʾ-maʾadi[1]PN
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),o 8',rabû[big-one]N ālu[city]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),r 1,ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),r 2,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),r 3,šību[witness]N Menase[1]PN
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),r 4,šību[witness]N Sani[1]PN
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),r 6,šību[witness]N Seʾ-nuri[1]PN
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),r 7,šību[witness]N šušānu[horse-trainer]N ša-qurbūti[close-follower]N
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),r 8,šību[witness]N
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),r 9,šību[witness]N
+saao/saa06/P335396,SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),SAA 06 112. Se’-madi Village Manager Buys 6 Persons and an Estate (ADD 0455),r 10,šību[witness]N

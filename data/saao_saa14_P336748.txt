@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336748,SAA 14 404. Purchase of Land (K 15923),SAA 14 404. Purchase of Land (K 15923),o 1',ištu[from]PRP pānu[front]N leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P336748,SAA 14 404. Purchase of Land (K 15923),SAA 14 404. Purchase of Land (K 15923),o 2',bītu[house]N eqlu[field]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P336748,SAA 14 404. Purchase of Land (K 15923),SAA 14 404. Purchase of Land (K 15923),o 3',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P336748,SAA 14 404. Purchase of Land (K 15923),SAA 14 404. Purchase of Land (K 15923),o 4',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P336748,SAA 14 404. Purchase of Land (K 15923),SAA 14 404. Purchase of Land (K 15923),o 5',zaqāpu[fix-upright]V lū[may]MOD Ahi-qamu[1]PN lū[may]MOD māru[son]N
+saao/saa14/P336748,SAA 14 404. Purchase of Land (K 15923),SAA 14 404. Purchase of Land (K 15923),o 6',lū[may]MOD māru[son]N māru[son]N

@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),o 2',napištu[throat]N
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),o 6',Bani[1]PN
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),o 8',gimru[totality]N napištu[throat]N
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),o 9',sinništu[woman]N mārtu[daughter]N
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),o 10',gimru[totality]N napištu[throat]N
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 1,gimru[totality]N napištu[throat]N ardu[slave]N ša[of]DET bītu[house]N epēšu[do]V
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 2,Remanni-Adad[1]PN mukillu[holder]N appatu[bridle]N ša[of]DET šarru[king]N mātu[land]N Aššur[1]DN
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 3,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ištu[from]PRP pānu[front]N Arbailayu[1]PN
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 4,eqlu[field]N bītu[house]N nišu[people]N leqû[take]V kaspu[silver]N
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 5,gammuru[finished]AJ tadnu[given]AJ eqlu[field]N bītu[house]N nišu[people]N
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 6,šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 7,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 8,ša[that]REL urkiš[later]AV ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 9,išti[with]PRP Remanni-Adad[1]PN māru[son]N māru[son]N māru[son]N
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 10,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),r 11,manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa06/P335367,SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),SAA 06 341. Remanni-Adad Buys 30 Slaves (ADD 0424),e. 3,šību[witness]N Urdu-Nanaya[1]PN

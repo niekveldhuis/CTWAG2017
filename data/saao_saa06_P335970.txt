@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335970,SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),o 1,manû[unit]N erû[copper]N
+saao/saa06/P335970,SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),o 2,ša[of]DET Kur-ilaʾi[1]PN
+saao/saa06/P335970,SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),o 3,ina[in]PRP pānu[front]N Qibit-Issar[1]PN
+saao/saa06/P335970,SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),o 4,ana[to]PRP šalāšiu[third]NU rabû[to-be-big]V
+saao/saa06/P335970,SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),o 5,Ayaru[Iyyar]MN ūmu[day]N
+saao/saa06/P335970,SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),o 6,līmu[eponym-(of-year)]N Aššur-daʾʾinanni[1]PN
+saao/saa06/P335970,SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),r 1,šību[witness]N Abu-ul-idi[1]PN
+saao/saa06/P335970,SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),r 2,šību[witness]N Abu-ul-idi[1]PN
+saao/saa06/P335970,SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),SAA 06 170. Note of Copper Owed to Kur-ila’i (685-II-16) (ADD 1190),r 3,šību[witness]N Sina[1]PN

@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),o 1,kunukku[seal]N Salamu[1]PN bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),o 2,Hatta[1]GN
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),o 3,ana[to]PRP šattu[year]N akālu[eat]V
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),o 4,ṭāhu[adjacent-to]PRP Mesimesi[1]PN
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),o 5,ṭāhu[adjacent-to]PRP Abdaya[1]PN
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),o 6,ṭāhu[adjacent-to]PRP ša[of]DET Pilistaya[Philistine]EN
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),o 7,kūm[instead-of]PRP šiqlu[unit]N ṣarpu[silver]N ana[to]PRP šapartu[pledge]N šakānu[put]V
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),b.e. 8,mērešu[cultivated-land]N karaphu[fallow-land]N
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),r 1,šību[witness]N Mannu-ki-Arbail[1]PN
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),r 2,šību[witness]N Ah-abu[1]PN rabû[big-one]N ṭupšarru[scribe]N
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),r 3,šību[witness]N Abdaya[1]PN
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),r 4,šību[witness]N Mesimesi[1]PN
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),r 7,šību[witness]N Bani[1]PN šību[witness]N Urdu-Issar[1]PN
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),r 8,šību[witness]N Ahunu[1]PN
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),r 9,šību[witness]N Urdu-Issar[1]PN šību[witness]N Nabu-rehtu-uṣur[1]PN
+saao/saa06/P335936,SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),SAA 06 268. Pledge of a Field (679-X-1) (ADD 1154),r 10,Ṭebetu[Tebet]MN ūmu[day]N līmu[eponym-(of-year)]N Itti-Adad-anenu[1]PN

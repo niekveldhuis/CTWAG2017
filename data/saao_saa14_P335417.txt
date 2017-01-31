@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),1',lū[may]MOD
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),2',lū[may]MOD māru[son]N ahu[brother]N
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),3',lū[may]MOD mammanu-[whosoever]XP lū[may]MOD šaknu[appointee]N
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),4',dīnu[legal-decision]N išti[with]PRP Sin-ašared[1]PN
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),5',išti[with]PRP māru[son]N buʾʾû[look-for]V
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),b.e. 6',ṣarpu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),b.e. 7',ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),b.e. 8',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),r 1,šību[witness]N Amru-Issar[1]PN nappāhu[smith]N
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),r 2,šību[witness]N Ibnaya[1]PN
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),r 3,nasīku[sheikh]N Babilaya[Babylonian]EN
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),r 4,šību[witness]N Nušku-ilaʾi[1]PN
+saao/saa14/P335417,SAA 14 214. Sin-ašared Buys […] (ADD 0478),SAA 14 214. Sin-ašared Buys […] (ADD 0478),r 5,šību[witness]N Edasu[1]PN

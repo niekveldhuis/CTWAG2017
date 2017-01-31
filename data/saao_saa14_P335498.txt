@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),1',ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),2',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),3',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),4',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),5',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),r 3',šību[witness]N Lit-ili[1]PN
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),r 4',šību[witness]N Paripaza[1]PN
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),r 5',šību[witness]N Se-gabbari[1]PN
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),r 6',šību[witness]N Haza-il[1]PN
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),r 7',šību[witness]N Nušku-emuranni[1]PN
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),r 8',šību[witness]N Ilu-mušezib[1]PN ṭupšarru[scribe]N
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),r 9',ṣābitu[recipient]N ṭuppu[tablet]N Šabaṭu[Shebat]MN ūmu[day]N
+saao/saa14/P335498,SAA 14 299. Fragment of a Conveyance Text (ADD 0572),SAA 14 299. Fragment of a Conveyance Text (ADD 0572),r 10',līmu[eponym-(of-year)]N

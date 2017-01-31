@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335354,SAA 14 206. Nabu-šezib Buys Land (ADD 0411),SAA 14 206. Nabu-šezib Buys Land (ADD 0411),o 1',ṭāhu[adjacent-to]PRP
+saao/saa14/P335354,SAA 14 206. Nabu-šezib Buys Land (ADD 0411),SAA 14 206. Nabu-šezib Buys Land (ADD 0411),o 2',ṭāhu[adjacent-to]PRP
+saao/saa14/P335354,SAA 14 206. Nabu-šezib Buys Land (ADD 0411),SAA 14 206. Nabu-šezib Buys Land (ADD 0411),o 3',gimru[totality]N imēru[unit]N eqlu[field]N
+saao/saa14/P335354,SAA 14 206. Nabu-šezib Buys Land (ADD 0411),SAA 14 206. Nabu-šezib Buys Land (ADD 0411),o 4',epēšu[do]V Nabu-šezib[1]PN
+saao/saa14/P335354,SAA 14 206. Nabu-šezib Buys Land (ADD 0411),SAA 14 206. Nabu-šezib Buys Land (ADD 0411),o 5',ištu[from]PRP pānu[front]N Nabu-šar-ahhešu[1]PN
+saao/saa14/P335354,SAA 14 206. Nabu-šezib Buys Land (ADD 0411),SAA 14 206. Nabu-šezib Buys Land (ADD 0411),o 6',ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335354,SAA 14 206. Nabu-šezib Buys Land (ADD 0411),SAA 14 206. Nabu-šezib Buys Land (ADD 0411),o 7',bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP Erudi[1]GN
+saao/saa14/P335354,SAA 14 206. Nabu-šezib Buys Land (ADD 0411),SAA 14 206. Nabu-šezib Buys Land (ADD 0411),o 8',ṭāhu[adjacent-to]PRP Adad-abu-uṣur[1]PN ṭāhu[adjacent-to]PRP
+saao/saa14/P335354,SAA 14 206. Nabu-šezib Buys Land (ADD 0411),SAA 14 206. Nabu-šezib Buys Land (ADD 0411),o 9',ṭāhu[adjacent-to]PRP Abu-ul-idi[1]PN
+saao/saa14/P335354,SAA 14 206. Nabu-šezib Buys Land (ADD 0411),SAA 14 206. Nabu-šezib Buys Land (ADD 0411),b.e. 10',gimru[totality]N imēru[unit]N eqlu[field]N

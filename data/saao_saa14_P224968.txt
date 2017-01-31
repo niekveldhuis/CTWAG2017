@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224968,SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),o 1,dīnu[legal-decision]N ša[that]REL
+saao/saa14/P224968,SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),o 2,išti[with]PRP
+saao/saa14/P224968,SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),o 3,ina[in]PRP muhhu[skull]N māru[son]N dabābu[speak]V
+saao/saa14/P224968,SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),o 4,māru[son]N Nabu-mar-šarri-uṣur[1]PN
+saao/saa14/P224968,SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),o 5,ana[to]PRP mārūtu[status-of-son]N
+saao/saa14/P224968,SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),r 1',šību[witness]N Naṣir-edi[1]PN
+saao/saa14/P224968,SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),r 2',šību[witness]N Pan-Issar-lamur[1]PN Bel-šallim[1]PN
+saao/saa14/P224968,SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),SAA 14 450. Court Decision Concerning Adoption (TIM 11 24),r 3',šību[witness]N Ša-la-ili-mannu[1]PN Puṭi-Eše[1]PN

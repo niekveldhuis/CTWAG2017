@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335399,SAA 14 265. Purchase of Land and People (ADD 0458+),SAA 14 265. Purchase of Land and People (ADD 0458+),o 2,rabû[big-one]N danību[victualler]N
+saao/saa14/P335399,SAA 14 265. Purchase of Land and People (ADD 0458+),SAA 14 265. Purchase of Land and People (ADD 0458+),o 3,ālu[city]N
+saao/saa14/P335399,SAA 14 265. Purchase of Land and People (ADD 0458+),SAA 14 265. Purchase of Land and People (ADD 0458+),o 4,gimru[totality]N
+saao/saa14/P335399,SAA 14 265. Purchase of Land and People (ADD 0458+),SAA 14 265. Purchase of Land and People (ADD 0458+),o 6,gimru[totality]N napištu[throat]N
+saao/saa14/P335399,SAA 14 265. Purchase of Land and People (ADD 0458+),SAA 14 265. Purchase of Land and People (ADD 0458+),o 7,bītu[house]N ripittu[straying]N
+saao/saa14/P335399,SAA 14 265. Purchase of Land and People (ADD 0458+),SAA 14 265. Purchase of Land and People (ADD 0458+),o 8,Aššur-šumu-iddina[1]PN māru[son]N
+saao/saa14/P335399,SAA 14 265. Purchase of Land and People (ADD 0458+),SAA 14 265. Purchase of Land and People (ADD 0458+),o 9,Arbail[Arbela]GN
+saao/saa14/P335399,SAA 14 265. Purchase of Land and People (ADD 0458+),SAA 14 265. Purchase of Land and People (ADD 0458+),r 2',manû[unit]N ṣarpu[silver]N
+saao/saa14/P335399,SAA 14 265. Purchase of Land and People (ADD 0458+),SAA 14 265. Purchase of Land and People (ADD 0458+),r 3',manû[unit]N hurāṣu[gold]N ina[in]PRP burku[knee]N Ištar[1]DN ša[of]DET Arbail[Arbela]GN šakānu[put]V
+saao/saa14/P335399,SAA 14 265. Purchase of Land and People (ADD 0458+),SAA 14 265. Purchase of Land and People (ADD 0458+),r 4',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V

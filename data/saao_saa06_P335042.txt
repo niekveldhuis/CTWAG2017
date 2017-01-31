@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),o 1,Šamaš-bani-apli[1]PN
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),o 2,La-tubašanni-ilu[1]PN
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),o 3,Kenu-abuʾa[1]PN Ahu-ilaʾi[1]PN
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),o 4,gimru[totality]N ṣābu[people]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),o 5,biltu[load]N erû[copper]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),o 6,imēru[unit]N kusāpu[bread]N šikaru[beer]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),o 7,ša[of]DET arhu[month]N dullu[trouble]N epēšu[do]V
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),o 8,talpittu[application]N gabbu[totality]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),o 9,gušūru[tree-trunk]N ṣabātu[seize]V
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),b.e. 10,ūru[roof]N sêru[plaster]V
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),b.e. 11,pišannu[box]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),b.e. 12,šakānu[put]V
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 1,šumma[if]MOD libittu[mudbrick]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 2,tamṭītu[diminution]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 3,arkû[rear]AJ arhu[month]N dullu[trouble]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 4,epēšu[do]V gamāru[complete]V
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 5,šību[witness]N Abu-ul-idi[1]PN
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 6,šību[witness]N Qurbu-ilu[1]PN
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 7,šību[witness]N Adad-ahu-uṣur[1]PN
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 8,šību[witness]N Inurta-belu-uṣur[1]PN
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 9,šību[witness]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 10,šību[witness]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 11,šību[witness]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r 12,ūmu[day]N
+saao/saa06/P335042,SAA 06 021. A Building Contract (734) (ADD 0090),SAA 06 021. A Building Contract (734) (ADD 0090),r.e. 13,līmu[eponym-(of-year)]N Bel-dan[1]PN

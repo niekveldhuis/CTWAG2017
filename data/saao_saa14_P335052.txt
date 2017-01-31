@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),1,Simanu[Sivan]MN
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),3,Puhur-lešir[1]PN
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),4,šību[witness]N wabālu[bring]V išti[with]PRP
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),5,kânu[be(come)-permanent]V kī[like]PRP
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),6,Inurta-ahu-uṣur[1]PN ana[to]PRP Mutakkil-Marduk[1]PN
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),7,tadānu[give]V
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),b.e. 8,kânu[be(come)-permanent]V mā[saying]PRP
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),r 1,šū[he]IP Inurta-ahu-uṣur[1]PN
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),r 2,šumma[if]MOD šību[witness]N wabālu[bring]V
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),r 3,ṣarpu[silver]N adi[until]PRP rubbû[increase]N Inurta-ahu-uṣur[1]PN
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),r 4,ana[to]PRP Mutakkil-Marduk[1]PN tadānu[give]V
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),r 5,Simanu[Sivan]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),r 6,šību[witness]N Bel-ibni[1]PN šību[witness]N
+saao/saa14/P335052,SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),SAA 14 201. Inner Tablet of the Preceding Text (ADD 0101),r.e. 7,šību[witness]N Nabu-šumu-iškun[1]PN

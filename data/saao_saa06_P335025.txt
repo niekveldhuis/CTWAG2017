@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),o 1,imēru[unit]N eqlu[field]N ša[of]DET Edu-šallim[1]PN
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),o 2,ina[in]PRP Kar-Apladad[1]GN
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),o 3,Mušezib[1]PN manû[unit]N ṣarpu[silver]N
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),o 4,ana[to]PRP Edu-šallim[1]PN tadānu[give]V
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),o 5,manû[unit]N ša[of]DET eqlu[field]N Mušezibu[1]PN
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),o 6,išti[with]PRP akālu[eat]V
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),b.e. 7,ina[in]PRP ūmu[day]N ša[that]REL ṣarpu[silver]N tadānu[give]V
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),r 1,eqlu[field]N aṣû[go-out]V
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),r 2,šību[witness]N Nabu-damqi-ilani[1]PN
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),r 3,šību[witness]N Il-tappa[1]PN
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),r 4,šību[witness]N Abi-danu[1]PN
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),r 5,šību[witness]N Bel-ereš[1]PN
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),r 6,šību[witness]N Lu-balaṭ[1]PN šību[witness]N La-tubašanni-ilu[1]PN
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),r.e. 7,šību[witness]N Kubabu-ereš[1]PN
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),r.e. 8,šību[witness]N Zar-Issar[1]PN
+saao/saa06/P335025,SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),SAA 06 260. Inner Tablet of the Previous Text (680-IV-6) (ADD 0073),e. 1,ša[that]REL arki[after]PRP

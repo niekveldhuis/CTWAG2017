@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),o 1,kunukku[seal]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),o 2,māru[son]N Harruṣu[S1]PN
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),o 3,ištu[from]PRP libbu[interior]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),o 4,bēlu[lord]N qaqqaru[ground]N peṣû[white]AJ
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),o 5,tadānu[give]V
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),o 6,qaqqaru[ground]N peṣû[white]AJ ina[in]PRP
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),o 7,ina[in]PRP ammatu[unit]N mūraku[length]N ina[in]PRP ammatu[unit]N rupšu[width]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),r 1',šakānu[put]V kaspu[silver]N ana[to]PRP ana[to]PRP bēlu[lord]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),r 2',târu[turn]V ina[in]PRP lā[not]MOD dīnu[legal-decision]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),r 3',dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),r 4',šību[witness]N Rahimi-Dadi[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),r 5',šību[witness]N Šarru-emuranni[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),r 6',šību[witness]N rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),r 7',šību[witness]N tašlīšu[third-man-on-chariot]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),r 8',šību[witness]N Nadinu[1]PN šību[witness]N Manzarne[1]PN ša-šēpi[(kingʾs)-personal-guard]N māru[son]N šarru[king]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),r 9',šību[witness]N šību[witness]N
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),r 10',šību[witness]N Kakkullanu[1]PN
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),e. 2,šību[witness]N Badaya[1]PN gimru[totality]N Diquqina[1]GN
+saao/saa14/P335296,SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),SAA 14 157. Purchase of a Vacant Lot (*627) (ADD 0352),e. 3,arhu[month]N ūmu[day]N līmu[eponym-(of-year)]N Marduk-šarru-uṣur[1]PN

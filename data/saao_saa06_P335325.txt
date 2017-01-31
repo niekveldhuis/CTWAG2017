@@ -1,0 +1,25 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),o 1,kunukku[seal]N
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),o 2,kunukku[seal]N
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),o 3,bēlu[lord]N eqlu[field]N tadnu[given]AJ
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),o 4,bītu[house]N eqlu[field]N
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),o 5,ṭāhu[adjacent-to]PRP Dayanu[1]PN
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),o 6,ṭāhu[adjacent-to]PRP
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),o 7,ṭāhu[adjacent-to]PRP
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),o 8,epēšu[do]V Šemahu[1]PN
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),o 9,asû[physician]N Aššur-ahu-iddina[1]PN
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),o 10,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),b.e. 11,gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),b.e. 12,eqlu[field]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 1',leqû[taken]AJ târu[turn]V
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 2',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 3',ša[that]REL parāku[lie-across]V manû[unit]N ṣarpu[silver]N
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 4',ina[in]PRP burku[knee]N Adad[1]DN šakānu[put]V
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 5',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 6',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 7',šību[witness]N
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 8',šību[witness]N
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 9',šību[witness]N
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 10',šību[witness]N
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 11',šību[witness]N
+saao/saa06/P335325,SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),SAA 06 126. Esarhaddon’s Doctor Buys an Estate (697-VI) (ADD 0381),r 13',Elulu[Elul]MN ūmu[day]N

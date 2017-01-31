@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),o 1,kunukku[seal]N Bel-gimillu-tere[1]PN ša[of]DET
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),o 2,kunukku[seal]N Ahu-lamur[1]PN
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),o 3,mušākil-alpi[ox-fattener]N ša[of]DET ēkallu[palace]N
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),o 4,bēlu[lord]N qaqqaru[ground]N peṣû[white]AJ tadānu[give]V
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r 2',ina[in]PRP dīnu[legal-decision]N
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r 3',dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r 4',šību[witness]N Šep-šarri[1]PN
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r 5',šību[witness]N Sagiru[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r 6',šību[witness]N Aššur-šarru-uṣur[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r 7',māru[son]N Ha-bašti[1]PN
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r 8',šību[witness]N Aqru[1]PN ša-qurbūti[close-follower]N
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r 9',šību[witness]N Nabu-balassu-iqbi[1]PN
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r.e. 10,šību[witness]N Balṭi-Aia[1]PN rabû[big-one]N hamšā[fifty]NU
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r.e. 11,šību[witness]N Urdu-Nanaya[1]PN
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),r.e. 12,ṭupšarru[scribe]N
+saao/saa14/P335302,SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),SAA 14 027. Purchase of a Vacant Lot (*640) (ADD 0358+),e. 1,arhu[month]N ūmu[day]N līmu[eponym-(of-year)]N Šarru-metu-uballiṭ[1]PN

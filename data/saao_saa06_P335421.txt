@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335421,SAA 06 168. (no title) (686) (ADD 0482),SAA 06 168. (no title) (686) (ADD 0482),o 1,kunukku[seal]N Adda-nagi[1]PN
+saao/saa06/P335421,SAA 06 168. (no title) (686) (ADD 0482),SAA 06 168. (no title) (686) (ADD 0482),o 2,bēlu[lord]N tadānu[give]V
+saao/saa06/P335421,SAA 06 168. (no title) (686) (ADD 0482),SAA 06 168. (no title) (686) (ADD 0482),r 1',šību[witness]N
+saao/saa06/P335421,SAA 06 168. (no title) (686) (ADD 0482),SAA 06 168. (no title) (686) (ADD 0482),r 2',šību[witness]N
+saao/saa06/P335421,SAA 06 168. (no title) (686) (ADD 0482),SAA 06 168. (no title) (686) (ADD 0482),r 3',šību[witness]N
+saao/saa06/P335421,SAA 06 168. (no title) (686) (ADD 0482),SAA 06 168. (no title) (686) (ADD 0482),r 4',ūmu[day]N
+saao/saa06/P335421,SAA 06 168. (no title) (686) (ADD 0482),SAA 06 168. (no title) (686) (ADD 0482),r.e. 5,līmu[eponym-(of-year)]N Bel-emuranni[1]PN

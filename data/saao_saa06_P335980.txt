@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335980,SAA 06 129. Purchase of a House Garden and People (696) (ADD 1200),SAA 06 129. Purchase of a House Garden and People (696) (ADD 1200),o 1,kunukku[seal]N
+saao/saa06/P335980,SAA 06 129. Purchase of a House Garden and People (696) (ADD 1200),SAA 06 129. Purchase of a House Garden and People (696) (ADD 1200),o 2,bēlu[lord]N bītu[house]N kirû[garden]N nišu[people]N tadānu[give]V
+saao/saa06/P335980,SAA 06 129. Purchase of a House Garden and People (696) (ADD 1200),SAA 06 129. Purchase of a House Garden and People (696) (ADD 1200),r 1',šību[witness]N
+saao/saa06/P335980,SAA 06 129. Purchase of a House Garden and People (696) (ADD 1200),SAA 06 129. Purchase of a House Garden and People (696) (ADD 1200),r 2',šību[witness]N
+saao/saa06/P335980,SAA 06 129. Purchase of a House Garden and People (696) (ADD 1200),SAA 06 129. Purchase of a House Garden and People (696) (ADD 1200),r.e. 3,ūmu[day]N

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335479,SAA 14 288. Fragment of a Conveyance Text (ADD 0550),SAA 14 288. Fragment of a Conveyance Text (ADD 0550),o 1',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335479,SAA 14 288. Fragment of a Conveyance Text (ADD 0550),SAA 14 288. Fragment of a Conveyance Text (ADD 0550),o 2',târu[turn]V
+saao/saa14/P335479,SAA 14 288. Fragment of a Conveyance Text (ADD 0550),SAA 14 288. Fragment of a Conveyance Text (ADD 0550),o 3',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335479,SAA 14 288. Fragment of a Conveyance Text (ADD 0550),SAA 14 288. Fragment of a Conveyance Text (ADD 0550),o 4',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335479,SAA 14 288. Fragment of a Conveyance Text (ADD 0550),SAA 14 288. Fragment of a Conveyance Text (ADD 0550),o 5',parāku[lie-across]V manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335479,SAA 14 288. Fragment of a Conveyance Text (ADD 0550),SAA 14 288. Fragment of a Conveyance Text (ADD 0550),o 6',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335479,SAA 14 288. Fragment of a Conveyance Text (ADD 0550),SAA 14 288. Fragment of a Conveyance Text (ADD 0550),o 7',târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335479,SAA 14 288. Fragment of a Conveyance Text (ADD 0550),SAA 14 288. Fragment of a Conveyance Text (ADD 0550),o 8',lā[not]MOD leqû[take]V
+saao/saa14/P335479,SAA 14 288. Fragment of a Conveyance Text (ADD 0550),SAA 14 288. Fragment of a Conveyance Text (ADD 0550),r 1',šību[witness]N Mannu-ki-šarri[1]PN

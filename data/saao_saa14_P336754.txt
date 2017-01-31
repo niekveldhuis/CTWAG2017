@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336754,SAA 14 410. Fragment of a Conveyance Text (K 17921),SAA 14 410. Fragment of a Conveyance Text (K 17921),o 1',ištu[from]PRP pānu[front]N
+saao/saa14/P336754,SAA 14 410. Fragment of a Conveyance Text (K 17921),SAA 14 410. Fragment of a Conveyance Text (K 17921),o 2',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P336754,SAA 14 410. Fragment of a Conveyance Text (K 17921),SAA 14 410. Fragment of a Conveyance Text (K 17921),o 3',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P336754,SAA 14 410. Fragment of a Conveyance Text (K 17921),SAA 14 410. Fragment of a Conveyance Text (K 17921),o 4',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P336754,SAA 14 410. Fragment of a Conveyance Text (K 17921),SAA 14 410. Fragment of a Conveyance Text (K 17921),o 5',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV

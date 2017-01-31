@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336028,SAA 14 385. Fragment of a Conveyance Text (ADD 1268),SAA 14 385. Fragment of a Conveyance Text (ADD 1268),1,kunukku[seal]N Bel-ereš[1]PN
+saao/saa14/P336028,SAA 14 385. Fragment of a Conveyance Text (ADD 1268),SAA 14 385. Fragment of a Conveyance Text (ADD 1268),2,māru[son]N Abu-ṭaba[1]PN
+saao/saa14/P336028,SAA 14 385. Fragment of a Conveyance Text (ADD 1268),SAA 14 385. Fragment of a Conveyance Text (ADD 1268),3,Nuhbaya[from-Nuhba]EN
+saao/saa14/P336028,SAA 14 385. Fragment of a Conveyance Text (ADD 1268),SAA 14 385. Fragment of a Conveyance Text (ADD 1268),4,bēlu[lord]N tadānu[give]V
+saao/saa14/P336028,SAA 14 385. Fragment of a Conveyance Text (ADD 1268),SAA 14 385. Fragment of a Conveyance Text (ADD 1268),r.e. 1,šību[witness]N
+saao/saa14/P336028,SAA 14 385. Fragment of a Conveyance Text (ADD 1268),SAA 14 385. Fragment of a Conveyance Text (ADD 1268),r.e. 2,šību[witness]N Šarru-lu-dari[1]PN
+saao/saa14/P336028,SAA 14 385. Fragment of a Conveyance Text (ADD 1268),SAA 14 385. Fragment of a Conveyance Text (ADD 1268),r.e. 3,šību[witness]N Nabu-tabni-uṣur[1]PN

@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),o 1,Belet-uṣri[1]PN
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),o 2,Nabu-deni-epuš[1]PN
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),o 3,Ah-imme[1]PN
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),o 4,Tamluti[1]PN
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),o 5,Issar-tariba[1]PN
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),o 6,Nabu-ušabši[1]PN
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),o 7,Erib-ilani[1]PN
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),o 8,Nabu-ušallim[1]PN Martuʾ[1]PN
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),o 9,Salam-Adad[1]PN
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),b.e. 10,Hanni[1]PN ša[of]DET
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),b.e. 11,bītu[house]N eqlu[field]N ina[in]PRP libbu[interior]N
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),r 1,gimru[totality]N nišu[people]N uṭṭatu[grain]N
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),r 2,bītu[house]N eqlu[field]N ina[in]PRP libbu[interior]N
+saao/saa06/P335945,SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),SAA 06 094. The Governess of the Central City Harem [Releases] 31 People (ADD 1163),r 3,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ištu[from]PRP pānu[front]N

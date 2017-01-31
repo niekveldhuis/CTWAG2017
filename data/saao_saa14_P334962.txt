@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),o 1,manû[unit]N ṣarpu[silver]N
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),o 2,ina[in]PRP manû[unit]N ša[of]DET
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),o 3,ša[of]DET
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),o 4,ina[in]PRP pānu[front]N
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),o 5,ina[in]PRP pānu[front]N
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),o 6,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),o 7,ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),b.e. 8,Šabaṭu[Shebat]MN ūmu[day]N
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),r 1,līmu[eponym-(of-year)]N Labasi[1]PN
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),r 2,šību[witness]N
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),r 3,šību[witness]N
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),r 4,šību[witness]N
+saao/saa14/P334962,SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),SAA 14 137. Aš[...] Lends 15 Minas of Silver (657-XI) (ADD 0010),r 5,šību[witness]N

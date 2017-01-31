@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335345,SAA 14 259. Fragmentary Land Purchase (ADD 0402),SAA 14 259. Fragmentary Land Purchase (ADD 0402),r 1',māru[son]N māru[son]N māru[son]N
+saao/saa14/P335345,SAA 14 259. Fragmentary Land Purchase (ADD 0402),SAA 14 259. Fragmentary Land Purchase (ADD 0402),r 2',dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335345,SAA 14 259. Fragmentary Land Purchase (ADD 0402),SAA 14 259. Fragmentary Land Purchase (ADD 0402),r 3',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335345,SAA 14 259. Fragmentary Land Purchase (ADD 0402),SAA 14 259. Fragmentary Land Purchase (ADD 0402),r 4',ina[in]PRP lā[not]MOD dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335345,SAA 14 259. Fragmentary Land Purchase (ADD 0402),SAA 14 259. Fragmentary Land Purchase (ADD 0402),r 5',šību[witness]N Rehanu[1]PN
+saao/saa14/P335345,SAA 14 259. Fragmentary Land Purchase (ADD 0402),SAA 14 259. Fragmentary Land Purchase (ADD 0402),r 6',šību[witness]N Issaran-mušallim[1]PN
+saao/saa14/P335345,SAA 14 259. Fragmentary Land Purchase (ADD 0402),SAA 14 259. Fragmentary Land Purchase (ADD 0402),r 7',šību[witness]N
+saao/saa14/P335345,SAA 14 259. Fragmentary Land Purchase (ADD 0402),SAA 14 259. Fragmentary Land Purchase (ADD 0402),r 8',šību[witness]N
+saao/saa14/P335345,SAA 14 259. Fragmentary Land Purchase (ADD 0402),SAA 14 259. Fragmentary Land Purchase (ADD 0402),r 9',šību[witness]N
+saao/saa14/P335345,SAA 14 259. Fragmentary Land Purchase (ADD 0402),SAA 14 259. Fragmentary Land Purchase (ADD 0402),e. 1,ša[of]DET eqlu[field]N šuāti[him]IP nusāhu[(a-grain-tax)]N

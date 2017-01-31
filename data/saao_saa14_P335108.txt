@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335108,SAA 14 238. Fragment of a Witness List (ADD 0157),SAA 14 238. Fragment of a Witness List (ADD 0157),r 2',Aššur-daʾʾin-šarru[1]PN
+saao/saa14/P335108,SAA 14 238. Fragment of a Witness List (ADD 0157),SAA 14 238. Fragment of a Witness List (ADD 0157),r 4',Balassu[1]PN
+saao/saa14/P335108,SAA 14 238. Fragment of a Witness List (ADD 0157),SAA 14 238. Fragment of a Witness List (ADD 0157),r 6',šanû[second]NU

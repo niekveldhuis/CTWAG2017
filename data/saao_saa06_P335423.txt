@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),o 1',gabdi[adjoining-to]PRP
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),o 2',Adad-belu-taqqin[1]PN
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),o 3',ištu[from]PRP pānu[front]N
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),o 4',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),o 5',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),o 6',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),o 7',mannu[who?]QP ša[that]REL
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),r 1',šību[witness]N
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),r 2',šību[witness]N
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),r 3',gimru[totality]N
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),r 4',šību[witness]N
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),r 5',šību[witness]N
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),r 6',gimru[totality]N ardu[slave]N
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),r 7',šību[witness]N Ilu-tapputi[1]PN
+saao/saa06/P335423,SAA 06 033. Purchase of Land (706-X) (ADD 0484),SAA 06 033. Purchase of Land (706-X) (ADD 0484),r 8',Ṭebetu[Tebet]MN ūmu[day]N

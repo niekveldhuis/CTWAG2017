@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),o 1,šiqlu[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),o 2,rēštu[beginning]N ša[of]DET Ištar[1]DN ša[of]DET Ninua[Nineveh]GN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),o 3,ša[of]DET Belu-lu-balaṭ[1]PN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),o 4,ina[in]PRP pānu[front]N Mannu-ki-Arbail[1]PN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),o 5,ana[to]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),o 6,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),b.e. 7,ina[in]PRP ūmu[day]N ša[of]DET Šabaṭu[Shebat]MN ṣarpu[silver]N tadānu[give]V
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r 1,Šabaṭu[Shebat]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r 2,Adad-remanni[1]PN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r 3,šību[witness]N Hatpi-Munu[1]PN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r 4,šību[witness]N Raʾu[1]PN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r 5,šību[witness]N Zeru-ken[1]PN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r 6,šību[witness]N Nergal-šarru-uṣur[1]PN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r 7,šību[witness]N Urdu-Nabu[1]PN šeleppāyu[(a-type-of-craftsman)]N
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r 8,šību[witness]N Mušezib-Aššur[1]PN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r 9,šību[witness]N Nabu-šallimšunu[1]PN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r.e. 10,šību[witness]N Hanni[1]PN
+saao/saa14/P334991,SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),SAA 14 119. Bel-lu-balaṭ Lends Ten Shekels of Silver (*631-XI-3) (ADD 0039),r.e. 11,šību[witness]N Adi-mati-ilu[1]PN

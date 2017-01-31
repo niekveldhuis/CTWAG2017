@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335645,SAA 14 339. (no title) (ADD 0791),SAA 14 339. (no title) (ADD 0791),o 1',ṣupru[nail]N
+saao/saa14/P335645,SAA 14 339. (no title) (ADD 0791),SAA 14 339. (no title) (ADD 0791),o 2',ša[of]DET
+saao/saa14/P335645,SAA 14 339. (no title) (ADD 0791),SAA 14 339. (no title) (ADD 0791),o 3',Ehe[1]PN
+saao/saa14/P335645,SAA 14 339. (no title) (ADD 0791),SAA 14 339. (no title) (ADD 0791),o 4',epēšu[do]V

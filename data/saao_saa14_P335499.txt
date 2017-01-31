@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 1,kunukku[seal]N Adad-belu-uṣur[1]PN
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 2,kunukku[seal]N
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 3,ṣābu[people]N ša[of]DET bītu[house]N
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 4,Aššur-zeru-iddina[1]PN sinništu[woman]N
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 5,ša[of]DET
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 6,ša[of]DET
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 7,šību[witness]N
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 8,ištu[from]PRP bēlu[lord]N
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 10,Zizi[1]PN
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 11,Sagibi[1]PN
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 12,Ludune[1]PN
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 13,Inurti[1]PN
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 14,gimru[totality]N
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),o 16,išti[with]PRP
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),b.e. 19,išti[with]PRP
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),r 3,ina[in]PRP burku[knee]N
+saao/saa14/P335499,SAA 14 300. Purchase of Slaves (ADD 0573+),SAA 14 300. Purchase of Slaves (ADD 0573+),r 4,Ištar[1]DN hurāṣu[gold]N

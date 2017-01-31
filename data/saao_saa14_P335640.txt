@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335640,SAA 14 334. Debt Note (ADD 0785),SAA 14 334. Debt Note (ADD 0785),o 1,ṣarpu[silver]N qaqqadu[head]N
+saao/saa14/P335640,SAA 14 334. Debt Note (ADD 0785),SAA 14 334. Debt Note (ADD 0785),o 2,Attar-suri[1]PN
+saao/saa14/P335640,SAA 14 334. Debt Note (ADD 0785),SAA 14 334. Debt Note (ADD 0785),o 4,Elulu[Elul]MN ūmu[day]N
+saao/saa14/P335640,SAA 14 334. Debt Note (ADD 0785),SAA 14 334. Debt Note (ADD 0785),o 5,līmu[eponym-(of-year)]N

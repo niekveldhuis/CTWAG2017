@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),o 1',Sagibi[1]PN išparu[weaver]N sinništu[woman]N
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),o 2',Seʾ-nuri[1]PN sinništu[woman]N mārtu[daughter]N
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),o 3',gimru[totality]N napištu[throat]N ardu[slave]N
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),o 4',ša[of]DET
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),r 1',šību[witness]N Ahu-duri[1]PN māru[son]N
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),r 2',šību[witness]N Hamnanu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),r 3',šību[witness]N Adda-rahimu[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),r 4',šību[witness]N Zanzanu[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),r 5',šību[witness]N Gabri[1]PN šanîš[otherwise]AV
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),r 6',šību[witness]N Mannu-ki-Libbali[1]PN
+saao/saa06/P335215,SAA 06 294. Purchase of Slaves (ADD 0268),SAA 06 294. Purchase of Slaves (ADD 0268),r 7',ṣābitu[recipient]N ṭuppu[tablet]N

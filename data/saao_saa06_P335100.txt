@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335100,SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),o 1,imēru[unit]N kibtu[wheat]N
+saao/saa06/P335100,SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),o 2,ša[of]DET Bahianu[1]PN
+saao/saa06/P335100,SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),o 3,ina[in]PRP pānu[front]N La-amašši-Bel[1]PN
+saao/saa06/P335100,SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),o 4,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P335100,SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),o 5,ana[to]PRP
+saao/saa06/P335100,SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),o 6,rabû[to-be-big]V
+saao/saa06/P335100,SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),SAA 06 074. Bahianu Loans 4 Homers of Wheat (684-IX) (ADD 0149),r 1,Kislimu[Kislev]MN ūmu[day]N

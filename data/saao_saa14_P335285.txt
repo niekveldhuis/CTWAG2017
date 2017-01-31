@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335285,SAA 14 249. Purchase of a House (ADD 0341),SAA 14 249. Purchase of a House (ADD 0341),o 1',bītu[house]N epšu[made]AJ adi[until]PRP gušūru[tree-trunk]N
+saao/saa14/P335285,SAA 14 249. Purchase of a House (ADD 0341),SAA 14 249. Purchase of a House (ADD 0341),o 2',adi[until]PRP daltu[door]N bītu[house]N dannu[strong]AJ
+saao/saa14/P335285,SAA 14 249. Purchase of a House (ADD 0341),SAA 14 249. Purchase of a House (ADD 0341),o 3',bītu[house]N ramāku[bathing]N ina[in]PRP libbu[interior]N
+saao/saa14/P335285,SAA 14 249. Purchase of a House (ADD 0341),SAA 14 249. Purchase of a House (ADD 0341),o 4',bītu[house]N qātu[hand]N
+saao/saa14/P335285,SAA 14 249. Purchase of a House (ADD 0341),SAA 14 249. Purchase of a House (ADD 0341),o 5',ina[in]PRP libbu[interior]N
+saao/saa14/P335285,SAA 14 249. Purchase of a House (ADD 0341),SAA 14 249. Purchase of a House (ADD 0341),o 6',bītu[house]N qātu[hand]N

@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),o 1,šumma[if]MOD ina[in]PRP qaqqadu[head]N arhu[month]N
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),o 2,Bel-eṭir[1]PN Gabdu-Adad[1]PN
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),o 3,lā[not]MOD našû[lifted]AJ ana[to]PRP Mannu-ki-Arbail[1]PN
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),o 4,lā[not]MOD tadānu[give]V sartu[falsehood]N
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),o 5,ša[of]DET bītu[house]N šalāmu[be(come)-healthy]V
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),o 6,Šabaṭu[Shebat]MN ūmu[day]N
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),o 7,līmu[eponym-(of-year)]N Banba[1]PN
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),b.e. 8,šību[witness]N Nabu-eṭiranni[1]PN
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),b.e. 9,šību[witness]N Ah-abi[1]PN
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),r 1,šību[witness]N Abunu[1]PN
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),r 2,šību[witness]N Ninuayu[1]PN
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),r 3,šību[witness]N Musallamu[1]PN
+saao/saa06/P335118,SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),SAA 06 215. Pledging Gabbu-Adad to Mannu-ki-Arbail (676-XI-10) (ADD 0167),r 4,šību[witness]N Namu[1]PN

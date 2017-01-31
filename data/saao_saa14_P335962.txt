@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335962,SAA 14 350. Fragment of a Conveyance Text (ADD 1182),SAA 14 350. Fragment of a Conveyance Text (ADD 1182),r 2',lū[may]MOD išti[with]PRP māru[son]N lū[may]MOD
+saao/saa14/P335962,SAA 14 350. Fragment of a Conveyance Text (ADD 1182),SAA 14 350. Fragment of a Conveyance Text (ADD 1182),r 3',buʾʾû[look-for]V
+saao/saa14/P335962,SAA 14 350. Fragment of a Conveyance Text (ADD 1182),SAA 14 350. Fragment of a Conveyance Text (ADD 1182),r 4',manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P335962,SAA 14 350. Fragment of a Conveyance Text (ADD 1182),SAA 14 350. Fragment of a Conveyance Text (ADD 1182),r 5',ina[in]PRP burku[knee]N Inurta[1]DN āšibu[sitting]AJ Kalhu[1]GN šakānu[put]V
+saao/saa14/P335962,SAA 14 350. Fragment of a Conveyance Text (ADD 1182),SAA 14 350. Fragment of a Conveyance Text (ADD 1182),r 6',akālu[eat]V agannu[bowl]N kurru[tanning-fluid]N šatû[drink]V
+saao/saa14/P335962,SAA 14 350. Fragment of a Conveyance Text (ADD 1182),SAA 14 350. Fragment of a Conveyance Text (ADD 1182),r 7',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335962,SAA 14 350. Fragment of a Conveyance Text (ADD 1182),SAA 14 350. Fragment of a Conveyance Text (ADD 1182),r 8',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335962,SAA 14 350. Fragment of a Conveyance Text (ADD 1182),SAA 14 350. Fragment of a Conveyance Text (ADD 1182),r 9',lā[not]MOD leqû[take]V
+saao/saa14/P335962,SAA 14 350. Fragment of a Conveyance Text (ADD 1182),SAA 14 350. Fragment of a Conveyance Text (ADD 1182),r 10',šību[witness]N šību[witness]N Šibani[1]PN
+saao/saa14/P335962,SAA 14 350. Fragment of a Conveyance Text (ADD 1182),SAA 14 350. Fragment of a Conveyance Text (ADD 1182),r 11',šību[witness]N šušānu[horse-trainer]N ša[of]DET māru[son]N šarru[king]N

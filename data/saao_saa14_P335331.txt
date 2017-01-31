@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),o 1,kunukku[seal]N
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),o 2,māru[son]N Marduk-uballiṭ[1]PN
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),o 3,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),o 4,bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),o 5,ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),o 6,ina[in]PRP Kapar-Nur-beti[1]GN
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 1',šību[witness]N Nani[1]PN
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 2',šību[witness]N Seʾ-haza[1]PN
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 3',šību[witness]N Ahu-la-amašši[1]PN
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 4',šību[witness]N Hara-Dadi[1]PN māru[son]N Pirsu[1]PN
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 5',šību[witness]N Ilti-bassi[1]PN tamkāru[merchant]N
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 6',šību[witness]N Adda-yababa[1]PN ṭupšarru[scribe]N
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 7',šību[witness]N Sin-aplu-uṣur[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 8',šību[witness]N Pan-Issar-lamur[1]PN
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 9',šību[witness]N Nušku-emuranni[1]PN
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 10',māru[son]N Babilayu[1]PN
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 11',šību[witness]N Nabu-naʾid[1]PN ṭupšarru[scribe]N
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 12',Kislimu[Kislev]MN ūmu[day]N
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 13',līmu[eponym-(of-year)]N Aššur-ilaʾi[1]PN
+saao/saa14/P335331,SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),SAA 14 139. Purchase of an Estate in Nur-beti (653-IX-8) (ADD 0387),r 14',šukkallu[(a-court-official)]N rabû[big]AJ

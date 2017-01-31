@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V ṣupru[nail]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),o 2,bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),o 3,bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),o 4,ṭāhu[adjacent-to]PRP eqlu[field]N zēru[seed(s)]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),o 5,ṭāhu[adjacent-to]PRP ina[in]PRP libbu[interior]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),o 7,epēšu[do]V
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),o 8,ina[in]PRP libbu[interior]N u[and]CNJ libbu[interior]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),r 1',šību[witness]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),r 2',šību[witness]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),r 3',šību[witness]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),r 4',šību[witness]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),r 5',šību[witness]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),r 7',šību[witness]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),r 8',Tašritu[Tishri]MN ūmu[day]N
+saao/saa14/P336031,SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),SAA 14 132. Purchase of One Hectare of Land (666-VII-30) (ADD 1274),r.e. 9,līmu[eponym-(of-year)]N

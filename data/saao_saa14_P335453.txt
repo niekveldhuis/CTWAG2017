@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335453,SAA 14 272. Purchase of Land (ADD 0516),SAA 14 272. Purchase of Land (ADD 0516),o 1',eqlu[field]N
+saao/saa14/P335453,SAA 14 272. Purchase of Land (ADD 0516),SAA 14 272. Purchase of Land (ADD 0516),o 2',Ṭabete[1]GN
+saao/saa14/P335453,SAA 14 272. Purchase of Land (ADD 0516),SAA 14 272. Purchase of Land (ADD 0516),o 3',Aššur-garuʾa-nere[1]PN
+saao/saa14/P335453,SAA 14 272. Purchase of Land (ADD 0516),SAA 14 272. Purchase of Land (ADD 0516),o 4',Kapar-Birtayu[1]GN
+saao/saa14/P335453,SAA 14 272. Purchase of Land (ADD 0516),SAA 14 272. Purchase of Land (ADD 0516),o 5',Kulimmeri[1]GN
+saao/saa14/P335453,SAA 14 272. Purchase of Land (ADD 0516),SAA 14 272. Purchase of Land (ADD 0516),o 7',ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Aššur-garuʾa-nere[1]PN
+saao/saa14/P335453,SAA 14 272. Purchase of Land (ADD 0516),SAA 14 272. Purchase of Land (ADD 0516),b.e. 8',ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET

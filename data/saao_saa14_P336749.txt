@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336749,SAA 14 405. Fragment of a Conveyance Text (K 16088),SAA 14 405. Fragment of a Conveyance Text (K 16088),r 1,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P336749,SAA 14 405. Fragment of a Conveyance Text (K 16088),SAA 14 405. Fragment of a Conveyance Text (K 16088),r 2,sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N ša[of]DET Aššur[1]DN rakāsu[bind]V
+saao/saa14/P336749,SAA 14 405. Fragment of a Conveyance Text (K 16088),SAA 14 405. Fragment of a Conveyance Text (K 16088),r 3,harbakkannu[(a-kind-of-horse)]N ina[in]PRP šēpu[foot]N ša[of]DET Nergal[1]DN erēbu[enter]V

@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334989,SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),o 1,manû[unit]N šiqlu[unit]N maṭi[minus]PRP ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P334989,SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),o 2,ša[of]DET Ṭab-bet-Issar[1]PN
+saao/saa06/P334989,SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),o 3,ina[in]PRP pānu[front]N Šep-Aššur[1]PN
+saao/saa06/P334989,SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),o 4,Tašritu[Tishri]MN ūmu[day]N
+saao/saa06/P334989,SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),o 5,līmu[eponym-(of-year)]N Banba[1]PN
+saao/saa06/P334989,SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),o 6,šību[witness]N Nergal-abu-uṣur[1]PN
+saao/saa06/P334989,SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),o 7,šību[witness]N Marduk-iqbi[1]PN
+saao/saa06/P334989,SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),b.e. 8,šību[witness]N Qibit-Aššur[1]PN
+saao/saa06/P334989,SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),r 1,šību[witness]N Dugul-Issar[1]PN
+saao/saa06/P334989,SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),SAA 06 273. A Silver Loan (676-VII-1) (ADD 0037),r 2,šību[witness]N Qibit-ili[1]PN

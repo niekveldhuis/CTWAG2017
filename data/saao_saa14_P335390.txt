@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335390,SAA 14 263. Purchase of Land and People (ADD 0449),SAA 14 263. Purchase of Land and People (ADD 0449),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa14/P335390,SAA 14 263. Purchase of Land and People (ADD 0449),SAA 14 263. Purchase of Land and People (ADD 0449),o 2,ṣupru[nail]N
+saao/saa14/P335390,SAA 14 263. Purchase of Land and People (ADD 0449),SAA 14 263. Purchase of Land and People (ADD 0449),o 3,bēlu[lord]N kirû[garden]N bītu[house]N nišu[people]N tadānu[give]V
+saao/saa14/P335390,SAA 14 263. Purchase of Land and People (ADD 0449),SAA 14 263. Purchase of Land and People (ADD 0449),o 4,Zana[1]PN
+saao/saa14/P335390,SAA 14 263. Purchase of Land and People (ADD 0449),SAA 14 263. Purchase of Land and People (ADD 0449),o 5,epinnu[(seed)-plough]N
+saao/saa14/P335390,SAA 14 263. Purchase of Land and People (ADD 0449),SAA 14 263. Purchase of Land and People (ADD 0449),r 1',nusāhu[(a-grain-tax)]N lā[not]MOD nasāhu[tear-out]V
+saao/saa14/P335390,SAA 14 263. Purchase of Land and People (ADD 0449),SAA 14 263. Purchase of Land and People (ADD 0449),r 2',tibnu[straw]N lā[not]MOD šabāšu[gather]V

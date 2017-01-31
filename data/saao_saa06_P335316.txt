@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 1',eqlu[field]N kirû[garden]N nišu[people]N zarpu[purchased]AJ
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 2',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 3',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 4',lū[may]MOD lū[may]MOD māru[son]N
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 5',lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 6',lū[may]MOD māru[son]N ahu[brother]N ša[that]REL elû[go-up]V
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 7',išti[with]PRP Remanni-Adad[1]PN māru[son]N
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 8',māru[son]N māru[son]N dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 9',buʾʾû[look-for]V mā[saying]PRP kaspu[silver]N lā[not]MOD gammuru[finished]AJ
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 10',lā[not]MOD tadnu[given]AJ eqlu[field]N kirû[garden]N
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),o 11',nišu[people]N lā[not]MOD zarpu[purchased]AJ lā[not]MOD leqû[taken]AJ
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 1',ṣarpu[silver]N ina[in]PRP
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 2',ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP lā[not]MOD dīnu[legal-decision]N
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 3',dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 4',šību[witness]N Šarru-lu-dari[1]PN pīhātu[responsibility]N Dur-Šarruken[1]GN
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 5',šību[witness]N pīhātu[responsibility]N ša[of]DET Amidu[1]GN
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 6',šību[witness]N pīhātu[responsibility]N ša[of]DET Tušhan[1]GN
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 7',šību[witness]N tašlīšu[third-man-on-chariot]N dannu[strong]AJ
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 8',šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 9',šību[witness]N rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 10',šību[witness]N tašlīšu[third-man-on-chariot]N
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 11',šību[witness]N Ha-bašti[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa06/P335316,SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),SAA 06 340. Remanni-Adad Buys Land Gardens and People (ADD 0372),r 12',šību[witness]N ša[of]DET māru[son]N šarru[king]N

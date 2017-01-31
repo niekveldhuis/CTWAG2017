@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),o 1,kunukku[seal]N Nabu-eriba[1]PN
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),o 2,Kapar-Bit-sasana[1]GN
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),o 3,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),o 4,bītu[house]N imēru[unit]N eqlu[field]N ša[of]DET
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),o 5,ina[in]PRP Kapar-Bit-sasana[1]GN
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),o 6,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),r 1,šību[witness]N Ramman-idri[1]PN
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),r 2,māru[son]N Barbarra[1]PN
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),r 3,šību[witness]N Tabalayu[1]PN
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),r 4,šību[witness]N Abu-ul-idi[1]PN
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),r 5,šību[witness]N Ahi-gedi[1]PN
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),r 6,Addaru[Adar]MN ūmu[day]N
+saao/saa14/P336190,SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),SAA 14 151. Purchase of an Estate in Bit-Sasana (*633-XII-14) (Iraq 32 04),r 7,līmu[eponym-(of-year)]N Upaqa-ana-Arbail[1]PN

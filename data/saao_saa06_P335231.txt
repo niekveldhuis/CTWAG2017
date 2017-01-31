@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335231,SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335231,SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),o 2,ṣupru[nail]N Suraya[1]PN
+saao/saa06/P335231,SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),o 3,Gargamisayu[1]PN
+saao/saa06/P335231,SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),o 4,Nabu-nammir[1]PN gimru[totality]N awīlu[man]N
+saao/saa06/P335231,SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),o 5,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335231,SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),r 1',šību[witness]N šību[witness]N Imanni-il[1]PN
+saao/saa06/P335231,SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),r 2',šību[witness]N ṭupšarru[scribe]N
+saao/saa06/P335231,SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),SAA 06 145. Purchase of Slaves (692-XI-1) (ADD 0286),r 3',Šabaṭu[Shebat]MN ūmu[day]N līmu[eponym-(of-year)]N

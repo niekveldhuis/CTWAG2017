@@ -1,0 +1,41 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),2,ṣupru[nail]N Babilayu[1]PN bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),3,Tariba-Issar[1]PN ahu[brother]N sinništu[woman]N mārtu[daughter]N gimru[totality]N napištu[throat]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),4,ardu[slave]N ša[of]DET Babilayu[1]PN
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),5,epēšu[do]V Barsipitu[1]PN
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),6,ištu[from]PRP pānu[front]N Babilayu[1]PN ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),7,ina[in]PRP manû[unit]N ša[of]DET tamkāru[merchant]N leqû[take]V
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),8,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ nišu[people]N šuāti[him]IP
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),9,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),10,dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),11,ina[in]PRP matīma[ever]AV parāku[lie-across]V lū[may]MOD Babilayu[1]PN
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),12,lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),13,lū[may]MOD māru[son]N ahu[brother]N lū[may]MOD šaknu[appointee]N lū[may]MOD qurbu[relative]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),14,lū[may]MOD mammanu-[whosoever]XP ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),15,išti[with]PRP Barsipitu[1]PN u[and]CNJ warkītu[posterity]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),16,buʾʾû[look-for]V manû[unit]N akālu[eat]V
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),17,ammar[as-much-as]REL agannu[bowl]N kurru[tanning-fluid]N šatû[drink]V manû[unit]N ṣarpu[silver]N mesû[washed]AJ
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),18,manû[unit]N hurāṣu[gold]N sakru[refined]AJ ina[in]PRP burku[knee]N Adad[1]DN
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),19,āšibu[sitting]AJ Urakka[1]GN šakānu[put]V
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),20,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),21,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 1,šību[witness]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 2,šību[witness]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 3,šību[witness]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 4,šību[witness]N ša-rēši[eunuch]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 5,gimru[totality]N šību[witness]N ša-rēši[eunuch]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 6,šību[witness]N Ninuayu[1]PN hazannu[mayor]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 7,šību[witness]N Urdu-Sin[1]PN ardu[slave]N ša[of]DET šukkallu[(a-court-official)]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 8,šību[witness]N Hambi[1]PN rabû[big-one]N ṣarrāpu[goldsmith]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 9,šību[witness]N Remanni-Adad[1]PN nagāru[joiner]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 10,šību[witness]N Ilu-uṣur[1]PN ardu[slave]N ša[of]DET tartānu[second-in-command]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 11,šību[witness]N Aššur-ahu-iddina[1]PN ṣāhitu[oil-presser]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 12,šību[witness]N Ahu-illika[1]PN ardu[slave]N ša[of]DET Sin-eriba[1]PN
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 13,šību[witness]N Kenu-ahu[1]PN ardu[slave]N ša[of]DET mašennu[(an-administrator)]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 14,šību[witness]N Haldi-eṭir[1]PN išparu[weaver]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 15,šību[witness]N Nabu-šallim[1]PN ṭupšarru[scribe]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 16,šību[witness]N Sagibi[1]PN atû[gatekeeper]N ša[of]DET ēkallu[palace]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 17,šību[witness]N Ilu-ibni[1]PN ṭupšarru[scribe]N ṣābitu[recipient]N ṭuppu[tablet]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 18,Arahsamnu[Marchesvan]MN ūmu[day]N
+saao/saa06/P335191,SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),SAA 06 096. Lady Barsipitu Buys 4 Slaves (ADD 0244),r 19,līmu[eponym-(of-year)]N Aššur-belu-uṣur[1]PN šaknu[appointee]N mātu[land]N

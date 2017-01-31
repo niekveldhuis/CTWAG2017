@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),o 1,kunukku[seal]N
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),r 1',šakānu[put]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),r 2',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),r 3',šību[witness]N
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),r 4',šību[witness]N Handi[1]PN
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),r 5',šību[witness]N
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),r 6',šību[witness]N
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),r 7',šību[witness]N Aia-ahhe[1]PN
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),r 8',šību[witness]N Nabu-ahu-uṣur[1]PN
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),r 9',šību[witness]N Milki-ramu[1]PN
+saao/saa06/P335245,SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),SAA 06 179. Purchase of Slaves (683?-IV) (ADD 0300),r 10',Duʾuzu[Tammuz]MN ūmu[day]N

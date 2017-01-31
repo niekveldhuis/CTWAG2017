@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335030,SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),o 1,manû[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa14/P335030,SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),o 2,ša[of]DET Šamaš-abuʾa[1]PN šušānu[horse-trainer]N
+saao/saa14/P335030,SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),o 3,ina[in]PRP pūhu[exchange]N našû[lift]V manû[unit]N
+saao/saa14/P335030,SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),o 4,šiqlu[unit]N ṣarpu[silver]N ša[of]DET arhu[month]N rabû[to-be-big]V
+saao/saa14/P335030,SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),o 5,Amat-Kurra[1]PN sinništu[woman]N Abi-rahi[1]PN
+saao/saa14/P335030,SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),o 6,mārtu[daughter]N Sukkaya[1]PN māru[son]N
+saao/saa14/P335030,SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),SAA 14 181. Šamaš-abu’a Horse Trainer Lends Silver Against a Pledge (ADD 0078),o 7,māru[son]N Bel-emuranni[1]PN

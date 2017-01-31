@@ -1,0 +1,25 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 1',epēšu[do]V Sin-šarru-uṣur[1]PN
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 2',ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 3',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ nišu[people]N zarpu[purchased]AJ
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 4',leqû[taken]AJ dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 5',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 6',lū[may]MOD Sin-nadin-ahi[1]PN lū[may]MOD māru[son]N lū[may]MOD mammanu-[whosoever]XP
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 7',dīnu[legal-decision]N dabābu[speak]V išti[with]PRP Sin-šarru-uṣur[1]PN
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 8',išti[with]PRP māru[son]N buʾʾû[look-for]V
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 9',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N sisû[horse]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 10',peṣû[white]AJ ana[to]PRP Sin[1]DN āšibu[sitting]AJ Harranu[Harran]GN
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 11',tadānu[give]V ṣarpu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 12',ana[to]PRP bēlu[lord]N târu[turn]V ana[to]PRP dīnu[legal-decision]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),o 13',dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 1,šību[witness]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 2,šību[witness]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 3,šību[witness]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 4,šību[witness]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 5,šību[witness]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 6,šību[witness]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 7,šību[witness]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 8,ardu[slave]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 9,šību[witness]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 10,šību[witness]N Bel-lamur[1]PN ṭupšarru[scribe]N
+saao/saa06/P335209,SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),SAA 06 140. Sin-šarru-uṣur Purchases Slaves (ADD 0262),r 11,šību[witness]N tamkāru[merchant]N

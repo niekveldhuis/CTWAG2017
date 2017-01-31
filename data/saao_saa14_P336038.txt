@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336038,SAA 14 394. Fragment of a Conveyance Text (ADD 1281),SAA 14 394. Fragment of a Conveyance Text (ADD 1281),r 1',ana[to]PRP lā[not]MOD dīnu[legal-decision]N
+saao/saa14/P336038,SAA 14 394. Fragment of a Conveyance Text (ADD 1281),SAA 14 394. Fragment of a Conveyance Text (ADD 1281),r 2',dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P336038,SAA 14 394. Fragment of a Conveyance Text (ADD 1281),SAA 14 394. Fragment of a Conveyance Text (ADD 1281),r 3',šību[witness]N

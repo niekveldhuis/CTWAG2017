@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336760,SAA 14 416. (no title) (K 20557),SAA 14 416. (no title) (K 20557),o 2',ṭupšarru[scribe]N bītu[house]N ilu[god]N
+saao/saa14/P336760,SAA 14 416. (no title) (K 20557),SAA 14 416. (no title) (K 20557),r 1',ša[of]DET
+saao/saa14/P336760,SAA 14 416. (no title) (K 20557),SAA 14 416. (no title) (K 20557),r 2',ša[of]DET
+saao/saa14/P336760,SAA 14 416. (no title) (K 20557),SAA 14 416. (no title) (K 20557),r 3',ša[of]DET Kabtaya[1]PN
+saao/saa14/P336760,SAA 14 416. (no title) (K 20557),SAA 14 416. (no title) (K 20557),r 4',ša[of]DET Issaran-mesi[1]PN
+saao/saa14/P336760,SAA 14 416. (no title) (K 20557),SAA 14 416. (no title) (K 20557),r 5',ša[of]DET
+saao/saa14/P336760,SAA 14 416. (no title) (K 20557),SAA 14 416. (no title) (K 20557),r 6',ša[of]DET
+saao/saa14/P336760,SAA 14 416. (no title) (K 20557),SAA 14 416. (no title) (K 20557),r 7',Dadi[1]PN

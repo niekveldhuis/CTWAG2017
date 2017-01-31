@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335532,SAA 14 321. Purchase of Land (ADD 0615),SAA 14 321. Purchase of Land (ADD 0615),o 3',eqlu[field]N ina[in]PRP mazrūtu[(area-or-state-of)-cultivation]N
+saao/saa14/P335532,SAA 14 321. Purchase of Land (ADD 0615),SAA 14 321. Purchase of Land (ADD 0615),r 1',târu[turn]V
+saao/saa14/P335532,SAA 14 321. Purchase of Land (ADD 0615),SAA 14 321. Purchase of Land (ADD 0615),r 2',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V

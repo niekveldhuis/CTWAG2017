@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),o 2,ša[of]DET Kiṣir-Aššur[1]PN
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),o 3,ina[in]PRP pānu[front]N Abdi-Samsi[1]PN
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),o 4,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),o 5,ina[in]PRP ūmu[day]N ša[of]DET Duʾuzu[Tammuz]MN
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),o 6,ṣarpu[silver]N tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),b.e. 7,šumma[if]MOD lā[not]MOD tadānu[give]V ana[to]PRP rebû[fourth]NU
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),r 1,rabû[to-be-big]V Nisannu[Nisan]MN ūmu[day]N
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),r 2,līmu[eponym-(of-year)]N Belu-lu-dari[1]PN
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),r 3,šību[witness]N Giritu[1]PN
+saao/saa14/P334953,SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),SAA 14 030. Kiṣir-Aššur Lends 16 Shekels of Silver (*635-I-11) (ADD 0001),r 4,šību[witness]N Nargi[1]PN

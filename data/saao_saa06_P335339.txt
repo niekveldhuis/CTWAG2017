@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),o 2,ṣupru[nail]N
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),o 3,ṣupru[nail]N Abu-eriba[1]PN bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),o 4,bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),o 5,ṭāhu[adjacent-to]PRP ummu[mother]N ša[of]DET
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),o 6,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),o 7,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),o 8,tartānu[second-in-command]N
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),r 1',šību[witness]N šību[witness]N
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),r 2',šību[witness]N Nabu-šumu-uṣur[1]PN
+saao/saa06/P335339,SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),SAA 06 024. A Fragmentary Sale of Land (723) (ADD 0395),r 3',ūmu[day]N līmu[eponym-(of-year)]N

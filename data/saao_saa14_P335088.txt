@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),o 1,meʾatu[(one)-hundred]NU kurummatu[ration]N qaqqadu[head]N
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),o 2,ša[of]DET šakintu[(a-female-official)]N ša[of]DET
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),o 3,ina[in]PRP pānu[front]N Il-amar[1]PN rabû[big-one]N karmu[heap]N
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),o 4,ina[in]PRP libbu[interior]N Abu[Ab]MN
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),o 5,ina[in]PRP Dur-Šarruken[1]GN
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),o 6,tadānu[give]V
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),r 1',šību[witness]N
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),r 2',šību[witness]N
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),r 3',šību[witness]N Šarru-ilaʾi[1]PN
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),r 4',šību[witness]N
+saao/saa14/P335088,SAA 14 471. Manageress Lends Barley (ADD 0137),SAA 14 471. Manageress Lends Barley (ADD 0137),r 5',Duʾuzu[Tammuz]MN ūmu[day]N līmu[eponym-(of-year)]N

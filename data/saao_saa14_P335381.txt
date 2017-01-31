@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),o 1,kunukku[seal]N Mannu-ki-Adad[1]PN
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),o 2,ša-rēši[eunuch]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),o 3,māru[son]N šarru[king]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),o 4,bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),o 5,bītu[house]N epšu[made]AJ adi[until]PRP gušūru[tree-trunk]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),o 6,adi[until]PRP daltu[door]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),o 7,zakû[pure]AJ
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r 2',šību[witness]N šušānu[horse-trainer]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r 3',šību[witness]N māru[son]N Luqu[1]PN
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r 4',šību[witness]N Salamanu[1]PN šušānu[horse-trainer]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r 5',šību[witness]N nāru[musician]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r 6',šību[witness]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r 7',šību[witness]N šību[witness]N Adad-remanni[1]PN
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r 8',šību[witness]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r 9',šību[witness]N māru[son]N Seʾ-idri[1]PN
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r 10',šību[witness]N tašlīšu[third-man-on-chariot]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r 11',šību[witness]N malāhu[sailor]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r.e. 12,šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa14/P335381,SAA 14 262. Purchase of a House (ADD 0438),SAA 14 262. Purchase of a House (ADD 0438),r.e. 13,šību[witness]N rabû[big-one]N itinnu[builder]N

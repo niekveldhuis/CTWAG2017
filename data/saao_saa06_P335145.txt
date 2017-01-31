@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 1,kunukku[seal]N Assi[1]PN
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 2,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 3,Attar-ham[1]PN ardu[slave]N
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 4,ša[of]DET Assi[1]PN
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 5,epēšu[do]V Tarhundapi[1]PN
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 6,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 7,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 8,awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 9,târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 10,dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 11,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 12,ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 13,lū[may]MOD Assi[1]PN
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 14,lū[may]MOD māru[son]N lū[may]MOD
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 15,māru[son]N māru[son]N
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 16,ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),o 17,išti[with]PRP Tarhundapi[1]PN buʾʾû[look-for]V
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 1',ina[in]PRP burku[knee]N Ištar[1]DN āšibu[sitting]AJ
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 2',Ninua[Nineveh]GN šakānu[put]V
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 3',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 4',ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 5',šību[witness]N
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 6',šību[witness]N
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 7',šību[witness]N
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 8',šību[witness]N Nunua[1]PN
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 9',šību[witness]N Nani[1]PN
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 10',šību[witness]N Nabu-šumu-iddina[1]PN ṭupšarru[scribe]N
+saao/saa06/P335145,SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),SAA 06 118. Tarhundapi Buys a Slave (698-XII-30) (ADD 0198),r 11',Addaru[Adar]MN ūmu[day]N

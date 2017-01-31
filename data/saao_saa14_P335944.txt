@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 2',epēšu[do]V Suhayu[1]PN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 4',ina[in]PRP libbu[interior]N erû[copper]N leqû[take]V
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 5',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 6',sinništu[woman]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 7',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 8',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 9',lū[may]MOD Bulalu[1]PN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 10',lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 11',ša[that]REL dīnu[legal-decision]N dabābu[speak]V išti[with]PRP Suhayu[1]PN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 12',buʾʾû[look-for]V manû[unit]N akālu[eat]V
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 13',ammar[as-much-as]REL agannu[bowl]N kurru[tanning-fluid]N šatû[drink]V
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 14',manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 15',ina[in]PRP burku[knee]N āšibu[sitting]AJ Ninua[Nineveh]GN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),o 16',šakānu[put]V
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 1,biltu[load]N annaku[tin]N ana[to]PRP pīhātu[responsibility]N tadānu[give]V
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 2,kaspu[silver]N ana[to]PRP ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 3,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 4,šību[witness]N Tuqunu-ereš[1]PN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 5,šību[witness]N Inurta-isseʾa[1]PN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 6,šību[witness]N Ahuʾa-eriba[1]PN šību[witness]N Inurti[1]PN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 7,šību[witness]N Silim-Adad[1]PN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 8,šību[witness]N Bel-qatua[1]PN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 9,šību[witness]N Ilu-taklak[1]PN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 10,šību[witness]N Nabu-zeru-iqiša[1]PN
+saao/saa14/P335944,SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),SAA 14 090. Se-haya Buys [...] (649?) (ADD 1162),r 11,ṭupšarru[scribe]N ṣābitu[recipient]N ṭuppu[tablet]N

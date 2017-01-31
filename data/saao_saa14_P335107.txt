@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335107,SAA 14 237. Fragment of a Witness List (ADD 0156),SAA 14 237. Fragment of a Witness List (ADD 0156),b.e. 1',ina[in]PRP
+saao/saa14/P335107,SAA 14 237. Fragment of a Witness List (ADD 0156),SAA 14 237. Fragment of a Witness List (ADD 0156),b.e. 2',ālu[city]N
+saao/saa14/P335107,SAA 14 237. Fragment of a Witness List (ADD 0156),SAA 14 237. Fragment of a Witness List (ADD 0156),r 1,šību[witness]N
+saao/saa14/P335107,SAA 14 237. Fragment of a Witness List (ADD 0156),SAA 14 237. Fragment of a Witness List (ADD 0156),r 2,šību[witness]N
+saao/saa14/P335107,SAA 14 237. Fragment of a Witness List (ADD 0156),SAA 14 237. Fragment of a Witness List (ADD 0156),r 3,šību[witness]N
+saao/saa14/P335107,SAA 14 237. Fragment of a Witness List (ADD 0156),SAA 14 237. Fragment of a Witness List (ADD 0156),r 4,šību[witness]N
+saao/saa14/P335107,SAA 14 237. Fragment of a Witness List (ADD 0156),SAA 14 237. Fragment of a Witness List (ADD 0156),r 5,šību[witness]N

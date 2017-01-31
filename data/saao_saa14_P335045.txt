@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335045,SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),4,ana[to]PRP Nabuʾa[1]PN
+saao/saa14/P335045,SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),5,tadānu[give]V šumma[if]MOD lā[not]MOD kittu[truth]N lā[not]MOD tadānu[give]V
+saao/saa14/P335045,SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),6,sinništu[woman]N adi[until]PRP sartu[falsehood]N
+saao/saa14/P335045,SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),7,tadānu[give]V Hanana[1]PN
+saao/saa14/P335045,SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),b.e. 8,bēlu[lord]N qātu[hand]N ša[of]DET awīlu[man]N
+saao/saa14/P335045,SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),r 1,šību[witness]N Babilayu[1]PN hazannu[mayor]N
+saao/saa14/P335045,SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),r 2,šību[witness]N Gugu[1]PN
+saao/saa14/P335045,SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),r 3,šību[witness]N
+saao/saa14/P335045,SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),r 4,šību[witness]N
+saao/saa14/P335045,SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),SAA 14 203. Fragmentary Document of Nabu’ a (ADD 0094),r 5,arhu[month]N ūmu[day]N līmu[eponym-(of-year)]N

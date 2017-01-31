@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336743,SAA 14 395. Purchase of a Vacant Lot and a Threshing Floor (BM 76091),SAA 14 395. Purchase of a Vacant Lot and a Threshing Floor (BM 76091),o 1,kunukku[seal]N māru[son]N Zabdi-il[1]PN
+saao/saa14/P336743,SAA 14 395. Purchase of a Vacant Lot and a Threshing Floor (BM 76091),SAA 14 395. Purchase of a Vacant Lot and a Threshing Floor (BM 76091),o 2,kunukku[seal]N
+saao/saa14/P336743,SAA 14 395. Purchase of a Vacant Lot and a Threshing Floor (BM 76091),SAA 14 395. Purchase of a Vacant Lot and a Threshing Floor (BM 76091),o 3,kunukku[seal]N
+saao/saa14/P336743,SAA 14 395. Purchase of a Vacant Lot and a Threshing Floor (BM 76091),SAA 14 395. Purchase of a Vacant Lot and a Threshing Floor (BM 76091),o 4,kunukku[seal]N Aplaya[1]PN māru[son]N
+saao/saa14/P336743,SAA 14 395. Purchase of a Vacant Lot and a Threshing Floor (BM 76091),SAA 14 395. Purchase of a Vacant Lot and a Threshing Floor (BM 76091),o 5,kunukku[seal]N Sin-ahu-uṣur[1]PN

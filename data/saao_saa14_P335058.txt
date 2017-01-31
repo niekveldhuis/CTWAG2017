@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335058,SAA 14 226. (no title) (ADD 0107),SAA 14 226. (no title) (ADD 0107),o 1',ana[to]PRP
+saao/saa14/P335058,SAA 14 226. (no title) (ADD 0107),SAA 14 226. (no title) (ADD 0107),o 2',ana[to]PRP
+saao/saa14/P335058,SAA 14 226. (no title) (ADD 0107),SAA 14 226. (no title) (ADD 0107),o 3',šumma[if]MOD
+saao/saa14/P335058,SAA 14 226. (no title) (ADD 0107),SAA 14 226. (no title) (ADD 0107),o 4',manû[unit]N ṣarpu[silver]N
+saao/saa14/P335058,SAA 14 226. (no title) (ADD 0107),SAA 14 226. (no title) (ADD 0107),o 5',ana[to]PRP
+saao/saa14/P335058,SAA 14 226. (no title) (ADD 0107),SAA 14 226. (no title) (ADD 0107),o 6',Tašritu[Tishri]MN līmu[eponym-(of-year)]N
+saao/saa14/P335058,SAA 14 226. (no title) (ADD 0107),SAA 14 226. (no title) (ADD 0107),r 1,šību[witness]N
+saao/saa14/P335058,SAA 14 226. (no title) (ADD 0107),SAA 14 226. (no title) (ADD 0107),r 2,šību[witness]N

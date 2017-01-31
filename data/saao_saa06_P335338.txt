@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 1',eqlu[field]N ṭāhu[adjacent-to]PRP Urarṭayu[1]PN ṭāhu[adjacent-to]PRP
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 2',hūlu[way]N ša[of]DET Kalhu[1]GN ṭāhu[adjacent-to]PRP Zabinu[1]PN ṭāhu[adjacent-to]PRP Belu-lu-balaṭ[1]PN
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 3',bītu[house]N imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP Nuhšaya[1]PN ṭāhu[adjacent-to]PRP Belu-lu-balaṭ[1]PN
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 4',Zabinu[1]PN ṭāhu[adjacent-to]PRP ummu[mother]N ša[of]DET Kapar-Zizi[1]GN
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 5',ṭāhu[adjacent-to]PRP Alu-pahhari[Potter-Town]GN bītu[house]N imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 6',Zabinu[1]PN ṭāhu[adjacent-to]PRP Belu-lu-balaṭ[1]PN ṭāhu[adjacent-to]PRP ummu[mother]N ša[of]DET Kapar-Zizi[1]GN
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 7',bītu[house]N imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP Qibinni[1]PN
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 8',ṭāhu[adjacent-to]PRP hūlu[way]N ša[of]DET Kalhu[1]GN bītu[house]N kussû[chair]N
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 9',bītu[house]N imēru[unit]N eqlu[field]N ša[of]DET šarru[king]N ša[that]REL ina[in]PRP
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 10',ina[in]PRP malgūtu[(meaning-unknown)]N
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 11',bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 12',ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 13',ummu[mother]N ša[of]DET kapru[village]N
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),o 14',ṭāhu[adjacent-to]PRP
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 2',Inurti[1]PN u[and]CNJ māru[son]N
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 3',māru[son]N māru[son]N dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 4',manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N sakru[refined]AJ ina[in]PRP burku[knee]N
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 5',Inurta[1]DN āšibu[sitting]AJ Kalhu[1]GN šakānu[put]V sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 6',Aššur[1]DN rakāsu[bind]V harbakkannu[(a-kind-of-horse)]N ina[in]PRP šaplu[underside]N Nergal[1]DN
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 7',erēbu[enter]V biltu[load]N annaku[tin]N ana[to]PRP pīhātu[responsibility]N ālu[city]N
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 8',tadānu[give]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 9',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 10',šību[witness]N alahhinu[(an-official-in-temple-service)]N ša[of]DET bītu[house]N Kidmuri[1]DN
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 11',šību[witness]N māru[son]N Ubru-Nabu[1]PN
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 12',šību[witness]N šangû[priest]N ša[of]DET Nabu[1]DN ša[of]DET Ninua[Nineveh]GN
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 13',šību[witness]N rabû[big-one]N šeleppāyu[(a-type-of-craftsman)]N
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 14',šību[witness]N māru[son]N Aššur-remanni[1]PN
+saao/saa06/P335338,SAA 06 011. Duplicate of the Preceding Text (ADD 0394),SAA 06 011. Duplicate of the Preceding Text (ADD 0394),r 15',šību[witness]N ša-qurbūti[close-follower]N

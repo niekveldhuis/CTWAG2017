@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),o 1',qaqqaru[ground]N peṣû[white]AJ
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),o 2',Alu-masenni[City-of-the-treasurer]GN
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),o 3',ina[in]PRP ammatu[unit]N arku[long]AJ
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),o 4',ina[in]PRP ammatu[unit]N rupšu[width]N
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),o 5',bītu[house]N daltu[door]N
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),o 6',ṭāhu[adjacent-to]PRP bītu[house]N Mardi[1]PN
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),o 7',ṭāhu[adjacent-to]PRP Liphur[1]PN
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),r 1',ištu[from]PRP pānu[front]N awīlu[man]N
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),r 2',annû[this]DP leqû[take]V kaspu[silver]N
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),r 3',gammuru[finished]AJ tadnu[given]AJ zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),r 4',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),r 5',mannu[who?]QP ša[that]REL elû[go-up]V
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),r 6',lū[may]MOD u[and]CNJ māru[son]N
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),r 7',māru[son]N māru[son]N māru[son]N ahu[brother]N
+saao/saa14/P336018,SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),SAA 14 230. [...]me-Ya’u Buys a Vacant Lot and a House (ADD 1257),r 8',ša[that]REL išti[with]PRP

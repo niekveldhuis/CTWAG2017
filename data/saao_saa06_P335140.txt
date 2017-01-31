@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335140,SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),o 1,ṣupru[nail]N Aššur-naʾdi[1]PN māru[son]N Mardanu[1]PN
+saao/saa06/P335140,SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),o 2,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335140,SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),r 1',malāhu[sailor]N
+saao/saa06/P335140,SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),r 2',šību[witness]N Rahimi-il[1]PN ša[of]DET Hatpina[1]GN
+saao/saa06/P335140,SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),r 3',šību[witness]N Nabu-šumu-lešir[1]PN ṭupšarru[scribe]N
+saao/saa06/P335140,SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),SAA 06 122. Purchase of a Slave (698-VII-18) (ADD 0191),r 4',Tašritu[Tishri]MN ūmu[day]N

@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335250,SAA 14 247. Purchase of Slaves (ADD 0305),SAA 14 247. Purchase of Slaves (ADD 0305),o 1,kunukku[seal]N Bel-ereš[1]PN bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa14/P335250,SAA 14 247. Purchase of Slaves (ADD 0305),SAA 14 247. Purchase of Slaves (ADD 0305),o 2,sinništu[woman]N māru[son]N mārtu[daughter]N

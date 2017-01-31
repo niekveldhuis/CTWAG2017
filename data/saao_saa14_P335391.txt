@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),o 1',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),o 2',ina[in]PRP ša[of]DET Gargamis[Carchemish]GN leqû[take]V
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),o 3',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ nišu[people]N zarpu[purchased]AJ
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),o 4',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),o 5',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV parāku[lie-across]V lū[may]MOD
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),o 6',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),o 7',lū[may]MOD ahu[brother]N lū[may]MOD māru[son]N ahu[brother]N
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),r 1',šību[witness]N rabû[big-one]N atû[gatekeeper]N
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),r 2',šību[witness]N āšipu[sorcerer]N
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),r 3',šību[witness]N rabû[big-one]N āšipu[sorcerer]N ša[of]DET bītu[house]N māru[son]N šarru[king]N
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),r 4',šību[witness]N atû[gatekeeper]N ša[of]DET Nabu[1]DN
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),r 5',šību[witness]N atû[gatekeeper]N ša[of]DET ēkallu[palace]N
+saao/saa14/P335391,SAA 14 264. Purchase of Slaves (ADD 0450),SAA 14 264. Purchase of Slaves (ADD 0450),r 6',šību[witness]N ša-pān-dīnāni[president-of-the-court]N

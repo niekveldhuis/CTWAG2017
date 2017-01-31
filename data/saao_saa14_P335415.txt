@@ -1,0 +1,23 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),o 1',kaspu[silver]N
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),o 2',gammuru[finished]AJ tadnu[given]AJ târu[turn]V
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),o 3',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),o 4',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV parāku[lie-across]V
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),o 5',lū[may]MOD Zaruti[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),o 6',lū[may]MOD memēni[somebody]XP
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),o 7',išti[with]PRP Amurri[1]PN
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),b.e. 8',dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),b.e. 9',buʾʾû[look-for]V
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 1,manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 2,adû[(treaty-)oath]N ša[of]DET šarru[king]N lū[may]MOD bēlu[lord]N dīnu[legal-decision]N
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 3,šību[witness]N Šarru-lu-dari[1]PN
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 4,šību[witness]N Zabdi[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 5,šību[witness]N Bir-amma[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 6,šību[witness]N Mannu-lu-ahuʾa[1]PN
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 7,šību[witness]N Adad-gappi[1]PN
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 8,šību[witness]N Šarru-nuri[1]PN rabû[big-one]N ālu[city]N
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 9,šību[witness]N Il-šumki[1]PN
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 10,šību[witness]N Il-malak[1]PN
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 11,šību[witness]N
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 12,šību[witness]N
+saao/saa14/P335415,SAA 14 096. Amurri Buys [...] (ADD 0476),SAA 14 096. Amurri Buys [...] (ADD 0476),r 13,Ṭebetu[Tebet]MN

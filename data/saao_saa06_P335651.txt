@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335651,SAA 06 242. Duplicate of the Previous Text (674-VII-14) (ADD 0800),SAA 06 242. Duplicate of the Previous Text (674-VII-14) (ADD 0800),o 1',ina[in]PRP pānu[front]N Yahuṭu[1]PN
+saao/saa06/P335651,SAA 06 242. Duplicate of the Previous Text (674-VII-14) (ADD 0800),SAA 06 242. Duplicate of the Previous Text (674-VII-14) (ADD 0800),o 2',ina[in]PRP pānu[front]N Ilu-kenu-uṣur[1]PN māru[son]N
+saao/saa06/P335651,SAA 06 242. Duplicate of the Previous Text (674-VII-14) (ADD 0800),SAA 06 242. Duplicate of the Previous Text (674-VII-14) (ADD 0800),o 3',ina[in]PRP pānu[front]N Adad-aplu-iddina[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335651,SAA 06 242. Duplicate of the Previous Text (674-VII-14) (ADD 0800),SAA 06 242. Duplicate of the Previous Text (674-VII-14) (ADD 0800),o 4',ina[in]PRP ūmu[day]N ša[of]DET Arahsamnu[Marchesvan]MN
+saao/saa06/P335651,SAA 06 242. Duplicate of the Previous Text (674-VII-14) (ADD 0800),SAA 06 242. Duplicate of the Previous Text (674-VII-14) (ADD 0800),o 5',ina[in]PRP Raṣappa[1]GN tadānu[give]V

@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334971,SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),o 1,manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P334971,SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),o 2,ša[of]DET Šumma-ilani[1]PN
+saao/saa06/P334971,SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),o 3,ina[in]PRP pānu[front]N Bel-ašared[1]PN
+saao/saa06/P334971,SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),o 4,ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa06/P334971,SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),o 5,šību[witness]N Sin-zeru-ibni[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P334971,SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),o 6,šību[witness]N Nabu-ahu-uṣur[1]PN ša-qurbūti[close-follower]N
+saao/saa06/P334971,SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),o 7,šību[witness]N Meʾisu[1]PN ṭupšarru[scribe]N
+saao/saa06/P334971,SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),o 8,šību[witness]N Milkya[1]PN
+saao/saa06/P334971,SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),o 9,šību[witness]N Nabu-leʾani[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P334971,SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),SAA 06 043. Šumma-ilani Loans Three Minas of Silver (684-I-10) (ADD 0019),o 10,Nisannu[Nisan]MN ūmu[day]N

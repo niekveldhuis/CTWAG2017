@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 1,ṣupru[nail]N Kiqillanu[1]PN
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 3,ummu[mother]N
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 4,gimru[totality]N ardu[slave]N ša[of]DET Kiqillanu[1]PN
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 5,epēšu[do]V Šumma-ilani[1]PN
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 6,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 7,ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 8,ištu[from]PRP pānu[front]N Kiqillanu[1]PN leqû[take]V
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 9,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 10,nišu[people]N zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 11,târu[turn]V dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 12,mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 13,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),o 14,ina[in]PRP burku[knee]N Mullissu[1]DN
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),b.e. 15,āšibu[sitting]AJ Ninua[Nineveh]GN šakānu[put]V
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),r 1,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),r 2,ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),r 3,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),r 4,šību[witness]N Zazi[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),r 5,šību[witness]N Šamaš-šezib[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),r 6,šību[witness]N Nabu-reši-išši[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),r 7,šību[witness]N Sin-naʾdi[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),r 8,šību[witness]N Marduk-šumu-iddina[1]PN šušānu[horse-trainer]N ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),r 9,Duʾuzu[Tammuz]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa06/P335183,SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),SAA 06 053. Šumma-Ilani Buys Two Slaves (ADD 0236),r 10,šību[witness]N Nabu-balassu-iqbi[1]PN

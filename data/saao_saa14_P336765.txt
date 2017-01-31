@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336765,SAA 14 421. Fragment of a Witness List (Sm 1518),SAA 14 421. Fragment of a Witness List (Sm 1518),r 1,šību[witness]N Šulmu-beli[1]PN
+saao/saa14/P336765,SAA 14 421. Fragment of a Witness List (Sm 1518),SAA 14 421. Fragment of a Witness List (Sm 1518),r 2,šību[witness]N Ṭab-šar-Aššur[1]PN Kalhaya[1]EN
+saao/saa14/P336765,SAA 14 421. Fragment of a Witness List (Sm 1518),SAA 14 421. Fragment of a Witness List (Sm 1518),r 3,šību[witness]N Ahi-Yau[1]PN māhiṣu[beater]N
+saao/saa14/P336765,SAA 14 421. Fragment of a Witness List (Sm 1518),SAA 14 421. Fragment of a Witness List (Sm 1518),r 4,šību[witness]N Šeššayu[1]PN
+saao/saa14/P336765,SAA 14 421. Fragment of a Witness List (Sm 1518),SAA 14 421. Fragment of a Witness List (Sm 1518),r 5,šību[witness]N Ituʾaya[Ituʾean]EN

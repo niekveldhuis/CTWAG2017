@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),2',ša[of]DET dīnu[legal-decision]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),3',ša[of]DET Ah-abu[1]PN
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),4',ina[in]PRP pānu[front]N Agru[1]PN ṭupšarru[scribe]N
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),5',ša[of]DET sartennu[chief-judge]N emēdu[lean-on]V
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),b.e. 6',ina[in]PRP Abu[Ab]MN ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),b.e. 7',šumma[if]MOD lā[not]MOD tadānu[give]V ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),r 1,šību[witness]N Ata[1]PN bēlu[lord]N ālu[city]N
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),r 2,ša[of]DET Alu-ṣarrapi[Goldsmith-Town]GN šību[witness]N Dadi[1]PN
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),r 3,kallāpu[outrider]N šipirtu[message]N
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),o 4,šību[witness]N Aplaya[1]PN bēlu[lord]N ālu[city]N ša[of]DET
+saao/saa14/P335121,SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),SAA 14 183. A Court Decision on Behalf of Ah-abu (ADD 0171),o 5,šību[witness]N kallāpu[outrider]N šipirtu[message]N

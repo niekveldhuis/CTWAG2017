@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),o 1,manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET šarru[king]N
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),o 2,ša[of]DET Šamaš-dari[1]PN
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),o 3,ina[in]PRP pānu[front]N Mannu-ki-Ninua[1]PN
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),o 4,bītu[house]N ina[in]PRP šapartu[pledge]N
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),o 5,šaknu[placed]AJ laššu[(there)-is-not]V
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),o 8,šumma[if]MOD ṣarpu[silver]N lā[not]MOD tadānu[give]V
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),b.e. 9,ina[in]PRP libbu[interior]N ūmu[day]N ša[that]REL ṣarpu[silver]N šalāmu[be(come)-healthy]V
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),b.e. 10,tadānu[give]V ana[to]PRP bītu[house]N erēbu[enter]V
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),r 1,Elulu[Elul]MN ūmu[day]N šattu[year]N
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),r 2,Sin-ahhe-eriba[Sennacherib]PN šarru[king]N kiššati[world]N
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),r 3,šību[witness]N Issar-tariba[1]PN
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),r 4,šību[witness]N Urdu-Issar[1]PN šību[witness]N Illu[1]PN
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),r 5,šību[witness]N Ṣil-Bel[1]PN
+saao/saa06/P335041,SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),SAA 06 180. Note of Silver Owed by Mannu-ki-Ninua (683-VI-25) (ADD 0089),r.e. 6,šību[witness]N Silim-Seʾ[1]PN šību[witness]N Mušallim-Marduk[1]PN

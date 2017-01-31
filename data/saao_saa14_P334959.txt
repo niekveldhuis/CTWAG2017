@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),o 1,manû[unit]N ṣarpu[silver]N
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),o 2,ša[of]DET
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),o 3,ina[in]PRP pānu[front]N
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),o 4,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),o 5,ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),o 6,šību[witness]N Nergal-ibni[1]PN
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),r 1,šību[witness]N Mannu-ki-Aššur[1]PN
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),r 2,šību[witness]N
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),r 3,šību[witness]N
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),r 4,šību[witness]N
+saao/saa14/P334959,SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),SAA 14 143. Silver Loan (650-VI-22) (ADD 0007),r 5,Elulu[Elul]MN ūmu[day]N

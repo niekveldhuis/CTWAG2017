@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336014,SAA 14 375. Lease of Land (ADD 1253),SAA 14 375. Lease of Land (ADD 1253),r 1,epēšu[do]V
+saao/saa14/P336014,SAA 14 375. Lease of Land (ADD 1253),SAA 14 375. Lease of Land (ADD 1253),r 2,bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP mazrūtu[(area-or-state-of)-cultivation]N
+saao/saa14/P336014,SAA 14 375. Lease of Land (ADD 1253),SAA 14 375. Lease of Land (ADD 1253),r 3,ana[to]PRP šattu[year]N ina[in]PRP libbu[interior]N
+saao/saa14/P336014,SAA 14 375. Lease of Land (ADD 1253),SAA 14 375. Lease of Land (ADD 1253),r 4,leqû[take]V mannu[who?]QP ša[that]REL kaspu[silver]N

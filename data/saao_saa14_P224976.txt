@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 1',bītu[house]N imēru[unit]N
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 2',Ṣidqa[1]PN Ṣidunaya[Sidonite]EN
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 3',Ninua[Nineveh]GN nāru[river]N bītu[house]N imēru[unit]N
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 4',ṭāhu[adjacent-to]PRP nāru[river]N ṭāhu[adjacent-to]PRP harrānu[way]N ša[of]DET
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 5',ṭāhu[adjacent-to]PRP maʾuttu[subsistence?-(field)]N ša[of]DET bītu[house]N šarru[king]N
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 6',ṭāhu[adjacent-to]PRP hamru[holy-place-(of-Adad;-Assur)]N ṭāhu[adjacent-to]PRP Ṣidqa[1]PN
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 7',bītu[house]N imēru[unit]N qatānu[to-be(come)-thin]V ṭāhu[adjacent-to]PRP
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 8',ṭāhu[adjacent-to]PRP harrānu[way]N ša[of]DET
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 9',Su-Baʾal[1]PN ištu[from]PRP
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 10',ṭāhu[adjacent-to]PRP Ṣidqa[1]PN
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),o 11',būru[cistern]N ṭāhu[adjacent-to]PRP
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),b.e. 12',ša[of]DET
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),b.e. 14',ṭāhu[adjacent-to]PRP ummu[mother]N ša[of]DET
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),b.e. 15',kussû[chair]N ṭāhu[adjacent-to]PRP
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),r 1,ṭāhu[adjacent-to]PRP harrānu[way]N ša[of]DET
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),r 2,ṭāhu[adjacent-to]PRP nahallu[stream]N
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),r 3,qaqqaru[ground]N peṣû[white]AJ
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),r 4,adru[threshing-floor]N būrtu[cistern]N ṭāhu[adjacent-to]PRP
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),r 5,ṭāhu[adjacent-to]PRP Nabu-šumu-uṣur[1]PN
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),r 6,kirû[garden]N būrtu[cistern]N adru[threshing-floor]N ina[in]PRP
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),r 7,ša[of]DET awīlu[man]N annû[this]DP
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),r 8,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P224976,SAA 14 460. Land Lease (TIM 11 33),SAA 14 460. Land Lease (TIM 11 33),r 9,šattu[year]N akālu[eat]V

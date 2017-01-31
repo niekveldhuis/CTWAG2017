@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 1,Kalhu[1]GN gimru[totality]N napištu[throat]N
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 2,ištu[from]PRP pānu[front]N tamkāru[merchant]N Nabuʾa[1]PN paṭāru[loosen]V
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 3,kūm[instead-of]PRP manû[unit]N erû[copper]N adi[until]PRP balāṭu[live]V
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 4,palāhu[fear]V ina[in]PRP šiāru[morning]N ina[in]PRP līdiš[day-after-tomorrow]AV
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 5,ina[in]PRP matīma[ever]AV lū[may]MOD ahu[brother]N
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 6,ša[of]DET Lu-šakin[1]PN lū[may]MOD nišu[people]N
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 7,lū[may]MOD pīhātu[responsibility]N lū[may]MOD šaknu[appointee]N
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 8,lū[may]MOD hazannu[mayor]N ālu[city]N alāku[go]V
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 9,manû[unit]N erû[copper]N
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 10,ana[to]PRP Nabuʾa[1]PN tadānu[give]V awīlu[man]N aṣû[go-out]V
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),o 11,šību[witness]N atû[gatekeeper]N ša[of]DET bābu[gate]N rabû[big]AJ
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),r 1',šību[witness]N ēkallu[palace]N
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),r 2',šību[witness]N rabû[big-one]N kakkullu[mash-tub]N
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),r 3',šību[witness]N māru[son]N Lu-šalim[1]PN
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),r 4',šību[witness]N kāṣiru[tailor]N
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),r 5',šību[witness]N bēlu[lord]N qātu[hand]N
+saao/saa14/P335029,SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),SAA 14 202. Nabu’a Redeems Two Persons from the Merchant (ADD 0077),r 6',šību[witness]N ša-muhhi-bēti[overseer-of-the-household]N

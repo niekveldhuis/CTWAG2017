@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),o 1',ṭāhu[adjacent-to]PRP
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),o 2',ṭāhu[adjacent-to]PRP
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),o 3',ṭāhu[adjacent-to]PRP
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),o 4',ṭāhu[adjacent-to]PRP
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),o 5',ṭāhu[adjacent-to]PRP ēkallu[palace]N
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),o 6',ina[in]PRP hūlu[way]N Urza[1]GN
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),b.e. 7',ša[of]DET bītu[house]N šanû[second]NU ša[of]DET ēkallu[palace]N
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),b.e. 8',ina[in]PRP libbu[interior]N
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),r 1,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),r 3,šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),r 4,laššu[(there)-is-not]V mannu[who?]QP
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),r 5,lū[may]MOD
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),r 6,ša[that]REL dīnu[legal-decision]N dabābu[speak]V išti[with]PRP
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),r 7,māru[son]N
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),r 8,manû[unit]N hurāṣu[gold]N
+saao/saa14/P336191,SAA 14 396. Purchase of Land (Iraq 32 05),SAA 14 396. Purchase of Land (Iraq 32 05),r 9,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V

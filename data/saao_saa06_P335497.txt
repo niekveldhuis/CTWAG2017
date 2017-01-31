@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335497,SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),r 1',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335497,SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),r 2',šību[witness]N Nergal-šarru-uṣur[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335497,SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),r 3',šību[witness]N Uarbis[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335497,SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),r 4',šību[witness]N Šamaš-šarru-uṣur[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335497,SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),r 5',šību[witness]N Sakkannu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335497,SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),r 6',šību[witness]N Barruqu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335497,SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),r 7',šību[witness]N
+saao/saa06/P335497,SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),r 8',šību[witness]N Ha-bašti[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa06/P335497,SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),r 9',šību[witness]N Kiṣir-Aššur[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335497,SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),SAA 06 350. A Fragmentary Purchase Document of Remanni-Adad (ADD 0571),r 10',šību[witness]N Nabu-zeru-iddina[1]PN mukillu[holder]N appatu[bridle]N

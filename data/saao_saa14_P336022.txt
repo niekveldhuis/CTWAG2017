@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336022,SAA 14 380. (no title) (ADD 1261),SAA 14 380. (no title) (ADD 1261),4',gimru[totality]N bītu[house]N
+saao/saa14/P336022,SAA 14 380. (no title) (ADD 1261),SAA 14 380. (no title) (ADD 1261),5',māru[son]N
+saao/saa14/P336022,SAA 14 380. (no title) (ADD 1261),SAA 14 380. (no title) (ADD 1261),6',māru[son]N

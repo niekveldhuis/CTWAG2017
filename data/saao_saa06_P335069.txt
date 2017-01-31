@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),1,kunukku[seal]N Yahuṭu[1]PN šanû[second]NU Raṣappa[1]GN
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),2,meʾatu[(one)-hundred]NU gurrutu[ewe]N meʾatu[(one)-hundred]NU enzu[goat]N
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),3,meʾatu[(one)-hundred]NU māru[son]N šattu[year]N gimru[totality]N meʾatu[(one)-hundred]NU immeru[sheep]N
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),4,ša[of]DET Dannaya[1]PN
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),5,ina[in]PRP pānu[front]N Yahuṭu[1]PN šanû[second]NU Raṣappa[1]GN
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),6,ina[in]PRP pānu[front]N Ilu-kenu-uṣur[1]PN māru[son]N
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),7,ina[in]PRP pānu[front]N Adad-aplu-iddina[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),8,ina[in]PRP ūmu[day]N tadānu[give]V šumma[if]MOD
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),b.e. 9,lā[not]MOD tadānu[give]V manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),b.e. 10,šību[witness]N
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),r 1,šību[witness]N Baṭṭuṭanu[1]PN ṭupšarru[scribe]N
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),r 2,šību[witness]N Adad-naṣir[1]PN
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),r 3,šību[witness]N Ahu-nuri[1]PN šību[witness]N Aplaya[1]PN
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),r 4,ṭupšarru[scribe]N
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),r 5,Ayaru[Iyyar]MN ūmu[day]N
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),r 6,līmu[eponym-(of-year)]N Atar-ili[1]PN
+saao/saa06/P335069,SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),SAA 06 243. Note of Sheep Owed to Dannaya (673-II-7) (ADD 0118),r 7,šību[witness]N Sin-nadin-ahhe[1]PN

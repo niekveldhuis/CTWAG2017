@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335097,SAA 14 236. Debt Note (ADD 0146),SAA 14 236. Debt Note (ADD 0146),o 1',ina[in]PRP pānu[front]N
+saao/saa14/P335097,SAA 14 236. Debt Note (ADD 0146),SAA 14 236. Debt Note (ADD 0146),o 2',ina[in]PRP pānu[front]N
+saao/saa14/P335097,SAA 14 236. Debt Note (ADD 0146),SAA 14 236. Debt Note (ADD 0146),o 3',ina[in]PRP pānu[front]N Ki-lamši[1]PN
+saao/saa14/P335097,SAA 14 236. Debt Note (ADD 0146),SAA 14 236. Debt Note (ADD 0146),o 4',ša[of]DET Duʾa[1]GN
+saao/saa14/P335097,SAA 14 236. Debt Note (ADD 0146),SAA 14 236. Debt Note (ADD 0146),o 5',ina[in]PRP pūhu[exchange]N našû[lift]V

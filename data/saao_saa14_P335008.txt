@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),o 2',šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),o 3',ana[to]PRP rabû[to-be-big]V Milki-ramu[1]PN
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),o 4',Bazuzu[1]PN bēlu[lord]N qātu[hand]N
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),o 5',išti[with]PRP Aššur-abu-uṣur[1]PN
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),b.e. 6,Milki-ramu[1]PN
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),r 1,Elulu[Elul]MN ūmu[day]N
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),r 2,līmu[eponym-(of-year)]N Bel-naʾdi[1]PN tartānu[second-in-command]N
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),r 3,šību[witness]N hazannu[mayor]N ša[of]DET Kalhu[1]GN
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),r 4,šību[witness]N ṭupšarru[scribe]N ēkallu[palace]N šanû[second]NU
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),r 5,šību[witness]N šību[witness]N Sin-šarru-uṣur[1]PN ša-qurbūti[close-follower]N
+saao/saa14/P335008,SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),SAA 14 135. A Fragmentary Loan (663-VI-18) (ADD 0056),r 6,šību[witness]N šību[witness]N

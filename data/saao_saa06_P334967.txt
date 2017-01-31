@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),o 1,manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),o 2,ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),o 3,ša[of]DET Silim-Aššur[1]PN
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),o 4,pānu[front]N Marduk-eriba[1]PN
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),o 5,Abu[Ab]MN ūmu[day]N ṣarpu[silver]N tadānu[give]V
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),o 6,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),o 7,ana[to]PRP šiqlu[unit]N rabû[to-be-big]V
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),r 1,šību[witness]N Kadammu[1]PN
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),r 2,šību[witness]N Nabu-zeru-ibni[1]PN
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),r 3,šību[witness]N Bel-iddina[1]PN
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),r 4,šību[witness]N Aplu-uṣur[1]PN
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),r 5,šību[witness]N Tabalayu[1]PN
+saao/saa06/P334967,SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),SAA 06 234. Note of Silver Owed to Silim-Aššur (672-III-29) (ADD 0015),t.e. 6,ina[in]PRP Simanu[Sivan]MN ūmu[day]N

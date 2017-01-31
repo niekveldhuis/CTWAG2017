@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336745,SAA 14 401. Purchase of Land and People (K 07510),SAA 14 401. Purchase of Land and People (K 07510),o 1',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET šarru[king]N
+saao/saa14/P336745,SAA 14 401. Purchase of Land and People (K 07510),SAA 14 401. Purchase of Land and People (K 07510),o 2',ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP leqû[take]V
+saao/saa14/P336745,SAA 14 401. Purchase of Land and People (K 07510),SAA 14 401. Purchase of Land and People (K 07510),o 3',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ bītu[house]N kirû[garden]N
+saao/saa14/P336745,SAA 14 401. Purchase of Land and People (K 07510),SAA 14 401. Purchase of Land and People (K 07510),o 4',eqlu[field]N nišu[people]N zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P336745,SAA 14 401. Purchase of Land and People (K 07510),SAA 14 401. Purchase of Land and People (K 07510),o 5',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa14/P336745,SAA 14 401. Purchase of Land and People (K 07510),SAA 14 401. Purchase of Land and People (K 07510),r 4',Ṭiri[1]PN
+saao/saa14/P336745,SAA 14 401. Purchase of Land and People (K 07510),SAA 14 401. Purchase of Land and People (K 07510),r 6',Kapar-segalli[Village-of-the-queen]GN

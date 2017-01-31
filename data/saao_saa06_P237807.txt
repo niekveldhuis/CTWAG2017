@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 1',ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 2',târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 3',lā[not]MOD leqû[take]V ṣibtu[seizure]N bennu[epilepsy]N
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 4',ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N sartu[falsehood]N
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 5',ana[to]PRP arkû[rear]AJ ūmu[day]N
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 6',šību[witness]N Abda[1]PN bārû[diviner]N
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 7',šību[witness]N Ah-abu[1]PN
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 8',šību[witness]N Pulu[1]PN aškāpu[leatherworker]N
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 9',šību[witness]N Hadasa[1]PN tamkāru[merchant]N
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 10',šību[witness]N Bir-Šamaš[1]PN tamkāru[merchant]N
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 11',šību[witness]N Issar-duri[1]PN
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 12',šību[witness]N Inurta-ilaʾi[1]PN
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 13',šību[witness]N Nabu-ušallim[1]PN ṭupšarru[scribe]N
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 14',Abu[Ab]MN ūmu[day]N
+saao/saa06/P237807,SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),SAA 06 134. Fragment of a Slave Sale (694-V-15) (ADD 0281),r 15',līmu[eponym-(of-year)]N Ilu-ittiya[1]PN

@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),b.e. 1,šumma[if]MOD ina[in]PRP ūmu[day]N
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),b.e. 3,Kanunayu[1]PN
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),b.e. 4,lā[not]MOD alāku[go]V
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),b.e. 5,ša[of]DET
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),b.e. 7,ana[to]PRP
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),r 2,ana[to]PRP
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),r 3,Elulu[Elul]MN ūmu[day]N
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),r 4,šību[witness]N
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),r 5,šību[witness]N
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),r 6,šību[witness]N
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),r 7,šību[witness]N
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),e. 1,šību[witness]N Šamaš-šallim-ahhe[1]PN
+saao/saa14/P224967,SAA 14 449. Fragmentary Court Order (TIM 11 23),SAA 14 449. Fragmentary Court Order (TIM 11 23),e. 2,šību[witness]N Puṭi-Eše[1]PN

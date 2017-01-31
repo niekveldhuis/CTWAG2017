@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),o 1',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),o 2',eqlu[field]N bītu[house]N adru[threshing-floor]N kirû[garden]N nišu[people]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),o 3',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),o 4',dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),o 5',ina[in]PRP matīma[ever]AV lū[may]MOD Aššur-zeru-ibni[1]PN
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),o 6',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),o 7',lū[may]MOD ahu[brother]N išti[with]PRP Nabu-šumu-ibni[1]PN
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),o 8',u[and]CNJ māru[son]N dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),o 9',buʾʾû[look-for]V
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),r 1,manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),r 2,sakru[refined]AJ ana[to]PRP Inurta[1]DN tadānu[give]V
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),r 3,biltu[load]N annaku[tin]N ana[to]PRP pīhātu[responsibility]N ālu[city]N tadānu[give]V
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),r 4,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),r 5,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),r 6,šību[witness]N Bulalu[1]PN asû[physician]N
+saao/saa14/P335360,SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),SAA 14 207. Nabu-šumu-ibni Buys Land and People (ADD 0417),r 7,šību[witness]N ṭupšarru[scribe]N

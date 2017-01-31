@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335954,SAA 14 348. Fragment of a Conveyance Text (ADD 1173),SAA 14 348. Fragment of a Conveyance Text (ADD 1173),o 5',buʾʾû[look-for]V
+saao/saa14/P335954,SAA 14 348. Fragment of a Conveyance Text (ADD 1173),SAA 14 348. Fragment of a Conveyance Text (ADD 1173),r 3',ina[in]PRP pānu[front]N Nešu[1]PN
+saao/saa14/P335954,SAA 14 348. Fragment of a Conveyance Text (ADD 1173),SAA 14 348. Fragment of a Conveyance Text (ADD 1173),r 5',šību[witness]N Šamaš-aplu-iddina[1]PN
+saao/saa14/P335954,SAA 14 348. Fragment of a Conveyance Text (ADD 1173),SAA 14 348. Fragment of a Conveyance Text (ADD 1173),r 6',šību[witness]N Mannu-ki-Libbali[1]PN

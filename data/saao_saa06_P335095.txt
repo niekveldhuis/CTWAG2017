@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335095,SAA 06 117. Tarhundapi Loans Barley (700) (ADD 0144),SAA 06 117. Tarhundapi Loans Barley (700) (ADD 0144),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa06/P335095,SAA 06 117. Tarhundapi Loans Barley (700) (ADD 0144),SAA 06 117. Tarhundapi Loans Barley (700) (ADD 0144),o 2,ša[of]DET Tarhundapi[1]PN

@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),1',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),2',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),3',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),4',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),5',zaqāpu[fix-upright]V lū[may]MOD Mar-suri[1]PN
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),6',lū[may]MOD māru[son]N lū[may]MOD ahu[brother]N
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),r 1,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),r 2,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),r 3,šību[witness]N šangû[priest]N
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),r 4,šību[witness]N šangû[priest]N
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),r 5,šību[witness]N šangû[priest]N
+saao/saa14/P335418,SAA 14 267. Fragment of a Conveyance Text (ADD 0479),SAA 14 267. Fragment of a Conveyance Text (ADD 0479),r 6,šību[witness]N šangû[priest]N

@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335602,SAA 14 331. Fragment of a Conveyance Text (ADD 0730),SAA 14 331. Fragment of a Conveyance Text (ADD 0730),1',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335602,SAA 14 331. Fragment of a Conveyance Text (ADD 0730),SAA 14 331. Fragment of a Conveyance Text (ADD 0730),2',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335602,SAA 14 331. Fragment of a Conveyance Text (ADD 0730),SAA 14 331. Fragment of a Conveyance Text (ADD 0730),3',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV nabalkutu[cross-over]V
+saao/saa14/P335602,SAA 14 331. Fragment of a Conveyance Text (ADD 0730),SAA 14 331. Fragment of a Conveyance Text (ADD 0730),4',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV

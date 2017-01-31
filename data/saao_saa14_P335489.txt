@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335489,SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),3',lū[may]MOD māru[son]N
+saao/saa14/P335489,SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),4',lū[may]MOD māru[son]N māru[son]N mammanu-[whosoever]XP
+saao/saa14/P335489,SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),5',ša[that]REL išti[with]PRP Ṣalam-ahhe[1]PN
+saao/saa14/P335489,SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),r 1,māru[son]N māru[son]N māru[son]N dīnu[legal-decision]N
+saao/saa14/P335489,SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),r 2,dabābu[speak]V buʾʾû[look-for]V manû[unit]N
+saao/saa14/P335489,SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),r 3,ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N
+saao/saa14/P335489,SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),r 4,sakru[refined]AJ ina[in]PRP burku[knee]N Ištar[1]DN
+saao/saa14/P335489,SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),r 5,āšibu[sitting]AJ Ninua[Nineveh]GN šakānu[put]V kaspu[silver]N
+saao/saa14/P335489,SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),SAA 14 116. Fragmentary Sales Document of [Ṣalmu]-ahhe (ADD 0562),r 6,ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V

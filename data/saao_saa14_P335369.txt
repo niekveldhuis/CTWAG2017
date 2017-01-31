@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),o 1',mārtu[daughter]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),o 2',māru[son]N šizbu[milk]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),o 3',mārtu[daughter]N rūṭu[unit]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),o 4',Nabu-kenu-ubbib[1]PN
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),o 5',amtu[maid]N ardu[slave]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),o 6',bītu[house]N imēru[unit]N qû[unit]N eqlu[field]N bītu[house]N adru[threshing-floor]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),o 7',epēšu[do]V Lu-balaṭ[1]PN
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),b.e. 8',ša[of]DET Silim-Inurta[1]PN pīhātu[responsibility]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),b.e. 9',ina[in]PRP libbu[interior]N biltu[load]N parzillu[iron]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),b.e. 10',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ bītu[house]N eqlu[field]N kirû[garden]N nišu[people]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),b.e. 11',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),r 1,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),r 2,zaqāpu[fix-upright]V parāku[lie-across]V lū[may]MOD
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),r 3,lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N lū[may]MOD māru[son]N ahu[brother]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),r 4,lū[may]MOD lū[may]MOD šaknu[appointee]N lū[may]MOD hazannu[mayor]N ālu[city]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),r 5,ša[that]REL išti[with]PRP Lu-balaṭ[1]PN māru[son]N mukillu[holder]N appatu[bridle]N
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),r 6,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),r 7,manû[unit]N hurāṣu[gold]N sakru[refined]AJ ina[in]PRP burku[knee]N Ištar[1]DN
+saao/saa14/P335369,SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),SAA 14 198. Lu-balaṭ Buys Land and People (ADD 0426),r 8,āšibu[sitting]AJ šakānu[put]V biltu[load]N uqnû[lapis-lazuli]N hīpu[break]N šadû[mountain]N

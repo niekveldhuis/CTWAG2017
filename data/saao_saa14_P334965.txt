@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334965,SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P334965,SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),o 2,ša[of]DET Kubabu-eriba[1]PN
+saao/saa14/P334965,SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),o 3,ina[in]PRP pānu[front]N Issar-tariba[1]PN
+saao/saa14/P334965,SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),o 4,ina[in]PRP pānu[front]N Šumma-ilu[1]PN
+saao/saa14/P334965,SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),o 5,ina[in]PRP pānu[front]N Remanni-Issar[1]PN
+saao/saa14/P334965,SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),o 6,ina[in]PRP ūmu[day]N ša[of]DET Tašritu[Tishri]MN
+saao/saa14/P334965,SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),o 7,ṣarpu[silver]N ina[in]PRP qaqqadu[head]N tadānu[give]V
+saao/saa14/P334965,SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),SAA 14 224. Kubaba-eriba Lends 10 Shekels of Silver (ADD 0013),o 8,šumma[if]MOD lā[not]MOD tadānu[give]V

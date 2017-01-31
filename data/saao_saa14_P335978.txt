@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),o 2,ša[of]DET Ṭab-šar-Aššur[1]PN
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),o 3,ša[that]REL ina[in]PRP manû[unit]N
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),o 4,ina[in]PRP pānu[front]N Yadida[1]PN
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),o 5,ina[in]PRP Duʾuzu[Tammuz]MN ṣarpu[silver]N
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),o 6,ina[in]PRP qaqqadu[head]N tadānu[give]V
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),o 7,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),o 8,ana[to]PRP šiqlu[unit]N rabû[to-be-big]V
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),r 1,Ayaru[Iyyar]MN ūmu[day]N
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),r 2,līmu[eponym-(of-year)]N Aššur-naṣir[1]PN
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),r 3,šību[witness]N Nergal-šarru-ahhešu[1]PN
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),r 4,šību[witness]N Aššur-ibni-ahhe[1]PN
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),r 5,šību[witness]N
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),r.e. 6,šību[witness]N
+saao/saa14/P335978,SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),SAA 14 083. Ṭab-šar-Aššur Lends Silver (654-II-28) (ADD 1198),r.e. 7,šību[witness]N

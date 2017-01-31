@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),o 1',bēlu[lord]N bītu[house]N eqlu[field]N nišu[people]N tadānu[give]V
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),o 2',bītu[house]N imēru[unit]N eqlu[field]N ṭāhu[adjacent-to]PRP hūlu[way]N ša[of]DET Kapar-Dannaya[1]GN
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),o 3',ana[to]PRP Kapar-Ildiši[1]GN alāku[go]V
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),o 4',kirû[garden]N ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),o 5',ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Iddinaya[1]PN bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),o 6',ṭāhu[adjacent-to]PRP hūlu[way]N ša[that]REL ištu[from]PRP Kapar-Dannaya[1]GN ana[to]PRP
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),o 7',alāku[go]V gimru[totality]N ṭāhu[adjacent-to]PRP
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),r 1,šību[witness]N Sin-ašared[1]PN tašlīšu[third-man-on-chariot]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),r 2,šību[witness]N Zaruti[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),r 3,šību[witness]N Nabu-eriba[1]PN šanû[second]NU ša[of]DET
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),r 4,šību[witness]N Nergal-šarru-uṣur[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),r 5,šību[witness]N Bani[1]PN šanû[second]NU ša[of]DET rabû[big-one]N asû[physician]N
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),r 6,šību[witness]N Zababa-eriba[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),r 7,šību[witness]N Aššur-leʾi[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),r 8,šību[witness]N Mannu-ki-ṣabi[1]PN ahu[brother]N ša[of]DET Kinanni-Issar[1]PN
+saao/saa06/P335321,SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),SAA 06 320. Remanni-Adad Purchases Land (664-X-17) (ADD 0377),r 9,Ṭebetu[Tebet]MN ūmu[day]N līmu[eponym-(of-year)]N Šarru-lu-dari[1]PN

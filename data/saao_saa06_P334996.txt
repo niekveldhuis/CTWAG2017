@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),o 1,manû[unit]N ṣarpu[silver]N
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),o 2,rēštu[beginning]N ša[of]DET Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),o 3,ša[of]DET kusāpu[bread]N bītu[house]N ilu[god]N
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),o 4,ša[of]DET Silim-Aššur[1]PN
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),o 5,ina[in]PRP pānu[front]N Zaruti[1]PN
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),b.e. 6,māru[son]N Gugi[1]PN
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),b.e. 7,ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),r 1,šību[witness]N Silim-ili[1]PN
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),r 2,šību[witness]N
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),r 3,šību[witness]N Šamaš-naplis[1]PN
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),r 4,šību[witness]N Ubbuqu[1]PN
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),r 5,šību[witness]N Ahunu[1]PN
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),r.e. 6,šību[witness]N Hanunu[1]PN
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),r.e. 7,šību[witness]N
+saao/saa06/P334996,SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),SAA 06 237. Note of 12 Minas of Silver Owed to Silim-Aššur (670-VII-11) (ADD 0044),r.e. 8,Tašritu[Tishri]MN ūmu[day]N

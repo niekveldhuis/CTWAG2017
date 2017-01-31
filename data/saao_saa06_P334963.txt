@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),o 2,ša[of]DET Dannaya[1]PN
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),o 3,ina[in]PRP pānu[front]N La-qepu[1]PN
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),o 4,ina[in]PRP ūmu[day]N ša[of]DET Duʾuzu[Tammuz]MN
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),o 5,tadānu[give]V šumma[if]MOD
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),b.e. 6,tadānu[give]V ana[to]PRP rebû[fourth]NU
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),b.e. 7,rabû[to-be-big]V
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),r 1,šību[witness]N Šamaš[1]DN šību[witness]N Nergal[1]DN
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),r 2,šību[witness]N Mannu-iqbi[1]PN
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),r 3,šību[witness]N Meʾisu[1]PN
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),r 4,šību[witness]N Marduku[1]PN
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),r 5,šību[witness]N Nabu-natkil[1]PN ša-qurbūti[close-follower]N
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),r 6,šību[witness]N Nergal-eṭir[1]PN
+saao/saa06/P334963,SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),SAA 06 240. Note of Silver Owed to Dannaya (676-III-4) (ADD 0011),r 7,Simanu[Sivan]MN ūmu[day]N

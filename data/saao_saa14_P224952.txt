@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),b.e. 1,imēru[unit]N uṭṭatu[grain]N
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),b.e. 2,ša[of]DET Inurta-šarru-uṣur[1]PN
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),b.e. 3,ina[in]PRP pānu[front]N Edu-šallim[1]PN
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),b.e. 4,māru[son]N Burtayu[1]PN
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),b.e. 5,ina[in]PRP adru[threshing-floor]N ina[in]PRP Ninua[Nineveh]GN tadānu[give]V
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),r 1,lā[not]MOD tadānu[give]V
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),r 2,ina[in]PRP imēru[unit]N rabû[to-be-big]V
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),r 3,Ṭebetu[Tebet]MN ūmu[day]N
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),r 4,līmu[eponym-(of-year)]N Mannu-ki-Arbail[1]PN
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),r 5,šību[witness]N Urda-Inurta[1]PN
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),r 6,šību[witness]N Puṭiše[1]PN šību[witness]N Puṭi-Eše[1]PN
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),r.e. 7,šību[witness]N Abi-Huru[1]PN
+saao/saa14/P224952,SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),SAA 14 436. Inurta-šarru-uṣur Lends Barley (Mannu-ki-Arbail-X-10) (TIM 11 10),e. 1,Hallabeše[1]PN

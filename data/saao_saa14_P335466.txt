@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),1,kunukku[seal]N
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),2,kunukku[seal]N Šamaš-ahu-iddina[1]PN
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),3,kunukku[seal]N Mannu-lu-šulmu[1]PN
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),4,kunukku[seal]N
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),5,kunukku[seal]N
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),6,kunukku[seal]N
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),r 1',šību[witness]N Šamaš-ilaʾi[1]PN
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),r 2',šību[witness]N Nabu-rehtu-uṣur[1]PN
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),r 3',šību[witness]N Issar-naʾdi[1]PN
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),r 4',šību[witness]N Abdaʾ[1]PN
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),r 5',šību[witness]N
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),r 6',šību[witness]N Balasi[1]PN
+saao/saa14/P335466,SAA 14 280. (no title) (ADD 0532),SAA 14 280. (no title) (ADD 0532),r 7',šību[witness]N Aššur-reši-išši[1]PN

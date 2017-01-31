@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336020,SAA 14 378. Purchase of Land (ADD 1259),SAA 14 378. Purchase of Land (ADD 1259),o 1,ṣupru[nail]N
+saao/saa14/P336020,SAA 14 378. Purchase of Land (ADD 1259),SAA 14 378. Purchase of Land (ADD 1259),o 2,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa14/P336020,SAA 14 378. Purchase of Land (ADD 1259),SAA 14 378. Purchase of Land (ADD 1259),o 3,bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa14/P336020,SAA 14 378. Purchase of Land (ADD 1259),SAA 14 378. Purchase of Land (ADD 1259),o 4,ina[in]PRP mazrūtu[(area-or-state-of)-cultivation]N

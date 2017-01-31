@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 1',bītu[house]N
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 2',gabdi[adjoining-to]PRP hirītu[ditch]N epēšu[do]V Sin-naʾdi[1]PN
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 3',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 4',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 5',nišu[people]N zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 6',dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 7',zaqāpu[fix-upright]V parāku[lie-across]V lū[may]MOD
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 8',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 9',išti[with]PRP Sin-naʾdi[1]PN māru[son]N māru[son]N māru[son]N buʾʾû[look-for]V
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 10',manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 11',ina[in]PRP burku[knee]N Ištar[1]DN āšibu[sitting]AJ Ninua[Nineveh]GN šakānu[put]V
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 12',sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Aššur[1]DN rakāsu[bind]V
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),o 13',harbakkannu[(a-kind-of-horse)]N ina[in]PRP šēpu[foot]N Nergal[1]DN erēbu[enter]V
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 1,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 2,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 3,šību[witness]N Bagagi[1]PN šību[witness]N Babilayu[1]PN šību[witness]N Urdu[1]PN
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 4,šību[witness]N Aššur-bessunu[1]PN gimru[totality]N ardu[slave]N ša-pān-ēkalli[palace-supervisor]N
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 5,šību[witness]N Lu-ki-Mama[1]PN šību[witness]N Dadi-iqbi[1]PN šību[witness]N Halmusu[1]PN
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 6,gimru[totality]N ardu[slave]N ša[of]DET rabû[big-one]N kakardinnu[victualler]N
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 7,šību[witness]N Ilu-balassu-iqbi[1]PN šību[witness]N Kinanni-Issar[1]PN
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 8,gimru[totality]N ardu[slave]N mašennu[(an-administrator)]N rabû[big]AJ
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 9,šību[witness]N Ṣil-Adad[1]PN ardu[slave]N ša[of]DET rabû[big-one]N karmu[heap]N
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 10,šību[witness]N Aqru[1]PN šāqû[butler]N māru[son]N Ninua[Nineveh]GN
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 11,šību[witness]N Aššur-ahhe-uṣur[1]PN šību[witness]N Libbalayu[1]PN
+saao/saa14/P335404,SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),SAA 14 215. Sin-na’id Buys an Estate (ADD 0464),r 12,šību[witness]N Urdu-Issar[1]PN ardu[slave]N ša[of]DET

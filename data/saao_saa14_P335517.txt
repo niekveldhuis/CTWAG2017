@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),o 1',Zizi[1]PN
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),o 4',eqlu[field]N
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),o 5',imēru[unit]N
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),o 6',ša[of]DET
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),o 7',nahallu[stream]N
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),r 1',šību[witness]N
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),r 2',šību[witness]N
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),r 3',šību[witness]N
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),r 4',šību[witness]N
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),r 5',šību[witness]N
+saao/saa14/P335517,SAA 14 312. Purchase of Land (ADD 0597),SAA 14 312. Purchase of Land (ADD 0597),r 6',šību[witness]N Nani[1]PN

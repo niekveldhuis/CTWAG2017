@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335476,SAA 14 285. (no title) (ADD 0545),SAA 14 285. (no title) (ADD 0545),2',siparru[bronze]N leqû[take]V
+saao/saa14/P335476,SAA 14 285. (no title) (ADD 0545),SAA 14 285. (no title) (ADD 0545),3',mannu[who?]QP ša[that]REL tadānu[give]V
+saao/saa14/P335476,SAA 14 285. (no title) (ADD 0545),SAA 14 285. (no title) (ADD 0545),4',awīlu[man]N aṣû[go-out]V šību[witness]N
+saao/saa14/P335476,SAA 14 285. (no title) (ADD 0545),SAA 14 285. (no title) (ADD 0545),5',šību[witness]N Ahu-lamur[1]PN
+saao/saa14/P335476,SAA 14 285. (no title) (ADD 0545),SAA 14 285. (no title) (ADD 0545),6',šību[witness]N Mardi[1]PN
+saao/saa14/P335476,SAA 14 285. (no title) (ADD 0545),SAA 14 285. (no title) (ADD 0545),r 1,šību[witness]N Ešerayu[1]PN
+saao/saa14/P335476,SAA 14 285. (no title) (ADD 0545),SAA 14 285. (no title) (ADD 0545),r 2,šību[witness]N Samiku[1]PN
+saao/saa14/P335476,SAA 14 285. (no title) (ADD 0545),SAA 14 285. (no title) (ADD 0545),r 3,šību[witness]N

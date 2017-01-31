@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335034,SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),o 1,kunukku[seal]N Kuluʾ-Issar[1]PN
+saao/saa14/P335034,SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),o 2,kunukku[seal]N Dayan-Kurbail[1]PN
+saao/saa14/P335034,SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),o 3,ištu[from]PRP libbu[interior]N
+saao/saa14/P335034,SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),o 4,šiqlu[unit]N ṣarpu[silver]N ša[of]DET Ištar[1]DN ša[of]DET Ninua[Nineveh]GN
+saao/saa14/P335034,SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),o 5,ša[of]DET Šep-Issar[1]PN
+saao/saa14/P335034,SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),r 1',šību[witness]N Urdu-Nabu[1]PN šību[witness]N Šep-Issar[1]PN
+saao/saa14/P335034,SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),SAA 14 121. Šep-Issar Lends 11 Shekels of Silver (*630-XI) (ADD 0082),r 2',šību[witness]N Issar-metu-balliṭ[1]PN šību[witness]N Kaššudu[1]PN

@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336033,SAA 14 389. (no title) (ADD 1276),SAA 14 389. (no title) (ADD 1276),o 1',ša[of]DET
+saao/saa14/P336033,SAA 14 389. (no title) (ADD 1276),SAA 14 389. (no title) (ADD 1276),o 3',ahu[brother]N
+saao/saa14/P336033,SAA 14 389. (no title) (ADD 1276),SAA 14 389. (no title) (ADD 1276),o 4',ana[to]PRP
+saao/saa14/P336033,SAA 14 389. (no title) (ADD 1276),SAA 14 389. (no title) (ADD 1276),r 1',arhu[month]N
+saao/saa14/P336033,SAA 14 389. (no title) (ADD 1276),SAA 14 389. (no title) (ADD 1276),r 2',šību[witness]N

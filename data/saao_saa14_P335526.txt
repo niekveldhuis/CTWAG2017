@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335526,SAA 14 319. Fragment of a Witness List (ADD 0608),SAA 14 319. Fragment of a Witness List (ADD 0608),o 1',šību[witness]N rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335526,SAA 14 319. Fragment of a Witness List (ADD 0608),SAA 14 319. Fragment of a Witness List (ADD 0608),o 2',šību[witness]N tašlīšu[third-man-on-chariot]N māru[son]N šarru[king]N
+saao/saa14/P335526,SAA 14 319. Fragment of a Witness List (ADD 0608),SAA 14 319. Fragment of a Witness List (ADD 0608),o 3',šību[witness]N tašlīšu[third-man-on-chariot]N mātu[land]N
+saao/saa14/P335526,SAA 14 319. Fragment of a Witness List (ADD 0608),SAA 14 319. Fragment of a Witness List (ADD 0608),o 4',šību[witness]N ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335526,SAA 14 319. Fragment of a Witness List (ADD 0608),SAA 14 319. Fragment of a Witness List (ADD 0608),r 1,šību[witness]N Aššur-šarru-uṣur[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335526,SAA 14 319. Fragment of a Witness List (ADD 0608),SAA 14 319. Fragment of a Witness List (ADD 0608),r 2,šību[witness]N Mannu-ki-ṣabi[1]PN ša[of]DET ēkallu[palace]N
+saao/saa14/P335526,SAA 14 319. Fragment of a Witness List (ADD 0608),SAA 14 319. Fragment of a Witness List (ADD 0608),r 3,šību[witness]N rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335526,SAA 14 319. Fragment of a Witness List (ADD 0608),SAA 14 319. Fragment of a Witness List (ADD 0608),r 5,šību[witness]N ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335526,SAA 14 319. Fragment of a Witness List (ADD 0608),SAA 14 319. Fragment of a Witness List (ADD 0608),r 6,šību[witness]N

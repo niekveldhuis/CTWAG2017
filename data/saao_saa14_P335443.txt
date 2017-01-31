@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335443,SAA 14 022. Ninuayu Buys Land and People (ADD 0505),SAA 14 022. Ninuayu Buys Land and People (ADD 0505),o 2',ištu[from]PRP pānu[front]N
+saao/saa14/P335443,SAA 14 022. Ninuayu Buys Land and People (ADD 0505),SAA 14 022. Ninuayu Buys Land and People (ADD 0505),o 3',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335443,SAA 14 022. Ninuayu Buys Land and People (ADD 0505),SAA 14 022. Ninuayu Buys Land and People (ADD 0505),o 4',eqlu[field]N nišu[people]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa14/P335443,SAA 14 022. Ninuayu Buys Land and People (ADD 0505),SAA 14 022. Ninuayu Buys Land and People (ADD 0505),o 5',leqû[taken]AJ
+saao/saa14/P335443,SAA 14 022. Ninuayu Buys Land and People (ADD 0505),SAA 14 022. Ninuayu Buys Land and People (ADD 0505),r 2',māru[son]N ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335443,SAA 14 022. Ninuayu Buys Land and People (ADD 0505),SAA 14 022. Ninuayu Buys Land and People (ADD 0505),r 3',išti[with]PRP Ninuayu[1]PN u[and]CNJ ahu[brother]N
+saao/saa14/P335443,SAA 14 022. Ninuayu Buys Land and People (ADD 0505),SAA 14 022. Ninuayu Buys Land and People (ADD 0505),r 4',buʾʾû[look-for]V mā[saying]PRP
+saao/saa14/P335443,SAA 14 022. Ninuayu Buys Land and People (ADD 0505),SAA 14 022. Ninuayu Buys Land and People (ADD 0505),r 6',manû[unit]N hurāṣu[gold]N ana[to]PRP

@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),2',ina[in]PRP libbu[interior]N ṣarpu[silver]N ištu[from]PRP pānu[front]N
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),3',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ amtu[maid]N
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),4',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),5',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),6',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),7',parāku[lie-across]V manû[unit]N ṣarpu[silver]N manû[unit]N
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),8',hurāṣu[gold]N ina[in]PRP burku[knee]N Sin[1]DN šakānu[put]V
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),9',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),b.e. 10',târu[turn]V ina[in]PRP lā[not]MOD dīnu[legal-decision]N
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),b.e. 11',dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),r 2,bītu[house]N
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),r 3,šību[witness]N Gir-Dadi[1]PN
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),r 4,šību[witness]N Nušku-iddina[1]PN
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),r 5,šību[witness]N Sin-belu-uṣur[1]PN
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),r 6,šību[witness]N
+saao/saa14/P335166,SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),SAA 14 241. [...]-iddin Buys a Woman (ADD 0219),r 7,šību[witness]N mukillu[holder]N appatu[bridle]N

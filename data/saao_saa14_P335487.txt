@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335487,SAA 14 293. Fragment of a Conveyance Text (ADD 0558),SAA 14 293. Fragment of a Conveyance Text (ADD 0558),2',zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335487,SAA 14 293. Fragment of a Conveyance Text (ADD 0558),SAA 14 293. Fragment of a Conveyance Text (ADD 0558),3',târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335487,SAA 14 293. Fragment of a Conveyance Text (ADD 0558),SAA 14 293. Fragment of a Conveyance Text (ADD 0558),4',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335487,SAA 14 293. Fragment of a Conveyance Text (ADD 0558),SAA 14 293. Fragment of a Conveyance Text (ADD 0558),5',mannu[who?]QP ša[that]REL parāku[lie-across]V

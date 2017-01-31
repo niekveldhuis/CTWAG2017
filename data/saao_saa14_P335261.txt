@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335261,SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),o 1',Šamaš-ilaʾi[1]PN māru[son]N rūṭu[unit]N
+saao/saa14/P335261,SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),o 2',Useaʾ[1]PN māru[son]N rūṭu[unit]N
+saao/saa14/P335261,SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),o 3',pirsu[weaned]AJ Baʾassi[1]PN mārtu[daughter]N
+saao/saa14/P335261,SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),o 4',gimru[totality]N napištu[throat]N ardu[slave]N
+saao/saa14/P335261,SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),o 5',ša[of]DET Marduk-remanni[1]PN epēšu[do]V
+saao/saa14/P335261,SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),o 6',Milki-nuri[1]PN ša-rēši[eunuch]N ša[of]DET sinništu[woman]N ēkallu[palace]N
+saao/saa14/P335261,SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),SAA 14 005. Milki-nuri Buys Six Slaves (ADD 0316),o 7',ištu[from]PRP pānu[front]N Marduk-remanni[1]PN

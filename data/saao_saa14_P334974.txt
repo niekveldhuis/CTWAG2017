@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),o 2,ša[of]DET Ululayu[1]PN
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),o 3,ša[of]DET Apladad-naʾdi[1]PN
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),o 4,ina[in]PRP šību[witness]N Ṣanṣuru[1]PN
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),o 5,māru[son]N Sin-naʾdi[1]PN
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),r 1,ina[in]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),r 2,Simanu[Sivan]MN līmu[eponym-(of-year)]N
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),r 3,Marduk-remanni[1]PN
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),r 4,šaknu[appointee]N mātu[land]N Kilizi[1]GN
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),r 5,šību[witness]N Qiti-ilani[1]PN
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),r 6,šību[witness]N Saka-il[1]PN
+saao/saa14/P334974,SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),SAA 14 158. Ululayu and Apladad-na’di Lend Silver (*626-III) (ADD 0022),r 7,šību[witness]N Nani[1]PN

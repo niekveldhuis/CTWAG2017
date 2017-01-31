@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),o 3',ša[of]DET
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),o 4',mesû[washed]AJ
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),o 6',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),r 1,ina[in]PRP burku[knee]N Ištar[1]DN ša[of]DET Ninua[Nineveh]GN
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),r 2,šakānu[put]V
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),r 3,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),r 4,ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),r 5,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),r 6,šību[witness]N rabû[big-one]N kiṣru[knot]N ša[of]DET sinništu[woman]N ēkallu[palace]N
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),r 7,šību[witness]N Nabu-naʾid[1]PN
+saao/saa06/P335515,SAA 06 165. (no title) (ADD 0594),SAA 06 165. (no title) (ADD 0594),r 8,šību[witness]N Banunu[1]PN

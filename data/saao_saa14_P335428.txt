@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335428,SAA 14 268. Fragment of a Conveyance Text (ADD 0490),SAA 14 268. Fragment of a Conveyance Text (ADD 0490),o 1',eqlu[field]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335428,SAA 14 268. Fragment of a Conveyance Text (ADD 0490),SAA 14 268. Fragment of a Conveyance Text (ADD 0490),o 2',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335428,SAA 14 268. Fragment of a Conveyance Text (ADD 0490),SAA 14 268. Fragment of a Conveyance Text (ADD 0490),o 3',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335428,SAA 14 268. Fragment of a Conveyance Text (ADD 0490),SAA 14 268. Fragment of a Conveyance Text (ADD 0490),o 4',lū[may]MOD Ahi-yaqar[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335428,SAA 14 268. Fragment of a Conveyance Text (ADD 0490),SAA 14 268. Fragment of a Conveyance Text (ADD 0490),o 5',lū[may]MOD māru[son]N māru[son]N lū[may]MOD
+saao/saa14/P335428,SAA 14 268. Fragment of a Conveyance Text (ADD 0490),SAA 14 268. Fragment of a Conveyance Text (ADD 0490),o 6',ša[that]REL dīnu[legal-decision]N išti[with]PRP

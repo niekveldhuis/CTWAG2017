@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335522,SAA 14 315. Fragment of a Witness List (ADD 0604),SAA 14 315. Fragment of a Witness List (ADD 0604),r 1',šību[witness]N La-qepu[1]PN ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335522,SAA 14 315. Fragment of a Witness List (ADD 0604),SAA 14 315. Fragment of a Witness List (ADD 0604),r 2',šību[witness]N ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335522,SAA 14 315. Fragment of a Witness List (ADD 0604),SAA 14 315. Fragment of a Witness List (ADD 0604),r 3',šību[witness]N tašlīšu[third-man-on-chariot]N
+saao/saa14/P335522,SAA 14 315. Fragment of a Witness List (ADD 0604),SAA 14 315. Fragment of a Witness List (ADD 0604),r 4',šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa14/P335522,SAA 14 315. Fragment of a Witness List (ADD 0604),SAA 14 315. Fragment of a Witness List (ADD 0604),r 5',šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa14/P335522,SAA 14 315. Fragment of a Witness List (ADD 0604),SAA 14 315. Fragment of a Witness List (ADD 0604),r 6',šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa14/P335522,SAA 14 315. Fragment of a Witness List (ADD 0604),SAA 14 315. Fragment of a Witness List (ADD 0604),r 7',šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa14/P335522,SAA 14 315. Fragment of a Witness List (ADD 0604),SAA 14 315. Fragment of a Witness List (ADD 0604),r 8',šību[witness]N Ninua[Nineveh]GN

@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335132,SAA 14 018. Ninuayu Buys a Slave (ADD 0182),SAA 14 018. Ninuayu Buys a Slave (ADD 0182),o 1,kunukku[seal]N Isputu[1]PN māru[son]N Musallamu[1]PN
+saao/saa14/P335132,SAA 14 018. Ninuayu Buys a Slave (ADD 0182),SAA 14 018. Ninuayu Buys a Slave (ADD 0182),o 2,nukaribbu[gardener]N ša[of]DET ēkallu[palace]N bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa14/P335132,SAA 14 018. Ninuayu Buys a Slave (ADD 0182),SAA 14 018. Ninuayu Buys a Slave (ADD 0182),o 3,Šamaš-ilaʾi[1]PN ša-šīmi[man-bought]N ardu[slave]N
+saao/saa14/P335132,SAA 14 018. Ninuayu Buys a Slave (ADD 0182),SAA 14 018. Ninuayu Buys a Slave (ADD 0182),o 4,ša[of]DET Isputu[1]PN nukaribbu[gardener]N ša[of]DET ēkallu[palace]N
+saao/saa14/P335132,SAA 14 018. Ninuayu Buys a Slave (ADD 0182),SAA 14 018. Ninuayu Buys a Slave (ADD 0182),o 5,epēšu[do]V Ninuayu[1]PN ša-rēš-šarri[royal-eunuch]N
+saao/saa14/P335132,SAA 14 018. Ninuayu Buys a Slave (ADD 0182),SAA 14 018. Ninuayu Buys a Slave (ADD 0182),o 6,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET Gargamis[Carchemish]GN
+saao/saa14/P335132,SAA 14 018. Ninuayu Buys a Slave (ADD 0182),SAA 14 018. Ninuayu Buys a Slave (ADD 0182),o 7,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335132,SAA 14 018. Ninuayu Buys a Slave (ADD 0182),SAA 14 018. Ninuayu Buys a Slave (ADD 0182),o 8,awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ târu[turn]V

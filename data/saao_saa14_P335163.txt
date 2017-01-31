@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),o 1',šangû[priest]N ša[of]DET Bel[1]DN
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),o 2',ištu[from]PRP pānu[front]N Sin-belu-uṣur[1]PN
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),o 3',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),o 4',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),o 5',sinništu[woman]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),o 6',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),o 7',ša[that]REL nabalkutu[cross-over]V
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),o 8',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),b.e. 9',ina[in]PRP Ištar[1]DN ša[of]DET Ninua[Nineveh]GN
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),b.e. 10',tadānu[give]V
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),r 1,kaspu[silver]N ina[in]PRP ešriātu[tenfold]AV ina[in]PRP bēlu[lord]N
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),r 2,târu[turn]V
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),r 3,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),r 4,šību[witness]N Adad-šumu-uṣur[1]PN
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),r 5,ardu[slave]N ša[of]DET rabû[big-one]N ša-rēši[eunuch]N
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),r 6,šību[witness]N Hana-Seʾ[1]PN
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),r 7,ṣāripu[dyer]N dušû[untanned-leather]N
+saao/saa14/P335163,SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),SAA 14 472. Priest of Bel Buys a Woman (ADD 0216),e. 1,manû[unit]N erû[copper]N ša[of]DET ṣupru[nail]N

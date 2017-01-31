@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336030,SAA 14 387. Silver Loan (ADD 1273),SAA 14 387. Silver Loan (ADD 1273),1',ina[in]PRP šiqlu[unit]N rabû[to-be-big]V
+saao/saa14/P336030,SAA 14 387. Silver Loan (ADD 1273),SAA 14 387. Silver Loan (ADD 1273),b.e. 2',Tašritu[Tishri]MN ūmu[day]N
+saao/saa14/P336030,SAA 14 387. Silver Loan (ADD 1273),SAA 14 387. Silver Loan (ADD 1273),b.e. 3',līmu[eponym-(of-year)]N

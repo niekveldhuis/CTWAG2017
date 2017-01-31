@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224977,SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),r 2',pīhātu[responsibility]N ālu[city]N lū[may]MOD
+saao/saa14/P224977,SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),r 3',lū[may]MOD ṭupšarru[scribe]N ālu[city]N lū[may]MOD
+saao/saa14/P224977,SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),r 4',ša[that]REL dīnu[legal-decision]N dabābu[speak]V išti[with]PRP
+saao/saa14/P224977,SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),r 5',išti[with]PRP māru[son]N išti[with]PRP māru[son]N māru[son]N
+saao/saa14/P224977,SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),r 6',buʾʾû[look-for]V
+saao/saa14/P224977,SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),r 7',manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P224977,SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),r 8',sisû[horse]N peṣû[white]AJ ana[to]PRP
+saao/saa14/P224977,SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),r 9',tadānu[give]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P224977,SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),SAA 14 461. Fragment of a Conveyance Text (TIM 11 34),r 10',ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP lā[not]MOD dīnu[legal-decision]N

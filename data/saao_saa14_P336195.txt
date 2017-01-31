@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),o 1,kunukku[seal]N Abdi-Sikuni[1]PN
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),o 2,Ṣidunaya[Sidonite]EN ša[of]DET qātu[hand]N
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),o 3,šaknu[appointee]N bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),o 4,bītu[house]N
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),o 6,bītu[house]N
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r 1',ina[in]PRP lā[not]MOD dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r 2',šību[witness]N Mušezib-Aššur[1]PN
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r 3',šību[witness]N Udia[1]PN
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r 4',šību[witness]N
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r 5',šību[witness]N Dadi[1]PN šību[witness]N
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r 6',šību[witness]N Sabuʾ[1]PN šību[witness]N
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r 7',šību[witness]N Ṭabi[1]PN šību[witness]N
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r 8',šību[witness]N Idrunu[1]PN
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r 9',šību[witness]N
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r.e. 10,šību[witness]N
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r.e. 11,šību[witness]N Kanunayu[1]PN
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),r.e. 12,šību[witness]N Šep-Issar-aṣbat[1]PN
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),e. 1,Šabaṭu[Shebat]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P336195,SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),SAA 14 167. Purchase of a House (*620-XI-17) (Iraq 32 09),e. 2,šību[witness]N Aduni-Baʾal[1]PN

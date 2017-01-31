@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),5',Gallulu[1]PN
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),6',Ubru-ahhe[1]PN
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),7',Šamaš-naṣir[1]PN
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),8',Eriba-ilani[1]PN
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),9',Ahuni[1]PN
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),r 1,Qurdi-Issar[1]PN
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),r 2,Kubabu-ahu-iddina[1]PN
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),r 3,Kubabu-ilaʾi[1]PN
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),r 4,ša[of]DET Bahianu[1]PN ina[in]PRP pānu[front]N
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),r 5,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P335089,SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),SAA 06 078. 12 Persons Borrow Barley from Bahianu (ADD 0138),r 6,Nisannu[Nisan]MN

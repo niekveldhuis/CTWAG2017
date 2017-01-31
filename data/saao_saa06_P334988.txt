@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334988,SAA 06 175. Mušallim-ilu Loans Silver (685) (ADD 0036),SAA 06 175. Mušallim-ilu Loans Silver (685) (ADD 0036),o 1,kunukku[seal]N Yadiʾ-il[1]PN manû[unit]N
+saao/saa06/P334988,SAA 06 175. Mušallim-ilu Loans Silver (685) (ADD 0036),SAA 06 175. Mušallim-ilu Loans Silver (685) (ADD 0036),o 2,ṣarpu[silver]N qaqqadu[head]N ša[of]DET Mušallim-ilu[1]PN

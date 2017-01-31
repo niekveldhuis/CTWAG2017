@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335093,SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa06/P335093,SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),o 2,ša[of]DET Bahianu[1]PN
+saao/saa06/P335093,SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),r 1,Simanu[Sivan]MN ūmu[day]N
+saao/saa06/P335093,SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),r 2,līmu[eponym-(of-year)]N Manzarne[1]PN
+saao/saa06/P335093,SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),r 3,šību[witness]N Sin-ahu-iddina[1]PN
+saao/saa06/P335093,SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),r 4,šību[witness]N Nanaya[1]PN
+saao/saa06/P335093,SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),SAA 06 073. Bahianu Loans 10 Homers of Barley (684-III-21) (ADD 0142),e. 1,šību[witness]N Dandaru[1]PN

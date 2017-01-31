@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),o 2',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),o 3',nišu[people]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),o 4',târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),o 5',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL urkiš[later]AV
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),o 6',ina[in]PRP arkû[rear]AJ ūmu[day]N elû[go-up]V
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),b.e. 7',lū[may]MOD šanû[second]NU
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),b.e. 8',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),b.e. 9',lū[may]MOD pīhātu[responsibility]N ša[of]DET Arrapha[1]GN
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 1,ša[that]REL elû[go-up]V išti[with]PRP Sin-remanni[1]PN
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 2,māru[son]N māru[son]N māru[son]N dīnu[legal-decision]N
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 3,dabābu[speak]V gerû[be(come)-hostile-to]V mā[saying]PRP
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 4,kaspu[silver]N lā[not]MOD gammuru[finished]AJ lā[not]MOD tadnu[given]AJ
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 5,mā[saying]PRP šuāti[him]IP lā[not]MOD tadnu[given]AJ
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 6,manû[unit]N ṣarpu[silver]N ina[in]PRP burku[knee]N Ištar[1]DN
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 7,ša[of]DET Ninua[Nineveh]GN šakānu[put]V
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 8,manû[unit]N hurāṣu[gold]N sakru[refined]AJ ina[in]PRP burku[knee]N
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 9,Inurta[1]DN šakānu[put]V
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 10,šību[witness]N Šarru-emuranni[1]PN ša-qurbūti[close-follower]N
+saao/saa06/P335444,SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),SAA 06 185. Sin-remanni Buys Slaves (ADD 0506),r 11,šību[witness]N Šulmu-beli-lašme[1]PN tašlīšu[third-man-on-chariot]N

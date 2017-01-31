@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335650,SAA 06 231. (no title) (ADD 0798),SAA 06 231. (no title) (ADD 0798),o 1',šību[witness]N
+saao/saa06/P335650,SAA 06 231. (no title) (ADD 0798),SAA 06 231. (no title) (ADD 0798),o 2',šību[witness]N
+saao/saa06/P335650,SAA 06 231. (no title) (ADD 0798),SAA 06 231. (no title) (ADD 0798),o 3',šību[witness]N Salam-ammi[1]PN
+saao/saa06/P335650,SAA 06 231. (no title) (ADD 0798),SAA 06 231. (no title) (ADD 0798),o 4',šību[witness]N Nušku-ilaʾi[1]PN

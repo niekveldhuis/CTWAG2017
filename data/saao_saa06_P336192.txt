@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),o 1,kunukku[seal]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),o 3,ša[of]DET bēlu[lord]N eqlu[field]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),o 4,bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),o 5,ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),o 6,ina[in]PRP mazrūtu[(area-or-state-of)-cultivation]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),o 7,ṭāhu[adjacent-to]PRP Gudaʾu[1]PN
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),o 8,ṭāhu[adjacent-to]PRP Daniati-il[1]PN
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),o 9,ṭāhu[adjacent-to]PRP Qarraha[1]PN
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),o 10,ṭāhu[adjacent-to]PRP Šamaš-banuʾa[1]PN
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 1',manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 2',tadānu[give]V kaspu[silver]N šalāšiu[third]NU
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 3',ana[to]PRP bēlu[lord]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 4',târu[turn]V
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 5',šību[witness]N Nur-Adad[1]PN
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 6',šību[witness]N Gudaʾu[1]PN
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 7',šību[witness]N Danyatiʾil[1]PN
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 8',šību[witness]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 9',šību[witness]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 10',šību[witness]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 11',šību[witness]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 12',šību[witness]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r 13',šību[witness]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r.e. 14,šību[witness]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),r.e. 15,šību[witness]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),e. 1,šību[witness]N Nabu-raʾim-ketti[1]PN ṭupšarru[scribe]N
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),e. 2,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N Nabu-ahu-ereš[1]PN
+saao/saa06/P336192,SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),SAA 06 194. Purchase of Land (681-II-13) (Iraq 32 06),e. 3,ša[of]DET Samʾalla[Zincirli]GN

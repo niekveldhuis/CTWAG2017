@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),o 2,bēlu[lord]N eqlu[field]N
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),o 3,bītu[house]N qû[unit]N kussû[chair]N
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),o 4,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Adad-šarru-uṣur[1]PN
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),o 5,ṭāhu[adjacent-to]PRP Saniti[1]WN
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),o 6,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),o 7,ṭāhu[adjacent-to]PRP
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),o 8,bītu[house]N qû[unit]N ina[in]PRP birti[between]PRP
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),o 9,nāru[river]N ina[in]PRP libbu[interior]N
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),o 10,ṭāhu[adjacent-to]PRP
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),o 11,ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),r 1,epēšu[do]V
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),r 10,ṣarpu[silver]N ina[in]PRP muhhu[skull]N tarammu[grain-heap]N
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),r 11,šakānu[put]V eqlu[field]N aṣû[go-out]V
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),r 12,arhu[month]N ūmu[day]N
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),r 13,līmu[eponym-(of-year)]N
+saao/saa14/P335527,SAA 14 320. Purchase of Land (ADD 0610),SAA 14 320. Purchase of Land (ADD 0610),e. 1,ṭupšarru[scribe]N

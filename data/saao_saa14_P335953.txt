@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335953,SAA 14 347. Purchase of a Man (ADD 1172),SAA 14 347. Purchase of a Man (ADD 1172),o 1,kunukku[seal]N
+saao/saa14/P335953,SAA 14 347. Purchase of a Man (ADD 1172),SAA 14 347. Purchase of a Man (ADD 1172),o 2,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa14/P335953,SAA 14 347. Purchase of a Man (ADD 1172),SAA 14 347. Purchase of a Man (ADD 1172),o 3,ardu[slave]N Zakiru[1]PN
+saao/saa14/P335953,SAA 14 347. Purchase of a Man (ADD 1172),SAA 14 347. Purchase of a Man (ADD 1172),o 4,ša-pān-ēkalli[palace-supervisor]N
+saao/saa14/P335953,SAA 14 347. Purchase of a Man (ADD 1172),SAA 14 347. Purchase of a Man (ADD 1172),o 5,ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335953,SAA 14 347. Purchase of a Man (ADD 1172),SAA 14 347. Purchase of a Man (ADD 1172),o 6,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335953,SAA 14 347. Purchase of a Man (ADD 1172),SAA 14 347. Purchase of a Man (ADD 1172),o 7,tadnu[given]AJ awīlu[man]N šuāti[him]IP
+saao/saa14/P335953,SAA 14 347. Purchase of a Man (ADD 1172),SAA 14 347. Purchase of a Man (ADD 1172),r 1',šību[witness]N
+saao/saa14/P335953,SAA 14 347. Purchase of a Man (ADD 1172),SAA 14 347. Purchase of a Man (ADD 1172),r 2',šību[witness]N ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335953,SAA 14 347. Purchase of a Man (ADD 1172),SAA 14 347. Purchase of a Man (ADD 1172),e. 2,arhu[month]N ūmu[day]N

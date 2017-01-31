@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),o 1',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),o 2',nišu[people]N
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),o 3',leqû[taken]AJ
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),r 1,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),r 2,lā[not]MOD leqû[take]V
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),r 3,šību[witness]N Nabuʾa[1]PN
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),r 4,šību[witness]N Nabu-leʾi[1]PN
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),r 5,šību[witness]N Bel-aplu-iddina[1]PN
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),r 6,šību[witness]N Attar-suri[1]PN
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),r 7,šību[witness]N Arbailayu[1]PN
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),r 8,šību[witness]N Mannu-ki-ahi[1]PN
+saao/saa14/P335236,SAA 14 245. Purchase of Slaves (ADD 0291),SAA 14 245. Purchase of Slaves (ADD 0291),r 9,šību[witness]N Urda-Inurta[1]PN

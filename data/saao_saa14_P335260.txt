@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),o 1',Nabu-ramat[1]PN amtu[maid]N
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),o 2',rūṭu[unit]N epēšu[do]V
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),o 3',Urkittu-tašmanni[1]PN ina[in]PRP libbu[interior]N
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),o 4',šiqlu[unit]N ṣarpu[silver]N ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),o 5',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),o 6',ṣehhertu[young-girl]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),o 7',târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),o 8',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),o 9',ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),r 1',šību[witness]N
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),r 2',šību[witness]N
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),r 3',šību[witness]N
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),r 4',šību[witness]N Inurta-taklak[1]PN atû[gatekeeper]N
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),r 5',šību[witness]N Nabuʾa[1]PN ṭupšarru[scribe]N
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),r 6',Šabaṭu[Shebat]MN ūmu[day]N
+saao/saa14/P335260,SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),SAA 14 010. The Lady Urkittu-tašmanni Buys a Girl (667-XI-2) (ADD 0315),r 7',līmu[eponym-(of-year)]N Gabbaru[1]PN

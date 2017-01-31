@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),o 1,kunukku[seal]N Minu-ahṭi-ana-ili[1]PN
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),o 2,šiqlu[unit]N ṣarpu[silver]N ša[of]DET Silim-Aššur[1]PN
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),o 3,ina[in]PRP pānu[front]N kūm[instead-of]PRP Puṭupyati[1]PN
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),o 4,Minu-ahṭi-ana-ili[1]PN ṣarpu[silver]N
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),o 5,ana[to]PRP Silim-Aššur[1]PN tadānu[give]V
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),o 6,šumma[if]MOD Puṭupyati[1]PN
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),b.e. 7,ṣarpu[silver]N lā[not]MOD tadānu[give]V
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),r 1,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N Šulmu-beli-lašme[1]PN
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),r 2,šību[witness]N Mannu-ki-ṣabi[1]PN
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),r 3,šību[witness]N Eriba-Adad[1]PN šību[witness]N Šulmu-ahhe[1]PN
+saao/saa06/P335050,SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),SAA 06 236. Silim-Aššur Loans 10 Shekels of Silver (670-II-10) (ADD 0099),r 4,šību[witness]N Aya-suri[1]PN

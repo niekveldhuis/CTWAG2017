@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334982,SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),o 2,ša[of]DET Šumma-ilani[1]PN
+saao/saa06/P334982,SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),o 3,ina[in]PRP pānu[front]N Ninuayu[1]PN
+saao/saa06/P334982,SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),o 4,šiqlu[unit]N ṣarpu[silver]N ša[of]DET arhu[month]N rubbû[increase]N
+saao/saa06/P334982,SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),o 5,Tašritu[Tishri]MN ūmu[day]N
+saao/saa06/P334982,SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),b.e. 6,līmu[eponym-(of-year)]N Nabu-ahu-ereš[1]PN
+saao/saa06/P334982,SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),b.e. 7,šību[witness]N Hanin-Aya[1]PN
+saao/saa06/P334982,SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),r 1,šību[witness]N Illuknu[1]PN
+saao/saa06/P334982,SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),r 2,šību[witness]N Huhabašu[1]PN
+saao/saa06/P334982,SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),SAA 06 047. Note of Silver Owed to Šumma-ilani (681-VII-4) (ADD 0030),r 3,šību[witness]N Mahsi-Yau[1]PN

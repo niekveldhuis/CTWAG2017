@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 1',aplu[heir]N
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 2',rabû[big]AJ ana[to]PRP hamru[holy-place-(of-Adad;-Assur)]N Adad[1]DN qalû[roast]V
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 3',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 4',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 5',šību[witness]N Abda[1]PN ša-rēši[eunuch]N ša-pān-bīt-ili[temple-supervisor]N
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 6',šību[witness]N Ahu-eriba[1]PN rabû[big-one]N ēkallu[palace]N
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 7',šību[witness]N Marduk-šallim-ahhe[1]PN ṭupšarru[scribe]N bītu[house]N ilu[god]N
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 8',šību[witness]N Nabu-šezibanni[1]PN ša-muhhi-bīt-šarri[overseer-of-the-royal-residence]N
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 9',šību[witness]N Nabu-gamil[1]PN ša-rēši[eunuch]N ša[of]DET bītu[house]N kimahhu[grave]N
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 10',šību[witness]N Šulmu-šarri[1]PN ša-rēši[eunuch]N šanîš[otherwise]AV
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 11',šību[witness]N Šulmu-šarri[1]PN rabû[big-one]N sikkatu[peg]N
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 12',šību[witness]N Mutakkil-Aššur[1]PN sīrāšû[brewer]N
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 13',šību[witness]N Urdu-Nanaya[1]PN šangû[priest]N ša[of]DET Šamaš[1]DN
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 14',šību[witness]N Aššur-isseʾa[1]PN ša-rēši[eunuch]N ša[of]DET
+saao/saa14/P335654,SAA 14 062. (no title) (ADD 0805),SAA 14 062. (no title) (ADD 0805),r 15',šību[witness]N Kunaya[1]PN ša-rēši[eunuch]N ša[of]DET

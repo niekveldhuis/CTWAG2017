@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335513,SAA 14 310. (no title) (ADD 0591),SAA 14 310. (no title) (ADD 0591),r 2',mukillu[holder]N appatu[bridle]N
+saao/saa14/P335513,SAA 14 310. (no title) (ADD 0591),SAA 14 310. (no title) (ADD 0591),r 3',ēkallu[palace]N
+saao/saa14/P335513,SAA 14 310. (no title) (ADD 0591),SAA 14 310. (no title) (ADD 0591),r 4',šušānu[horse-trainer]N šarru[king]N
+saao/saa14/P335513,SAA 14 310. (no title) (ADD 0591),SAA 14 310. (no title) (ADD 0591),r 5',ša[of]DET māru[son]N šarru[king]N

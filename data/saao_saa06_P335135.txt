@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),o 1,kunukku[seal]N Šamaš-ilaʾi[1]PN
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),o 2,ša[of]DET Dur-Šarruken[1]GN bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 1,manû[unit]N hurāṣu[gold]N ina[in]PRP burku[knee]N Ištar[1]DN Ninua[Nineveh]GN
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 2,šakānu[put]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 3,târu[turn]V
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 4,šību[witness]N Uarbisi[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 5,šību[witness]N Šamaš-šarru-uṣur[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 6,šību[witness]N Sakkannu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 7,šību[witness]N Nabu-šezib[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 8,šību[witness]N Nabu-eriba[1]PN šanû[second]NU ša[of]DET
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 9,šību[witness]N Mannu-ki-Harran[1]PN šušānu[horse-trainer]N ša-pattūti[open-chariot]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 10,šību[witness]N Ilu-mušezib[1]PN šušānu[horse-trainer]N ša-pattūti[open-chariot]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 11,šību[witness]N Dari-šarru[1]PN šušānu[horse-trainer]N ša-pattūti[open-chariot]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 12,šību[witness]N Abu-ul-idi[1]PN ṭupšarru[scribe]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 13,ṣābitu[recipient]N dannutu[binding-document]N šuāti[him]IP
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 14,šību[witness]N Issar-duri[1]PN ṭupšarru[scribe]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 15,šību[witness]N Saʾiru[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 16,šību[witness]N Seʾ-dala[1]PN šušānu[horse-trainer]N ša-pattūti[open-chariot]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 17,Addaru[Adar]MN ūmu[day]N
+saao/saa06/P335135,SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),SAA 06 310. Remanni-Adad Buys a Slave (667-XII-16) (ADD 0185),r 18,līmu[eponym-(of-year)]N Gabbaru[1]PN

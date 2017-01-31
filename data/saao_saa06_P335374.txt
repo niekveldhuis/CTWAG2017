@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),o 1,kunukku[seal]N māru[son]N Marduk-ereš[1]PN
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),o 2,bēlu[lord]N eqlu[field]N bītu[house]N kirû[garden]N nišu[people]N tadānu[give]V
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),o 3,bītu[house]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 1',šību[witness]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 2',šību[witness]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 3',šību[witness]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 4',šību[witness]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 5',šību[witness]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 6',šību[witness]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 7',gimru[totality]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 8',šību[witness]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 9',šību[witness]N Nabu-taklak[1]PN
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 10',šību[witness]N šarru[king]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 11',šību[witness]N Aššur-šarru-uṣur[1]PN
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 12',šību[witness]N
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 13',šību[witness]N Nabu-šezib[1]PN Arrapha[1]GN
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 14',šību[witness]N Azi-il[1]PN
+saao/saa06/P335374,SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),SAA 06 280. A Fragmentary Estate Sale (673-I) (ADD 0431),r 15',Nisannu[Nisan]MN ūmu[day]N līmu[eponym-(of-year)]N Atar-ili[1]PN

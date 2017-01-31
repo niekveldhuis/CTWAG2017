@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335472,SAA 14 282. Fragment of a Conveyance Text (ADD 0538),SAA 14 282. Fragment of a Conveyance Text (ADD 0538),r 1',lā[not]MOD leqû[take]V
+saao/saa14/P335472,SAA 14 282. Fragment of a Conveyance Text (ADD 0538),SAA 14 282. Fragment of a Conveyance Text (ADD 0538),r 2',šību[witness]N šību[witness]N Ah-abu[1]PN
+saao/saa14/P335472,SAA 14 282. Fragment of a Conveyance Text (ADD 0538),SAA 14 282. Fragment of a Conveyance Text (ADD 0538),r 3',šību[witness]N

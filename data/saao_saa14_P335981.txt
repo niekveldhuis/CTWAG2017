@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335981,SAA 14 478. Fragment of a Witness List (ADD 1201),SAA 14 478. Fragment of a Witness List (ADD 1201),r 3',šību[witness]N
+saao/saa14/P335981,SAA 14 478. Fragment of a Witness List (ADD 1201),SAA 14 478. Fragment of a Witness List (ADD 1201),r 4',šību[witness]N Ahu-la-amašši[1]PN
+saao/saa14/P335981,SAA 14 478. Fragment of a Witness List (ADD 1201),SAA 14 478. Fragment of a Witness List (ADD 1201),r 5',šību[witness]N
+saao/saa14/P335981,SAA 14 478. Fragment of a Witness List (ADD 1201),SAA 14 478. Fragment of a Witness List (ADD 1201),r 6',šību[witness]N Nergal-šarru-uṣur[1]PN

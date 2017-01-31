@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),o 2,ša[of]DET Kiṣir-Aššur[1]PN
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),o 3,ina[in]PRP pānu[front]N Nargi[1]PN
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),o 4,māru[son]N Šamaš-naʾdi[1]PN
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),o 5,ištu[from]PRP libbu[interior]N Issete[1]GN
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),o 6,ina[in]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),b.e. 7,Tašritu[Tishri]MN ūmu[day]N
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),b.e. 8,līmu[eponym-(of-year)]N Aššur-matu-taqqin[1]PN
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),r 1,šību[witness]N Bel-ilani-mannu[1]PN
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),r 2,šību[witness]N Ṭab-šar-Arbail[1]PN
+saao/saa14/P334975,SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),SAA 14 031. Kiṣir-Aššur Lends Eight Shekels of Silver (*623-VII-21) (ADD 0023),r 3,šību[witness]N Mukin-Aššur[1]PN

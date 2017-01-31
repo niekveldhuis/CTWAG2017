@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),o 1',qû[unit]N sūtu[unit]N erû[copper]N
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),o 3',eqlu[field]N ša[of]DET Aššur-zeru-ibni[1]PN
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),o 4',epēšu[do]V Ahu-la-amašši[1]PN šušānu[horse-trainer]N
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),o 5',ištu[from]PRP ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),o 6',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadānu[give]V
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),o 7',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),o 8',târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),o 9',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),o 10',lū[may]MOD lū[may]MOD māru[son]N
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),o 11',lū[may]MOD māru[son]N ahu[brother]N
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),r 1,ša[that]REL išti[with]PRP Ahu-la-amašši[1]PN māru[son]N
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),r 2,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),r 3,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N ana[to]PRP Aššur[1]DN tadānu[give]V
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),r 4,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),r 5,târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),r 6,lā[not]MOD leqû[take]V
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),r 7,šību[witness]N šību[witness]N Aššur-zeru-ibni[1]PN
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),r 8,šību[witness]N šību[witness]N Marduk-šimanni[1]PN
+saao/saa14/P335457,SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),SAA 14 474. Ahu-la-amašši Buys Land (ADD 0520),r 9,šību[witness]N šību[witness]N

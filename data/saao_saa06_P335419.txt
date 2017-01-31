@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),o 1',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),o 2',nišu[people]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),o 3',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),o 4',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ana[to]PRP matīma[ever]AV
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),o 5',lū[may]MOD Balaṭu-ereš[1]PN lū[may]MOD māru[son]N
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),o 6',lū[may]MOD ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),o 7',išti[with]PRP Mušallim-Issar[1]PN buʾʾû[look-for]V
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),o 8',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),b.e. 9',ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),r 1,ana[to]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),r 2,lā[not]MOD leqû[take]V
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),r 3,šību[witness]N Issar-aplu-iddina[1]PN māru[son]N
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),r 4,šību[witness]N Ebissi-šarri[1]PN
+saao/saa06/P335419,SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),SAA 06 008. Mušallim-Issar Buys Slaves (ADD 0480),r 5,mukillu[holder]N appatu[bridle]N

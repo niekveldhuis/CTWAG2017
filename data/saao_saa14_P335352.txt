@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),o 2',gabdi[adjoining-to]PRP eqlu[field]N
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),o 3',mūṣû[exit]N
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),o 4',gabdi[adjoining-to]PRP kirû[garden]N ša[of]DET Ahu-ittabši[1]PN
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),o 5',ša[of]DET Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),o 7',adru[threshing-floor]N eqlu[field]N
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),o 8',tabriu[fodder-crop]N ina[in]PRP Kapar-Maṣi-ilu[1]GN
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),o 9',epēšu[do]V Remut-Adad[1]PN
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),b.e. 10',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),b.e. 11',ṣarpu[silver]N ša[of]DET kunukku[seal]N
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),r 1,ištu[from]PRP pānu[front]N leqû[take]V
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),r 2,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),r 3,bītu[house]N adru[threshing-floor]N
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),r 4,kannu[(vessel-)stand]N tabriu[fodder-crop]N
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),r 5,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P335352,SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),SAA 14 211. Remut-Adad Buys Land in the Village of Maṣi-ilu (ADD 0409),r 6,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV

@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),o 1',gimru[totality]N
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),o 2',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),o 3',zaqāpu[fix-upright]V dīnu[legal-decision]N
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),o 4',dabābu[speak]V išti[with]PRP
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),o 5',māru[son]N māru[son]N māru[son]N
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),o 6',buʾʾû[look-for]V manû[unit]N ṣarpu[silver]N
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),o 7',manû[unit]N hurāṣu[gold]N ina[in]PRP burku[knee]N ša[of]DET
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),o 8',šakānu[put]V
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),r 1,ša[of]DET
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),r 2,ana[to]PRP Enlil[1]DN
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),r 3,šību[witness]N
+saao/saa14/P336034,SAA 14 390. Fragment of a Conveyance Text (ADD 1277),SAA 14 390. Fragment of a Conveyance Text (ADD 1277),r 4,šību[witness]N

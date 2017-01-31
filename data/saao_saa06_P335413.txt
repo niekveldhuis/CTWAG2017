@@ -1,0 +1,34 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 1',ina[in]PRP Abdi-Kububi[1]PN
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 2',sinništu[woman]N māru[son]N gimru[totality]N napištu[throat]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 3',ša[of]DET Haruranu[1]PN u[and]CNJ Salilanu[1]PN
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 4',epēšu[do]V Aplaya[1]PN ištu[from]PRP qātu[hand]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 5',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 6',tadnu[given]AJ isītu[tower]N adi[until]PRP eqlu[field]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 7',Abdi-Kububi[1]PN adi[until]PRP nišu[people]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 8',aplu[paid-off]AJ zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 9',mannu[who?]QP ša[that]REL ina[in]PRP matīma[ever]AV ina[in]PRP warkītu[posterity]N ūmu[day]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 10',ša[that]REL elû[go-up]V lū[may]MOD Haruranu[1]PN
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 11',lū[may]MOD Salilanu[1]PN lū[may]MOD šunu[they]IP
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 12',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 13',lū[may]MOD ahu[brother]N lū[may]MOD māru[son]N ahu[brother]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 14',lū[may]MOD šaknu[appointee]N lū[may]MOD šāpiru[giver-of-instructions]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 15',lū[may]MOD mamman[somebody]XP bēlu[lord]N ilku[state-service]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 16',ša[that]REL elû[go-up]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 17',išti[with]PRP Aplaya[1]PN u[and]CNJ māru[son]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 18',gerû[be(come)-hostile-to]V qabû[say]V
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 19',mā[saying]PRP kaspu[silver]N lā[not]MOD gammuru[finished]AJ lā[not]MOD tadnu[given]AJ
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),o 20',isītu[tower]N adi[until]PRP eqlu[field]N Abdi-Kububi[1]PN
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 1,adi[until]PRP nišu[people]N lā[not]MOD aplu[paid-off]AJ lā[not]MOD zarpu[purchased]AJ
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 2,lā[not]MOD leqû[taken]AJ lā[not]MOD
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 3,manû[unit]N gildu[(animal)-hide]N akālu[eat]V ammar[as-much-as]REL
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 4,agannu[bowl]N kurru[tanning-fluid]N šatû[drink]V aplu[heir]N ana[to]PRP Sin[1]DN
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 5,qalû[roast]V mārtu[daughter]N rabû[big]AJ išti[with]PRP dāmu[blood]N erēnu[cedar]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 6,ana[to]PRP Belet-ṣeri[1]DN šarāpu[burn]V
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 7,kaspu[silver]N mahāru[face]V ana[to]PRP
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 8,ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP dīnu[legal-decision]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 9,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 10,šību[witness]N Nergal-šallimanni[1]PN
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 11,šību[witness]N Issaran-mesi[1]PN raksu[recruit]N
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 12,šību[witness]N Adad-kašir[1]PN
+saao/saa06/P335413,SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),SAA 06 101. Partial Duplicate of the Previous Text (ADD 0474+),r 13,šību[witness]N Marduk-šumu-iddina[1]PN

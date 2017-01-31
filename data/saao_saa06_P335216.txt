@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),o 1,kunukku[seal]N Lu-balaṭ[1]PN
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),o 3,Nabu-šezib[1]PN sinništu[woman]N māru[son]N
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),o 4,gimru[totality]N napištu[throat]N ardu[slave]N
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),o 5,ša[of]DET Lu-balaṭ[1]PN epēšu[do]V
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),o 6,Šamaš-ilaʾi[1]PN
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),o 7,ištu[from]PRP pānu[front]N Lu-balaṭ[1]PN
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),r 1',šeleppāyu[(a-type-of-craftsman)]N
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),r 2',šību[witness]N
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),r 3',šību[witness]N nasīku[sheikh]N
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),r 4',šību[witness]N Mardanu[1]PN šību[witness]N Natan[1]PN
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),r 5',šību[witness]N Balassu[1]PN šību[witness]N Bar-zaqe[1]PN
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),r 6',šību[witness]N Ilu-leʾi[1]PN ṭupšarru[scribe]N ṣābitu[recipient]N
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),r 7',dannutu[binding-document]N Abu[Ab]MN ūmu[day]N
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),r 8',līmu[eponym-(of-year)]N Nabu-ahu-ereš[1]PN
+saao/saa06/P335216,SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),SAA 06 195. Šamaš-ila’i Chief [...] Buys 6 Slaves (681-V-25) (ADD 0269),r 9',šību[witness]N Ramman-dala[1]PN Šazabina[1]GN

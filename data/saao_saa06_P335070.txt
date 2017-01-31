@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),o 1,immeru[sheep]N ša[of]DET Silim-Aššur[1]PN
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),o 2,samhu[mixed]AJ
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),o 3,ina[in]PRP pānu[front]N Hanṭasanu[1]PN
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),o 4,ina[in]PRP pānu[front]N Marduku[1]PN
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),o 5,ina[in]PRP Abu[Ab]MN tadānu[give]V
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),b.e. 6,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),b.e. 7,ana[to]PRP mithāru[corresponding-(to-one-another)]AJ
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),r 1,Bel-ereš[1]PN bēlu[lord]N qātu[hand]N
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),r 2,šību[witness]N Nabu-ahhe-iddina[1]PN
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),r 3,šību[witness]N Banitu-tereš[1]PN
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),r 4,šību[witness]N Bili[1]PN
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),r 5,Simanu[Sivan]MN
+saao/saa06/P335070,SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),SAA 06 222. Note of Sheep Owed to Silim-Aššur (680-III) (ADD 0119),r 6,līmu[eponym-(of-year)]N Dananu[1]PN

@@ -1,0 +1,28 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 1',mārtu[daughter]N ša[of]DET Puṭu-Meheši[1]PN
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 2',epēšu[do]V Puṭi-Eše[1]PN
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 3',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 4',ana[to]PRP sinnišūtu[(rôle-of-female)]N leqû[take]V
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 5',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 6',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 7',dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 8',išti[with]PRP Puṭi-Eše[1]PN
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 9',išti[with]PRP māru[son]N buʾʾû[look-for]V
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 10',lū[may]MOD Puṭu-Meheši[1]PN
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),o 11',lū[may]MOD māru[son]N lū[may]MOD šaknu[appointee]N
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),b.e. 12',buʾʾû[look-for]V
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),b.e. 13',manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 3,ṣarpu[silver]N
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 4,ištu[from]PRP bītu[house]N aṣû[go-out]V šumma[if]MOD
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 5,Puṭi-Eše[1]PN ana[to]PRP sinništu[woman]N
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 6,zêru[hate]V šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 7,Al-hapi-mepi[1]PN
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 8,ana[to]PRP Puṭi-Eše[1]PN tadānu[give]V
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 9,alāku[go]V aṣû[go-out]V
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 10,adi[until]PRP libbu[interior]N ūmu[day]N ša[of]DET Puṭi-Eše[1]PN
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 11,balāṭu[live]V sinništu[woman]N adi[until]PRP māru[son]N
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 12,šēlūʾutu[votive-gift]N ša[of]DET Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 13,tadānu[give]V lū[may]MOD šaknu[appointee]N rabû[big-one]N kiṣru[knot]N
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 14,ša[of]DET Puṭu-Meheši[1]PN
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 15,ša[of]DET Puṭi-Eše[1]PN
+saao/saa14/P224956,SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),SAA 14 443. Puṭu-Eši Buys a Woman as a Wife (TIM 11 14),r 16,ina[in]PRP muhhu[skull]N sinništu[woman]N

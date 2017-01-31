@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335947,SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),o 1',rēhtu[remainder]N nikkassu[account(s)]N ša[that]REL ina[in]PRP pānu[front]N Keni[1]PN
+saao/saa14/P335947,SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),o 2',ina[in]PRP Elulu[Elul]MN wabālu[bring]V ina[in]PRP Arpadda[Arpad]GN
+saao/saa14/P335947,SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),b.e. 3',ana[to]PRP bēlu[lord]N piqittu[allocation]N ša[of]DET Nušku-šarru-uṣur[1]PN tadānu[give]V
+saao/saa14/P335947,SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),b.e. 4',šumma[if]MOD lā[not]MOD tadānu[give]V Buru-naṣaba[1]PN
+saao/saa14/P335947,SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),b.e. 5',māru[son]N Lubbur-pi[1]PN
+saao/saa14/P335947,SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),r 1,bēlu[lord]N qātu[hand]N ša[of]DET Šer-idri[1]PN
+saao/saa14/P335947,SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),r 2,nikkassu[account(s)]N annû[this]DP ina[in]PRP Ninua[Nineveh]GN
+saao/saa14/P335947,SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),r 3,Nušku-šarru-uṣur[1]PN šalāmu[be(come)-healthy]V
+saao/saa14/P335947,SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),r 4,ša[that]REL karmu[delayed]AJ nikkassu[account(s)]N annû[this]DP šalāmu[be(come)-healthy]V
+saao/saa14/P335947,SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),SAA 14 160. Nusku-šarru-uṣur Lends Silver (*625) (ADD 1165),r 5,arhu[month]N ūmu[day]N līmu[eponym-(of-year)]N Sin-šarru-uṣur[1]PN ṭupšarru[scribe]N ēkallu[palace]N

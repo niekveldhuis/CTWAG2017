@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),o 1,kunukku[seal]N
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),o 2,bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),o 3,amtu[maid]N
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),o 4,ša[of]DET epēšu[do]V
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),o 5,ištu[from]PRP pānu[front]N
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),o 6,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),o 7,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),o 8,tadnu[given]AJ sinništu[woman]N šuāti[him]IP
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),r 1',šību[witness]N māru[son]N Sin-ašared[1]PN
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),r 2',šību[witness]N ardu[slave]N
+saao/saa14/P335171,SAA 14 242. Purchase of a Woman (ADD 0224),SAA 14 242. Purchase of a Woman (ADD 0224),r 3',šību[witness]N

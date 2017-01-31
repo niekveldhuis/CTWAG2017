@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335469,SAA 06 162. (no title) (686-I) (ADD 0535),SAA 06 162. (no title) (686-I) (ADD 0535),o 1,kunukku[seal]N
+saao/saa06/P335469,SAA 06 162. (no title) (686-I) (ADD 0535),SAA 06 162. (no title) (686-I) (ADD 0535),o 3,kunukku[seal]N
+saao/saa06/P335469,SAA 06 162. (no title) (686-I) (ADD 0535),SAA 06 162. (no title) (686-I) (ADD 0535),o 4,kunukku[seal]N
+saao/saa06/P335469,SAA 06 162. (no title) (686-I) (ADD 0535),SAA 06 162. (no title) (686-I) (ADD 0535),o 5,kunukku[seal]N
+saao/saa06/P335469,SAA 06 162. (no title) (686-I) (ADD 0535),SAA 06 162. (no title) (686-I) (ADD 0535),r 1',šību[witness]N
+saao/saa06/P335469,SAA 06 162. (no title) (686-I) (ADD 0535),SAA 06 162. (no title) (686-I) (ADD 0535),r 2',šību[witness]N
+saao/saa06/P335469,SAA 06 162. (no title) (686-I) (ADD 0535),SAA 06 162. (no title) (686-I) (ADD 0535),r 3',šību[witness]N
+saao/saa06/P335469,SAA 06 162. (no title) (686-I) (ADD 0535),SAA 06 162. (no title) (686-I) (ADD 0535),r 4',šību[witness]N ṭupšarru[scribe]N
+saao/saa06/P335469,SAA 06 162. (no title) (686-I) (ADD 0535),SAA 06 162. (no title) (686-I) (ADD 0535),r 5',Nisannu[Nisan]MN ūmu[day]N līmu[eponym-(of-year)]N Bel-emuranni[1]PN

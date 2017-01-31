@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335941,SAA 06 062. Bahianu Loans 4 Homers of Barley (696-V-18) (ADD 1159),SAA 06 062. Bahianu Loans 4 Homers of Barley (696-V-18) (ADD 1159),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa06/P335941,SAA 06 062. Bahianu Loans 4 Homers of Barley (696-V-18) (ADD 1159),SAA 06 062. Bahianu Loans 4 Homers of Barley (696-V-18) (ADD 1159),o 2,Garruṣu[1]PN
+saao/saa06/P335941,SAA 06 062. Bahianu Loans 4 Homers of Barley (696-V-18) (ADD 1159),SAA 06 062. Bahianu Loans 4 Homers of Barley (696-V-18) (ADD 1159),o 3,ištu[from]PRP pānu[front]N Bahianu[1]PN
+saao/saa06/P335941,SAA 06 062. Bahianu Loans 4 Homers of Barley (696-V-18) (ADD 1159),SAA 06 062. Bahianu Loans 4 Homers of Barley (696-V-18) (ADD 1159),o 4,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P335941,SAA 06 062. Bahianu Loans 4 Homers of Barley (696-V-18) (ADD 1159),SAA 06 062. Bahianu Loans 4 Homers of Barley (696-V-18) (ADD 1159),r 1,Abu[Ab]MN ūmu[day]N

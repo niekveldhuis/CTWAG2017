@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),o 1,kunukku[seal]N
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),o 2,kunukku[seal]N
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),o 3,bēlu[lord]N bītu[house]N qātu[hand]N tadānu[give]V
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r 1',šību[witness]N
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r 2',šību[witness]N Bel-natan[1]PN
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r 3',šību[witness]N Ululayu[1]PN
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r 4',šību[witness]N Kuti[1]PN
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r 5',šību[witness]N Amurri[1]PN
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r 6',šību[witness]N Susi[1]PN
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r 7',šību[witness]N Nabu-šarru-uṣur[1]PN
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r 8',šību[witness]N Nabu-eriba[1]PN
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r.e. 9,šību[witness]N Akkullanu[1]PN
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r.e. 10,šību[witness]N Sangi-Issar[1]PN
+saao/saa14/P335286,SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),SAA 14 144. Purchase of a Workroom (650?) (ADD 0342),r.e. 11,šību[witness]N

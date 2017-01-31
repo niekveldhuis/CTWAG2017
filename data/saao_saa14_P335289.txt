@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),o 1,kunukku[seal]N Ubri[1]PN
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),o 2,māru[son]N Halaiddi[1]PN
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),o 3,bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),r 1',šību[witness]N Hiriṣayu[1]PN atû[gatekeeper]N
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),r 2',šību[witness]N Lit-ili[1]PN dayyālu[scout]N
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),r 3',šību[witness]N Aqdaš-il[1]PN sīrāšû[brewer]N
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),r 4',šību[witness]N Abu-ul-idi[1]PN
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),r 5',šību[witness]N Nur-Šamaš[1]PN ṣarrāpu[goldsmith]N
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),r 6',šību[witness]N Aššur-remanni[1]PN tašlīšu[third-man-on-chariot]N šanû[second]NU māru[son]N šarru[king]N
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),r.e. 7,šību[witness]N rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),r.e. 8,šību[witness]N Nabu-kuṣuranni[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa14/P335289,SAA 14 053. Purchase of a House (ADD 0345),SAA 14 053. Purchase of a House (ADD 0345),r.e. 9,mūraku[length]N rupšu[width]N

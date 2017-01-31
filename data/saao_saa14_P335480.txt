@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335480,SAA 14 289. (no title) (ADD 0551),SAA 14 289. (no title) (ADD 0551),r 1',manû[unit]N ṣarpu[silver]N
+saao/saa14/P335480,SAA 14 289. (no title) (ADD 0551),SAA 14 289. (no title) (ADD 0551),r 2',Ṣillaya[1]PN

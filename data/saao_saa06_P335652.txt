@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),o 1,kunukku[seal]N Bel-aplu-iddina[1]PN
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),o 2,rabû[big-one]N zammāru[singer]N ša[of]DET Til-Barsip[1]GN
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),o 3,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),o 4,kāṣiru[tailor]N sinništu[woman]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),o 12,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),o 13,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),o 14,nišu[people]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),o 15,leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),o 16,dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),o 17,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),b.e. 18,parāku[lie-across]V lū[may]MOD Bel-aplu-iddina[1]PN
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),b.e. 19,lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),b.e. 20,lū[may]MOD ahu[brother]N māru[son]N ahu[brother]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),b.e. 21,lū[may]MOD
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 1,lū[may]MOD mammanu-[whosoever]XP ša[that]REL išti[with]PRP Remanni-Adad[1]PN
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 2,lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 3,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 4,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 7,šību[witness]N Silim-Aššur[1]PN šukkallu[(a-court-official)]N dannu[strong]AJ
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 8,šību[witness]N Zaruti[1]PN mukillu[holder]N appatu[bridle]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 9,šību[witness]N Zaruti[1]PN rabû[big-one]N kiṣru[knot]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 10,šību[witness]N Šamaš-šarru-uṣur[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 11,šību[witness]N Sakkannu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 12,šību[witness]N Nabu-eriba[1]PN šanû[second]NU
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 13,ša[of]DET
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 14,šību[witness]N Aššur-ilaʾi[1]PN māru[son]N Šarru-ibni[1]PN
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 15,šību[witness]N Nergal-šarru-uṣur[1]PN
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 16,ša[of]DET ṣīru[envoy]N ālu[city]N ša[of]DET Til-Barsip[1]GN
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 17,Duʾuzu[Tammuz]MN ūmu[day]N
+saao/saa06/P335652,SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),SAA 06 312. Remanni-Adad Buys 5 Servants (666-IV-20) (ADD 0801),r 18,līmu[eponym-(of-year)]N Kanunayu[1]PN

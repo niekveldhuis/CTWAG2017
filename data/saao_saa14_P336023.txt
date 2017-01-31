@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336023,SAA 14 381. Purchase of Land (ADD 1263),SAA 14 381. Purchase of Land (ADD 1263),r 1,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ eqlu[field]N
+saao/saa14/P336023,SAA 14 381. Purchase of Land (ADD 1263),SAA 14 381. Purchase of Land (ADD 1263),r 2,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P336023,SAA 14 381. Purchase of Land (ADD 1263),SAA 14 381. Purchase of Land (ADD 1263),r 3,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P336023,SAA 14 381. Purchase of Land (ADD 1263),SAA 14 381. Purchase of Land (ADD 1263),r 4,lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa14/P336023,SAA 14 381. Purchase of Land (ADD 1263),SAA 14 381. Purchase of Land (ADD 1263),r 5,ša[that]REL elû[go-up]V išti[with]PRP māru[son]N

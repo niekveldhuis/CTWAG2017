@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335071,SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),o 1,gurrutu[ewe]N
+saao/saa06/P335071,SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),o 2,adi[until]PRP yābilu[ram]N
+saao/saa06/P335071,SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),o 3,ša[of]DET šakintu[(a-female-official)]N
+saao/saa06/P335071,SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),o 4,ina[in]PRP pānu[front]N Nabu-nadin-ahi[1]PN
+saao/saa06/P335071,SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),o 5,šību[witness]N Ilu-ukallanni[1]PN
+saao/saa06/P335071,SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),b.e. 6,šību[witness]N Nabu-ahu-uṣur[1]PN
+saao/saa06/P335071,SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),b.e. 7,šību[witness]N Mannu-ki-Issar[1]PN
+saao/saa06/P335071,SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),r 1,šību[witness]N La-tubašanni-ilu[1]PN ṭupšarru[scribe]N
+saao/saa06/P335071,SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),SAA 06 084. The Governess Loans Sheep (694-XII-10) (ADD 0120),r 2,Addaru[Adar]MN ūmu[day]N

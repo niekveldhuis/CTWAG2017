@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P336637,SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),o 1',ištu[from]PRP pānu[front]N Kinanni-Issar[1]PN leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P336637,SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),o 2',tadnu[given]AJ eqlu[field]N šuāti[him]IP
+saao/saa06/P336637,SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),o 3',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P336637,SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),o 4',dabābu[speak]V laššu[(there)-is-not]V ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P336637,SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),o 5',mannu[who?]QP ša[that]REL zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa06/P336637,SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),o 6',elû[go-up]V
+saao/saa06/P336637,SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),o 7',dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P336637,SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),SAA 06 322. Remanni-Adad Buys Land and [...] (K 16094),o 8',išti[with]PRP Remanni-Adad[1]PN

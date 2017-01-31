@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),2,ṣupru[nail]N Abdi-Dada[1]PN bēlu[lord]N bītu[house]N
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),3,tadānu[give]V
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),4,bītu[house]N imēru[unit]N eqlu[field]N ša[of]DET
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),5,ṭāhu[adjacent-to]PRP rēšu[head]N eqlu[field]N
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),6,epēšu[do]V
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),7,ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),8,leqû[take]V kaspu[silver]N gammuru[finished]AJ eqlu[field]N šuāti[him]IP
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),9,šanû[second]NU ištu[from]PRP bēlu[lord]N leqû[taken]AJ târu[turn]V
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),10,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),11,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),r 2',šību[witness]N
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),r 3',šību[witness]N Qiti-muti[1]PN
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),r 4',šību[witness]N Bahianu[1]PN
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),r 7',šību[witness]N
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),r 8',šību[witness]N
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),r 9',gimru[totality]N šību[witness]N ša[of]DET
+saao/saa14/P335448,SAA 14 269. Purchase of an Estate (ADD 0511+),SAA 14 269. Purchase of an Estate (ADD 0511+),r 10',šību[witness]N Nabu-šallim[1]PN

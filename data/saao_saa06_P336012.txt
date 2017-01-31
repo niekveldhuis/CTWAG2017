@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P336012,SAA 06 018. (no title) (739-XII-19) (ADD 1251),SAA 06 018. (no title) (739-XII-19) (ADD 1251),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P336012,SAA 06 018. (no title) (739-XII-19) (ADD 1251),SAA 06 018. (no title) (739-XII-19) (ADD 1251),o 2,ṣupru[nail]N Sagab[1]PN ṣupru[nail]N Šamšanni-ilu[1]PN
+saao/saa06/P336012,SAA 06 018. (no title) (739-XII-19) (ADD 1251),SAA 06 018. (no title) (739-XII-19) (ADD 1251),o 3,ṣupru[nail]N
+saao/saa06/P336012,SAA 06 018. (no title) (739-XII-19) (ADD 1251),SAA 06 018. (no title) (739-XII-19) (ADD 1251),r 1',šību[witness]N
+saao/saa06/P336012,SAA 06 018. (no title) (739-XII-19) (ADD 1251),SAA 06 018. (no title) (739-XII-19) (ADD 1251),r 2',šību[witness]N
+saao/saa06/P336012,SAA 06 018. (no title) (739-XII-19) (ADD 1251),SAA 06 018. (no title) (739-XII-19) (ADD 1251),r 3',šību[witness]N Ipparšidu[1]PN
+saao/saa06/P336012,SAA 06 018. (no title) (739-XII-19) (ADD 1251),SAA 06 018. (no title) (739-XII-19) (ADD 1251),r 4',šību[witness]N Nabu-uballiṭ[1]PN
+saao/saa06/P336012,SAA 06 018. (no title) (739-XII-19) (ADD 1251),SAA 06 018. (no title) (739-XII-19) (ADD 1251),r 5',ṭupšarru[scribe]N ṣābitu[recipient]N ṭuppu[tablet]N
+saao/saa06/P336012,SAA 06 018. (no title) (739-XII-19) (ADD 1251),SAA 06 018. (no title) (739-XII-19) (ADD 1251),r 6',Addaru[Adar]MN ūmu[day]N līmu[eponym-(of-year)]N

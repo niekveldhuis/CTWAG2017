@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335110,SAA 14 138. (no title) (653-III-27) (ADD 0159),SAA 14 138. (no title) (653-III-27) (ADD 0159),r 1',šību[witness]N Pipia[1]PN
+saao/saa14/P335110,SAA 14 138. (no title) (653-III-27) (ADD 0159),SAA 14 138. (no title) (653-III-27) (ADD 0159),r 2',šību[witness]N Bar-napi[1]PN
+saao/saa14/P335110,SAA 14 138. (no title) (653-III-27) (ADD 0159),SAA 14 138. (no title) (653-III-27) (ADD 0159),r 3',šību[witness]N Aštamašti[1]PN
+saao/saa14/P335110,SAA 14 138. (no title) (653-III-27) (ADD 0159),SAA 14 138. (no title) (653-III-27) (ADD 0159),r 4',šību[witness]N Tabalayu[1]PN
+saao/saa14/P335110,SAA 14 138. (no title) (653-III-27) (ADD 0159),SAA 14 138. (no title) (653-III-27) (ADD 0159),r 5',šību[witness]N Gabbu-ilani-ereš[1]PN
+saao/saa14/P335110,SAA 14 138. (no title) (653-III-27) (ADD 0159),SAA 14 138. (no title) (653-III-27) (ADD 0159),r 6',Simanu[Sivan]MN ūmu[day]N līmu[eponym-(of-year)]N Aššur-ilaʾi[1]PN

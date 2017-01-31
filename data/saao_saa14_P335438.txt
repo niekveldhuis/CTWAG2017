@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 1',zarpu[purchased]AJ leqû[take]V târu[turn]V
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 2',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 3',ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV lū[may]MOD ṣābu[people]N šunūti[them]IP
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 4',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 5',lū[may]MOD ahu[brother]N lū[may]MOD bēlu[lord]N ilku[state-service]N
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 6',ša[that]REL dīnu[legal-decision]N dabābu[speak]V išti[with]PRP Kandalanu[1]PN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 7',u[and]CNJ māru[son]N u[and]CNJ māru[son]N māru[son]N ahu[brother]N
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 8',dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 9',manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 10',sakru[refined]AJ ina[in]PRP burku[knee]N Adad[1]DN āšibu[sitting]AJ Dur-Illil[1]GN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 11',šakānu[put]V biltu[load]N annaku[tin]N ana[to]PRP
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 12',rabû[big-one]N šāqû[butler]N tadānu[give]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),o 13',ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 1,šību[witness]N Šulmu-beli[1]PN šību[witness]N Suʾa[1]PN Kalhaya[1]EN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 2,šību[witness]N Nabuʾa[1]PN šību[witness]N Mannu-ki-Nabu[1]PN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 3,šību[witness]N Ninuaya[from-Nineveh]EN šību[witness]N Ilu-ittiya[1]PN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 4,šību[witness]N Mukaʾʾin-šarrute-ilu[1]PN šību[witness]N Milqi[1]PN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 5,šību[witness]N Ahu-illika[1]PN ardu[slave]N ša[of]DET rabû[big-one]N ša-rēši[eunuch]N
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 6,šību[witness]N Urdu-Issar[1]PN šību[witness]N Ninuayu[1]PN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 7,šību[witness]N šību[witness]N Bel-ilaʾi[1]PN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 8,Šuraya[from-Šuru]EN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 9,šību[witness]N šību[witness]N Gabbu-amur[1]PN ardu[slave]N
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 10,šību[witness]N šību[witness]N Akburu[1]PN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 11,šību[witness]N šību[witness]N Aššur-ahu-uṣur[1]PN šību[witness]N Ibašši-ilani[1]PN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 12,šību[witness]N šību[witness]N Arakai[1]PN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 13,šību[witness]N In-mati[1]GN šību[witness]N Azi-il[1]PN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 14,šību[witness]N Hidiniba[1]GN
+saao/saa14/P335438,SAA 14 197. Kandalanu Buys [... ] (ADD 0500),SAA 14 197. Kandalanu Buys [... ] (ADD 0500),r 15,šību[witness]N šību[witness]N Saʾilu[1]PN

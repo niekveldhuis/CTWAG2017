@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),o 1,kunukku[seal]N Nabu-iqbi[1]PN
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),o 2,kunukku[seal]N Inurti[1]PN
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),o 3,manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET šarru[king]N
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),o 4,Kenu-ahhe[1]PN ana[to]PRP Nabu-iqbi[1]PN
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),o 5,ana[to]PRP Inurti[1]PN tadānu[give]V
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),b.e. 6,Nabu-rehtu-uṣur[1]PN
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),b.e. 7,māru[son]N ahu[brother]N paṭāru[loosen]V zakû[be(come)-clear]V
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),b.e. 8,memēni[somebody]XP išti[with]PRP lā[not]MOD dabābu[speak]V
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),r 1,mannu[who?]QP ša[that]REL parāku[lie-across]V manû[unit]N ṣarpu[silver]N
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),r 2,tadānu[give]V Tašritu[Tishri]MN ūmu[day]N
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),r 3,līmu[eponym-(of-year)]N Šamaš-kašid-ayabi[1]PN
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),r 4,šību[witness]N Hašanu[1]PN
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),r 5,šību[witness]N Labaṭi[1]PN
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),r 6,šību[witness]N Didi[1]PN
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),r 7,šību[witness]N Ṭab-Dadi[1]PN Duri-Adad[1]PN
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),r 8,šību[witness]N Dugul-ana-ili[1]PN
+saao/saa14/P337157,SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),SAA 14 437. Mukin-ahhe Redeems His Nephew (669-VII-21) (TIM 11 18$),r.e. 9,šību[witness]N Ululayu[1]PN

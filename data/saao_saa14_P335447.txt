@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),o 1',epēšu[do]V Ina-šar-Nergal-allak[1]PN
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),o 2',ina[in]PRP libbu[interior]N
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),o 3',ana[to]PRP sinnišūtu[(rôle-of-female)]N
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),o 4',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),o 5',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),o 6',ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),o 7',lū[may]MOD awīlu[man]N annû[this]DP
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),o 8',lū[may]MOD mammanu-[whosoever]XP
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),r 1,lū[may]MOD rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),r 2,išti[with]PRP Ina-šar-Nergal-allak[1]PN
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),r 3,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),r 4,manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),r 5,šību[witness]N Sin-naʾdi[1]PN
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),r 6,šību[witness]N
+saao/saa14/P335447,SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),SAA 14 218. Šar-Nergal-allak Buys a Woman as a Wife (ADD 0509),r 7,šību[witness]N

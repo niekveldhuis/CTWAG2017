@@ -1,0 +1,31 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 2,bītu[house]N imēru[unit]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 4,ina[in]PRP mazrūtu[(area-or-state-of)-cultivation]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 5,kirû[garden]N azamru[fruit]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 6,epēšu[do]V
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 7,ina[in]PRP libbu[interior]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 8,ištu[from]PRP pānu[front]N awīlu[man]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 9,annû[this]DP leqû[take]V kaspu[silver]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 10,gammuru[finished]AJ tadnu[given]AJ eqlu[field]N bītu[house]N kirû[garden]N būrtu[cistern]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 11,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 12,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 13,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV u[and]CNJ matīma[ever]AV
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 14,lū[may]MOD awīlu[man]N annû[this]DP lū[may]MOD māru[son]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 15,māru[son]N māru[son]N lū[may]MOD qurbu[relative]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),o 16,lū[may]MOD lū[may]MOD bēlu[lord]N ilku[state-service]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 1,dīnu[legal-decision]N dabābu[speak]V išti[with]PRP
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 2,u[and]CNJ māru[son]N buʾʾû[look-for]V
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 3,manû[unit]N akālu[eat]V kurru[tanning-fluid]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 4,šatû[drink]V manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 5,ina[in]PRP burku[knee]N Ištar[1]DN āšibu[sitting]AJ Ninua[Nineveh]GN šakānu[put]V
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 6,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 7,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 8,šību[witness]N māru[son]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 9,šību[witness]N māru[son]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 10,šību[witness]N Ipparšidu[1]PN māru[son]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 11,ikkaru[farmer]N ša[of]DET rabû[big-one]N bītu[house]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 12,šību[witness]N māru[son]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 13,šību[witness]N māru[son]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 14,šību[witness]N
+saao/saa14/P336005,SAA 14 463. Purchase of Land (ADD 1242),SAA 14 463. Purchase of Land (ADD 1242),r 16,šību[witness]N ṭupšarru[scribe]N ṣābitu[recipient]N ṭuppu[tablet]N

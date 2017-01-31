@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335084,SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa06/P335084,SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),o 2,ša[of]DET Bahianu[1]PN
+saao/saa06/P335084,SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),o 3,ina[in]PRP pānu[front]N Nabuʾa[1]PN
+saao/saa06/P335084,SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),o 4,ina[in]PRP adru[threshing-floor]N ana[to]PRP qaqqadu[head]N
+saao/saa06/P335084,SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),o 5,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335084,SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),o 6,ana[to]PRP imēru[unit]N
+saao/saa06/P335084,SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),r 1,Duʾuzu[Tammuz]MN
+saao/saa06/P335084,SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),SAA 06 067. Note of 23 Homers of Barley Owed to Bahianu (688-IV-23) (ADD 0133),r 2,līmu[eponym-(of-year)]N Iddin-ahhe[1]PN

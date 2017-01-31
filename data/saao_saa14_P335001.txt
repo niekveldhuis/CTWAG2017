@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),o 1,manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),o 2,ginû[regular-contribution-(to-temple)]N ša[of]DET Aššur[1]DN
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),o 3,ša[of]DET Aššur-reši-išši[1]PN
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),o 4,ina[in]PRP pānu[front]N Zarʾuti[1]PN rabû[big-one]N karānu[vine]N
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),o 5,ina[in]PRP pānu[front]N Ululayu[1]PN šanû[second]NU
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),o 6,Simanu[Sivan]MN ūmu[day]N
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),b.e. 7,līmu[eponym-(of-year)]N Ša-Nabu-šu[1]PN
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),b.e. 8,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),r 1,šību[witness]N Nabu-šezibanni[1]PN
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),r 2,ša-rēši[eunuch]N ša[of]DET muhhu[skull]N bītu[house]N šarru[king]N
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),r 3,šību[witness]N Ilu-šumu-kaʾʾin[1]PN
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),r 4,māru[son]N damqu[good]AJ ša[of]DET pīhātu[responsibility]N
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),r 5,šību[witness]N Kiṣir-Aššur[1]PN
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),r 6,šību[witness]N Marduk-ibni[1]PN
+saao/saa14/P335001,SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),SAA 14 061. Inner Tablet of the Preceding Text (ADD 0049),r 7,šību[witness]N Nabu-deni-amur[1]PN

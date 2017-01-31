@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 1,immeru[sheep]N
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 2,šiqlu[unit]N ṣarpu[silver]N nikkassu[account(s)]N
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 3,Ubri[1]PN ṭupšarru[scribe]N Armaya[Aramean]EN
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 4,tadānu[give]V
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 5,Nisannu[Nisan]MN ūmu[day]N
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 6,līmu[eponym-(of-year)]N Arbailayu[1]PN
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 7,mašennu[(an-administrator)]N rabû[big]AJ
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 8,Bassi[1]PN
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 9,ša[of]DET immeru[sheep]N
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 10,šību[witness]N Adad-ereš[1]PN
+saao/saa14/P335638,SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),SAA 14 075. Ubri Aramean Scribe Lends Sheep and Silver (661-I) (ADD 0782),o 11,šību[witness]N Ṣan-Ṣaruru[1]PN

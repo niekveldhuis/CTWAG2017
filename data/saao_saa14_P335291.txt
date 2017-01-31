@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335291,SAA 14 251. Purchase of Land (ADD 0347),SAA 14 251. Purchase of Land (ADD 0347),2',kutallu[back]N bītu[house]N ša[of]DET Ilu-uṣur[1]PN
+saao/saa14/P335291,SAA 14 251. Purchase of Land (ADD 0347),SAA 14 251. Purchase of Land (ADD 0347),3',kutallu[back]N bītu[house]N Ahu-nuri[1]PN
+saao/saa14/P335291,SAA 14 251. Purchase of Land (ADD 0347),SAA 14 251. Purchase of Land (ADD 0347),b.e. 4',kirû[garden]N
+saao/saa14/P335291,SAA 14 251. Purchase of Land (ADD 0347),SAA 14 251. Purchase of Land (ADD 0347),b.e. 5',Addi[1]PN
+saao/saa14/P335291,SAA 14 251. Purchase of Land (ADD 0347),SAA 14 251. Purchase of Land (ADD 0347),b.e. 6',Maganiṣi[1]GN

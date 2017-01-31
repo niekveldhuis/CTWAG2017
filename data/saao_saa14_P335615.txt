@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335615,SAA 14 332. Purchase of Orchards and Groves (ADD 0751),SAA 14 332. Purchase of Orchards and Groves (ADD 0751),2,gimru[totality]N ṣābu[people]N
+saao/saa14/P335615,SAA 14 332. Purchase of Orchards and Groves (ADD 0751),SAA 14 332. Purchase of Orchards and Groves (ADD 0751),3,kirû[garden]N qablu[plantation-(of-trees)]N

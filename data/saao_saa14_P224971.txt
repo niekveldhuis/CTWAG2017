@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224971,SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa14/P224971,SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),o 2,ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa14/P224971,SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),o 3,ša[of]DET Šumma-tazib[1]PN
+saao/saa14/P224971,SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),o 4,ina[in]PRP pānu[front]N
+saao/saa14/P224971,SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),r 1',šību[witness]N Luqu[1]PN
+saao/saa14/P224971,SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),r 2',šību[witness]N Nabuʾa[1]PN
+saao/saa14/P224971,SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),SAA 14 444. Šumma-taṣip Lends Barley (TIM 11 27),r 3',šību[witness]N Šar-Issar[1]PN rabû[big-one]N dayyālu[scout]N

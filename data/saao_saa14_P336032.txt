@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336032,SAA 14 388. Purchase of Land (ADD 1275),SAA 14 388. Purchase of Land (ADD 1275),o 1',ṭāhu[adjacent-to]PRP
+saao/saa14/P336032,SAA 14 388. Purchase of Land (ADD 1275),SAA 14 388. Purchase of Land (ADD 1275),o 2',ṭāhu[adjacent-to]PRP
+saao/saa14/P336032,SAA 14 388. Purchase of Land (ADD 1275),SAA 14 388. Purchase of Land (ADD 1275),o 3',ṭāhu[adjacent-to]PRP
+saao/saa14/P336032,SAA 14 388. Purchase of Land (ADD 1275),SAA 14 388. Purchase of Land (ADD 1275),o 4',ina[in]PRP Adian[1]GN
+saao/saa14/P336032,SAA 14 388. Purchase of Land (ADD 1275),SAA 14 388. Purchase of Land (ADD 1275),o 5',epēšu[do]V

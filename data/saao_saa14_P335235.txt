@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335235,SAA 14 244. Purchase of a Slave (ADD 0290),SAA 14 244. Purchase of a Slave (ADD 0290),r 1',ṣibtu[seizure]N
+saao/saa14/P335235,SAA 14 244. Purchase of a Slave (ADD 0290),SAA 14 244. Purchase of a Slave (ADD 0290),r 2',bennu[epilepsy]N
+saao/saa14/P335235,SAA 14 244. Purchase of a Slave (ADD 0290),SAA 14 244. Purchase of a Slave (ADD 0290),r 3',sartu[falsehood]N
+saao/saa14/P335235,SAA 14 244. Purchase of a Slave (ADD 0290),SAA 14 244. Purchase of a Slave (ADD 0290),r 4',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335235,SAA 14 244. Purchase of a Slave (ADD 0290),SAA 14 244. Purchase of a Slave (ADD 0290),r 5',šību[witness]N Addi[1]PN
+saao/saa14/P335235,SAA 14 244. Purchase of a Slave (ADD 0290),SAA 14 244. Purchase of a Slave (ADD 0290),r 6',šību[witness]N Ahi-ramu[1]PN
+saao/saa14/P335235,SAA 14 244. Purchase of a Slave (ADD 0290),SAA 14 244. Purchase of a Slave (ADD 0290),r 7',šību[witness]N Se-ili[1]PN
+saao/saa14/P335235,SAA 14 244. Purchase of a Slave (ADD 0290),SAA 14 244. Purchase of a Slave (ADD 0290),r 8',šību[witness]N Raʾu[1]PN
+saao/saa14/P335235,SAA 14 244. Purchase of a Slave (ADD 0290),SAA 14 244. Purchase of a Slave (ADD 0290),r 9',šību[witness]N Lu-šalim[1]PN
+saao/saa14/P335235,SAA 14 244. Purchase of a Slave (ADD 0290),SAA 14 244. Purchase of a Slave (ADD 0290),r 10',šību[witness]N Zakiru[1]PN

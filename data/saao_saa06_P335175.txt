@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),o 1',târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),o 2',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),o 3',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),o 4',ina[in]PRP burku[knee]N Adad[1]DN āšibu[sitting]AJ Anah[1]GN šakānu[put]V
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),o 5',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),o 6',ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),r 1,Kuruku[1]PN bēlu[lord]N qātu[hand]N ša[of]DET sinništu[woman]N
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),r 2,šību[witness]N Išta-Šer[1]PN
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),r 3,šību[witness]N Aqru[1]PN
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),r 4,šību[witness]N Barruqu[1]PN
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),r 5,šību[witness]N Rehati[1]PN
+saao/saa06/P335175,SAA 06 198. Purchase of a Maid (ADD 0228),SAA 06 198. Purchase of a Maid (ADD 0228),r 6,šību[witness]N Nabu-zaqip-enši[1]PN

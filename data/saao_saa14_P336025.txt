@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336025,SAA 14 383. Fragment of a Conveyance Text (ADD 1265),SAA 14 383. Fragment of a Conveyance Text (ADD 1265),b.e. 2',lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa14/P336025,SAA 14 383. Fragment of a Conveyance Text (ADD 1265),SAA 14 383. Fragment of a Conveyance Text (ADD 1265),b.e. 3',ša[that]REL dīnu[legal-decision]N dabābu[speak]V išti[with]PRP
+saao/saa14/P336025,SAA 14 383. Fragment of a Conveyance Text (ADD 1265),SAA 14 383. Fragment of a Conveyance Text (ADD 1265),b.e. 4',išti[with]PRP māru[son]N māru[son]N māru[son]N
+saao/saa14/P336025,SAA 14 383. Fragment of a Conveyance Text (ADD 1265),SAA 14 383. Fragment of a Conveyance Text (ADD 1265),b.e. 5',dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P336025,SAA 14 383. Fragment of a Conveyance Text (ADD 1265),SAA 14 383. Fragment of a Conveyance Text (ADD 1265),r 1',biltu[load]N

@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),o 1,kunukku[seal]N Sar-uarri[1]PN
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),o 3,kunukku[seal]N Mar-samsi[1]PN šanû[second]NU
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),o 4,kunukku[seal]N rabû[big-one]N bītu[house]N
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),o 5,kunukku[seal]N Seʾ-hati[1]PN ša-muhhi-āli[town-overseer]N
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),o 6,kunukku[seal]N Nahiranu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),r 1',lā[not]MOD leqû[taken]AJ
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),r 2',šību[witness]N Zizi[1]PN tamkāru[merchant]N
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),r 3',šību[witness]N Parruṭu[1]PN
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),r 4',šību[witness]N Iqbi-ilu[1]PN šību[witness]N Sin-naṣir[1]PN
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),r 5',šību[witness]N Abdi-Azuzi[1]PN šību[witness]N Kakkussu[1]PN
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),r 6',šību[witness]N Urdu-Šamaš[1]PN šību[witness]N Šamaš-eriba[1]PN
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),r 7',šību[witness]N Naʾdi-ilu[1]PN šību[witness]N Marduk-eriba[1]PN
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),r 8',šību[witness]N Sin-naṣir[1]PN nāgiru[herald]N
+saao/saa06/P335230,SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),SAA 06 166. Fragmentary Sale of Slaves (686-IV-1) (ADD 0285),r 9',Duʾuzu[Tammuz]MN ūmu[day]N līmu[eponym-(of-year)]N Bel-emuranni[1]PN

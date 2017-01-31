@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),o 1,kunukku[seal]N Seʾ-uri[1]PN
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),o 2,kunukku[seal]N Našuh-qati-ṣabat[1]PN
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),o 3,manû[unit]N ṣarpu[silver]N mesû[washed]AJ
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),o 4,ša[of]DET Mudabirayu[1]PN
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),o 5,ina[in]PRP pānu[front]N ana[to]PRP pūhu[exchange]N
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),b.e. 6,našû[lift]V
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),b.e. 7,ṣarpu[silver]N ana[to]PRP
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),r 1,rabû[to-be-big]V
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),r 2,Simanu[Sivan]MN ūmu[day]N
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),r 3,šību[witness]N Zubi-ṣidqi[1]PN
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),r 4,šību[witness]N Balṭi-Aya[1]PN
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),r 5,šību[witness]N Sara-il[1]PN
+saao/saa14/P334958,SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),SAA 14 199. Mudabbirayu Lends Three Minas of Silver (ADD 0006),r 6,šību[witness]N Našuh-dala[1]PN

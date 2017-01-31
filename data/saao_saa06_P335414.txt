@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),o 2,šakānu[put]V ṣupru[nail]N Ilu-eriba[1]PN
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),o 3,bēlu[lord]N tadānu[give]V
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),o 4,Mannu-ki-ahhe[1]PN
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),o 6,manû[unit]N ṣarpu[silver]N
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),r 2',ṣehru[small]AJ ša[of]DET Marduk-šarru-uṣur[1]PN
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),r 3',šību[witness]N māru[son]N Ninua[Nineveh]GN
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),r 4',šību[witness]N
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),r 5',šību[witness]N Ululayu[1]PN bēlu[lord]N erû[copper]N
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),r 6',šību[witness]N Šamši-iqbi[1]PN
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),r 7',šību[witness]N Nabu-šumu-iškun[1]PN
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),r 8',ṭupšarru[scribe]N ṣābitu[recipient]N ṭuppu[tablet]N
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),r 9',Ayaru[Iyyar]MN līmu[eponym-(of-year)]N Šulmu-šarri[1]PN
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),r 10',šību[witness]N Biwasi[1]PN ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),r 11',šību[witness]N ardu[slave]N
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),b.e. 12',šarru[king]N
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),b.e. 13',šību[witness]N
+saao/saa06/P335414,SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),SAA 06 121. Purchase of [...] (698-II-2) (ADD 0475+),b.e. 14',šību[witness]N

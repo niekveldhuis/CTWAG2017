@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 1,kunukku[seal]N Sa-abu[1]PN
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 2,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 3,Laduqi[1]PN ardu[slave]N
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 4,ša[of]DET Saʾabu[1]PN epēšu[do]V
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 5,Ahi-Milki[1]PN ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 6,ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 7,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 8,awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 9,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 10,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),o 11,zaqāpu[fix-upright]V
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 1',ša[that]REL išti[with]PRP Ahi-Milki[1]PN māru[son]N
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 2',māru[son]N māru[son]N dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 3',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 4',ina[in]PRP burku[knee]N Ištar[1]DN āšibu[sitting]AJ
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 5',šakānu[put]V ṣarpu[silver]N ana[to]PRP ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 6',ina[in]PRP lā[not]MOD dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 7',šību[witness]N Qiti-ilani[1]PN
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 8',šību[witness]N Ša-la-maše[1]PN hazannu[mayor]N
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 9',šību[witness]N Mudabirayu[1]PN
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 10',šību[witness]N Ṣadduru[1]PN šību[witness]N Šamaš-šezib[1]PN
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 11',gimru[totality]N šību[witness]N māru[son]N ālu[city]N
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 12',šību[witness]N La-qepu[1]PN
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 13',šību[witness]N Bubutu[1]PN
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 14',šību[witness]N Ubru-suni[1]PN ēpû[baker]N
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 15',šību[witness]N Nabu-ahhe-iddina[1]PN ēpû[baker]N
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r 16',šību[witness]N Belu-lu-dari[1]PN
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r.e. 17,Arahsamnu[Marchesvan]MN ūmu[day]N
+saao/saa06/P335125,SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),SAA 06 274. Ahi-milki Buys a Slave (676-VIII-17) (ADD 0175),r.e. 18,līmu[eponym-(of-year)]N Banba[1]PN

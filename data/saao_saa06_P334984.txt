@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),o 1,manû[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),o 2,ša[of]DET Sin-šarru-uṣur[1]PN šaknu[appointee]N
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),o 3,ina[in]PRP pānu[front]N Ahu-eriba[1]PN
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),o 4,šiqlu[unit]N ṣarpu[silver]N ana[to]PRP manû[unit]N
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),o 5,ša[of]DET arhu[month]N rabû[to-be-big]V
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),o 6,mā[saying]PRP manû[unit]N šanû[(an)other]AJ lā[not]MOD rabû[to-be-big]V
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),o 7,ūmu[day]N
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),o 8,līmu[eponym-(of-year)]N Iddin-ahhe[1]PN
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),r 1,šību[witness]N Bel-emuranni[1]PN
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),r 2,šību[witness]N Qurdi-Harran[1]PN
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),r 3,šību[witness]N Šumma-ahhe[1]PN
+saao/saa06/P334984,SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),SAA 06 139. Sin-šarru-uṣur Prefect Loans 4 Minas of Silver (693) (ADD 0032),r 4,šību[witness]N Aššur-alik-pani[1]PN šaknu[appointee]N

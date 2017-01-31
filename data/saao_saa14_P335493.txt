@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335493,SAA 14 298. (no title) (ADD 0566),SAA 14 298. (no title) (ADD 0566),o 1',Arbail[Arbela]GN
+saao/saa14/P335493,SAA 14 298. (no title) (ADD 0566),SAA 14 298. (no title) (ADD 0566),o 3',Šumma-ilani[1]PN
+saao/saa14/P335493,SAA 14 298. (no title) (ADD 0566),SAA 14 298. (no title) (ADD 0566),o 4',šību[witness]N šību[witness]N

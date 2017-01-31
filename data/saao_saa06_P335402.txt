@@ -1,0 +1,25 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),o 2',batultu[nubile-girl]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),o 3',Šamaš-isseʾa[1]PN
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),o 4',ṣehhertu[young-girl]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),o 5',kirû[garden]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),o 6',tidintu[gift]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),o 7',ana[to]PRP
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),o 8',epēšu[do]V ištu[from]PRP pānu[front]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),o 10',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),o 11',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 1',târu[turn]V
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 2',ša[of]DET kirû[garden]N ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 3',lā[not]MOD leqû[take]V
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 4',šību[witness]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 5',šību[witness]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 6',šību[witness]N Ha-bašti[1]PN
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 7',šību[witness]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 8',šību[witness]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 9',šību[witness]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 10',šību[witness]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 11',šību[witness]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 12',šību[witness]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),r 13',šību[witness]N
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),e. 1,šību[witness]N ṭupšarru[scribe]N šību[witness]N Ki-lamši[1]PN šību[witness]N Šamaš-naṣir[1]PN
+saao/saa06/P335402,SAA 06 269. Purchase of Land and People (679) (ADD 0462),SAA 06 269. Purchase of Land and People (679) (ADD 0462),e. 2,ūmu[day]N līmu[eponym-(of-year)]N Itti-Adad-anenu[1]PN

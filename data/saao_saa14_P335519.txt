@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335519,SAA 14 314. Fragment of a Witness List (ADD 0600),SAA 14 314. Fragment of a Witness List (ADD 0600),r 1',šību[witness]N Il-dusu[1]PN
+saao/saa14/P335519,SAA 14 314. Fragment of a Witness List (ADD 0600),SAA 14 314. Fragment of a Witness List (ADD 0600),r 2',kiṣru[knot]N šarru[king]N
+saao/saa14/P335519,SAA 14 314. Fragment of a Witness List (ADD 0600),SAA 14 314. Fragment of a Witness List (ADD 0600),r 3',šību[witness]N Harranayu[1]PN
+saao/saa14/P335519,SAA 14 314. Fragment of a Witness List (ADD 0600),SAA 14 314. Fragment of a Witness List (ADD 0600),r 4',šību[witness]N Unzarhu-Issar[1]PN
+saao/saa14/P335519,SAA 14 314. Fragment of a Witness List (ADD 0600),SAA 14 314. Fragment of a Witness List (ADD 0600),r 5',nukaribbu[gardener]N ša[of]DET
+saao/saa14/P335519,SAA 14 314. Fragment of a Witness List (ADD 0600),SAA 14 314. Fragment of a Witness List (ADD 0600),r 6',šību[witness]N Adad-abu-uṣur[1]PN māru[son]N damqu[good]AJ ša[of]DET
+saao/saa14/P335519,SAA 14 314. Fragment of a Witness List (ADD 0600),SAA 14 314. Fragment of a Witness List (ADD 0600),r 7',šību[witness]N Adad-ereš[1]PN ištu[from]PRP libbu[interior]N

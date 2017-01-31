@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 1',Akbaru[1]PN
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 2',Mannu-ki-ahi[1]PN ardu[slave]N
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 3',ša[of]DET Nabu-ahu-iddina[1]PN
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 4',epēšu[do]V Dannaya[1]PN
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 5',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 6',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ awīlu[man]N šuāti[him]IP
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 7',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 8',dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 9',ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 10',lū[may]MOD Nabu-ahu-iddina[1]PN lū[may]MOD māru[son]N
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 11',lū[may]MOD māru[son]N māru[son]N išti[with]PRP Dannaya[1]PN
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 12',u[and]CNJ māru[son]N dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 13',buʾʾû[look-for]V
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 14',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),o 15',târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),r 1',šību[witness]N Ahi-qamu[1]PN tamkāru[merchant]N
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),r 2',kiṣru[knot]N šarru[king]N
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),r 3',šību[witness]N Ahi-yaqar[1]PN
+saao/saa06/P335198,SAA 06 246. Dannaya Buys a Slave (ADD 0251),SAA 06 246. Dannaya Buys a Slave (ADD 0251),r 4',šību[witness]N Banaya[1]PN

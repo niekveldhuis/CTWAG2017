@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 1,kunukku[seal]N Daʾʾinanni-Nergal[1]PN kunukku[seal]N Zili[1]PN
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 2,kunukku[seal]N Kur-ilaʾi[1]PN kunukku[seal]N Aššur-šallim-ahhe[1]PN
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 3,māru[son]N Gabbu-ilani-ereš[1]PN
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 4,gimru[totality]N awīlu[man]N bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 5,sinništu[woman]N gimru[totality]N Marṣiš-adallal[1]PN
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 6,gimru[totality]N ṣuhurtu[the-young;-youth(s)]N
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 7,ummu[mother]N gimru[totality]N napištu[throat]N
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 8,ardu[slave]N ša[of]DET awīlu[man]N annû[this]DP
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 9,epēšu[do]V Remanni-Adad[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 10,ša[of]DET Aššur-bani-apli[1]PN šarru[king]N mātu[land]N Aššur[1]DN
+saao/saa06/P335217,SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),SAA 06 343. Remanni-Adad Buys 5 Slaves for 5 Minas of Silver (ADD 0270),o 11,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET Gargamis[Carchemish]GN

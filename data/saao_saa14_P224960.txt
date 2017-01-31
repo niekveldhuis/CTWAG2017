@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),o 1,manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET šarru[king]N
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),o 2,Kenu-ahhe[1]PN
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),o 3,ana[to]PRP Nabu-iqbi[1]PN
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),o 4,ana[to]PRP Inurti[1]PN
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),o 5,tadānu[give]V Nabu-rehtu-uṣur[1]PN
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),b.e. 6,māru[son]N ahu[brother]N paṭāru[loosen]V
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),b.e. 7,zakû[be(come)-clear]V
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),r 1,Tašritu[Tishri]MN ūmu[day]N
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),r 2,līmu[eponym-(of-year)]N Šamaš-kašid-ayabi[1]PN
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),r 3,šību[witness]N Hašanu[1]PN
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),r 4,šību[witness]N Labaṭi[1]PN
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),r 5,šību[witness]N Didi[1]PN
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),r.e. 6,šību[witness]N Ṭab-Dadi[1]PN
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),r.e. 7,šību[witness]N Duri-Adad[1]PN
+saao/saa14/P224960,SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),SAA 14 438. Inner Tablet of the Preceding Text (TIM 11 18),r.e. 8,šību[witness]N Dugul-ana-ili[1]PN

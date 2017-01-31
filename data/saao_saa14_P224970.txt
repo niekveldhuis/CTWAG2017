@@ -1,0 +1,4 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224970,SAA 14 451. (no title) (TIM 11 26),SAA 14 451. (no title) (TIM 11 26),r 2',ina[in]PRP libbu[interior]N ēkallu[palace]N māšartu[inspection]N
+saao/saa14/P224970,SAA 14 451. (no title) (TIM 11 26),SAA 14 451. (no title) (TIM 11 26),r 3',ṣarpu[silver]N eṣpu[doubled]AJ tadānu[give]V
+saao/saa14/P224970,SAA 14 451. (no title) (TIM 11 26),SAA 14 451. (no title) (TIM 11 26),r 4',dullu[trouble]N ša[of]DET šarru[king]N

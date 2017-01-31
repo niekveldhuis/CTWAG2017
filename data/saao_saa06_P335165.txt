@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),o 1',ina[in]PRP libbu[interior]N biltu[load]N erû[copper]N
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),o 2',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),o 3',târu[turn]V dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),o 4',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV lū[may]MOD ina[in]PRP matīma[ever]AV
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),o 5',zaqāpu[fix-upright]V
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),o 6',mā[saying]PRP sinništu[woman]N paṭāru[loosen]V
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),o 7',manû[unit]N ṣarpu[silver]N tadānu[give]V paṭāru[loosen]V
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),o 8',Duʾuzu[Tammuz]MN ūmu[day]N
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),b.e. 9',līmu[eponym-(of-year)]N Sin-ahhe-eriba[Sennacherib]PN
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),b.e. 10',šarru[king]N mātu[land]N Aššur[1]DN
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),r 1,šību[witness]N Mannu-ki-Adad[1]PN
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),r 2,šību[witness]N Ruradidi[1]PN
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),r 3,ša-rēši[eunuch]N ša[of]DET šakintu[(a-female-official)]N
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),r 4,šību[witness]N Gallulu[1]PN atû[gatekeeper]N
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),r 5,šību[witness]N Zizi[1]PN
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),r 6,šību[witness]N Muqallil-kabti[1]PN
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),r 7,šību[witness]N Nabu-duru-uṣur[1]PN ša-rēši[eunuch]N
+saao/saa06/P335165,SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),SAA 06 152. Purchase of a Woman (687-IV-15) (ADD 0218),r 8,šību[witness]N Dunqi-Issar[1]PN

@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),o 1,kunukku[seal]N Zabinu[1]PN
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),o 2,šušānu[horse-trainer]N rabû[big-one]N mūgu[contingent]N
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),o 3,manû[unit]N ṣarpu[silver]N
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),o 4,ina[in]PRP ša[of]DET Gargamis[Carchemish]GN
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),o 5,ša[of]DET Amurri[1]PN
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),o 6,ina[in]PRP pānu[front]N Zabinu[1]PN
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),o 7,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),b.e. 8,Duʾuzu[Tammuz]MN ūmu[day]N
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),b.e. 9,līmu[eponym-(of-year)]N Nabu-šar-ahhešu[1]PN
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),r 1,šību[witness]N Nušku-ilaʾi[1]PN ša-rēši[eunuch]N
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),r 2,šību[witness]N Issar-duri[1]PN
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),r 3,šību[witness]N Indu[1]PN ištu[from]PRP Kummuhi[Commagene]GN
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),r 4,šību[witness]N Ahu-leʾi[1]PN
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),r 5,šību[witness]N Našuh-ayali[1]PN
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),r 6,šukkallu[(a-court-official)]N ša[of]DET nērebu[entrance]N
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),r 7,šību[witness]N Harranayu[1]PN
+saao/saa14/P334977,SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),SAA 14 094. Amurri Lends One Mina of Silver (*646-IV-9) (ADD 0025),r 8,šību[witness]N Nabu-rehtu-uṣur[1]PN ṭupšarru[scribe]N

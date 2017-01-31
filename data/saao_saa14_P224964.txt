@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),o 1,kunukku[seal]N
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),o 2,māru[son]N
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),b.e. 5,ina[in]PRP ūmu[day]N ša[of]DET arhu[month]N
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),r 2,šumma[if]MOD lā[not]MOD
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),r 3,lā[not]MOD
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),r 4,pūtuhhu[responsibility]N
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),r 5,našû[lift]V
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),r 6,Nisannu[Nisan]MN ūmu[day]N
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),r.e. 7,līmu[eponym-(of-year)]N
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),r.e. 8,šību[witness]N
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),e. 1,šību[witness]N Aššur-uballiṭ[1]PN
+saao/saa14/P224964,SAA 14 447. (no title) (TIM 11 20),SAA 14 447. (no title) (TIM 11 20),e. 2,šību[witness]N

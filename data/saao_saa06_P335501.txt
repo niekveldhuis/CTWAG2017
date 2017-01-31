@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),o 1',šarru[king]N
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),o 3',ina[in]PRP
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 1',ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 2',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 3',lā[not]MOD leqû[take]V
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 4',šību[witness]N Nabu-taklak[1]PN
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 5',šību[witness]N Nušku-ilaʾi[1]PN
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 6',šību[witness]N Ahu-duri[1]PN
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 7',šību[witness]N Aplu-uṣur[1]PN
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 8',šību[witness]N Dadi-larim[1]PN
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 9',šību[witness]N Nargi[1]PN
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 10',šību[witness]N Sarukina[1]PN
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 11',šību[witness]N Mardukya[1]PN
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 12',šību[witness]N Bel-naṣir[1]PN
+saao/saa06/P335501,SAA 06 225. (no title) (677-XII-6) (ADD 0576),SAA 06 225. (no title) (677-XII-6) (ADD 0576),r 13',Addaru[Adar]MN ūmu[day]N

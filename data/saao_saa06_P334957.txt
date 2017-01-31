@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),o 1,manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),o 2,ša[of]DET Zazi[1]PN ina[in]PRP pānu[front]N Adad-iqiša[1]PN
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),o 3,ina[in]PRP pānu[front]N Šulmu-šarri[1]PN
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),o 4,ina[in]PRP pānu[front]N Ah-abu[1]PN
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),o 5,ina[in]PRP pānu[front]N Aššur-mutakkil-šarri[1]PN
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),o 6,ina[in]PRP pānu[front]N Kakki-Aya[1]PN
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),o 7,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),b.e. 8,ana[to]PRP šalāšiu[third]NU rabû[to-be-big]V
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),b.e. 9,šību[witness]N Šubi-il[1]PN bēlu[lord]N qātu[hand]N
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),r 1,šību[witness]N Liphur-ilu[1]PN bēlu[lord]N qātu[hand]N
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),r 2,šību[witness]N Arbailayu[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),r 3,šību[witness]N Kur-ilaʾi[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),r 4,šību[witness]N Inurta-ahu-iddina[1]PN šanû[second]NU ēkallu[palace]N labīru[old]AJ
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),r 5,šību[witness]N Seʾ-ṭuri[1]PN nappāhu[smith]N
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),r 6,šību[witness]N Mannu-ki[1]PN
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),r 7,Nisannu[Nisan]MN ūmu[day]N
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),r 8,līmu[eponym-(of-year)]N Inurta-alik-pani[1]PN
+saao/saa06/P334957,SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),SAA 06 026. Zazi Loans 20 Minas of Silver (711-I-21) (ADD 0005),r.e. 8,šaknu[appointee]N mātu[land]N Siʾimme[1]GN

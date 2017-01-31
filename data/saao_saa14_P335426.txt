@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335426,SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),o 1',Garruṣu[1]PN
+saao/saa14/P335426,SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),o 2',Bel-samaʾ[1]PN
+saao/saa14/P335426,SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),o 3',Taquni[1]PN
+saao/saa14/P335426,SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),o 4',epēšu[do]V Aššur-šallim-ahhe[1]PN
+saao/saa14/P335426,SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),o 5',ištu[from]PRP pānu[front]N Garruṣu[1]PN
+saao/saa14/P335426,SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),SAA 14 185. Aššur-šallim-ahhe Buys [... ] (ADD 0487),o 6',ina[in]PRP libbu[interior]N biltu[load]N manû[unit]N erû[copper]N

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335297,SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335297,SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),o 2,ṣupru[nail]N Nabu-šezibanni[1]PN
+saao/saa06/P335297,SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),o 3,qaqqaru[ground]N peṣû[white]AJ
+saao/saa06/P335297,SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),o 4,ina[in]PRP kutallu[back]N ša[of]DET Arbail[Arbela]GN
+saao/saa06/P335297,SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),o 5,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Ṭuki[1]PN
+saao/saa06/P335297,SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),o 6,ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa06/P335297,SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),r 1',šību[witness]N
+saao/saa06/P335297,SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),r 2',šību[witness]N Sin-abu-uṣur[1]PN ṭupšarru[scribe]N
+saao/saa06/P335297,SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),SAA 06 159. Sale of a Building Plot Near Arbela (687) (ADD 0353),r 3',ṣābitu[recipient]N ṭuppu[tablet]N ūmu[day]N

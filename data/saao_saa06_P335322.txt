@@ -1,0 +1,35 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 2,ṣupru[nail]N Il-malak[1]PN
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 3,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 4,bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 5,ša[of]DET mû[water]N bītu[house]N imēru[unit]N
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 6,ša[of]DET šamaššammū[sesame]N ina[in]PRP
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 8,ina[in]PRP Hame[1]GN
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 9,ṭāhu[adjacent-to]PRP nāru[river]N ṭāhu[adjacent-to]PRP
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 10,ṭāhu[adjacent-to]PRP saharu[tower]N
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 11,epēšu[do]V Mannu-ki-Arbail[1]PN
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 12,ištu[from]PRP pānu[front]N Il-malak[1]PN
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 13,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 14,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),o 15,eqlu[field]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),b.e. 18,lū[may]MOD
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),b.e. 19,lū[may]MOD
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),b.e. 20,lū[may]MOD qurbu[relative]N
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),b.e. 21,lū[may]MOD mammanu-[whosoever]XP
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 1,ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 2,išti[with]PRP Mannu-ki-Arbail[1]PN
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 3,u[and]CNJ māru[son]N buʾʾû[look-for]V
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 4,manû[unit]N ṣarpu[silver]N mesû[washed]AJ
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 5,manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 6,ina[in]PRP burku[knee]N šakānu[put]V
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 7,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 8,lā[not]MOD leqû[take]V
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 9,šību[witness]N Abunu[1]PN
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 10,šību[witness]N Mannu-ki-ahi[1]PN
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 11,šību[witness]N
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 12,šību[witness]N Mannu-ki-abi[1]PN
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 13,māru[son]N
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 14,šību[witness]N
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 15,šību[witness]N
+saao/saa06/P335322,SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),SAA 06 217. Mannu-ki-Arbail Buys 32 Hectares of Land (ADD 0378),r 16,Addaru[Adar]MN ūmu[day]N līmu[eponym-(of-year)]N

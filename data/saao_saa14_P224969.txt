@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224969,SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),b.e. 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P224969,SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),r 1,tadānu[give]V
+saao/saa14/P224969,SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),r 2,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P224969,SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),r 3,ina[in]PRP qabaltu[middle]N Ninua[Nineveh]GN tadānu[give]V
+saao/saa14/P224969,SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),r 4,Nisannu[Nisan]MN ūmu[day]N
+saao/saa14/P224969,SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),r 5,līmu[eponym-(of-year)]N Bel-iqbi[1]PN
+saao/saa14/P224969,SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),SAA 14 445. Silver Loan (*621-I-21) (TIM 11 25),r 6,šību[witness]N Šarru-isseʾa[1]PN

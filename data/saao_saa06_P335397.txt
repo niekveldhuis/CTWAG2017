@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),o 2',alāku[go]V
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),o 3',ištu[from]PRP
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),o 4',bītu[house]N
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),o 5',ṭāhu[adjacent-to]PRP
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),o 6',ṭāhu[adjacent-to]PRP
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),o 8',mārtu[daughter]N gimru[totality]N napištu[throat]N
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),o 9',epēšu[do]V
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),o 10',ina[in]PRP libbu[interior]N meʾatu[(one)-hundred]NU manû[unit]N erû[copper]N
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),o 11',ištu[from]PRP pānu[front]N
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),r 1',šību[witness]N
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),r 2',šību[witness]N
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),r 3',šību[witness]N
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),r 4',šību[witness]N
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),r 5',šību[witness]N Marṣiš-adallal[1]PN
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),r 6',šību[witness]N
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),r 7',šību[witness]N Ubru-Nabu[1]PN
+saao/saa06/P335397,SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),SAA 06 155. A Fragmentary Real Estate Sale (687-VII-15) (ADD 0456),r 8',Tašritu[Tishri]MN ūmu[day]N līmu[eponym-(of-year)]N Sin-ahhe-eriba[Sennacherib]PN

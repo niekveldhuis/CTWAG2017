@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336759,SAA 14 415. Fragment of a Conveyance Text (K 20543),SAA 14 415. Fragment of a Conveyance Text (K 20543),r 1',išti[with]PRP māru[son]N
+saao/saa14/P336759,SAA 14 415. Fragment of a Conveyance Text (K 20543),SAA 14 415. Fragment of a Conveyance Text (K 20543),r 2',māru[son]N māru[son]N buʾʾû[look-for]V
+saao/saa14/P336759,SAA 14 415. Fragment of a Conveyance Text (K 20543),SAA 14 415. Fragment of a Conveyance Text (K 20543),r 3',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P336759,SAA 14 415. Fragment of a Conveyance Text (K 20543),SAA 14 415. Fragment of a Conveyance Text (K 20543),r 4',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P336759,SAA 14 415. Fragment of a Conveyance Text (K 20543),SAA 14 415. Fragment of a Conveyance Text (K 20543),r 6',šību[witness]N
+saao/saa14/P336759,SAA 14 415. Fragment of a Conveyance Text (K 20543),SAA 14 415. Fragment of a Conveyance Text (K 20543),r 7',šību[witness]N ṭupšarru[scribe]N
+saao/saa14/P336759,SAA 14 415. Fragment of a Conveyance Text (K 20543),SAA 14 415. Fragment of a Conveyance Text (K 20543),r 8',šību[witness]N šību[witness]N Banitu-ereš[1]PN
+saao/saa14/P336759,SAA 14 415. Fragment of a Conveyance Text (K 20543),SAA 14 415. Fragment of a Conveyance Text (K 20543),r 9',šību[witness]N
+saao/saa14/P336759,SAA 14 415. Fragment of a Conveyance Text (K 20543),SAA 14 415. Fragment of a Conveyance Text (K 20543),r 10',šību[witness]N rēʾû[shepherd]N ša[of]DET māru[son]N šarru[king]N
+saao/saa14/P336759,SAA 14 415. Fragment of a Conveyance Text (K 20543),SAA 14 415. Fragment of a Conveyance Text (K 20543),r 11',šību[witness]N Lahiru[1]GN

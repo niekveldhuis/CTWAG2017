@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335955,SAA 14 349. (no title) (ADD 1174+),SAA 14 349. (no title) (ADD 1174+),o 1,māru[son]N Aissi[1]PN
+saao/saa14/P335955,SAA 14 349. (no title) (ADD 1174+),SAA 14 349. (no title) (ADD 1174+),o 2,Arihu[1]PN
+saao/saa14/P335955,SAA 14 349. (no title) (ADD 1174+),SAA 14 349. (no title) (ADD 1174+),o 3,māru[son]N
+saao/saa14/P335955,SAA 14 349. (no title) (ADD 1174+),SAA 14 349. (no title) (ADD 1174+),o 4,nappāhu[smith]N
+saao/saa14/P335955,SAA 14 349. (no title) (ADD 1174+),SAA 14 349. (no title) (ADD 1174+),o 5,māru[son]N

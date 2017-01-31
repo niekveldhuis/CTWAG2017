@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),o 1',Mullissu-ummi[1]PN amtu[maid]N
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),o 2',māru[son]N gimru[totality]N napištu[throat]N
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),o 3',epēšu[do]V Ninuayu[1]PN
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),o 4',ša-rēš-šarri[royal-eunuch]N nišu[people]N ištu[from]PRP pānu[front]N
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),o 5',Abdi[1]PN
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),o 6',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),o 7',ina[in]PRP manû[unit]N erû[copper]N
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),o 8',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),o 9',tadnu[given]AJ nišu[people]N šuāti[him]IP
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),b.e. 10',zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),b.e. 11',târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),b.e. 12',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),r 1,mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),r 2,manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),r 3,nišu[people]N aṣû[go-out]V
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),r 4,šību[witness]N Abdi-Seʾ[1]PN
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),r 5,šību[witness]N Šamaš-killanni[1]PN
+saao/saa14/P335201,SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),SAA 14 020. Ninuayu Buys Three Slaves (ADD 0254),r 6,šību[witness]N Nabu-šallim[1]PN

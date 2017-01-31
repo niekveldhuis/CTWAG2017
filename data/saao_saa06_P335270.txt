@@ -1,0 +1,43 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 2,ṣupru[nail]N Dusi[1]PN bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 3,bītu[house]N epšu[made]AJ adi[until]PRP gušūru[tree-trunk]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 4,adi[until]PRP daltu[door]N bītu[house]N mayyālu[bed]N tarbāṣu[courtyard]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 5,bītu[house]N ramāku[bathing]N bītu[house]N šanû[second]NU ša[of]DET bītu[house]N dannu[strong]AJ
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 6,bītu[house]N elû[upper-part]N bītu[house]N abūsu[storehouse]N bītu[house]N qātu[hand]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 7,ina[in]PRP libbu[interior]N epēšu[do]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 8,Šumma-ilani[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 9,ša[of]DET ša-muhhi-bēti[overseer-of-the-household]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 10,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET šarru[king]N leqû[take]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 11,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 12,bītu[house]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 13,târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 14,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 15,u[and]CNJ matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 16,parāku[lie-across]V lū[may]MOD Dusi[1]PN
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 17,lū[may]MOD māru[son]N lū[may]MOD ahu[brother]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 18,lū[may]MOD mammanu-[whosoever]XP ša[that]REL išti[with]PRP Šumma-ilani[1]PN
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 19,māru[son]N dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 20,buʾʾû[look-for]V manû[unit]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 21,mesû[washed]AJ manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),o 22,ina[in]PRP burku[knee]N šakānu[put]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 1,sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Aššur[1]DN
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 2,rakāsu[bind]V harbakkannu[(a-kind-of-horse)]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 3,ina[in]PRP šēpu[foot]N Nergal[1]DN erēbu[enter]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 4,biltu[load]N annaku[tin]N ana[to]PRP pīhātu[responsibility]N ālu[city]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 5,tadānu[give]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 6,ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 7,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 8,šību[witness]N Urdu-Aya[1]PN išparu[weaver]N birmu[multicoloured-cloth]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 9,šību[witness]N Ilu-ibni[1]PN ahu[brother]N ša[of]DET hazannu[mayor]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 10,šību[witness]N Kenuʾa[1]PN Libbalaya[from-Assur]EN
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 11,šību[witness]N Bel-ibni[1]PN ardu[slave]N ša[of]DET ša-muhhi-bēti[overseer-of-the-household]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 12,šību[witness]N Šumma-ilu[1]PN tamkāru[merchant]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 13,šību[witness]N Bibi[1]PN rēʾû[shepherd]N rabû[big]AJ
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 14,šību[witness]N Danqa-dibbi-Issar[1]PN
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 15,šību[witness]N Qalunzu[1]PN
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 16,šību[witness]N Aššur-šezibanni[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 17,šību[witness]N Nabu-bel-šumati[1]PN ṭupšarru[scribe]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 18,šību[witness]N Qiti-ilani[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 19,šību[witness]N Arbailayu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335270,SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),SAA 06 042. Šumma-ilani Buys a House (692-II-10) (ADD 0326),r 20,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N Zazaya[1]PN

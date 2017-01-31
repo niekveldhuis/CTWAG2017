@@ -1,0 +1,2 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336752,SAA 14 408. (no title) (K 16531),SAA 14 408. (no title) (K 16531),r 3',Nabu-šumu-iškun[1]PN

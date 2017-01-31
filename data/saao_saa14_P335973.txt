@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),o 1,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),o 2,ša[of]DET Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),o 3,ša[of]DET Nur-Šamaš[1]PN
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),o 4,ina[in]PRP pānu[front]N Duri-Aššur[1]PN
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),o 5,ina[in]PRP pānu[front]N Arbailayu[1]PN
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),o 6,ina[in]PRP pānu[front]N Kur-ilaʾi[1]PN
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),b.e. 7,ištu[from]PRP libbu[interior]N Kapar-Azhula[1]GN
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),b.e. 8,kūm[instead-of]PRP rubbû[increase]N
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),r 1,Šulmu-mat-Aššur[1]PN māru[son]N
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),r 2,šattu[year]N kamsu[squatting]AJ
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),r 3,šumma[if]MOD halqu[lost]AJ ina[in]PRP muhhu[skull]N bēlu[lord]N
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),r 4,ina[in]PRP ūmu[day]N māru[son]N šattu[year]N
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),r 5,šalāmu[be(come)-healthy]V
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),r 6,ṣarpu[silver]N tadānu[give]V māru[son]N aṣû[go-out]V
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),r 7,šību[witness]N Amurri[1]PN
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),r.e. 8,šību[witness]N Nabu-sagibi[1]PN
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),r.e. 9,šību[witness]N Issar-šumu-iddina[1]PN
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),r.e. 10,šību[witness]N Mardanu[1]PN
+saao/saa14/P335973,SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),SAA 14 108. Nur-Šamaš Lends Silver Against a Pledge (*637-III) (ADD 1193),e. 1,arhu[month]N līmu[eponym-(of-year)]N

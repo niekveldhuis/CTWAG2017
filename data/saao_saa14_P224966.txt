@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),o 1,kunukku[seal]N Aṣe[1]PN
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),o 2,māru[son]N Tamurṭiše[1]PN
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),o 3,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),o 4,ūmu[day]N
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),b.e. 7,ina[in]PRP libbu[interior]N
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),r 1,tadānu[give]V
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),r 2,Aṣe[1]PN
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),r 3,alāku[go]V šumma[if]MOD dullu[trouble]N
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),r 4,lā[not]MOD epēšu[do]V ṣarpu[silver]N ina[in]PRP mišlu[half]NU rabû[to-be-big]V
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),r 5,epēšu[do]V
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),r 6,Tašritu[Tishri]MN līmu[eponym-(of-year)]N Šamaš-šarru-ibni[1]PN
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),r 7,šību[witness]N
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),e. 1,šību[witness]N Haqu-neši[1]PN
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),e. 2,Ši-eše[1]PN
+saao/saa14/P224966,SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),SAA 14 446. Court Order Concerning a Silver Loan (*612-VII) (TIM 11 22),e. 3,egertu[inscribed-tablet]N ša[of]DET šiqlu[unit]N ṣarpu[silver]N

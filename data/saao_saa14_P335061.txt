@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),o 1,kunukku[seal]N Šulmu-mat-Aššur[1]PN
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),o 2,ša-epinni[plowman]N ša[of]DET Kiṣir-Aššur[1]PN
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),o 3,ša[of]DET Sinqi-Issar[1]PN
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),o 4,târu[turn]V šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),o 5,eṣpu[doubled]AJ tadānu[give]V
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),r 1',hibiltu[wrongdoing]N
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),r 2',qātu[hand]N Sinqi-Issar[1]PN
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),r 3',habālu[be(come)-in-debt]V eṣpu[doubled]AJ
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),r 4',ana[to]PRP Sinqi-Issar[1]PN tadānu[give]V
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),r 5',šību[witness]N Kiṣir-Aššur[1]PN
+saao/saa14/P335061,SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),SAA 14 057. Siniq-Issar Lends Silver (*627?) (ADD 0110),r.e. 6,šību[witness]N Kakkullanu[1]PN

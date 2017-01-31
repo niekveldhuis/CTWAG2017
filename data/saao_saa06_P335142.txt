@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335142,SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),o 1,kunukku[seal]N Seʾ-saka[1]PN
+saao/saa06/P335142,SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),o 2,rabû[big-one]N bītu[house]N bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335142,SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),o 3,ardu[slave]N
+saao/saa06/P335142,SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),o 4,ša[of]DET Seʾ-saka[1]PN rabû[big-one]N bītu[house]N
+saao/saa06/P335142,SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),o 5,epēšu[do]V Šer-uarri[1]PN
+saao/saa06/P335142,SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),r 1',šību[witness]N Sin-belu-uṣur[1]PN
+saao/saa06/P335142,SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),r 2',šību[witness]N Sin-zeru-iddina[1]PN
+saao/saa06/P335142,SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),r 3',šību[witness]N Seʾ-šumki[1]PN
+saao/saa06/P335142,SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),r 4',šību[witness]N Salsali[1]PN ṭupšarru[scribe]N
+saao/saa06/P335142,SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),SAA 06 267. Purchase of a Slave (677-X-1) (ADD 0194),r 5',Ṭebetu[Tebet]MN ūmu[day]N

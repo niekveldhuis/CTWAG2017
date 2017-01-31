@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),o 1,kunukku[seal]N
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),o 2,nukaribbu[gardener]N ardu[slave]N
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),o 3,bēlu[lord]N kirû[garden]N tadānu[give]V
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),r 1',šību[witness]N
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),r 2',šību[witness]N
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),r 3',šību[witness]N Naʾdi-ilu[1]PN
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),r 4',šību[witness]N Zaruti[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),r 5',šību[witness]N Nabu-šadduʾa[1]PN
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),r 6',Nisannu[Nisan]MN ūmu[day]N
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),r.e. 7,līmu[eponym-(of-year)]N Šamaš-kašid-ayabi[1]PN
+saao/saa06/P335310,SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),SAA 06 304. Remanni-Adad Purchases Gardens (669-I) (ADD 0366),r.e. 8,ša[of]DET

@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 2,šakānu[put]V ṣupru[nail]N
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 3,Hakkubu[1]PN bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 4,Šamaš-eriba[1]PN ardu[slave]N ša[of]DET Hakkubu[1]PN
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 5,epēšu[do]V Atuehu[1]PN
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 6,tašlīšu[third-man-on-chariot]N ištu[from]PRP pānu[front]N Hakkubu[1]PN
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 7,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 8,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 9,awīlu[man]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 10,târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 11,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),o 12,zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),r 2',šību[witness]N tamkāru[merchant]N
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),r 3',šību[witness]N Aba-gu[1]PN ṭupšarru[scribe]N
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),r 4',Armaya[Aramean]EN
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),r 5',šību[witness]N Abdi-Aguni[1]PN
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),r 6',tašlīšu[third-man-on-chariot]N šanû[second]NU
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),r 7',līmu[eponym-(of-year)]N Nabu-duru-uṣur[1]PN
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),r 8',Ṭebetu[Tebet]MN ūmu[day]N
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),r 9',ṭupšarru[scribe]N Bel-iddina[1]PN
+saao/saa06/P335129,SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),SAA 06 127. Atuehu 'Third Man' Buys a Slave (697-X-7) (ADD 0179),r 10',manû[unit]N erû[copper]N ša[of]DET ṣupru[nail]N

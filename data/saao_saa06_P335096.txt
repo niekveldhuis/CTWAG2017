@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335096,SAA 06 068. Duplicate of the Previous Text (688-IV-23) (ADD 0145),SAA 06 068. Duplicate of the Previous Text (688-IV-23) (ADD 0145),r 1,Duʾuzu[Tammuz]MN ūmu[day]N
+saao/saa06/P335096,SAA 06 068. Duplicate of the Previous Text (688-IV-23) (ADD 0145),SAA 06 068. Duplicate of the Previous Text (688-IV-23) (ADD 0145),r 2,līmu[eponym-(of-year)]N Iddin-ahhe[1]PN šaknu[appointee]N mātu[land]N

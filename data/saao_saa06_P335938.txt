@@ -1,0 +1,26 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 1,ṣupru[nail]N Seʾ-dala[1]PN
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 2,ṣupru[nail]N Sin-naʾdi[1]PN ahu[brother]N
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 3,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 4,bītu[house]N imēru[unit]N ša[of]DET Seʾ-dala[1]PN ša[of]DET Sin-naʾdi[1]PN
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 5,ina[in]PRP Meze[1]GN epēšu[do]V
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 6,ša-rēši[eunuch]N ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 7,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 8,eqlu[field]N zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 9,târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 10,dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 11,mannu[who?]QP šaknu[appointee]N ša[that]REL parāku[lie-across]V
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 12,manû[unit]N ṣarpu[silver]N mesû[washed]AJ
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),o 13,manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),b.e. 14,tadānu[give]V
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 1,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 2,ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 3,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 4,šību[witness]N Seʾ-matiʾ[1]PN
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 5,šību[witness]N Zabudu[1]PN
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 6,šību[witness]N Quli[1]PN
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 7,šību[witness]N Ubru-Sin[1]PN ša[of]DET Ṣirina[1]GN
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 8,šību[witness]N Adda-imme[1]PN māru[son]N Nur-Seʾ[1]PN
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 9,ina[in]PRP Ṭebetu[Tebet]MN ūmu[day]N
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 10,līmu[eponym-(of-year)]N Bel-Harran-belu-uṣur[1]PN
+saao/saa06/P335938,SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),SAA 06 023. A Eunuch Buys Land in Meze (727-X-7) (ADD 1156),r 11,šību[witness]N Nabu-šumu-uṣur[1]PN

@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 1,kunukku[seal]N Hanan[1]PN
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 2,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 3,bītu[house]N imēru[unit]N eqlu[field]N mazrūtu[(area-or-state-of)-cultivation]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 4,ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N eqlu[field]N zakkû[(official)-freed]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 5,ina[in]PRP Hata[1]GN
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 6,ṭāhu[adjacent-to]PRP ummu[mother]N ša[of]DET Šuri[1]GN
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 7,ṭāhu[adjacent-to]PRP hūlu[way]N ša[of]DET Šuri[1]GN
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 8,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 9,rabû[big-one]N hamšā[fifty]NU eqlu[field]N ina[in]PRP mazrūtu[(area-or-state-of)-cultivation]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 10,lā[not]MOD nusāhu[(a-grain-tax)]N epēšu[do]V
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 11,Silim-Aššur[1]PN
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 12,ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 13,leqû[take]V ana[to]PRP šattu[year]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 14,akālu[eat]V mērešu[cultivated-land]N karaphu[fallow-land]N akālu[eat]V
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 15,mērešu[cultivated-land]N šalāmu[be(come)-healthy]V
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),o 16,qaqqadu[head]N ṣarpu[silver]N ina[in]PRP muhhu[skull]N tarammu[grain-heap]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 1,šakānu[put]V eqlu[field]N aṣû[go-out]V
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 2,Ṭebetu[Tebet]MN ūmu[day]N līmu[eponym-(of-year)]N Banba[1]PN
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 3,šību[witness]N Aplu-uṣur[1]PN šību[witness]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 4,šību[witness]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 5,šību[witness]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 6,šību[witness]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 7,šību[witness]N Mannu-ki-Arbail[1]PN
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 8,šību[witness]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 9,šību[witness]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 10,šību[witness]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 11,Ṭebetu[Tebet]MN ūmu[day]N līmu[eponym-(of-year)]N Banba[1]PN
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 12,šukkallu[(a-court-official)]N
+saao/saa06/P335544,SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),SAA 06 226. Silim-Aššur Rents an Estate (676-X-12) (ADD 0629),r 13,šumma[if]MOD andurāru[freedom]N šaknu[placed]AJ Silim-Aššur[1]PN

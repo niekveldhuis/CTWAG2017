@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),o 1,manû[unit]N ṣarpu[silver]N
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),o 2,ina[in]PRP ša[of]DET Gargamis[Carchemish]GN
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),o 3,ša[of]DET Amurri[1]PN
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),o 4,ina[in]PRP pānu[front]N Zabinu[1]PN
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),o 5,šušānu[horse-trainer]N rabû[big-one]N mūgu[contingent]N
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),o 6,ṣarpu[silver]N ana[to]PRP rebû[fourth]NU
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),b.e. 7,rabû[to-be-big]V
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),b.e. 8,Duʾuzu[Tammuz]MN ūmu[day]N
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),r 1,līmu[eponym-(of-year)]N Nabu-šar-ahhešu[1]PN
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),r 2,šību[witness]N Issar-duri[1]PN
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),r 3,šību[witness]N Indu[1]PN
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),r 4,šību[witness]N Nušku-ilaʾi[1]PN ša-rēši[eunuch]N
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),r 5,šību[witness]N Našuh-ayali[1]PN
+saao/saa14/P334976,SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),SAA 14 095. Inner Tablet of the Preceding Text (ADD 0024),r.e. 6,šību[witness]N Ahu-leʾi[1]PN

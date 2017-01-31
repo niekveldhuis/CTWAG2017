@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),b.e. 1,ina[in]PRP ūmu[day]N ša[of]DET arhu[month]N
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),o 2,Šarru-lu-dari[1]PN
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),o 3,adi[until]PRP
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),o 4,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),o 5,ina[in]PRP libbu[interior]N Ninua[Nineveh]GN
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),r 1',šību[witness]N
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),r 2',šību[witness]N
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),r 3',šību[witness]N Gabbu-ilani[1]PN
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),r 4',šību[witness]N Arbailayu[1]PN
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),r 5',šību[witness]N Qurdi-Adad[1]PN
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),r 6',šību[witness]N
+saao/saa14/P335043,SAA 14 222. (no title) (ADD 0092),SAA 14 222. (no title) (ADD 0092),e. 1,šību[witness]N Nabu-zer-ketti-lešir[1]PN

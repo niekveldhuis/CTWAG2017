@@ -1,0 +1,2 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335491,SAA 14 296. Fragment of a Conveyance Text (ADD 0564),SAA 14 296. Fragment of a Conveyance Text (ADD 0564),2',māru[son]N buʾʾû[look-for]V

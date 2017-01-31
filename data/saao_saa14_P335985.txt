@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),2',ina[in]PRP libbu[interior]N imēru[unit]N
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),3',ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),4',ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),5',ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),6',ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),7',gimru[totality]N napištu[throat]N
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),8',ša[of]DET tillatu[vine]N
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),9',epēšu[do]V
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),10',ištu[from]PRP pānu[front]N
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),11',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),12',ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN leqû[take]V
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),13',kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),r 1,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),r 2,mannu[who?]QP ša[that]REL ina[in]PRP matīma[ever]AV
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),r 4,lū[may]MOD māru[son]N
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),r 5,u[and]CNJ
+saao/saa14/P335985,SAA 14 355. Purchase of Land and People (ADD 1205),SAA 14 355. Purchase of Land and People (ADD 1205),r 6,dīnu[legal-decision]N dabābu[speak]V išti[with]PRP buʾʾû[look-for]V

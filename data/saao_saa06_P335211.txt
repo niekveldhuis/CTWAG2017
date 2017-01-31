@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 1',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 2',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 3',qabû[say]V mā[saying]PRP nišu[people]N
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 4',lā[not]MOD tadānu[give]V lū[may]MOD Iqisu[1]PN
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 5',lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 6',lū[may]MOD ahu[brother]N ša[that]REL qabû[say]V mā[saying]PRP
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 7',nišu[people]N lā[not]MOD tadānu[give]V ṣarpu[silver]N
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 8',ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 9',târu[turn]V
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 10',šību[witness]N Šamaš-edu-lešir[1]PN
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 11',šību[witness]N Bel-duri[1]PN
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 12',šību[witness]N Barruqu[1]PN
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),o 13',šību[witness]N Nabu-šezib[1]PN
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),r 1,šību[witness]N Šamaš-šumu-iddina[1]PN
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),r 2,šību[witness]N Nabu-qišanni[1]PN
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),r 3,šību[witness]N Hu-mamati[1]PN
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),r 4,šību[witness]N
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),r 5,šību[witness]N Adad-kašir[1]PN
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),r 6,šību[witness]N Issaran-mesi[1]PN
+saao/saa06/P335211,SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),SAA 06 106. Aplaya Buys Slaves (688) (ADD 0264),r 7,ūmu[day]N līmu[eponym-(of-year)]N Iddin-ahhe[1]PN

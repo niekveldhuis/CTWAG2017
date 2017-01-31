@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),o 1,kunukku[seal]N Menaheme[1]PN
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),o 2,bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),o 3,Yaqar-ahi[1]PN mārtu[daughter]N
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),o 4,Abi-rahi[1]PN
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),o 5,gimru[totality]N napištu[throat]N
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),o 6,ša[of]DET Menaheme[1]PN
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),o 7,epēšu[do]V Abi-rahi[1]PN
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),o 8,ahātu[sister]N ša[of]DET šakintu[(a-female-official)]N
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),o 9,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),o 10,ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),b.e. 11,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),b.e. 12,tadnu[given]AJ nišu[people]N šuāti[him]IP
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),b.e. 13,zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),b.e. 14,târu[turn]V
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 1,dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 2,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 3,manû[unit]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 4,ina[in]PRP burku[knee]N Ištar[1]DN āšibu[sitting]AJ Ninua[Nineveh]GN šakānu[put]V
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 5,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 6,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 7,šību[witness]N Silim-ili[1]PN šangû[priest]N
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 8,šību[witness]N Didi[1]PN
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 9,šību[witness]N Milki-larim[1]PN
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 10,šību[witness]N
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),r 11,šību[witness]N
+saao/saa06/P335192,SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),SAA 06 250. Abi-rahi Sister of the Governess Buys Three Slaves (ADD 0245),t.e. 14,šaknu[appointee]N mātu[land]N

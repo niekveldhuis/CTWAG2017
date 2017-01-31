@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335405,SAA 14 266. Fragment of a Conveyance Text (ADD 0466),SAA 14 266. Fragment of a Conveyance Text (ADD 0466),o 2',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335405,SAA 14 266. Fragment of a Conveyance Text (ADD 0466),SAA 14 266. Fragment of a Conveyance Text (ADD 0466),r 1,ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP leqû[take]V
+saao/saa14/P335405,SAA 14 266. Fragment of a Conveyance Text (ADD 0466),SAA 14 266. Fragment of a Conveyance Text (ADD 0466),r 2,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ kirû[garden]N šuāti[him]IP
+saao/saa14/P335405,SAA 14 266. Fragment of a Conveyance Text (ADD 0466),SAA 14 266. Fragment of a Conveyance Text (ADD 0466),r 3,zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335405,SAA 14 266. Fragment of a Conveyance Text (ADD 0466),SAA 14 266. Fragment of a Conveyance Text (ADD 0466),r 4,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV parāku[lie-across]V

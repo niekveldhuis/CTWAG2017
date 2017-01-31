@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),o 1',ša[of]DET
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),o 2',ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),o 3',ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET Kiṣir-Issar[1]PN
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),o 4',epēšu[do]V Sin-aplu-iddina[1]PN
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),o 5',ištu[from]PRP pānu[front]N Kiṣir-Issar[1]PN ina[in]PRP libbu[interior]N
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),o 6',manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),o 7',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),r 1',Sin-aplu-iddina[1]PN
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),r 2',u[and]CNJ māru[son]N buʾʾû[look-for]V manû[unit]N ṣarpu[silver]N
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),r 3',tadānu[give]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),r 4',bēlu[lord]N târu[turn]V
+saao/saa14/P335451,SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),SAA 14 113. Sin-aplu-iddina Buys an Orchard (ADD 0514),r 5',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V

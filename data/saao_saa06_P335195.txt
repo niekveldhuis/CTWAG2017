@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 1',Šamaš-immi[1]PN sinništu[woman]N māru[son]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 2',mārtu[daughter]N gimru[totality]N napištu[throat]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 3',ardu[slave]N ša[of]DET Gabbaru[1]PN
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 4',epēšu[do]V Mušallim-Issar[1]PN
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 5',ina[in]PRP libbu[interior]N meʾatu[(one)-hundred]NU manû[unit]N erû[copper]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 6',ištu[from]PRP pānu[front]N Gabbaru[1]PN
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 7',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 8',tadnu[given]AJ nišu[people]N šuāti[him]IP
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 9',zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 10',târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 11',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 12',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),o 13',ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 1,manû[unit]N ṣarpu[silver]N ana[to]PRP Inurta[1]DN
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 2,āšibu[sitting]AJ Kalhu[1]GN tadānu[give]V
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 3,biltu[load]N annaku[tin]N ana[to]PRP pīhātu[responsibility]N ālu[city]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 4,tadānu[give]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 5,ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 6,ina[in]PRP dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 7,bennu[epilepsy]N ṣibtu[seizure]N ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 8,sartu[falsehood]N ana[to]PRP kalû[totality]N ūmu[day]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 9,šību[witness]N Ezbu-lešir[1]PN ṭābihu[slaughterer]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 10,šību[witness]N Ilumma-lidgul[1]PN ṭābihu[slaughterer]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 11,šību[witness]N Saggil-biʾdi[1]PN
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 12,ardu[slave]N ša[of]DET šukkallu[(a-court-official)]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 13,šību[witness]N Aššur-iddin[1]PN māru[son]N Ninua[Nineveh]GN
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 14,šību[witness]N Silim-Issar[1]PN atû[gatekeeper]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 15,ardu[slave]N ša[of]DET pīhātu[responsibility]N ša[of]DET Kalhu[1]GN
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),r 16,šību[witness]N mākisu[tax-collector]N
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),e. 1,Simanu[Sivan]MN ūmu[day]N līmu[eponym-(of-year)]N Aššur-bani[1]PN
+saao/saa06/P335195,SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),SAA 06 006. Mušallim-Issar Buys 7 Slaves (713-III-3) (ADD 0248),e. 2,šaknu[appointee]N mātu[land]N Kalhu[1]GN

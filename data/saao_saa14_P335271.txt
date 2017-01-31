@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 1',bītu[house]N
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 2',ištēn[one]NU daltu[door]N ina[in]PRP libbu[interior]N
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 3',ṭāhu[adjacent-to]PRP bītu[house]N Ṣil-Nabu[1]PN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 4',ṭāhu[adjacent-to]PRP bītu[house]N Ṭab-šar-Issar[1]PN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 5',ṭāhu[adjacent-to]PRP bītu[house]N Šamaš-leʾi[1]PN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 6',ṭāhu[adjacent-to]PRP sūqāqû[street]N
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 7',bītu[house]N ina[in]PRP rēšu[head]N Ninua[Nineveh]GN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 8',epēšu[do]V Kukkullayu[1]PN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 9',ištu[from]PRP pānu[front]N Upaqa-ana-Arbail[1]PN ištu[from]PRP pānu[front]N Šar-Issar[1]PN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 10',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 11',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ bītu[house]N
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 12',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 13',târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),o 14',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 1,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 2,zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 3,lū[may]MOD Upaqa-ana-Arbail[1]PN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 4,lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 5,ša[that]REL išti[with]PRP Kukkullayu[1]PN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 6,māru[son]N māru[son]N māru[son]N
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 7,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 8,manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 9,šību[witness]N Ubru-Nabu[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 10,šību[witness]N Unzarhu-Aššur[1]PN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 11,šību[witness]N Zar-Issar[1]PN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 12,šību[witness]N Hiriṣayu[1]PN
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 13,šību[witness]N
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),r 14,šību[witness]N
+saao/saa14/P335271,SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),SAA 14 047. Kakkullanu Buys a House in Nineveh (*617-II-10) (ADD 0327),e. 1,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N Aššur-remanni[1]PN

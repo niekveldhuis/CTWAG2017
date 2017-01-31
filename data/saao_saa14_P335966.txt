@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),o 1,manû[unit]N šiqlu[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),o 2,ša[of]DET Buraqa[1]PN
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),o 3,ina[in]PRP pānu[front]N Ah-abu[1]PN
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),o 4,ša-qurbūti[close-follower]N
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),o 5,ūmu[day]N ša[of]DET Tašritu[Tishri]MN ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),o 6,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),o 7,šiqlu[unit]N ṣarpu[silver]N ša[of]DET arhu[month]N
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),o 8,rabû[to-be-big]V Nabu-ahu-iddina[1]PN
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),o 9,bēlu[lord]N qātu[hand]N ša[of]DET ṣarpu[silver]N
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),r 1,Tašritu[Tishri]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),r 2,Gabbaru[1]PN
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),r 3,šību[witness]N Nani[1]PN
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),r 4,šību[witness]N Gilgameš-edašu-šakšid[1]PN
+saao/saa14/P335966,SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),SAA 14 071. Inner Tablet of the Preceding Text (ADD 1186),r 5,šību[witness]N Mannu-ka-Seʾ[1]PN

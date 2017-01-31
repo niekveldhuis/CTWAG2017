@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335060,SAA 14 235. Silver Debt (ADD 0109),SAA 14 235. Silver Debt (ADD 0109),o 1,ṣarpu[silver]N
+saao/saa14/P335060,SAA 14 235. Silver Debt (ADD 0109),SAA 14 235. Silver Debt (ADD 0109),o 2,Marduk-naṣir[1]PN māru[son]N
+saao/saa14/P335060,SAA 14 235. Silver Debt (ADD 0109),SAA 14 235. Silver Debt (ADD 0109),o 3,ūmu[day]N ša[of]DET Nisannu[Nisan]MN
+saao/saa14/P335060,SAA 14 235. Silver Debt (ADD 0109),SAA 14 235. Silver Debt (ADD 0109),o 4,ina[in]PRP manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335060,SAA 14 235. Silver Debt (ADD 0109),SAA 14 235. Silver Debt (ADD 0109),o 5,Ṣillaya[1]PN
+saao/saa14/P335060,SAA 14 235. Silver Debt (ADD 0109),SAA 14 235. Silver Debt (ADD 0109),o 6,māru[son]N ša[of]DET
+saao/saa14/P335060,SAA 14 235. Silver Debt (ADD 0109),SAA 14 235. Silver Debt (ADD 0109),o 7,māru[son]N ša[of]DET
+saao/saa14/P335060,SAA 14 235. Silver Debt (ADD 0109),SAA 14 235. Silver Debt (ADD 0109),o 8,māru[son]N ša[of]DET

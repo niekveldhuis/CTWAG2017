@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),o 1,manû[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),o 2,ša[of]DET Ištar[1]DN ša[of]DET Arbail[Arbela]GN
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),o 3,ša[of]DET Eriba-Adad[1]PN
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),o 4,ina[in]PRP pānu[front]N
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),o 5,ana[to]PRP rebû[fourth]NU rabû[to-be-big]V
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),o 6,ūmu[day]N
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),o 7,līmu[eponym-(of-year)]N Šulmu-beli-lašme[1]PN
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),b.e. 9,šību[witness]N Sukkaya[1]PN
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),b.e. 10,šību[witness]N Urdu-Issar[1]PN
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),r 1,šību[witness]N Taqisu[1]PN
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),r 2,šību[witness]N Akakua[1]PN
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),r 3,šību[witness]N Nergal-ibni[1]PN
+saao/saa06/P334994,SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),SAA 06 291. Note of Silver Owed to Eriba-Adad (670) (ADD 0042),r 4,šību[witness]N Aššur-šulmu-amur[1]PN

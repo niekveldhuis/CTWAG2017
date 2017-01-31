@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),o 1,imēru[unit]N kurummatu[ration]N ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),o 2,ša[of]DET Inurta-šarru-uṣur[1]PN
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),o 6,kurummatu[ration]N
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),b.e. 7,ina[in]PRP qaqqadu[head]N arhu[month]N ša[of]DET Elulu[Elul]MN
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),b.e. 8,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),b.e. 9,uṭṭatu[grain]N ana[to]PRP mithāru[corresponding-(to-one-another)]AJ rabû[to-be-big]V
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),r 1,Nisannu[Nisan]MN ūmu[day]N
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),r 2,līmu[eponym-(of-year)]N Nabu-sagibi[1]PN
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),r 3,šību[witness]N Silimu[1]PN
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),r 4,šību[witness]N Bel-uṣalli[1]PN
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),r 5,šību[witness]N Urda-Inurta[1]PN
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),r 6,šību[witness]N Šarru-isseʾa[1]PN
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),r.e. 7,šību[witness]N Ayakki-ibni[1]PN
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),r.e. 8,šību[witness]N Issar-emuqaya[1]PN
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),e. 1,šību[witness]N Bel-nuri[1]PN
+saao/saa14/P224951,SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),SAA 14 432. Inurta-šarru-uṣur Lends Barley (*618-I-14) (TIM 11 09),e. 2,šību[witness]N Kanunayu[1]PN

@@ -1,0 +1,12 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),o 2',Nabu[1]DN
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),r 1',šību[witness]N
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),r 2',šību[witness]N Ikkaru[1]PN šību[witness]N Nabu-leʾi[1]PN
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),r 3',šību[witness]N Nabu-šallim[1]PN šību[witness]N Qaribu[1]PN
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),r 4',šību[witness]N Dunqi-la-teppaš[1]PN šību[witness]N Nabu-nadin-ahi[1]PN
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),r 5',šību[witness]N Itti-Adad-ahhutu[1]PN šību[witness]N Zermahu[1]PN
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),r 6',šību[witness]N Hanṭu[1]PN šību[witness]N Ṣilli-bani[1]PN
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),r 7',Nisannu[Nisan]MN ūmu[day]N līmu[eponym-(of-year)]N Nabu-kenu-uṣur[1]PN
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),r 8',šaknu[appointee]N mātu[land]N Samerina[Samaria]GN
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),r 9',šību[witness]N ṭupšarru[scribe]N ṣābitu[recipient]N dannutu[binding-document]N
+saao/saa06/P336199,SAA 06 147. (no title) (690-I-14) (Iraq 32 13),SAA 06 147. (no title) (690-I-14) (Iraq 32 13),r 10',ša[of]DET ṣupru[nail]N

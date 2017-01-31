@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335056,SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),o 1',šiqlu[unit]N ṣarpu[silver]N qaqqadu[head]N
+saao/saa06/P335056,SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),o 2',ša[of]DET Edu-šallim[1]PN ina[in]PRP pānu[front]N Eriba-Adad[1]PN
+saao/saa06/P335056,SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),o 3',ša[of]DET Supuri-eddete[1]GN
+saao/saa06/P335056,SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),r 1',šību[witness]N
+saao/saa06/P335056,SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),r 2',šību[witness]N
+saao/saa06/P335056,SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),r 3',šību[witness]N
+saao/saa06/P335056,SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),r 4',šību[witness]N
+saao/saa06/P335056,SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),r 5',šību[witness]N
+saao/saa06/P335056,SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),e. 1,Tašritu[Tishri]MN ūmu[day]N
+saao/saa06/P335056,SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),SAA 06 292. Edu-šallim Loans Silver (669-VII-23) (ADD 0104),e. 2,līmu[eponym-(of-year)]N Šamaš-kašid-ayabi[1]PN

@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335238,SAA 14 179. Governor Buys Slaves (ADD 0293),SAA 14 179. Governor Buys Slaves (ADD 0293),o 3',ardu[slave]N ša[of]DET
+saao/saa14/P335238,SAA 14 179. Governor Buys Slaves (ADD 0293),SAA 14 179. Governor Buys Slaves (ADD 0293),o 4',epēšu[do]V
+saao/saa14/P335238,SAA 14 179. Governor Buys Slaves (ADD 0293),SAA 14 179. Governor Buys Slaves (ADD 0293),o 5',pīhātu[responsibility]N
+saao/saa14/P335238,SAA 14 179. Governor Buys Slaves (ADD 0293),SAA 14 179. Governor Buys Slaves (ADD 0293),o 6',ina[in]PRP ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP
+saao/saa14/P335238,SAA 14 179. Governor Buys Slaves (ADD 0293),SAA 14 179. Governor Buys Slaves (ADD 0293),o 7',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335238,SAA 14 179. Governor Buys Slaves (ADD 0293),SAA 14 179. Governor Buys Slaves (ADD 0293),o 8',zarāpu[purchase]V leqû[take]V
+saao/saa14/P335238,SAA 14 179. Governor Buys Slaves (ADD 0293),SAA 14 179. Governor Buys Slaves (ADD 0293),o 9',ina[in]PRP pānu[front]N ša[of]DET ardu[slave]N ša[of]DET
+saao/saa14/P335238,SAA 14 179. Governor Buys Slaves (ADD 0293),SAA 14 179. Governor Buys Slaves (ADD 0293),o 10',ša[of]DET ṣarrāpu[goldsmith]N
+saao/saa14/P335238,SAA 14 179. Governor Buys Slaves (ADD 0293),SAA 14 179. Governor Buys Slaves (ADD 0293),r 1,šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ

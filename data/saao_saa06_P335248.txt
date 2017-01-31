@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335248,SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),o 1',mannu[who?]QP ša[that]REL urkiš[later]AV ina[in]PRP matīma[ever]AV parāku[lie-across]V
+saao/saa06/P335248,SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),o 2',išti[with]PRP Šumu-lešir[1]PN dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335248,SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),o 3',manû[unit]N akālu[eat]V ammar[as-much-as]REL agannu[bowl]N kurru[tanning-fluid]N šatû[drink]V
+saao/saa06/P335248,SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),o 4',manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa06/P335248,SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),o 5',ina[in]PRP burku[knee]N šakānu[put]V
+saao/saa06/P335248,SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),r 1,sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Aššur[1]DN rakāsu[bind]V
+saao/saa06/P335248,SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),r 2,harbakkannu[(a-kind-of-horse)]N ina[in]PRP šēpu[foot]N Nergal[1]DN erēbu[enter]V
+saao/saa06/P335248,SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),r 3,biltu[load]N annaku[tin]N ana[to]PRP pīhātu[responsibility]N ālu[city]N tadānu[give]V
+saao/saa06/P335248,SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),SAA 06 020. Fragment of a Legal Document of Šumu-lešir (ADD 0303+),r 4,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V

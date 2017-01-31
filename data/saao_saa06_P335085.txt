@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335085,SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa06/P335085,SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),o 2,Nabu-nuru-nammir[1]PN
+saao/saa06/P335085,SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),o 3,La-tubašanni-ilu[1]PN
+saao/saa06/P335085,SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),o 4,Ṣabbutanu[1]PN
+saao/saa06/P335085,SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),o 5,ša[of]DET Bahianu[1]PN
+saao/saa06/P335085,SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),o 6,ina[in]PRP pānu[front]N
+saao/saa06/P335085,SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),o 7,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P335085,SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),r 1,Elulu[Elul]MN ūmu[day]N
+saao/saa06/P335085,SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),SAA 06 070. Bahianu Loans 4 Homers of Barley (686-VI-29) (ADD 0134),r 2,līmu[eponym-(of-year)]N Bel-emuranni[1]PN

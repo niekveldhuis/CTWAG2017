@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),o 1,kunukku[seal]N Ṣallam-šarri-iqbi[1]PN
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),o 2,Susanaya[from-Susanu]EN bēlu[lord]N eqlu[field]N
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),o 3,tadānu[give]V
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),r 1',šību[witness]N
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),r 2',šību[witness]N
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),r 3',šību[witness]N
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),r 4',ša[of]DET Adian[1]GN
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),r 5',annû[this]DP awīlu[man]N ālu[city]N šību[witness]N
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),r 6',šību[witness]N Nabu-ussetiq[1]PN
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),r 7',šību[witness]N Sammu-rama[1]PN
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),r 8',šību[witness]N Aqru[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),r 9',šību[witness]N Nergal-šarru-uṣur[1]PN
+saao/saa14/P335340,SAA 14 258. Purchase of Land (ADD 0396),SAA 14 258. Purchase of Land (ADD 0396),r.e. 10,Elulu[Elul]MN ūmu[day]N līmu[eponym-(of-year)]N

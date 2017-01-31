@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335395,SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),o 1,kunukku[seal]N Šulmu-ahhe[1]PN
+saao/saa06/P335395,SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335395,SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),o 3,bītu[house]N epšu[made]AJ
+saao/saa06/P335395,SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),r 1',šību[witness]N
+saao/saa06/P335395,SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),r 2',šību[witness]N
+saao/saa06/P335395,SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),r 3',Duʾuzu[Tammuz]MN ūmu[day]N
+saao/saa06/P335395,SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),SAA 06 153. Purchase of a House and People (687-IV) (ADD 0454),r 4',līmu[eponym-(of-year)]N Sin-ahhe-eriba[Sennacherib]PN

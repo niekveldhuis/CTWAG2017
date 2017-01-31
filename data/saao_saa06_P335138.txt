@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),o 2',epēšu[do]V
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),o 3',Dur-Šarruken[1]GN
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),o 4',ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),o 5',ištu[from]PRP pānu[front]N Babilayu[1]PN
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),o 6',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),o 7',tadnu[given]AJ awīlu[man]N šuāti[him]IP
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),o 8',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),o 9',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),o 10',mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),o 11',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),r 1',šību[witness]N
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),r 2',šību[witness]N Issar-rabi[1]PN
+saao/saa06/P335138,SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),SAA 06 144. Fragment of a Slave Sale (692-IX-4) (ADD 0189),r 3',Kislimu[Kislev]MN ūmu[day]N

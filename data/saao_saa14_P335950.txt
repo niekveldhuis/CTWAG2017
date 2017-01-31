@@ -1,0 +1,27 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),o 4,Kubabu-lunu[1]PN sinništu[woman]N māru[son]N gimru[totality]N napištu[throat]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),o 5,kirû[garden]N zaqpu[erected]AJ ša[of]DET tillatu[vine]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),o 6,ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET Aššur-ilaʾi[1]PN
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),o 7,ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET Ahu-duri[1]PN
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),o 8,ṭāhu[adjacent-to]PRP sūqu[street]N ṭāhu[adjacent-to]PRP ālu[city]N bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),o 9,qannu[fringe]N ālu[city]N kutallu[back]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),o 10,ṭāhu[adjacent-to]PRP hūlu[way]N ša[that]REL ištu[from]PRP
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),o 11,ana[to]PRP Armaya[1]GN alāku[go]V
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),o 13,ušallu[(fields)-along-valley-bottom]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 1',ina[in]PRP burku[knee]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 2',ina[in]PRP šēpu[foot]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 3',ina[in]PRP dīnu[legal-decision]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 4',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 5',šību[witness]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 6',šību[witness]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 7',šību[witness]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 8',šību[witness]N Ahu-duri[1]PN ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 9',šību[witness]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 10',šību[witness]N Ahu-lamur[1]PN
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 11',šību[witness]N Dadi[1]PN
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 12',šību[witness]N Ša-Issar-šunu[1]PN
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 16',ālu[city]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r 18',šību[witness]N Nabu-ereš[1]PN ṭupšarru[scribe]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),r.e. 19,šattu[year]N
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),e. 1,ša[of]DET eqlu[field]N šuāti[him]IP nusāhu[(a-grain-tax)]N lā[not]MOD nasāhu[tear-out]V
+saao/saa14/P335950,SAA 14 345. Purchase of Land and People (ADD 1168+),SAA 14 345. Purchase of Land and People (ADD 1168+),e. 2,ina[in]PRP ilku[state-service]N

@@ -1,0 +1,21 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),o 2',bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),o 3',Banitu-tereš[1]PN
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),o 4',gimru[totality]N napištu[throat]N ša[of]DET
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),o 5',ša[of]DET
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),o 6',epēšu[do]V
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),o 7',šakintu[(a-female-official)]N ša[of]DET
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),o 8',ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),o 9',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 1,šību[witness]N
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 2,šību[witness]N
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 3,šību[witness]N
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 4,šību[witness]N Urdu-Aya[1]PN
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 5,šību[witness]N Mudabirayu[1]PN
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 6,šību[witness]N Isanayu[1]PN
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 7,šību[witness]N Nabu-šarru-uṣur[1]PN
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 8,šību[witness]N Mudammiq-Aššur[1]PN
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 9,šību[witness]N Šar-Issar[1]PN
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 10,šību[witness]N Iqbi-ilu[1]PN
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 11,šību[witness]N Aššur-bel-ilani[1]PN
+saao/saa14/P335214,SAA 14 012. Manageress Buys Two Slaves (ADD 0267),SAA 14 012. Manageress Buys Two Slaves (ADD 0267),r 12,šību[witness]N Luqu[1]PN

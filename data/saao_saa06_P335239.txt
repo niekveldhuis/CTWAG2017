@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),o 1,kunukku[seal]N
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),o 2,bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),o 3,Edu-qidira[1]PN
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),o 4,Babaya[1]PN mārtu[daughter]N
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),o 5,gimru[totality]N napištu[throat]N ardu[slave]N
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),o 6,epēšu[do]V Risaya[1]PN
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),o 7,ša-qurbūti[close-follower]N ša[of]DET
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),o 8,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 1',šību[witness]N
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 2',šību[witness]N Aya-ahhe[1]PN ikkaru[farmer]N
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 3',šību[witness]N Bel-leʾi[1]PN ikkaru[farmer]N
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 4',šību[witness]N Dari-Bel[1]PN ikkaru[farmer]N
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 5',šību[witness]N Nabe-ramu[1]PN ikkaru[farmer]N
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 6',šību[witness]N Baʾala-imme[1]PN ardu[slave]N
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 7',šību[witness]N Zabaya[1]PN Barhalza[1]GN
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 8',šību[witness]N Šada[1]PN
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 9',šību[witness]N Ameqi[1]PN
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 10',Elulu[Elul]MN
+saao/saa06/P335239,SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),SAA 06 116. A Bodyguard Buys Three Women (700-VI-20) (ADD 0294),r 11',līmu[eponym-(of-year)]N Mitunu[1]PN

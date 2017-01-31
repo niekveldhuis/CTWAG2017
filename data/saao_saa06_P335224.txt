@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),o 1,kunukku[seal]N Nabu-eriba[1]PN
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),o 2,ardu[slave]N pīhātu[responsibility]N bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),o 3,sinništu[woman]N gimru[totality]N
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),o 4,sinništu[woman]N gimru[totality]N
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),o 5,māru[son]N
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),o 6,māru[son]N gimru[totality]N
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r 2',bēlu[lord]N târu[turn]V
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r 3',šību[witness]N Nergal-ibni[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r 4',šību[witness]N Mannu-ki-ahhe[1]PN
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r 5',šību[witness]N Ṭabi[1]PN raksu[recruit]N
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r 6',šību[witness]N Bel-ahu-iddina[1]PN šušānu[horse-trainer]N nakkamtu[treasure]N
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r 8',šību[witness]N Urdu-Gula[1]PN šanû[second]NU
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r 9',ša[of]DET rabû[big-one]N asû[physician]N
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r 10',šību[witness]N ṭupšarru[scribe]N ṣābitu[recipient]N dannutu[binding-document]N
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r 11',Ayaru[Iyyar]MN ūmu[day]N
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r.e. 12,līmu[eponym-(of-year)]N Nabu-ahhe-ereš[1]PN
+saao/saa06/P335224,SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),SAA 06 193. Purchase of Slaves (681-II-12) (ADD 0277),r.e. 13,šaknu[appointee]N mātu[land]N ša[of]DET Samʾalla[Zincirli]GN

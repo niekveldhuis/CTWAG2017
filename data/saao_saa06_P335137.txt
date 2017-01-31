@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 1,Nabu-belu-uṣur[1]PN ēpû[baker]N ardu[slave]N
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 2,ša[of]DET Mukin-Aššur[1]PN
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 3,epēšu[do]V Remanni-Adad[1]PN
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 4,mukillu[holder]N appatu[bridle]N dannu[strong]AJ ina[in]PRP libbu[interior]N
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 5,manû[unit]N ṣarpu[silver]N ina[in]PRP ālu[city]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 6,zarāpu[purchase]V leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 7,tadnu[given]AJ ardu[slave]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 8,leqû[taken]AJ târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 9,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 10,lū[may]MOD Mukin-Aššur[1]PN
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 11,lū[may]MOD māru[son]N lū[may]MOD ahu[brother]N
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 12,išti[with]PRP Remanni-Adad[1]PN
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 13,išti[with]PRP māru[son]N dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),o 14,buʾʾû[look-for]V
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),r 1,manû[unit]N ṣarpu[silver]N tadānu[give]V ina[in]PRP dīnu[legal-decision]N
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),r 2,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),r 3,ṣibtu[seizure]N bennu[epilepsy]N ana[to]PRP meʾatu[(one)-hundred]NU ūmu[day]N
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),r 4,sartu[falsehood]N ana[to]PRP kalû[totality]N ūmu[day]N
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),r 5,šību[witness]N Nergal-šarru-uṣur[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),r 6,šību[witness]N Uarbisi[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),r 7,šību[witness]N Šamaš-šarru-uṣur[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),r 8,šību[witness]N Nabu-šezib[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335137,SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),SAA 06 306. Duplicate of the Previous Text (669) (ADD 0187),r 9,šību[witness]N Zaruti[1]PN rabû[big-one]N kiṣru[knot]N

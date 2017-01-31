@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335596,SAA 14 328. Purchase of Land for 9 Minas of Copper (ADD 0724),SAA 14 328. Purchase of Land for 9 Minas of Copper (ADD 0724),o 1',ṭāhu[adjacent-to]PRP hūlu[way]N ša[that]REL ana[to]PRP
+saao/saa14/P335596,SAA 14 328. Purchase of Land for 9 Minas of Copper (ADD 0724),SAA 14 328. Purchase of Land for 9 Minas of Copper (ADD 0724),o 2',ṭāhu[adjacent-to]PRP hūlu[way]N Ninua[Nineveh]GN epēšu[do]V
+saao/saa14/P335596,SAA 14 328. Purchase of Land for 9 Minas of Copper (ADD 0724),SAA 14 328. Purchase of Land for 9 Minas of Copper (ADD 0724),o 3',ina[in]PRP libbu[interior]N manû[unit]N erû[copper]N
+saao/saa14/P335596,SAA 14 328. Purchase of Land for 9 Minas of Copper (ADD 0724),SAA 14 328. Purchase of Land for 9 Minas of Copper (ADD 0724),o 4',ištu[from]PRP pānu[front]N Bani-ahhe[1]PN leqû[take]V mannu[who?]QP

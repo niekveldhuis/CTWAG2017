@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335463,SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),o 1,ṣupru[nail]N Kunasi[1]PN
+saao/saa14/P335463,SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),o 2,māru[son]N Harmaku[1]PN rādiu[(caravan)-guide]N imēru[donkey]N
+saao/saa14/P335463,SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),o 3,bītu[house]N imēru[unit]N
+saao/saa14/P335463,SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),r 1',šību[witness]N Aššur-šallimšunu[1]PN
+saao/saa14/P335463,SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),r 2',māru[son]N Birtayu[1]PN
+saao/saa14/P335463,SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),r 3',šību[witness]N Mar-Issar[1]PN raksu[recruit]N
+saao/saa14/P335463,SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),SAA 14 462. Purchase of Land (791-XII-25) (ADD 0526),r.e. 4,Addaru[Adar]MN ūmu[day]N

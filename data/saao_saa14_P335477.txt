@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),o 1,kunukku[seal]N Nergal-leʾi[1]PN
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),o 2,bēlu[lord]N tadnu[given]AJ
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 2',aplu[heir]N rabû[big]AJ ina[in]PRP hamru[holy-place-(of-Adad;-Assur)]N ša[of]DET Adad[1]DN qalû[roast]V
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 3',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 4',ina[in]PRP lā[not]MOD dīnu[legal-decision]N dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 5',šību[witness]N ša[of]DET sinništu[woman]N ēkallu[palace]N
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 6',šību[witness]N rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 7',šību[witness]N tašlīšu[third-man-on-chariot]N
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 8',šību[witness]N Šumu-lešir[1]PN šangû[priest]N rabû[to-be-big]V
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 9',šību[witness]N hazannu[mayor]N
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 10',šību[witness]N šību[witness]N
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 11',šību[witness]N šangû[priest]N bītu[house]N Gula[1]DN
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 12',ṭupšarru[scribe]N bītu[house]N ilu[god]N
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 15',šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa14/P335477,SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),SAA 14 286. Fragment of a Conveyance Text (ADD 0547+),r 16',šību[witness]N Nabu-ahhe-eriba[1]PN šību[witness]N Aššur-šarru-uṣur[1]PN

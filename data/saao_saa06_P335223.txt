@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),o 1,kunukku[seal]N Siparranu[1]PN
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),o 3,Ahuʾa[1]PN
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),r 1',šību[witness]N mukillu[holder]N appatu[bridle]N
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),r 2',šību[witness]N Aššur-ilaʾi[1]PN tašlīšu[third-man-on-chariot]N
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),r 3',šību[witness]N Bel-isseʾa[1]PN muterru[(re)turner]N ṭēmu[(fore)thought]N
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),r 4',šību[witness]N Sin-belu-uṣur[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),r 5',šību[witness]N Hinnumu[1]PN kiṣru[knot]N šarru[king]N
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),r 6',šību[witness]N Šumaya[1]PN kiṣru[knot]N šarru[king]N
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),r 7',šību[witness]N Remutu[1]PN kiṣru[knot]N šarru[king]N
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),r 8',šību[witness]N Ahuni[1]PN kiṣru[knot]N šarru[king]N
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),r 9',šību[witness]N Palhu-šezib[1]PN
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),r.e. 10,tamkāru[merchant]N
+saao/saa06/P335223,SAA 06 192. A Broken Slave Sale (682) (ADD 0276),SAA 06 192. A Broken Slave Sale (682) (ADD 0276),e. 1,līmu[eponym-(of-year)]N Nabu-šarru-uṣur[1]PN

@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335520,SAA 06 230. (no title) (675) (ADD 0601),SAA 06 230. (no title) (675) (ADD 0601),r 1',šību[witness]N Nušku-ilaʾi[1]PN
+saao/saa06/P335520,SAA 06 230. (no title) (675) (ADD 0601),SAA 06 230. (no title) (675) (ADD 0601),r 2',šību[witness]N Aplu-uṣur[1]PN
+saao/saa06/P335520,SAA 06 230. (no title) (675) (ADD 0601),SAA 06 230. (no title) (675) (ADD 0601),r 3',šību[witness]N Nabu-šarru-uṣur[1]PN
+saao/saa06/P335520,SAA 06 230. (no title) (675) (ADD 0601),SAA 06 230. (no title) (675) (ADD 0601),r 4',šību[witness]N Ṭab-šar-Adad[1]PN
+saao/saa06/P335520,SAA 06 230. (no title) (675) (ADD 0601),SAA 06 230. (no title) (675) (ADD 0601),r 5',šību[witness]N Nabu-taklak[1]PN
+saao/saa06/P335520,SAA 06 230. (no title) (675) (ADD 0601),SAA 06 230. (no title) (675) (ADD 0601),r 6',šību[witness]N Nabu-bani[1]PN
+saao/saa06/P335520,SAA 06 230. (no title) (675) (ADD 0601),SAA 06 230. (no title) (675) (ADD 0601),r 7',šību[witness]N Ahu-duri[1]PN

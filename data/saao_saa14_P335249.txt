@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335249,SAA 14 246. Purchase of Slaves (ADD 0304),SAA 14 246. Purchase of Slaves (ADD 0304),o 1',leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa14/P335249,SAA 14 246. Purchase of Slaves (ADD 0304),SAA 14 246. Purchase of Slaves (ADD 0304),o 2',tadnu[given]AJ nišu[people]N šuāti[him]IP
+saao/saa14/P335249,SAA 14 246. Purchase of Slaves (ADD 0304),SAA 14 246. Purchase of Slaves (ADD 0304),o 3',zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335249,SAA 14 246. Purchase of Slaves (ADD 0304),SAA 14 246. Purchase of Slaves (ADD 0304),o 4',târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335249,SAA 14 246. Purchase of Slaves (ADD 0304),SAA 14 246. Purchase of Slaves (ADD 0304),o 5',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335249,SAA 14 246. Purchase of Slaves (ADD 0304),SAA 14 246. Purchase of Slaves (ADD 0304),o 6',ina[in]PRP matīma[ever]AV
+saao/saa14/P335249,SAA 14 246. Purchase of Slaves (ADD 0304),SAA 14 246. Purchase of Slaves (ADD 0304),o 7',zaqāpu[fix-upright]V
+saao/saa14/P335249,SAA 14 246. Purchase of Slaves (ADD 0304),SAA 14 246. Purchase of Slaves (ADD 0304),o 8,parāku[lie-across]V
+saao/saa14/P335249,SAA 14 246. Purchase of Slaves (ADD 0304),SAA 14 246. Purchase of Slaves (ADD 0304),r 1,kaspu[silver]N ana[to]PRP
+saao/saa14/P335249,SAA 14 246. Purchase of Slaves (ADD 0304),SAA 14 246. Purchase of Slaves (ADD 0304),r 2,ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP dīnu[legal-decision]N

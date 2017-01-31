@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335473,SAA 14 152. (no title) (ADD 0540),SAA 14 152. (no title) (ADD 0540),o 2',Bel-iddina[1]PN pīhātu[responsibility]N Kulimmeri[1]GN
+saao/saa14/P335473,SAA 14 152. (no title) (ADD 0540),SAA 14 152. (no title) (ADD 0540),o 3',Gabbaru[1]PN
+saao/saa14/P335473,SAA 14 152. (no title) (ADD 0540),SAA 14 152. (no title) (ADD 0540),r 2',lū[may]MOD
+saao/saa14/P335473,SAA 14 152. (no title) (ADD 0540),SAA 14 152. (no title) (ADD 0540),r 3',šību[witness]N Sasi[1]PN hazannu[mayor]N

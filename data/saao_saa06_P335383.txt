@@ -1,0 +1,23 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),o 1,kunukku[seal]N Lu-ki-Mama[1]PN
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),o 2,kunukku[seal]N Zeru-lešir[1]PN
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),o 3,bēlu[lord]N eqlu[field]N nišu[people]N tadānu[give]V
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),o 4,bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),o 5,ṭāhu[adjacent-to]PRP
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),o 7,ugāru[(communally-controlled)-meadow]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),o 8,ikkaru[farmer]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),o 9,epēšu[do]V Bahianu[1]PN
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),o 10,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET šarru[king]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 1',eqlu[field]N nišu[people]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 2',ana[to]PRP šattu[year]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 3',akālu[eat]V ūmu[day]N ša[that]REL ṣarpu[silver]N tadānu[give]V
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 4',eqlu[field]N nišu[people]N aṣû[go-out]V
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 5',ūmu[day]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 6',līmu[eponym-(of-year)]N Zazaya[1]PN
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 7',šību[witness]N alahhinu[(an-official-in-temple-service)]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 8',šību[witness]N Qurdi-Adad[1]PN rabû[big-one]N urû[team]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 9',šību[witness]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 10',šību[witness]N Il-padi[1]PN
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 11',šību[witness]N Nabuʾa[1]PN ṣarrāpu[goldsmith]N
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 12',šību[witness]N Surarati[1]PN
+saao/saa06/P335383,SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),SAA 06 065. Bahianu Buys Land and People (692) (ADD 0440),r 13',šību[witness]N Sangi-Issar[1]PN ṭupšarru[scribe]N

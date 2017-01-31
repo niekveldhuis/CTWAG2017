@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336026,SAA 14 384. Purchase of a House (ADD 1266),SAA 14 384. Purchase of a House (ADD 1266),o 1',kunukku[seal]N
+saao/saa14/P336026,SAA 14 384. Purchase of a House (ADD 1266),SAA 14 384. Purchase of a House (ADD 1266),o 2',bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa14/P336026,SAA 14 384. Purchase of a House (ADD 1266),SAA 14 384. Purchase of a House (ADD 1266),o 3',bītu[house]N epšu[made]AJ adi[until]PRP daltu[door]N
+saao/saa14/P336026,SAA 14 384. Purchase of a House (ADD 1266),SAA 14 384. Purchase of a House (ADD 1266),o 4',adi[until]PRP gušūru[tree-trunk]N
+saao/saa14/P336026,SAA 14 384. Purchase of a House (ADD 1266),SAA 14 384. Purchase of a House (ADD 1266),o 5',ṭāhu[adjacent-to]PRP Dadi[1]PN ṭāhu[adjacent-to]PRP

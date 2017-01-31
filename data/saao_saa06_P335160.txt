@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 1,kunukku[seal]N Dari-abuʾu[1]PN
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 2,bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 3,Nanaya-lurši[1]PN amtu[maid]N
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 4,ša[of]DET Dari-abuʾa[1]PN epēšu[do]V
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 5,Tabni-Issar[1]PN ina[in]PRP libbu[interior]N manû[unit]N
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 6,ṣarpu[silver]N leqû[take]V kaspu[silver]N
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 7,gammuru[finished]AJ tadnu[given]AJ sinništu[woman]N šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 8,leqû[taken]AJ mannu[who?]QP ša[that]REL zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 9,lū[may]MOD Dari-abuʾa[1]PN lū[may]MOD māru[son]N
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 10,lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 11,lū[may]MOD māru[son]N ahu[brother]N ša[that]REL išti[with]PRP
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 12,Tabni-Issar[1]PN māru[son]N māru[son]N māru[son]N
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 13,dīnu[legal-decision]N buʾʾû[look-for]V
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),o 14,manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),r 1,sinništu[woman]N aṣû[go-out]V
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),r 2,šību[witness]N Barruqu[1]PN
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),r 3,šību[witness]N Aqru[1]PN
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),r 4,šību[witness]N Nabu-zaqip-enši[1]PN
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),r 5,šību[witness]N
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),r 6,šību[witness]N Ki-Mama[1]PN
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),r 7,šību[witness]N Rehati[1]PN
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),r 8,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N ša[of]DET
+saao/saa06/P335160,SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),SAA 06 197. Tabni-Issar Buys a Maid (681-II-5) (ADD 0213),r 9,arki[after]PRP Nabu-šarru-uṣur[1]PN

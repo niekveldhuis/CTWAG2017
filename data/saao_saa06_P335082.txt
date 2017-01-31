@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335082,SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),o 1,imēru[unit]N kurummatu[ration]N
+saao/saa06/P335082,SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),o 2,ša[of]DET Bahianu[1]PN
+saao/saa06/P335082,SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),o 3,ina[in]PRP pānu[front]N Astar-qumu[1]PN
+saao/saa06/P335082,SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),o 4,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P335082,SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),o 5,ana[to]PRP
+saao/saa06/P335082,SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),o 6,rabû[to-be-big]V
+saao/saa06/P335082,SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),SAA 06 071. Bahianu Loans Two Homers of Barley (685-I-27) (ADD 0131),r 1,Nisannu[Nisan]MN ūmu[day]N

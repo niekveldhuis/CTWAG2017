@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 2',manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 3',ina[in]PRP burku[knee]N Nikkal[1]DN šakānu[put]V
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 4',sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Sin[1]DN
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 5',ša[of]DET Harranu[Harran]GN rakāsu[bind]V
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 6',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 7',ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 8',lā[not]MOD leqû[take]V
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 9',šību[witness]N Adda-kabar[1]PN šību[witness]N Adda-yaba[1]PN
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 10',šību[witness]N Azarru[1]PN šību[witness]N Mati-ken[1]PN
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 11',šību[witness]N Seʾimme[1]PN
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 12',šību[witness]N
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 13',šību[witness]N
+saao/saa14/P335948,SAA 14 344. Fragment of a Conveyance Text (ADD 1166),SAA 14 344. Fragment of a Conveyance Text (ADD 1166),r 14',šību[witness]N šību[witness]N Banaya[1]PN

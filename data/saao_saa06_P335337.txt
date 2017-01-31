@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),o 1',ṭāhu[adjacent-to]PRP
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),o 2',ṭāhu[adjacent-to]PRP
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),o 3',ṭāhu[adjacent-to]PRP Zabinu[1]PN bītu[house]N
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),o 4',ṭāhu[adjacent-to]PRP Zabinu[1]PN ṭāhu[adjacent-to]PRP
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),o 5',kutallu[back]N tīlu[(ruin)-mound]N gimru[totality]N imēru[unit]N eqlu[field]N
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),o 6',bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),o 7',ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Apli[1]PN
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),o 8',ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Ah-imme[1]PN
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),r 1',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),r 2',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ eqlu[field]N
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),r 3',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),r 4',dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV parāku[lie-across]V
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),r 5',lū[may]MOD Remanni-ilu[1]PN lū[may]MOD
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),r 6',lū[may]MOD mammanu-[whosoever]XP išti[with]PRP Inurta-ilaʾi[1]PN
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),r 7',dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),r 8',manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa06/P335337,SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),SAA 06 014. Inurta-ila’i Buys Land from Remanni-ilu (ADD 0393),r 9',ana[to]PRP āšibu[sitting]AJ tadānu[give]V

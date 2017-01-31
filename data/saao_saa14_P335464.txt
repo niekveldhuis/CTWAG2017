@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335464,SAA 14 278. Fragment of a Conveyance Text (ADD 0527),SAA 14 278. Fragment of a Conveyance Text (ADD 0527),o 1',Bel-lešir[1]PN
+saao/saa14/P335464,SAA 14 278. Fragment of a Conveyance Text (ADD 0527),SAA 14 278. Fragment of a Conveyance Text (ADD 0527),r 1',šību[witness]N
+saao/saa14/P335464,SAA 14 278. Fragment of a Conveyance Text (ADD 0527),SAA 14 278. Fragment of a Conveyance Text (ADD 0527),r 2',šību[witness]N
+saao/saa14/P335464,SAA 14 278. Fragment of a Conveyance Text (ADD 0527),SAA 14 278. Fragment of a Conveyance Text (ADD 0527),r 3',šību[witness]N
+saao/saa14/P335464,SAA 14 278. Fragment of a Conveyance Text (ADD 0527),SAA 14 278. Fragment of a Conveyance Text (ADD 0527),r 4',šību[witness]N Aššur-bessunu[1]PN
+saao/saa14/P335464,SAA 14 278. Fragment of a Conveyance Text (ADD 0527),SAA 14 278. Fragment of a Conveyance Text (ADD 0527),r 5',ša[of]DET māru[son]N šarru[king]N šību[witness]N
+saao/saa14/P335464,SAA 14 278. Fragment of a Conveyance Text (ADD 0527),SAA 14 278. Fragment of a Conveyance Text (ADD 0527),r 6',šību[witness]N
+saao/saa14/P335464,SAA 14 278. Fragment of a Conveyance Text (ADD 0527),SAA 14 278. Fragment of a Conveyance Text (ADD 0527),e. 1,šību[witness]N šību[witness]N
+saao/saa14/P335464,SAA 14 278. Fragment of a Conveyance Text (ADD 0527),SAA 14 278. Fragment of a Conveyance Text (ADD 0527),e. 2,kunukku[seal]N

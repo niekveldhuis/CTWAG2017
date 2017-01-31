@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),o 1,ṣupru[nail]N Urdu[1]PN
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),o 3,Al-tuklatuʾa[1]PN Mumar-il[1]PN
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),o 4,Šamaš-leʾi[1]PN Issar-daʾʾininni[1]PN
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),o 5,Mukinnat-Issar[1]PN gimru[totality]N napištu[throat]N
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),o 6,epēšu[do]V Mušallim-Issar[1]PN
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),b.e. 7,ina[in]PRP libbu[interior]N manû[unit]N erû[copper]N leqû[take]V
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),b.e. 8,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),r 1,šību[witness]N Qurdi-Nergal[1]PN māru[son]N Ṭabussu[1]PN
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),r 2,šību[witness]N Urdi[1]PN māru[son]N Susu[1]PN
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),r 3,šību[witness]N Aššur-aplu-iddina[1]PN šību[witness]N Ubri[1]PN
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),r 4,ṣāhitu[oil-presser]N
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),r 5,šību[witness]N Ninuayu[1]PN
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),r 6,šību[witness]N
+saao/saa06/P335265,SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),SAA 06 002. Musallim-Issar Purchases 5 Slaves (737-II-9) (ADD 0320),r 7,Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N

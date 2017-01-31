@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335048,SAA 14 234. Fragment of a Witness List (ADD 0097),SAA 14 234. Fragment of a Witness List (ADD 0097),b.e. 1',Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P335048,SAA 14 234. Fragment of a Witness List (ADD 0097),SAA 14 234. Fragment of a Witness List (ADD 0097),r 1,ina[in]PRP pānu[front]N
+saao/saa14/P335048,SAA 14 234. Fragment of a Witness List (ADD 0097),SAA 14 234. Fragment of a Witness List (ADD 0097),r 2,ina[in]PRP pānu[front]N Uaru[1]PN
+saao/saa14/P335048,SAA 14 234. Fragment of a Witness List (ADD 0097),SAA 14 234. Fragment of a Witness List (ADD 0097),r 3,ina[in]PRP pānu[front]N Nabu-kaṣir[1]PN
+saao/saa14/P335048,SAA 14 234. Fragment of a Witness List (ADD 0097),SAA 14 234. Fragment of a Witness List (ADD 0097),r 4,ina[in]PRP pānu[front]N Iqišaya[1]PN
+saao/saa14/P335048,SAA 14 234. Fragment of a Witness List (ADD 0097),SAA 14 234. Fragment of a Witness List (ADD 0097),r 5,ina[in]PRP pānu[front]N Urkime[1]PN
+saao/saa14/P335048,SAA 14 234. Fragment of a Witness List (ADD 0097),SAA 14 234. Fragment of a Witness List (ADD 0097),r 6,ina[in]PRP pānu[front]N Ibnaya[1]PN
+saao/saa14/P335048,SAA 14 234. Fragment of a Witness List (ADD 0097),SAA 14 234. Fragment of a Witness List (ADD 0097),r.e. 7,ina[in]PRP pānu[front]N

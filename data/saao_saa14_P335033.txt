@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),o 1,šiqlu[unit]N ṣarpu[silver]N ša[of]DET Ištar[1]DN ša[of]DET Ninua[Nineveh]GN
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),o 2,ša[of]DET Šep-Issar[1]PN
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),o 3,ina[in]PRP pānu[front]N Kuluʾ-Issar[1]PN
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),o 4,ina[in]PRP pānu[front]N Dayan-Kurbail[1]PN
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),o 5,kūm[instead-of]PRP rubbû[increase]N bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),o 6,ina[in]PRP sūtu[unit]N ša[of]DET qû[unit]N
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),o 7,tabriu[fodder-crop]N harbūtu[desolation]N
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),o 8,zakû[pure]AJ šunu[they]IP
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),o 9,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Kaššudu[1]PN
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),b.e. 10,ṭāhu[adjacent-to]PRP eqlu[field]N Kaššudu[1]PN
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),b.e. 11,ṭāhu[adjacent-to]PRP hūlu[way]N šattu[year]N
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),b.e. 12,šattu[year]N akālu[eat]V
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),r 1,kīma[like]PRP šattu[year]N šalāmu[be(come)-healthy]V
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),r 2,ṣarpu[silver]N ina[in]PRP muhhu[skull]N tarammu[grain-heap]N šakānu[put]V
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),r 3,eqlu[field]N aṣû[go-out]V šibšu[(an-agricultural-tax)]N
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),r 4,nusāhu[(a-grain-tax)]N kī[like]PRP ša[of]DET ālu[city]N tadānu[give]V
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),r 5,Šabaṭu[Shebat]MN līmu[eponym-(of-year)]N Ṣalam-šarri-iqbi[1]PN
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),r 6,šību[witness]N Urdu-Nabu[1]PN šību[witness]N Šep-Issar[1]PN
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),r 7,šību[witness]N Issar-metu-balliṭ[1]PN
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),r 8,šību[witness]N Kaššudu[1]PN
+saao/saa14/P335033,SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),SAA 14 122. Inner Tablet of the Preceding Text (ADD 0081),r 9,šību[witness]N Zeru-ken[1]PN

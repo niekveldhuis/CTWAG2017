@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335523,SAA 14 316. Fragment of a Witness List (ADD 0605),SAA 14 316. Fragment of a Witness List (ADD 0605),r 1',šību[witness]N
+saao/saa14/P335523,SAA 14 316. Fragment of a Witness List (ADD 0605),SAA 14 316. Fragment of a Witness List (ADD 0605),r 2',šību[witness]N Bani[1]PN
+saao/saa14/P335523,SAA 14 316. Fragment of a Witness List (ADD 0605),SAA 14 316. Fragment of a Witness List (ADD 0605),r 3',šību[witness]N
+saao/saa14/P335523,SAA 14 316. Fragment of a Witness List (ADD 0605),SAA 14 316. Fragment of a Witness List (ADD 0605),r 4',šību[witness]N Ṭab-alu[1]PN
+saao/saa14/P335523,SAA 14 316. Fragment of a Witness List (ADD 0605),SAA 14 316. Fragment of a Witness List (ADD 0605),r 5',šību[witness]N
+saao/saa14/P335523,SAA 14 316. Fragment of a Witness List (ADD 0605),SAA 14 316. Fragment of a Witness List (ADD 0605),r 6',šību[witness]N
+saao/saa14/P335523,SAA 14 316. Fragment of a Witness List (ADD 0605),SAA 14 316. Fragment of a Witness List (ADD 0605),r 7',šību[witness]N
+saao/saa14/P335523,SAA 14 316. Fragment of a Witness List (ADD 0605),SAA 14 316. Fragment of a Witness List (ADD 0605),e. 1,šību[witness]N Kuṣura[1]PN

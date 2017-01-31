@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335492,SAA 14 297. Fragment of a Conveyance Text (ADD 0565),SAA 14 297. Fragment of a Conveyance Text (ADD 0565),o 2',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335492,SAA 14 297. Fragment of a Conveyance Text (ADD 0565),SAA 14 297. Fragment of a Conveyance Text (ADD 0565),o 3',ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V lū[may]MOD
+saao/saa14/P335492,SAA 14 297. Fragment of a Conveyance Text (ADD 0565),SAA 14 297. Fragment of a Conveyance Text (ADD 0565),o 4',lū[may]MOD māru[son]N
+saao/saa14/P335492,SAA 14 297. Fragment of a Conveyance Text (ADD 0565),SAA 14 297. Fragment of a Conveyance Text (ADD 0565),r 1,ša[that]REL elû[go-up]V
+saao/saa14/P335492,SAA 14 297. Fragment of a Conveyance Text (ADD 0565),SAA 14 297. Fragment of a Conveyance Text (ADD 0565),r 2,parāku[lie-across]V manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P335492,SAA 14 297. Fragment of a Conveyance Text (ADD 0565),SAA 14 297. Fragment of a Conveyance Text (ADD 0565),r 3,šību[witness]N

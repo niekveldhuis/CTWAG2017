@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335311,SAA 14 252. Purchase of a Vegetable Garden (ADD 0367),SAA 14 252. Purchase of a Vegetable Garden (ADD 0367),o 1,kunukku[seal]N Nergal-uballissu[1]PN
+saao/saa14/P335311,SAA 14 252. Purchase of a Vegetable Garden (ADD 0367),SAA 14 252. Purchase of a Vegetable Garden (ADD 0367),o 2,kunukku[seal]N Nergal-upniʾa[1]PN
+saao/saa14/P335311,SAA 14 252. Purchase of a Vegetable Garden (ADD 0367),SAA 14 252. Purchase of a Vegetable Garden (ADD 0367),o 3,gimru[totality]N awīlu[man]N māru[son]N
+saao/saa14/P335311,SAA 14 252. Purchase of a Vegetable Garden (ADD 0367),SAA 14 252. Purchase of a Vegetable Garden (ADD 0367),o 4,atû[gatekeeper]N ša[of]DET ālu[city]N
+saao/saa14/P335311,SAA 14 252. Purchase of a Vegetable Garden (ADD 0367),SAA 14 252. Purchase of a Vegetable Garden (ADD 0367),o 5,bēlu[lord]N kirû[garden]N ša[of]DET arqu[green]AJ tadnu[given]AJ

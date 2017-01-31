@@ -1,0 +1,42 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 1,kunukku[seal]N Bel-ahhešu[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 2,māru[son]N Šamaš-abuʾa[1]PN šušānu[horse-trainer]N ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 3,bēlu[lord]N sinništu[woman]N tadānu[give]V
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 4,Arbail-šarrat[1]PN amtu[maid]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 5,ša[of]DET Bel-ahhešu[1]PN epēšu[do]V
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 6,Kiṣir-Aššur[1]PN rabû[big-one]N kiṣru[knot]N ša-qurbūti[close-follower]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 7,ša[of]DET māru[son]N šarru[king]N ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 8,ištu[from]PRP pānu[front]N Bel-ahhešu[1]PN leqû[take]V
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 9,sinništu[woman]N šuāti[him]IP epšu[made]AJ
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 10,zarpu[purchased]AJ leqû[taken]AJ kaspu[silver]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 11,gammuru[finished]AJ tadnu[given]AJ târu[turn]V
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 12,laššu[(there)-is-not]V
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 13,ina[in]PRP matīma[ever]AV lū[may]MOD Bel-ahhešu[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 14,lū[may]MOD māru[son]N māru[son]N māru[son]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),o 15,ša[that]REL dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),b.e. 16,išti[with]PRP Kiṣir-Aššur[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),b.e. 17,māru[son]N buʾʾû[look-for]V
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),b.e. 18,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 1,târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 2,lā[not]MOD leqû[take]V
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 3,šību[witness]N Atta-suri[1]PN ṭupšarru[scribe]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 4,šību[witness]N Šamaš-reʾuʾa[1]PN šaknu[appointee]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 5,šību[witness]N Sukkaya[1]PN šaknu[appointee]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 6,šību[witness]N Amma[1]PN ṭupšarru[scribe]N Armaya[Aramean]EN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 7,šību[witness]N Nabu-aplu-iddina[1]PN ṭupšarru[scribe]N sinništu[woman]N ēkallu[palace]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 8,šību[witness]N Qurdi-Adad[1]PN šušānu[horse-trainer]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 9,šību[witness]N Šulmu-ahhe[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 10,šību[witness]N Ṣalam-ahhe[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 11,šību[witness]N Kusayu[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 12,šību[witness]N Bel-šarru-uṣur[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 13,šību[witness]N Aššur-šumu-kaʾʾin[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 14,šību[witness]N Ubru-ekurri[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 15,šību[witness]N Šumu-ken[1]PN šušānu[horse-trainer]N ša-šēpi[(kingʾs)-personal-guard]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 16,šību[witness]N Bel-Harran-šarru-uṣur[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 17,šību[witness]N Arbailayu[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 18,šību[witness]N Hambaqu[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r 19,šību[witness]N Mannu-ki-Arbail[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r.e. 20,Šabaṭu[Shebat]MN ūmu[day]N
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r.e. 21,līmu[eponym-(of-year)]N Sin-šarru-uṣur[1]PN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r.e. 22,pīhātu[responsibility]N Hindanu[1]GN
+saao/saa14/P335154,SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),SAA 14 029. Kiṣir-Aššur Buys a Woman (*636-XI-3) (ADD 0207),r.e. 23,šību[witness]N Kiṣir-Nabu[1]PN ṭupšarru[scribe]N

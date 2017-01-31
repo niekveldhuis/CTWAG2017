@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),o 1,kunukku[seal]N Inurta-ereš[1]PN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),o 2,manû[unit]N ṣarpu[silver]N ša[of]DET Tariba-Issar[1]PN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),o 3,ina[in]PRP pānu[front]N Inurta-ereš[1]PN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),o 4,imēru[unit]N eqlu[field]N ina[in]PRP Šuru[1]GN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),o 5,ṭāhu[adjacent-to]PRP hūlu[way]N ša[of]DET Dannanu[1]GN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),o 6,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Aya-Mitunu[1]PN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),o 7,ana[to]PRP šapartu[pledge]N šaknu[placed]AJ
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),b.e. 8,karaphu[fallow-land]N mērešu[cultivated-land]N
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),b.e. 9,eqlu[field]N akālu[eat]V ṣarpu[silver]N
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),r 1,ina[in]PRP muhhu[skull]N tarammu[grain-heap]N tadānu[give]V
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),r 2,eqlu[field]N aṣû[go-out]V
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),r 3,šību[witness]N Siparranu[1]PN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),r 4,šību[witness]N Apladad-ilaʾi[1]PN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),r 5,šību[witness]N Ubru-Issar[1]PN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),r 6,šību[witness]N Sin-šarru-uṣur[1]PN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),r 7,šību[witness]N Šamaš-upahhir[1]PN
+saao/saa06/P335021,SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),SAA 06 146. Tariba-Issar Takes Land as Security for a Debt (692) (ADD 0069),r 8,ūmu[day]N līmu[eponym-(of-year)]N

@@ -1,0 +1,20 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 1,kūm[instead-of]PRP kunukku[seal]N ṣupru[nail]N šakānu[put]V
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 2,ṣupru[nail]N Šamaš-tabni-uṣur[1]PN māru[son]N bārû[diviner]N
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 3,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 4,bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP malgūtu[(meaning-unknown)]N
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 5,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET šukkallu[(a-court-official)]N ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Apli[1]PN
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 6,bītu[house]N eqlu[field]N ina[in]PRP hūlu[way]N qatnu[thin]AJ
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 7,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Ahu-ṭaba[1]PN ṭāhu[adjacent-to]PRP eqlu[field]N Urdu-Issaran[1]PN
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 8,bītu[house]N imēru[unit]N eqlu[field]N ina[in]PRP muhhu[skull]N ummu[mother]N ša[of]DET Kaldaya[Chaldean]EN
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 9,ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Nabu-ahhe-eriba[1]PN ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 10,ša[of]DET Marduk-belu-uṣur[1]PN bītu[house]N eqlu[field]N ṭāhu[adjacent-to]PRP eqlu[field]N
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 11,ša[of]DET Nabu-ahhe-eriba[1]PN ṭāhu[adjacent-to]PRP eqlu[field]N ša[of]DET Abu-ṭaba[1]PN
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),o 13,bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),r 1',šību[witness]N Sukkaya[1]PN ina[in]PRP pānu[front]N šību[witness]N māru[son]N Ninua[Nineveh]GN
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),r 2',šību[witness]N Šep-Issar[1]PN šību[witness]N Ahuʾa[1]PN
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),r 3',šību[witness]N Ubru-Issar[1]PN šāqû[butler]N ša[of]DET šukkallu[(a-court-official)]N
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),r 4',šību[witness]N Marduk-iddina[1]PN ṭupšarru[scribe]N
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),r 5',ṣābitu[recipient]N dannutu[binding-document]N
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),r 6',līmu[eponym-(of-year)]N Taklak-ana-Bel[1]PN
+saao/saa06/P335326,SAA 06 012. Inurta-ila’i Buys More Land (715),SAA 06 012. Inurta-ila’i Buys More Land (715),r 7',šaknu[appointee]N mātu[land]N Naṣibina[1]GN

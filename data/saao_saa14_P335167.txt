@@ -1,0 +1,7 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335167,SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),o 2',epēšu[do]V
+saao/saa14/P335167,SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),o 3',ina[in]PRP libbu[interior]N manû[unit]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335167,SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),o 4',ištu[from]PRP pānu[front]N
+saao/saa14/P335167,SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),o 5',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ sinništu[woman]N šuāti[him]IP
+saao/saa14/P335167,SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),o 6',zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P335167,SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),SAA 14 174. The Lady [...] Buys a Woman (ADD 0220),o 7',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V

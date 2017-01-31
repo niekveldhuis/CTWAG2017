@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),o 1,manû[unit]N ṣarpu[silver]N šiqlu[unit]N
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),o 2,ša[of]DET Mannu-ki-Arbail[1]PN
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),o 3,ina[in]PRP pānu[front]N Urdu-Yarda[1]PN
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),o 4,Munnabitu[1]PN
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),o 5,adi[until]PRP ūmu[day]N wabālu[bring]V
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),o 6,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),o 7,Urdu-Yarda[1]PN
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),b.e. 8,šalāmu[be(come)-healthy]V
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),r 1,Eriba-Adad[1]PN bēlu[lord]N qātu[hand]N
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),r 2,šību[witness]N Naʾdi-ilu[1]PN
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),r 3,šību[witness]N Biʾšu[1]PN
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),r 4,šību[witness]N La-tubašanni-ilu[1]PN
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),r 5,šību[witness]N Abu-ul-idi[1]PN
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),r 6,Tašritu[Tishri]MN ūmu[day]N
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),r 7,līmu[eponym-(of-year)]N Sin-ahhe-eriba[Sennacherib]PN
+saao/saa06/P335051,SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),SAA 06 156. Pre-payment for a Slave (687-VII-18) (ADD 0100),r 8,šarru[king]N mātu[land]N Aššur[1]DN

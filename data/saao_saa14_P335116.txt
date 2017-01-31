@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),o 1,dīnu[legal-decision]N ša[of]DET
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),o 2,išti[with]PRP Malgadi[1]PN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),o 3,ša[that]REL Paši[1]PN dīnu[legal-decision]N
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),o 4,emēdu[lean-on]V ina[in]PRP muhhu[skull]N nišu[people]N
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),o 5,nišu[people]N kūm[instead-of]PRP nišu[people]N
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r 1',manû[unit]N ṣarpu[silver]N tadānu[give]V arhu[month]N
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r 2',ūmu[day]N līmu[eponym-(of-year)]N Ṣalam-šarri-iqbi[1]PN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r 3',šību[witness]N Remanni-ilu[1]PN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r 4',šību[witness]N Marduk-ereš[1]PN ša-qurbūti[close-follower]N
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r 5',šību[witness]N Urdu-Issar[1]PN Hubabaya[from-Hubaba]EN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r 6',šību[witness]N Nergal-šallim[1]PN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r 7',šību[witness]N Yahuṭu[1]PN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r.e. 8,šību[witness]N Nabu-zeru-iddina[1]PN šību[witness]N
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r.e. 9,šību[witness]N Silim-Adad[1]PN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r.e. 10,šību[witness]N Šulmu-ahhe[1]PN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r.e. 11,šību[witness]N Paruṭu[1]PN šību[witness]N Bel-Harran-belu-uṣur[1]PN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),r.e. 12,šību[witness]N Dunuzu[1]PN šību[witness]N
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),e. 1,šību[witness]N Inurta-iddina[1]PN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),e. 2,šību[witness]N
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),e. 3,šību[witness]N Šumma-ilani[1]PN
+saao/saa14/P335116,SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),SAA 14 123. Court Decision on Behalf of Remanni-[... ] (*630) (ADD 0165),e. 4,šību[witness]N Milki-Il[1]PN

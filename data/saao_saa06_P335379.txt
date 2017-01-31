@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 1',Mannu-ki-Aššur[1]PN Liʾtiru[1]PN
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 2',epēšu[do]V Aplaya[1]PN
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 3',ištu[from]PRP pānu[front]N ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N leqû[take]V
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 4',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ eqlu[field]N bītu[house]N kirû[garden]N
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 5',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 6',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 7',mannu[who?]QP ša[that]REL ina[in]PRP matīma[ever]AV ina[in]PRP warkītu[posterity]N
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 8',ūmu[day]N ša[that]REL elû[go-up]V lū[may]MOD Nabu-duru-uṣur[1]PN
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 9',lū[may]MOD Mannu-ki-Aššur[1]PN lū[may]MOD Liʾtiru[1]PN
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 10',lū[may]MOD lū[may]MOD māru[son]N
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 11',lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 12',lū[may]MOD māru[son]N ahu[brother]N lū[may]MOD mamman[somebody]XP
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),o 13',bēlu[lord]N ilku[state-service]N ša[that]REL elû[go-up]V
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 1,dīnu[legal-decision]N dabābu[speak]V išti[with]PRP Aplaya[1]PN
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 2,u[and]CNJ māru[son]N gerû[be(come)-hostile-to]V
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 3,qabû[say]V mā[saying]PRP kaspu[silver]N lā[not]MOD gammuru[finished]AJ
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 4,lā[not]MOD tadnu[given]AJ eqlu[field]N bītu[house]N kirû[garden]N lā[not]MOD aplu[paid-off]AJ
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 5,lā[not]MOD zarpu[purchased]AJ lā[not]MOD leqû[taken]AJ manû[unit]N gildu[(animal)-hide]N
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 6,akālu[eat]V ammar[as-much-as]REL agannu[bowl]N šatû[drink]V
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 7,aplu[heir]N ana[to]PRP Sin[1]DN qalû[roast]V mārtu[daughter]N
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 8,rabû[big]AJ išti[with]PRP dāmu[blood]N erēnu[cedar]N ana[to]PRP Belet-ṣeri[1]DN
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 9,šarāpu[burn]V kaspu[silver]N mahāru[face]V ana[to]PRP
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 10,ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP dīnu[legal-decision]N
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 11,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 12,šību[witness]N Ululayu[1]PN
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 13,šību[witness]N Naharau[1]PN
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 14,šību[witness]N
+saao/saa06/P335379,SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),SAA 06 102. Aplaya Buys an Estate (698?) (ADD 0436),r 15,šību[witness]N

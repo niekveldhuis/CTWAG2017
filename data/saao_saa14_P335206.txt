@@ -1,0 +1,30 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 1,ṣupru[nail]N Bel-iqbi[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 2,ṣupru[nail]N Zeru-ibni[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 3,ṣupru[nail]N Bel-abu-uṣur[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 4,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 5,sinništu[woman]N
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 6,māru[son]N mārtu[daughter]N
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 7,ahu[brother]N napištu[throat]N ardu[slave]N
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 8,ša[of]DET awīlu[man]N annû[this]DP
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 9,epēšu[do]V Urdu[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 10,ištu[from]PRP pānu[front]N awīlu[man]N annû[this]DP
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 11,ina[in]PRP libbu[interior]N meʾatu[(one)-hundred]NU erû[copper]N leqû[take]V
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 12,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 13,nišu[people]N zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 14,târu[turn]V dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 15,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV zaqāpu[fix-upright]V
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 16,dīnu[legal-decision]N išti[with]PRP Urdu[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 17,u[and]CNJ māru[son]N buʾʾû[look-for]V
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 18,manû[unit]N ṣarpu[silver]N manû[unit]N hurāṣu[gold]N
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 19,ina[in]PRP burku[knee]N ša[of]DET
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),o 20,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),r 1,šību[witness]N La-tubašanni[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),r 2,šību[witness]N Nabu-ušabši[1]PN ardu[slave]N ša[of]DET
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),r 3,šību[witness]N Mannu-lu-šulmu[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),r 4,šību[witness]N Saʾumu[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),r 5,šību[witness]N Adad-aplu-iddina[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),r 6,šību[witness]N Zababa-ereš[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),r 7,šību[witness]N Aqru[1]PN šību[witness]N Adad-mušeṣi[1]PN
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),r 8,šību[witness]N Mardukati[1]PN ṭupšarru[scribe]N
+saao/saa14/P335206,SAA 14 475. Urdu Buys People (ADD 0259),SAA 14 475. Urdu Buys People (ADD 0259),r 9,Tašritu[Tishri]MN

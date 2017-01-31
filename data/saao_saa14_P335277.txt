@@ -1,0 +1,33 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 1,kunukku[seal]N Bel-duri[1]PN pīhātu[responsibility]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 2,bēlu[lord]N bītu[house]N tadānu[give]V
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 3,ripittu[straying]N ana[to]PRP gimirtu[totality]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 4,ripittu[straying]N ša[of]DET Nabu-šumu-iškun[1]PN
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 6,ana[to]PRP Bel-duri[1]PN pīhātu[responsibility]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 7,tadānu[give]V Bel-duri[1]PN
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 8,ana[to]PRP Šakil-Aya[1]PN tadānu[give]V
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 9,ṭāhu[adjacent-to]PRP
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 10,Nabu-šumu-iškun[1]PN
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 12,mannu[who?]QP ša[that]REL urkiš[later]AV matīma[ever]AV
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 13,parāku[lie-across]V lū[may]MOD Bel-duri[1]PN pīhātu[responsibility]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),o 14,lū[may]MOD ahu[brother]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 1',šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 2',šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 3',šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 4',šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 5',šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 6',šību[witness]N Ninuayu[1]PN ardu[slave]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 7',šību[witness]N Mannu-ki-ahhe[1]PN šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 8',šību[witness]N Adad-šallim[1]PN šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 9',šību[witness]N Kanunayu[1]PN šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 10',šību[witness]N Šakil-Aya[1]PN ša[of]DET
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 11',šību[witness]N Basasu[1]PN šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 12',Addaru[Adar]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r 13',Sagab[1]PN šaknu[appointee]N mātu[land]N Harranu[Harran]GN
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r.e. 14,šulmu[completeness]N ina[in]PRP birti[between]PRP
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r.e. 15,šību[witness]N Nergal-remanni[1]PN
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r.e. 16,šību[witness]N Urdu[1]PN šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),r.e. 17,šību[witness]N Danni[1]PN
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),e. 1,šību[witness]N Tardiya[1]PN šību[witness]N Ṣalmu[1]PN šību[witness]N
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),e. 2,šību[witness]N šību[witness]N Zabinu[1]PN
+saao/saa14/P335277,SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),SAA 14 087. Šakil-Aya Gets a Barnyard (651-XII-12) (ADD 0333+),e. 3,ša[of]DET šību[witness]N Ahuʾa[1]PN šangû[priest]N

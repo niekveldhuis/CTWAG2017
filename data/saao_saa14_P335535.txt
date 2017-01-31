@@ -1,0 +1,29 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 1,kunukku[seal]N Šamaš-taklak[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 2,kunukku[seal]N Ibtaš-lešir[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 3,kunukku[seal]N Tabalayu[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 4,kunukku[seal]N Eridayu[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 5,kunukku[seal]N Nergal-ahu-uṣur[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 6,kunukku[seal]N Silim-ili[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 7,kunukku[seal]N Muqallil-kabti[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 8,kunukku[seal]N Adad-ahu-iddina[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 9,kunukku[seal]N Edu-lešir[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 10,kunukku[seal]N Sariuni[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),o 11,kunukku[seal]N Samanaya[Samanean]EN gabbu[totality]N
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),b.e. 12,Ṣiri[1]PN bēlu[lord]N dāmu[blood]N
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),b.e. 13,ša[that]REL Silim-ili[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),b.e. 14,dâku[kill]V
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 1,ina[in]PRP pānu[front]N lū[may]MOD sinništu[woman]N
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 2,lū[may]MOD ahu[brother]N lū[may]MOD māru[son]N
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 3,mannu[who?]QP ša[that]REL elû[go-up]V
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 4,šunu[they]IP dāmu[blood]N šalāmu[be(come)-healthy]V
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 5,šību[witness]N Tarditu-Aššur[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 6,šību[witness]N Nabu-reši-išši[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 7,atû[gatekeeper]N
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 8,šību[witness]N Nušku-ahu-iddina[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 9,ša-muhhi-qanāti[overseer-of-reeds]N
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 10,šību[witness]N Mannu-ki-Adad[1]PN atû[gatekeeper]N
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 11,šību[witness]N Aššur-šumu-iddina[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 12,ša[of]DET rabû[big-one]N kakardinnu[victualler]N
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r 13,šību[witness]N Abu-ul-idi[1]PN
+saao/saa14/P335535,SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),SAA 14 081. Blood Money for Ṣiri (657-VII-3) (ADD 0618),r.e. 14,šību[witness]N Nabuʾa[1]PN ṭupšarru[scribe]N

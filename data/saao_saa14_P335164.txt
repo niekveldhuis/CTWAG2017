@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 1',amtu[maid]N
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 2',ša[of]DET Seʾ-ayali[1]PN
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 3',epēšu[do]V Ṣalam-ahhe[1]PN
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 4',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP ša[of]DET Gargamis[Carchemish]GN
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 5',ištu[from]PRP pānu[front]N Seʾ-ayali[1]PN leqû[take]V
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 6',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 7',sinništu[woman]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 8',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 9',mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 10',zaqāpu[fix-upright]V parāku[lie-across]V
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 11',lū[may]MOD Seʾ-ayali[1]PN lū[may]MOD māru[son]N
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 12',māru[son]N māru[son]N lū[may]MOD ahu[brother]N
+saao/saa14/P335164,SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),SAA 14 115. Ṣalmu-ahhe Buys a Woman (ADD 0217),o 13',išti[with]PRP Ṣalam-ahhe[1]PN māru[son]N

@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335964,SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),o 3',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P335964,SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),o 5',leqû[taken]AJ târu[turn]V dīnu[legal-decision]N
+saao/saa14/P335964,SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),o 6',dabābu[speak]V laššu[(there)-is-not]V
+saao/saa14/P335964,SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),r 1',kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N târu[turn]V
+saao/saa14/P335964,SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),r 2',dīnu[legal-decision]N dayyānu[judge]N lā[not]MOD šemû[hear]V
+saao/saa14/P335964,SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),r 3',šību[witness]N rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335964,SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),r 4',šību[witness]N Ikkaru[1]PN
+saao/saa14/P335964,SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),r 5',šību[witness]N Šagim[1]PN
+saao/saa14/P335964,SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),r 6',šību[witness]N Marduk-ter[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa14/P335964,SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),SAA 14 351. Fragment of a Conveyance Text (ADD 1184+),r 7',šību[witness]N Inurti[1]PN

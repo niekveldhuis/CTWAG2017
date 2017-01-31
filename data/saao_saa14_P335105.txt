@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 1,kunukku[seal]N Edu-šallim[1]PN
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 2,ina[in]PRP ūmu[day]N ša[of]DET Ayaru[Iyyar]MN
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 3,Edu-šallim[1]PN Apladad-killanni[1]PN
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 4,māru[son]N Reṣa[1]PN wabālu[bring]V
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 5,ana[to]PRP Gabbu-ina-qat-ili[1]PN
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 6,tadānu[give]V šumma[if]MOD lā[not]MOD našû[lifted]AJ lā[not]MOD tadnu[given]AJ
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 7,ardu[slave]N ša[that]REL akī[as]PRP ardu[slave]N
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 8,tadānu[give]V Ayaru[Iyyar]MN ūmu[day]N
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 9,līmu[eponym-(of-year)]N Bel-naʾdi[1]PN
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 10,šību[witness]N Busi-ili[1]PN ša-pān-dīnāni[president-of-the-court]N
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 11,šību[witness]N Ubraki[1]PN
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 12,šību[witness]N Minu-epuš-ilu[1]PN
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 13,šību[witness]N Inurta-eṭiranni[1]PN
+saao/saa14/P335105,SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),SAA 14 073. Court Order on Behalf of Gabbu-qat-ili (663-II-26) (ADD 0154),o 14,šību[witness]N Nabu-dur-beli[1]PN

@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),o 1,bēlu[lord]N eqlu[field]N tadānu[give]V
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),o 2,ina[in]PRP
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),o 3,ṭāhu[adjacent-to]PRP
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),o 4,ṭāhu[adjacent-to]PRP halīdu[cavity]N
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),o 5,Aššur-belu-taqqin[1]PN
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),o 6,ṭāhu[adjacent-to]PRP Didi[1]PN
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 1',šību[witness]N Sasi[1]PN
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 2',šību[witness]N Inurti[1]PN
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 3',šību[witness]N māru[son]N
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 4',šību[witness]N Adallal[1]PN raksu[recruit]N
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 5',šību[witness]N Nabu-šallim[1]PN raksu[recruit]N
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 6',šību[witness]N Didi[1]PN
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 7',šību[witness]N Bani[1]PN
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 8',šību[witness]N
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 9',šību[witness]N
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 11',šību[witness]N ṭupšarru[scribe]N
+saao/saa14/P335342,SAA 14 477. Purchase of Land (664) (ADD 0398),SAA 14 477. Purchase of Land (664) (ADD 0398),r 12',arhu[month]N ūmu[day]N līmu[eponym-(of-year)]N

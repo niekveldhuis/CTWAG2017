@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),o 1,gammalu[camel]N
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),o 2,ša[of]DET karru[put-down]AJ
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),o 3,ša[of]DET Dannaya[1]PN
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),o 4,ina[in]PRP pānu[front]N Yahuṭu[1]PN
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),o 5,ina[in]PRP pānu[front]N Ilu-kenu-uṣur[1]PN
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),b.e. 6,ina[in]PRP pānu[front]N Adad-aplu-iddina[1]PN
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),b.e. 7,ina[in]PRP ūmu[day]N ša[of]DET Arahsamnu[Marchesvan]MN
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),r 1,gammalu[camel]N tadānu[give]V
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),r 2,šumma[if]MOD lā[not]MOD tadānu[give]V manû[unit]N
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),r 3,ṣarpu[silver]N tadānu[give]V Tašritu[Tishri]MN ūmu[day]N
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),r 4,līmu[eponym-(of-year)]N Šarru-nuri[1]PN
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),r 5,šību[witness]N Sinqi-Issar[1]PN šību[witness]N Šulmu-šarri[1]PN
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),r 6,šību[witness]N Adad-dan[1]PN
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),e. 1,šumma[if]MOD ṣarpu[silver]N lā[not]MOD tadānu[give]V
+saao/saa06/P335068,SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),SAA 06 241. Note of Two Camels Owed to Dannaya (674-VII-14) (ADD 0117),e. 2,šiqlu[unit]N ana[to]PRP manû[unit]N

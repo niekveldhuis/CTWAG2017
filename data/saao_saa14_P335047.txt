@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),o 1,dīnu[legal-decision]N ša[that]REL Adad[1]DN
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),o 2,ša[of]DET Kannuʾ[1]GN
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),o 3,emēdu[lean-on]V
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),o 4,šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),o 5,ša[of]DET
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),b.e. 6,ina[in]PRP pānu[front]N
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),b.e. 7,ina[in]PRP ūmu[day]N ša[of]DET arhu[month]N
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),b.e. 8,ṣarpu[silver]N šalāmu[be(come)-healthy]V
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),r 1,tadānu[give]V šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),r 2,ana[to]PRP šiqlu[unit]N rabû[to-be-big]V
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),t.e. 3,Ayaru[Iyyar]MN ūmu[day]N
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),t.e. 4,līmu[eponym-(of-year)]N Aššur-ilaʾi[1]PN
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),t.e. 5,šību[witness]N Apladad-kabti-ahhe[1]PN
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),t.e. 6,šību[witness]N Marduk-šarru-uṣur[1]PN
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),l.e. 1,šību[witness]N Nabu-zeru-iddina[1]PN
+saao/saa14/P335047,SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),SAA 14 084. Court Decision on Behalf of Zeru-[...] (653-II-20) (ADD 0096+),l.e. 2,šību[witness]N Remanni-Issar[1]PN

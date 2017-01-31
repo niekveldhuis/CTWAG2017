@@ -1,0 +1,35 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 1,kunukku[seal]N Šulmu-beli[1]PN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 3,Ah-abu[1]PN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 4,rādiu[(caravan)-guide]N gammalu[camel]N
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 5,Remutu[1]PN sinništu[woman]N
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 6,gimru[totality]N napištu[throat]N ardu[slave]N
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 7,ša[of]DET Šulmu-beli[1]PN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 8,epēšu[do]V
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 9,ištu[from]PRP pānu[front]N Šulmu-beli[1]PN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 10,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET šarru[king]N
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 11,leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 12,tadnu[given]AJ nišu[people]N šuāti[him]IP
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 13,zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),o 14,târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),b.e. 15,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL urkiš[later]AV
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 1,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 2,lū[may]MOD Šulmu-beli[1]PN lū[may]MOD māru[son]N
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 3,lū[may]MOD māru[son]N māru[son]N lū[may]MOD mammanu-[whosoever]XP
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 4,ša[of]DET išti[with]PRP māru[son]N
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 5,dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 6,buʾʾû[look-for]V manû[unit]N ṣarpu[silver]N mesû[washed]AJ
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 7,manû[unit]N hurāṣu[gold]N sakru[refined]AJ ina[in]PRP burku[knee]N Mullissu[1]DN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 8,šakānu[put]V kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 9,ana[to]PRP bēlu[lord]N târu[turn]V ina[in]PRP dīnu[legal-decision]N
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 10,dabābu[speak]V lā[not]MOD leqû[take]V
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 11,šību[witness]N Šulmu-šarri[1]PN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 12,šību[witness]N Tariba-Issar[1]PN nuhatimmu[cook]N
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 13,šību[witness]N Urdu-ahhešu[1]PN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 14,šību[witness]N Ilu-piya-uṣur[1]PN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 15,šību[witness]N Šaplaya[1]PN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 16,šību[witness]N La-tubašanni-Issar[1]PN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 17,šību[witness]N La-tubašanni-ilu[1]PN
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r 18,šību[witness]N ṭupšarru[scribe]N
+saao/saa06/P335190,SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),SAA 06 138. Purchase of Three Slaves (693) (ADD 0243),r.e. 19,ūmu[day]N

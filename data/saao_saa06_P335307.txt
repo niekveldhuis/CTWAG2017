@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),o 1,kunukku[seal]N Quwayu[1]PN māru[son]N
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),o 2,Tarqana[1]GN bēlu[lord]N kirû[garden]N tadānu[give]V
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),o 3,kirû[garden]N ša[of]DET tillatu[vine]N
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),o 4,ina[in]PRP libbu[interior]N Tursana[1]GN
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),o 5,ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),o 6,ṭāhu[adjacent-to]PRP kirû[garden]N ša[of]DET
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),r 1',šību[witness]N šību[witness]N Tarditu-ahhe[1]PN
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),r 2',šību[witness]N mukillu[holder]N appatu[bridle]N šību[witness]N Aššur-šarru-uṣur[1]PN
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),r 3',šību[witness]N šību[witness]N Ullu[1]PN atû[gatekeeper]N
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),r 4',šību[witness]N Qibit-Aššur[1]PN šību[witness]N Ilu-mutaqqin[1]PN
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),r 5',Ayaru[Iyyar]MN ūmu[day]N līmu[eponym-(of-year)]N Nabu-šarru-uṣur[1]PN ša[of]DET Marqasa[1]GN
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),r 6',kirû[garden]N ša[of]DET ginû[regular-contribution-(to-temple)]N ša[of]DET Aššur[1]DN Mullissu[1]DN
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),r 7',šū[he]IP šību[witness]N Riba-ahhe[1]PN qīpu[representative]N Kar-Šamaš[1]GN
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),r 8',šību[witness]N Aplaya[1]PN māru[son]N Mušallim-Aššur[1]PN
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),r 9',šību[witness]N Mannu-ki-ahhe[1]PN hazannu[mayor]N
+saao/saa06/P335307,SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),SAA 06 188. Purchase of a Vineyard (682-II-25) (ADD 0363),r.e. 10,ša[of]DET Tursana[1]GN

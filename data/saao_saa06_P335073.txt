@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),o 1,imēru[unit]N karānu[vine]N
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),o 2,ša[of]DET Mannu-ki-Ninua[1]PN
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),o 3,ina[in]PRP šību[witness]N Partama[1]PN
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),o 4,ina[in]PRP Ayaru[Iyyar]MN karānu[vine]N
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),o 5,ina[in]PRP Ninua[Nineveh]GN tadānu[give]V
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),o 6,šumma[if]MOD lā[not]MOD tadānu[give]V
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),b.e. 7,kī[like]PRP mahīru[market-price]N ša[of]DET Ninua[Nineveh]GN
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),b.e. 8,ṣarpu[silver]N tadānu[give]V
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),r 1,Ṭebetu[Tebet]MN ūmu[day]N
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),r 2,līmu[eponym-(of-year)]N Mannu-ki-Adad[1]PN
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),r 3,šību[witness]N Sananu[1]PN
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),r 4,šību[witness]N Šamaš-naṣir[1]PN šību[witness]N Nabu-nashir[1]PN
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),r 5,šību[witness]N Remut-ili[1]PN šību[witness]N Edu-šallim[1]PN
+saao/saa06/P335073,SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),SAA 06 182. Envelope of the Preceding Text (683-X-25) (ADD 0122),r 6,šību[witness]N Šamaš-taklak[1]PN šību[witness]N Zar-Issar[1]PN

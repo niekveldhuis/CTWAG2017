@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335986,SAA 14 356. Purchase of Land (ADD 1206+),SAA 14 356. Purchase of Land (ADD 1206+),o 2',eqlu[field]N ina[in]PRP nahallu[stream]N
+saao/saa14/P335986,SAA 14 356. Purchase of Land (ADD 1206+),SAA 14 356. Purchase of Land (ADD 1206+),o 3',ṭāhu[adjacent-to]PRP eqlu[field]N ina[in]PRP hūlu[way]N
+saao/saa14/P335986,SAA 14 356. Purchase of Land (ADD 1206+),SAA 14 356. Purchase of Land (ADD 1206+),o 4',ina[in]PRP libbu[interior]N manû[unit]N
+saao/saa14/P335986,SAA 14 356. Purchase of Land (ADD 1206+),SAA 14 356. Purchase of Land (ADD 1206+),o 5',ištu[from]PRP pānu[front]N

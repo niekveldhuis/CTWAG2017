@@ -1,0 +1,33 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 1',gimru[totality]N napištu[throat]N ardu[slave]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 2',ša[of]DET Arbayu[1]PN
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 3',epēšu[do]V Ninuayu[1]PN ša-rēš-šarri[royal-eunuch]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 4',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET Gargamis[Carchemish]GN
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 5',ištu[from]PRP pānu[front]N Arbayu[1]PN leqû[take]V
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 6',kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ nišu[people]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 7',šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 8',târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 9',laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 10',u[and]CNJ matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 11',parāku[lie-across]V lū[may]MOD Arbayu[1]PN
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 12',lū[may]MOD ahu[brother]N lū[may]MOD māru[son]N ahu[brother]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 13',lū[may]MOD mammanu-[whosoever]XP ša[that]REL dīnu[legal-decision]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),o 14',dabābu[speak]V išti[with]PRP Ninuayu[1]PN išti[with]PRP ahu[brother]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),b.e. 15',išti[with]PRP māru[son]N ahu[brother]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),b.e. 16',buʾʾû[look-for]V manû[unit]N ṣarpu[silver]N mesû[washed]AJ
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),b.e. 17',manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),b.e. 18',ina[in]PRP burku[knee]N Ištar[1]DN āšibu[sitting]AJ
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 1,Ninua[Nineveh]GN šakānu[put]V
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 2,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 3,târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 4,lā[not]MOD leqû[take]V
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 5,šību[witness]N Bel-dan[1]PN tašlīšu[third-man-on-chariot]N ša[of]DET ša-muhhi-bēti[overseer-of-the-household]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 6,šību[witness]N Šar-Issar[1]PN
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 7,šību[witness]N Addi[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 8,šību[witness]N Uznanu[1]PN šību[witness]N Ululayu[1]PN kāṣiru[tailor]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 9,šību[witness]N Aššur-natkil[1]PN mukillu[holder]N appatu[bridle]N ša[of]DET māru[son]N šarru[king]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 10,šību[witness]N Remanni-Adad[1]PN mukillu[holder]N appatu[bridle]N ša[of]DET andunānu[substitute]N
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 11,šību[witness]N Aššur-deʾiq[1]PN šību[witness]N La-tubašanni-Adad[1]PN
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 12,šību[witness]N Turṣi-Issar[1]PN šību[witness]N Dilil-Issar[1]PN
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 13,šību[witness]N Nabu-nadin-ahhe[1]PN
+saao/saa14/P335207,SAA 14 021. Ninuayu Buys Slaves (ADD 0260),SAA 14 021. Ninuayu Buys Slaves (ADD 0260),r 14,šību[witness]N Aššur-ahhešu-ereš[1]PN ṭupšarru[scribe]N

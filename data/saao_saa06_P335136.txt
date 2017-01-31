@@ -1,0 +1,22 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),o 1,kunukku[seal]N Ilu-ereš[1]PN bēlu[lord]N
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),o 2,ṣehru[small]AJ tadānu[give]V
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),o 3,Aya-ṭuri[1]PN ardu[slave]N ša[of]DET
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),o 4,Ilu-ereš[1]PN epēšu[do]V
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),o 5,Silim-Aššur[1]PN ina[in]PRP libbu[interior]N šiqlu[unit]N
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),o 6,ṣarpu[silver]N leqû[take]V kaspu[silver]N gammuru[finished]AJ
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),o 7,tadnu[given]AJ ṣehru[small]AJ šuāti[him]IP zarpu[purchased]AJ
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),o 8,leqû[take]V târu[turn]V dīnu[legal-decision]N
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),o 9,dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),o 10,ina[in]PRP matīma[ever]AV zaqāpu[fix-upright]V
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 1',šību[witness]N Sin-ilaʾi[1]PN
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 2',šību[witness]N Eriba-Adad[1]PN
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 3',šību[witness]N Abdi[1]PN
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 4',šību[witness]N Atanha-Šamaš[1]PN
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 5',šību[witness]N Adda-nagi[1]PN
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 6',šību[witness]N Natunu[1]PN
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 7',šību[witness]N Rahimi[1]PN
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 8',šību[witness]N Issar-naʾdi[1]PN
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 9',šību[witness]N Marduk-šumu-uṣur[1]PN ṭupšarru[scribe]N
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 10',Addaru[Adar]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa06/P335136,SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),SAA 06 227. Silim-Aššur Buys a Boy (675-XII-l) (ADD 0186),r 11',Nabu-ahhe-iddina[1]PN mašennu[(an-administrator)]N

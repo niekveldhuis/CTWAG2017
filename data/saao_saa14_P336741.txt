@@ -1,0 +1,13 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),o 1',ištu[from]PRP nišu[people]N
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),o 2',annû[this]DP leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ zarpu[purchased]AJ leqû[taken]AJ târu[turn]V
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),o 3',dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),o 5',ša[that]REL išti[with]PRP Nabu-hamatuʾa[1]PN
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),o 6',māru[son]N māru[son]N māru[son]N dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),o 7',manû[unit]N ṣarpu[silver]N mesû[washed]AJ manû[unit]N hurāṣu[gold]N sakru[refined]AJ
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),o 8',ina[in]PRP burku[knee]N Ištar[1]DN āšibu[sitting]AJ Ninua[Nineveh]GN šakānu[put]V
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),o 9',sisû[horse]N peṣû[white]AJ ina[in]PRP šēpu[foot]N Aššur[1]DN rakāsu[bind]V
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),o 10',harbakkannu[(a-kind-of-horse)]N ina[in]PRP šēpu[foot]N Nergal[1]DN erēbu[enter]V
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),r 1',manû[unit]N akālu[eat]V
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),r 3',šību[witness]N sinništu[woman]N ēkallu[palace]N
+saao/saa14/P336741,SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),SAA 14 204. Nabu-alik-idiya Buys [...] (82-3-2335),r 4',šību[witness]N sinništu[woman]N ēkallu[palace]N

@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336027,SAA 14 228. Palil-[...] (ADD 1267),SAA 14 228. Palil-[...] (ADD 1267),r 1,ša[that]REL išti[with]PRP
+saao/saa14/P336027,SAA 14 228. Palil-[...] (ADD 1267),SAA 14 228. Palil-[...] (ADD 1267),r 2,dīnu[legal-decision]N dabābu[speak]V buʾʾû[look-for]V
+saao/saa14/P336027,SAA 14 228. Palil-[...] (ADD 1267),SAA 14 228. Palil-[...] (ADD 1267),r 3,mā[saying]PRP manû[unit]N ṣarpu[silver]N tadānu[give]V
+saao/saa14/P336027,SAA 14 228. Palil-[...] (ADD 1267),SAA 14 228. Palil-[...] (ADD 1267),r 4,aṣû[go-out]V lā[not]MOD leqû[take]V ṣarpu[silver]N

@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335435,SAA 06 004. Mušallim-Issar Buys Slaves (ADD 0497),SAA 06 004. Mušallim-Issar Buys Slaves (ADD 0497),o 1',gabbu[totality]N
+saao/saa06/P335435,SAA 06 004. Mušallim-Issar Buys Slaves (ADD 0497),SAA 06 004. Mušallim-Issar Buys Slaves (ADD 0497),o 2',ša[of]DET Arbail[Arbela]GN epēšu[do]V
+saao/saa06/P335435,SAA 06 004. Mušallim-Issar Buys Slaves (ADD 0497),SAA 06 004. Mušallim-Issar Buys Slaves (ADD 0497),o 3',Mušallim-Issar[1]PN rabû[big-one]N ālu[city]N
+saao/saa06/P335435,SAA 06 004. Mušallim-Issar Buys Slaves (ADD 0497),SAA 06 004. Mušallim-Issar Buys Slaves (ADD 0497),o 4',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335435,SAA 06 004. Mušallim-Issar Buys Slaves (ADD 0497),SAA 06 004. Mušallim-Issar Buys Slaves (ADD 0497),o 5',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ

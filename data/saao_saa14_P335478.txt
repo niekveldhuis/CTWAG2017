@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335478,SAA 14 287. Fragment of a Conveyance Text (ADD 0548),SAA 14 287. Fragment of a Conveyance Text (ADD 0548),o 1,kunukku[seal]N
+saao/saa14/P335478,SAA 14 287. Fragment of a Conveyance Text (ADD 0548),SAA 14 287. Fragment of a Conveyance Text (ADD 0548),o 2,bēlu[lord]N tadānu[give]V
+saao/saa14/P335478,SAA 14 287. Fragment of a Conveyance Text (ADD 0548),SAA 14 287. Fragment of a Conveyance Text (ADD 0548),r 1',šību[witness]N
+saao/saa14/P335478,SAA 14 287. Fragment of a Conveyance Text (ADD 0548),SAA 14 287. Fragment of a Conveyance Text (ADD 0548),r 2',šību[witness]N Mannu-ki-Ninua[1]PN
+saao/saa14/P335478,SAA 14 287. Fragment of a Conveyance Text (ADD 0548),SAA 14 287. Fragment of a Conveyance Text (ADD 0548),r 3',šību[witness]N ša[of]DET māru[son]N šarru[king]N
+saao/saa14/P335478,SAA 14 287. Fragment of a Conveyance Text (ADD 0548),SAA 14 287. Fragment of a Conveyance Text (ADD 0548),r 4',šību[witness]N hazannu[mayor]N
+saao/saa14/P335478,SAA 14 287. Fragment of a Conveyance Text (ADD 0548),SAA 14 287. Fragment of a Conveyance Text (ADD 0548),r 5',šību[witness]N alahhinu[(an-official-in-temple-service)]N
+saao/saa14/P335478,SAA 14 287. Fragment of a Conveyance Text (ADD 0548),SAA 14 287. Fragment of a Conveyance Text (ADD 0548),r 6',šību[witness]N šušānu[horse-trainer]N māru[son]N šarru[king]N
+saao/saa14/P335478,SAA 14 287. Fragment of a Conveyance Text (ADD 0548),SAA 14 287. Fragment of a Conveyance Text (ADD 0548),r 7',šību[witness]N ṣarrāpu[goldsmith]N

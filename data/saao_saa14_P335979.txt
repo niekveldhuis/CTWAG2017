@@ -1,0 +1,10 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335979,SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),o 1,māru[son]N šarru[king]N
+saao/saa14/P335979,SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),o 2,annû[this]DP
+saao/saa14/P335979,SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),o 3,Puṭiše[1]PN
+saao/saa14/P335979,SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),o 5,aṣû[go-out]V
+saao/saa14/P335979,SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),b.e. 6,ūmu[day]N
+saao/saa14/P335979,SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),r 1,šību[witness]N
+saao/saa14/P335979,SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),r 2,šību[witness]N šību[witness]N Inurta-šarru-uṣur[1]PN
+saao/saa14/P335979,SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),r 4,šību[witness]N Zeru-ken[1]PN atû[gatekeeper]N
+saao/saa14/P335979,SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),SAA 14 145. Fragmentary Pledge (649-VII-22) (ADD 1199),r 5,Tašritu[Tishri]MN ūmu[day]N

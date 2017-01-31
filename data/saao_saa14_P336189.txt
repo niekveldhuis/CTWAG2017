@@ -1,0 +1,19 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),o 1',bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),o 2',Sukkaya[1]PN
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),o 3',gabdi[adjoining-to]PRP eqlu[field]N ša[of]DET
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),o 4',eqlu[field]N gabdi[adjoining-to]PRP
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),o 6',Ahu-duri[1]PN
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),o 9',gimru[totality]N bītu[house]N imēru[unit]N gimirtu[totality]N
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),o 10',ina[in]PRP mazrūtu[(area-or-state-of)-cultivation]N ina[in]PRP Samanu[1]GN
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),o 11',epēšu[do]V Gabbu-ilani-ereš[1]PN
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),r 1,ina[in]PRP libbu[interior]N šiqlu[unit]N ṣarpu[silver]N
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),r 2,leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),r 3,eqlu[field]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),r 4,târu[turn]V dīnu[legal-decision]N dabābu[speak]V
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),r 5,laššu[(there)-is-not]V mannu[who?]QP ša[that]REL parāku[lie-across]V
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),r 6,manû[unit]N ṣarpu[silver]N
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),r 7,Elulu[Elul]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),r 8,šību[witness]N
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),r 9,šību[witness]N
+saao/saa14/P336189,SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),SAA 14 127. Gabbu-ilani-ereš Buys an Estate in Samanu (Iraq 32 03),r 10,šību[witness]N

@@ -1,0 +1,11 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335151,SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),o 1,kunukku[seal]N Sasi[1]PN
+saao/saa14/P335151,SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),o 2,bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa14/P335151,SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),o 3,Sasu[1]PN ardu[slave]N
+saao/saa14/P335151,SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),o 4,Nabuʾa[1]PN mazzizu[standing]N
+saao/saa14/P335151,SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),r 1',šību[witness]N Mannu-ki-Ninua[1]PN
+saao/saa14/P335151,SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),r 2',šību[witness]N Ṣil-Sin[1]PN rabû[big-one]N nikkassu[account(s)]N
+saao/saa14/P335151,SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),r 3',šību[witness]N Bel-ahu-iddina[1]PN
+saao/saa14/P335151,SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),r 4',šību[witness]N Sukkaia[1]PN
+saao/saa14/P335151,SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),r 5',šību[witness]N Kanunayu[1]PN
+saao/saa14/P335151,SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),SAA 14 129. Purchase of a Slave (668-XI) (ADD 0204),r 6',Šabaṭu[Shebat]MN līmu[eponym-(of-year)]N Mar-larim[1]PN

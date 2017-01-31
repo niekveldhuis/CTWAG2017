@@ -1,0 +1,15 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),o 1',ardu[slave]N ša[of]DET Il-amar[1]PN
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),o 2',rabû[big-one]N karmu[heap]N
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),o 3',epēšu[do]V Šumma-ilani[1]PN
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),o 4',ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET šarru[king]N
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),o 5',leqû[take]V kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),o 6',nišu[people]N šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),o 7',târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),r 1,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),r 2,zaqāpu[fix-upright]V lū[may]MOD Il-amar[1]PN
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),r 3,lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N lū[may]MOD ahu[brother]N
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),r 4,lū[may]MOD māru[son]N ahu[brother]N lū[may]MOD bēlu[lord]N ilku[state-service]N
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),r 5,ša[that]REL dīnu[legal-decision]N dabābu[speak]V išti[with]PRP Šumma-ilani[1]PN
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),r 6,u[and]CNJ māru[son]N u[and]CNJ māru[son]N māru[son]N
+saao/saa06/P335446,SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),SAA 06 038. Šumma-ilani Buys People from Il-amar (694?) (ADD 0508),r 7,u[and]CNJ ahu[brother]N u[and]CNJ māru[son]N ahu[brother]N buʾʾû[look-for]V

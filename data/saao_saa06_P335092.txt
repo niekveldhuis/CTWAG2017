@@ -1,0 +1,6 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335092,SAA 06 060. Bahianu Loans Three Homers of Barley (704-I) (ADD 0141),SAA 06 060. Bahianu Loans Three Homers of Barley (704-I) (ADD 0141),o 1,imēru[unit]N kurummatu[ration]N qaqqadu[head]N
+saao/saa06/P335092,SAA 06 060. Bahianu Loans Three Homers of Barley (704-I) (ADD 0141),SAA 06 060. Bahianu Loans Three Homers of Barley (704-I) (ADD 0141),o 2,Šamaš-ahu-uṣur[1]PN
+saao/saa06/P335092,SAA 06 060. Bahianu Loans Three Homers of Barley (704-I) (ADD 0141),SAA 06 060. Bahianu Loans Three Homers of Barley (704-I) (ADD 0141),o 3,ištu[from]PRP pānu[front]N Bahianu[1]PN
+saao/saa06/P335092,SAA 06 060. Bahianu Loans Three Homers of Barley (704-I) (ADD 0141),SAA 06 060. Bahianu Loans Three Homers of Barley (704-I) (ADD 0141),o 4,ina[in]PRP pūhu[exchange]N našû[lift]V
+saao/saa06/P335092,SAA 06 060. Bahianu Loans Three Homers of Barley (704-I) (ADD 0141),SAA 06 060. Bahianu Loans Three Homers of Barley (704-I) (ADD 0141),r 1,Nisannu[Nisan]MN ūmu[day]N

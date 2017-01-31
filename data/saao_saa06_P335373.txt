@@ -1,0 +1,14 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),o 1,kunukku[seal]N Nabu-eṭir-napšati[1]PN
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),o 2,māru[son]N Ibnaya[1]PN ṭupšarru[scribe]N
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),o 3,bēlu[lord]N eqlu[field]N nišu[people]N tadānu[give]V
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),o 4,bītu[house]N imēru[unit]N eqlu[field]N ugāru[(communally-controlled)-meadow]N
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),o 5,kirû[garden]N ša[of]DET arqu[green]AJ ša[of]DET Zari[1]PN
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),o 6,Nabu-deʾiq[1]PN sinništu[woman]N
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),o 7,mārtu[daughter]N
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),r 1',šību[witness]N
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),r 2',šību[witness]N
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),r 3',šību[witness]N
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),r 4',Arahsamnu[Marchesvan]MN ūmu[day]N līmu[eponym-(of-year)]N
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),r 5',Aššur-daʾʾinanni[1]PN
+saao/saa06/P335373,SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),SAA 06 173. Purchase of an Estate (685-VIII) (ADD 0430),r 6',šību[witness]N Nabu-eṭir-napšati[1]PN

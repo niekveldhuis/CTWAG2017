@@ -1,0 +1,5 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P336767,SAA 14 476. A Court Decision on Behalf of Silim-Aššur (K 20919),SAA 14 476. A Court Decision on Behalf of Silim-Aššur (K 20919),o 1,dīnu[legal-decision]N ša[that]REL Silim-Aššur[1]PN
+saao/saa14/P336767,SAA 14 476. A Court Decision on Behalf of Silim-Aššur (K 20919),SAA 14 476. A Court Decision on Behalf of Silim-Aššur (K 20919),o 2,išti[with]PRP Suni[1]PN
+saao/saa14/P336767,SAA 14 476. A Court Decision on Behalf of Silim-Aššur (K 20919),SAA 14 476. A Court Decision on Behalf of Silim-Aššur (K 20919),o 3,dabābu[speak]V
+saao/saa14/P336767,SAA 14 476. A Court Decision on Behalf of Silim-Aššur (K 20919),SAA 14 476. A Court Decision on Behalf of Silim-Aššur (K 20919),o 4,qerēbu[approach]V Silim-Aššur[1]PN

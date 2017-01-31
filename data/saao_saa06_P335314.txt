@@ -1,0 +1,9 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335314,SAA 06 191. Sale of a Garden (682) (ADD 0370),SAA 06 191. Sale of a Garden (682) (ADD 0370),o 1,kunukku[seal]N Qurdi-Issar-lamur[1]PN
+saao/saa06/P335314,SAA 06 191. Sale of a Garden (682) (ADD 0370),SAA 06 191. Sale of a Garden (682) (ADD 0370),o 2,kunukku[seal]N Naʾid-Aššur[1]PN
+saao/saa06/P335314,SAA 06 191. Sale of a Garden (682) (ADD 0370),SAA 06 191. Sale of a Garden (682) (ADD 0370),o 3,gimru[totality]N awīlu[man]N bēlu[lord]N kirû[garden]N tadānu[give]V
+saao/saa06/P335314,SAA 06 191. Sale of a Garden (682) (ADD 0370),SAA 06 191. Sale of a Garden (682) (ADD 0370),r 1',ardu[slave]N ša[of]DET pīhātu[responsibility]N
+saao/saa06/P335314,SAA 06 191. Sale of a Garden (682) (ADD 0370),SAA 06 191. Sale of a Garden (682) (ADD 0370),r 2',ūmu[day]N
+saao/saa06/P335314,SAA 06 191. Sale of a Garden (682) (ADD 0370),SAA 06 191. Sale of a Garden (682) (ADD 0370),r 3',līmu[eponym-(of-year)]N Nabu-šarru-uṣur[1]PN šaknu[appointee]N mātu[land]N Marqasa[1]GN
+saao/saa06/P335314,SAA 06 191. Sale of a Garden (682) (ADD 0370),SAA 06 191. Sale of a Garden (682) (ADD 0370),r 4',ša[of]DET kirû[garden]N šuāti[him]IP nusāhu[(a-grain-tax)]N
+saao/saa06/P335314,SAA 06 191. Sale of a Garden (682) (ADD 0370),SAA 06 191. Sale of a Garden (682) (ADD 0370),r 5',lā[not]MOD nasāhu[tear-out]V ilku[state-service]N

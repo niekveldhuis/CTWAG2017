@@ -1,0 +1,8 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335392,SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),o 1',gimru[totality]N napištu[throat]N bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335392,SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),o 2',kirû[garden]N tillatu[vine]N bītu[house]N adru[threshing-floor]N
+saao/saa06/P335392,SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),b.e. 3',qablu[plantation-(of-trees)]N ina[in]PRP nagû[region]N
+saao/saa06/P335392,SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),b.e. 4',ša[of]DET Harranu[Harran]GN epēšu[do]V
+saao/saa06/P335392,SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),b.e. 5',Remanni-Adad[1]PN
+saao/saa06/P335392,SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),b.e. 6',mukillu[holder]N appatu[bridle]N
+saao/saa06/P335392,SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),SAA 06 333. Remanni-Adad Buys Land in the Province of Harran (ADD 0451),r 1,ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N ša[of]DET

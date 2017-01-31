@@ -1,0 +1,17 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),o 1,kunukku[seal]N Saʾuti[1]PN
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),o 2,kunukku[seal]N Bel-šarru-uṣur[1]PN
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),o 3,kunukku[seal]N Akburu[1]PN
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),o 4,gimru[totality]N awīlu[man]N bēlu[lord]N awīlu[man]N tadānu[give]V
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),o 5,rādiu[(caravan)-guide]N gammalu[camel]N ardu[slave]N
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),o 6,ša[of]DET awīlu[man]N annû[this]DP epēšu[do]V
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),o 7,Remanni-Adad[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),r 1',lā[not]MOD leqû[take]V
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),r 2',šību[witness]N Zababa-eriba[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),r 3',šību[witness]N Nabu-šezib[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),r 4',šību[witness]N Mannu-ki-Aššur[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),r 5',šību[witness]N Mannu-ki-šarri[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),r 6',šību[witness]N Dannaya[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),r 7',šību[witness]N Nabu-zeru-iddina[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),r 8',šību[witness]N Nabu-šarru-uṣur[1]PN rabû[big-one]N kiṣru[knot]N
+saao/saa06/P335149,SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),SAA 06 300. Remanni-Adad Acquires a Camel Driver (670-I-28) (ADD 0202),r 9',Nisannu[Nisan]MN ūmu[day]N

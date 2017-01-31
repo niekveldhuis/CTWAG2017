@@ -1,0 +1,16 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),o 1,kunukku[seal]N Pan-Nabu-ṭemi[1]PN
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),o 2,kunukku[seal]N Kanunayu[1]PN
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),o 3,kunukku[seal]N Nabu-šezibanni[1]PN
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),o 4,kunukku[seal]N
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),o 5,kunukku[seal]N
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),o 6,gimru[totality]N awīlu[man]N bēlu[lord]N
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),r 1',šību[witness]N
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),r 2',šību[witness]N
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),r 3',šību[witness]N
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),r 4',šību[witness]N
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),r 5',šību[witness]N
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),r 6',šību[witness]N
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),r 7',Šabaṭu[Shebat]MN ūmu[day]N
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),r 8',līmu[eponym-(of-year)]N Šarru-nuri[1]PN
+saao/saa06/P335442,SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),SAA 06 279. Fragment of a Sale Document (674) (ADD 0504),r.e. 9,kiṣru[knot]N

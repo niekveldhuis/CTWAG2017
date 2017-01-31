@@ -1,0 +1,3 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335400,SAA 14 194. Fragmentary Purchase Document of Il-gabbe (ADD 0459),SAA 14 194. Fragmentary Purchase Document of Il-gabbe (ADD 0459),o 1',ahu[brother]N mammanu-[whosoever]XP
+saao/saa14/P335400,SAA 14 194. Fragmentary Purchase Document of Il-gabbe (ADD 0459),SAA 14 194. Fragmentary Purchase Document of Il-gabbe (ADD 0459),o 2',ša[that]REL dīnu[legal-decision]N dabābu[speak]V išti[with]PRP Il-gabbe[1]PN

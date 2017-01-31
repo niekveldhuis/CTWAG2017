@@ -1,0 +1,24 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),o 1',bītu[house]N imēru[unit]N ṭāhu[adjacent-to]PRP
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),o 2',ṭāhu[adjacent-to]PRP hūlu[way]N Ṣalli-ibši[1]GN ṭāhu[adjacent-to]PRP
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),o 3',bītu[house]N imēru[unit]N ṭāhu[adjacent-to]PRP hūlu[way]N šarru[king]N ša[of]DET
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),o 4',ṭāhu[adjacent-to]PRP Urdu-Nergal[1]PN ṭāhu[adjacent-to]PRP Bit-Kuti[1]GN
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),o 5',ṭāhu[adjacent-to]PRP ardu[slave]N ēkallu[palace]N bītu[house]N imēru[unit]N ṭāhu[adjacent-to]PRP
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),o 6',hūlu[way]N Bit-Kuti[1]PN ṭāhu[adjacent-to]PRP
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),o 7',ṭāhu[adjacent-to]PRP bābu[gate]N Saggil[1]DN
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),o 8',bītu[house]N imēru[unit]N ṭāhu[adjacent-to]PRP ṭāhu[adjacent-to]PRP Hana-Seʾ[1]PN
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),o 9',ṭāhu[adjacent-to]PRP Urdu-Nergal[1]PN bītu[house]N imēru[unit]N ṭāhu[adjacent-to]PRP
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),o 10',ṭāhu[adjacent-to]PRP Šamaš-iqbi[1]PN ṭāhu[adjacent-to]PRP ummu[mother]N Til-Kurgarri[1]GN
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),b.e. 11',ṭāhu[adjacent-to]PRP bītu[house]N imēru[unit]N eqlu[field]N
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),b.e. 12',ṭāhu[adjacent-to]PRP ummu[mother]N
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),b.e. 13',ṭāhu[adjacent-to]PRP Šamaš-iqbi[1]PN
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),r 1,gimru[totality]N imēru[unit]N eqlu[field]N
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),r 2,bītu[house]N epšu[made]AJ daltu[door]N
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),r 3,ina[in]PRP Hanuru[1]GN
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),r 4,epēšu[do]V Zazi[1]PN ša-rēši[eunuch]N šarru[king]N
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),r 5,ištu[from]PRP pānu[front]N Eṭir-Marduk[1]PN ina[in]PRP libbu[interior]N manû[unit]N rebû[fourth]NU maṭi[minus]PRP
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),r 6,ṣarpu[silver]N ina[in]PRP manû[unit]N ša[of]DET tamkāru[merchant]N leqû[take]V
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),r 7,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ eqlu[field]N bītu[house]N qaqqaru[ground]N
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),r 8,peṣû[white]AJ tadnu[given]AJ târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),r 9,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV lū[may]MOD Eṭir-Marduk[1]PN
+saao/saa06/P335377,SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),SAA 06 027. Zazi Buys 23 Hectares of Land (ADD 0434),r 10,lū[may]MOD māru[son]N lū[may]MOD māru[son]N māru[son]N ša[that]REL dīnu[legal-decision]N dabābu[speak]V

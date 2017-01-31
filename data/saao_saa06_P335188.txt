@@ -1,0 +1,32 @@
+id_text,text_name,version,l_no,text
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 1,kunukku[seal]N Naʾdi-ilu[1]PN šanû[second]NU
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 2,bēlu[lord]N nišu[people]N tadānu[give]V
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 3,māru[son]N mārtu[daughter]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 4,gimru[totality]N sinništu[woman]N māru[son]N mārtu[daughter]N amtu[maid]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 5,gimru[totality]N Ṣil-Bel[1]PN
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 6,gimru[totality]N Aššur-belu-uṣur[1]PN sinništu[woman]N ahu[brother]N gimru[totality]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 7,gimru[totality]N napištu[throat]N ardu[slave]N ša[of]DET Naʾdi-ilu[1]PN
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 8,epēšu[do]V Balṭayu[1]PN ištu[from]PRP pānu[front]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 9,Naʾdi-ilu[1]PN ina[in]PRP libbu[interior]N manû[unit]N ṣarpu[silver]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 10,ina[in]PRP manû[unit]N ša[of]DET šarru[king]N leqû[take]V
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 11,kaspu[silver]N gammuru[finished]AJ tadnu[given]AJ nišu[people]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 12,šuāti[him]IP zarpu[purchased]AJ leqû[taken]AJ
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 13,târu[turn]V dīnu[legal-decision]N dabābu[speak]V laššu[(there)-is-not]V
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 14,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV ina[in]PRP matīma[ever]AV
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 15,parāku[lie-across]V
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),o 16,kaspu[silver]N ana[to]PRP ešriātu[tenfold]AV ana[to]PRP bēlu[lord]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),b.e. 17,târu[turn]V ina[in]PRP dīnu[legal-decision]N dabābu[speak]V
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),b.e. 18,lā[not]MOD leqû[take]V
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 1,šību[witness]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 2,šību[witness]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 3,šību[witness]N Nabu-kaʾʾin-šarru[1]PN
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 4,šību[witness]N Hallapaya[1]PN
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 5,šību[witness]N Baddudu[1]PN
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 6,šību[witness]N Kanunayu[1]PN mukillu[holder]N appatu[bridle]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 7,šību[witness]N Haldi-ahu-uṣur[1]PN muterru[(re)turner]N ṭēmu[(fore)thought]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 8,šību[witness]N Arbailayu[1]PN rabû[big-one]N atû[gatekeeper]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 9,šību[witness]N atû[gatekeeper]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 10,šību[witness]N hazannu[mayor]N ša[of]DET Qudaru[1]GN
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 11,šību[witness]N ša[of]DET māru[son]N šarru[king]N
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 12,šību[witness]N Sin-balassu-iqbi[1]PN māru[son]N damqu[good]AJ
+saao/saa06/P335188,SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),SAA 06 130. Balṭaya Buys 17 Persons (696) (ADD 0241),r 13,ūmu[day]N

@@ -1,0 +1,18 @@
+id_text,text_name,version,l_no,text
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),o 1,kunukku[seal]N
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),o 2,bēlu[lord]N
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),o 3,La-ṣahittu[1]PN
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),o 4,ša[of]DET
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),o 5,epēšu[do]V
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),o 6,ina[in]PRP libbu[interior]N
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),o 7,leqû[take]V
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),r 1,mannu[who?]QP ša[that]REL ina[in]PRP urkiš[later]AV
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),r 2,zaqāpu[fix-upright]V
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),r 3,parāku[lie-across]V
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),r 4,manû[unit]N
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),r 5,šību[witness]N Tillayu[1]PN
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),r 6,šību[witness]N Adad-ṭaba[1]PN
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),r 7,šību[witness]N
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),r 8,šību[witness]N
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),r 9,šību[witness]N
+saao/saa14/P335240,SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),SAA 14 150. Purchase of a Woman (*635-I-15) (ADD 0295),r.e. 10,Nisannu[Nisan]MN ūmu[day]N
